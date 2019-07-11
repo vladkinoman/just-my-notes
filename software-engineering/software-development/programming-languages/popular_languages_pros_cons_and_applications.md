@@ -5,6 +5,9 @@
 <details>
 <summary><b>Особенности</b></summary>
 
+> The LOTR analogy - Gandalf:
+Wants peace & works with everyone (portable). 
+
 Разработка на Java очень долгая и дорогая. Его используют в основном для больших проектов со специфическими требованиями.
 
 C# — аналог Java, также используют для больших проектов, часть в сфере FinTech.
@@ -16,6 +19,8 @@ C# — аналог Java, также используют для больших 
 JVM медленный, но исполняется всё равно гораздо быстрее того же Python. 
 
 Java не покалечена GIL-ом для параллелизма в отличии от Python.
+
+Зарплаты: ~ $102.000
 
 </details>
 
@@ -53,7 +58,12 @@ TODO:
 <details>
 <summary><b>Известные применения</b></summary>
 
-TODO:
+1. Gmail.
+2. Minecraft.
+3. Многие Android приложения
+4. Enterprise приложения
+
+TODO: наполнить информацией.
 
 </details>
 
@@ -63,8 +73,19 @@ TODO:
 <details>
 <summary><b>Особенности</b></summary>
 
-Python — многоцелевой многофункциональный мультипарадигменный язык программирования, разработка на нем быстрая и качественная. Используют его для средних и больших проектов. Программистов найти проблематично, и стоят они не дешево (уже не так?). По этой причине Python используется в основном как "клеевой" язык для интеграции C/Fortran компонентов.
+> The LOTR analogy - The Ent:
+Help little hobits (beginners) to understand programming concepts.
+Help Wizards (computer scientists) to conduct researches.
 
+Python — многоцелевой многофункциональный мультипарадигменный язык программирования, разработка на нем быстрая и качественная.
+
+Язык программирования для новичков. Прост в изучении.
+
+Широко используется в научных и академических кругах: исскуственный интеллект.
+
+На нем можно строить веб-сайт используя популярный фреймворк Django.
+
+Зарплаты: в среднем ~ $107.000
 </details>
 
 <details>
@@ -127,6 +148,7 @@ The result is a powerful programming tool with all the usability of a scripting 
 6. Приложения баз данных - Python имеет много интерфейсов для работы с БД, имеет переносимый прикладной прог. интерфейс баз данных (portable API) для доступа к SQL бд из скриптов Питона. переносимость означает, что написанный скрипт для одной бд работает и для другой. Всё, что нужно сделать - это заменить низкоуровневый интерфейс (the underlying vendor interface)
 7. Быстрое создание прототипов
 8. Программирование математических и научных вычислений (NumPy, SciPy и ScientificPython для научного программирования, PyPy для ускоренного численного программирования)
+9. Использовался для построения Youtube, Instagram, Spotify.
 
 <details>
 <summary>А так же Python может применяться для разработки игр, изображений, систем с искусственным интеллектом, XML роботы и тд.</summary>
@@ -153,13 +175,18 @@ The result is a powerful programming tool with all the usability of a scripting 
 </details>
 </details>
 
-
-## C#
+## C
 
 <details>
 <summary><b>Особенности</b></summary>
 
-TODO:
+> The LOTR analogy - One Ring:
+The power of C is known to all them all.
+Everyone wants to get this power. 
+
+*Lingua Franca* языка программирования.
+
+Зарплаты: ~ $102.000.
 
 </details>
 
@@ -187,15 +214,113 @@ TODO:
 <details>
 <summary><b>Известные применения</b></summary>
 
+Операционные системы, аппаратное обеспечение (микроконтроллеры).
+
+TODO: наполнить информацией.
+
+</details>
+
+## С++
+
+<details>
+<summary><b>Особенности</b></summary>
+
+> The LOTR analogy - Saruman:
+Everyone thinks that he is the good guy.
+But once you get to know him, you will realize he wants the power, not good deeds. 
+
+Часто используется для разработки игр, индустриальных приложений и приложений, где критически важна производительность (performance-critical apps).
+
+Изучать C++ - это всё-равно, что изучать как производить, строить и управлять машиной.
+
+Зарплаты: ~ $104.000.
+
+</details>
+
+<details>
+<summary><b>Плюсы</b></summary>
+
 TODO:
 
 </details>
 
+<details>
+<summary><b>Минусы</b></summary>
+
+TODO:
+
+</details>
+
+<details>
+<summary><b>Причины выбрать</b></summary>
+
+TODO:
+
+</details>
+
+<details>
+<summary><b>Известные применения</b></summary>
+
+Операционные системы, аппаратное обеспечение, браузеры (TODO: проверить, CGI?), игры. 
+
+TODO: наполнить информацией.
+
+</details>
+
+## C#
+
+<details>
+<summary><b>Особенности</b></summary>
+
+> The LOTR analogy - Elf (Legolas):
+Beautiful creature (language) but stays in their land, Rivendell (Microsoft Platform). 
+
+Популярный выбор для энтерпрайза чтобы создавать веб-сайты и Windows приложения используя .NET фреймворк.
+
+Может быть использован для построения веб-сайтов с помощью ASP.NET.
+
+Зарплаты: выше среднего ~ $94.000.
+
+</details>
+
+<details>
+<summary><b>Плюсы</b></summary>
+
+TODO:
+
+</details>
+
+<details>
+<summary><b>Минусы</b></summary>
+
+TODO:
+
+</details>
+
+<details>
+<summary><b>Причины выбрать</b></summary>
+
+TODO:
+
+</details>
+
+<details>
+<summary><b>Известные применения</b></summary>
+
+Энтерпрайз и Windows приложения, а так же видеоигры на Unity. 
+
+TODO: наполнить информацией.
+
+</details>
 
 ## JavaScript
 
 <details>
 <summary><b>Особенности</b></summary>
+
+> The LOTR analogy - Hobbit :) :
+Frequently underestimated (powerful).
+Well-known for the slow, gentle life Shire (web browsers).
 
 JS — очень быстро развивается, тренд последних лет. Огромное количество наработок, и можно писать все, что угодно, даже игры. Его используют для средних и больших проектов, но действительно мощные возможности этот язык получил недавно, потому примеров больших проектов пока мало, специалисты самые дорогие, и найти их сложнее всего. JS быстрый, но не быстрее С++.
 
@@ -225,7 +350,10 @@ TODO:
 <details>
 <summary><b>Известные применения</b></summary>
 
-TODO:
+1. Paypal
+2. Front-end большинства веб-сайтов.
+
+TODO: наполнить информацией.
 
 </details>
 
@@ -234,7 +362,24 @@ TODO:
 <details>
 <summary><b>Особенности</b></summary>
 
-PHP — его используют в основном для простых и средних проектов. Очень много коробочных решений. Относительно дешевые программисты. Антитренд последних лет, хотя с выходом последней версии языка под номером 7, он получил действительно мощные возможности.
+> The LOTR analogy - Orc:
+Ugly guy (language) and doesn't respect the rules (inconsistent and unpredictable).
+Big headache to those (developers) to manage them (codes).
+Yes still dominates the Middle-earth.
+
+PHP — его используют в основном для простых и средних проектов.
+
+Очень много коробочных решений. 
+
+Относительно дешевые программисты. 
+
+Антитренд последних лет, хотя с выходом последней версии языка под номером 7, он получил действительно мощные возможности.
+
+Подходит для построения маленьких и простых сайтов за короткие временные рамки.
+
+Поддерживается практически каждым веб-хостингом с низкими ценами.
+
+Зарплаты: ниже среднего ~ $89.000.
 
 </details>
 
@@ -271,7 +416,19 @@ TODO:
 <details>
 <summary><b>Особенности</b></summary>
 
-Ruby — современный язык, разработка на нем также быстрая. Его используют в основном для разработки простых и средних проектов, часто разрабатывают стартапы. Программистов также мало, и они дорогие.
+> The LOTR analogy - Man (Middle Earth):
+Very emotional creature.
+They (some Ruby devs) feel they are superior & need to rule the Middle Earth. 
+
+Ruby — современный язык, разработка на нем быстрая. Получил популярность благодаря своему фреймворку Ruby on Rails.
+
+Фокусируются на том, чтобы вещи были сделаны. Спроектирован для развлечения (?) и продуктивного кодинга.
+
+Его используют в основном для разработки персональных, простых и средних проектов, часто разрабатывают стартапы. 
+
+Программистов также мало, и они дорогие.
+
+Зарплаты: ~ 107.000
 
 </details>
 
@@ -299,6 +456,10 @@ TODO:
 <details>
 <summary><b>Известные применения</b></summary>
 
-TODO:
+1. Hulu
+2. Groupon
+3. Slideshare
+
+TODO: наполнить информацией.
 
 </details>
