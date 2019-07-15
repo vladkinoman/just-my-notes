@@ -4,8 +4,8 @@
 
 ## Develop main fundamental skills
 
-- [x] English.
-- [ ] Choose your field (controversial, TODO: narrow down the information and add all known fields):
+  - [x] English.
+  - [ ] Choose your field (controversial, TODO: narrow down the information and add all known fields):
   - ~~"near the metal", a.k.a. hardware programming.~~ <details><summary>Details:</summary>These are the people who program non-smart phones and device drivers.  They dovetail with mechanical and electrical/computer engineering.  They think in terms of voltages and 1's and 0's and clocks and caches and "fan out."  These types tend to code in C or assembly, languages which give you a huge amount of control over individual bits and operations, but require you to do everything yourself.</details>
   - "system programmers"- desktop software, operating systems.  I'll also include smart phone developers here. <details><summary>Details:</summary> You see people programming in C++ and C# (esp. Windows), Objective-C and Cocoa (almost exclusively Mac and IOS); and Java (Android).  Sometimes you're coding stuff people can see, like GUIs - buttons and forms, choose a file, Word Processors, etc.  Most of the time you're coding functional logic, the "engine" that nobody sees until something goes wrong and an opaque "Error 123302" pops up.  Sorting numbers, moving data in and out of various abstractions (trees, lists, objects, queues, "boxing and unboxing").  You can often think in terms of a single computer, though depending on need and interest you may also work on massively parallel server farms as well.</details>
   - "web programmers" - these guys tend to write the so called "frontends" and "backends" for websites. <details><summary>Details:</summary>These guys are very often on a Linux or Unix terminal, and code in languages like Perl, PHP, Python, Ruby, Asp, Cold Fusion: languages which make it very quick to write something that works, but without giving you a lot of control over specifics.  They spend a lot of time moving data between computers; user's computer to the front end server; front end server to the back end server; back end server to the database; reverse all that; call over to twitter or Facebook's servers to get a picture or log someone in/out; etc.  They should have at least some rudimentary control of SQL for talking to databases; and may be expected to be able to administrate their own servers (security, users/passwords, install new motherboards, etc.).  Web programmers will also be expected to be conversant in the web display methods and means: HTML, CSS, and JavaScript; flash (or these days WebGL); visual design.  They may be able to do one or more of these things competently; if not, they better know how to at least work with designers who are.</details>
@@ -27,15 +27,15 @@
       - [ ] Common Lisp => lambdas, macros, reader macros,  building dsl etc.
       - [ ] Scheme => Continuations, CPS, etc..
       So learning those languages makes thinking in those concepts easy and possible.</details>
-    - Also learning a second language will help you solve problems faster and more efficiently as you will have more choices.
-    - It will also help you learn the ins and outs of programming as you see the similarities and differences between languages.
-    - Learning new programming languages helps you read and understand documentation faster.
-    - By learning other languages, you don’t just add more tools (could be abstraction tools) to your tool belt (or toolbox whatever), you also improve your ability to quickly add more tools in the future!
-- [ ] Debug skills ([wiki](https://en.wikipedia.org/wiki/Debugging)). Debugging will show how the user uses software, how the code is structured, and then where the problem is. Understanding how the software is built makes adding new features to the software a faster process. Debugging will show comparisons of bad code and good code since you will turn the former into the latter. Recognizing bad code that causes bugs will help you write software without bugs when you build new features and other software. Debugging is the best way to learn to write reliable software.
-- [ ] Test writing skills (test-driven development), write extensive unit tests. When you have guiding tests before you have code, you are no longer guessing solutions, you have a way to immediately verify them.
-- [ ] Pick an environment / platforms / frameworks
-- [ ] Master Algorithms and Data Structures
-- [ ] Learn Design Patterns. Put focus on reading and writing design documents.
+      - Also learning a second language will help you solve problems faster and more efficiently as you will have more choices.
+      - It will also help you learn the ins and outs of programming as you see the similarities and differences between languages.
+      - Learning new programming languages helps you read and understand documentation faster.
+      - By learning other languages, you don’t just add more tools (could be abstraction tools) to your tool belt (or toolbox whatever), you also improve your ability to quickly add more tools in the future!
+  - [ ] Debug skills ([wiki](https://en.wikipedia.org/wiki/Debugging)). Debugging will show how the user uses software, how the code is structured, and then where the problem is. Understanding how the software is built makes adding new features to the software a faster process. Debugging will show comparisons of bad code and good code since you will turn the former into the latter. Recognizing bad code that causes bugs will help you write software without bugs when you build new features and other software. Debugging is the best way to learn to write reliable software.
+  - [ ] Test writing skills (test-driven development), write extensive unit tests. When you have guiding tests before you have code, you are no longer guessing solutions, you have a way to immediately verify them.
+  - [ ] Pick an environment / platforms / frameworks
+  - [ ] Master Algorithms and Data Structures
+  - [ ] Learn Design Patterns. Put focus on reading and writing design documents.
 
 ## Practice logical thinking and analysis (develop problem solver skills)
 
