@@ -75,3 +75,82 @@ function myF() {
 Однако мгновенной активация будет если поставить таймер на каждую минуту.
 
 Активация в течении часа всё-равно должна произойти, даже если это будет в начале следующего часа. Если активация в течении часа не происходит и при этом нет ошибок, то значит этот триггер уже срабатывал в этом часу благодаря изменениям пользователя. Например, пользователь что-то тестировал и система уже провела активацию триггера. Похоже, что больше одного раза система не будет его активировать.
+
+### Проблема модификации диапазона данных на основе выбора произвольных строк этого же диапазона
+
+Задача: убрать из Schedule определенное количество строк при невыполнении заданного количества заданий. То есть, сделать так, чтобы при невыполнении n заданий дня из раздела с развлечениями убиралось соответственно n объектов - penalty.
+
+Для начало нужно создать диалоговое меню с помощью App Script, этакий диалог-подсказку (Dialog Prompt), где пользователь мог бы ввести номер дня недели чтобы вычислить насколько хорошо он поработал в указанный день и заслуживает ли он отдых. Пользователь может ввести число от 1 до 6, не включая 7. 7 соответсвует Sunday, в конце которого просто не зачем уже оценивать потенциальный отдых - конец недели всё-таки. Диалоговое окно можно задать таким образом:
+
+```
+function showPromptForDeletingCertainAmountOfRowsArbitrarily() {
+  var ui = SpreadsheetApp.getUi(); // Same variations.
+  var result = ui.prompt(
+      'Please enter a number of a day of a week.',
+      'Number of a day from 1 to 6 (not including Sunday)',
+      ui.ButtonSet.OK_CANCEL);
+  // Process the user's response.
+  var button = result.getSelectedButton();
+  var day = result.getResponseText();
+  if (button == ui.Button.OK) {
+    // User clicked "OK".
+    DeleteCertainAmountOfRowsArbitrarily(day);
+  }
+}
+```
+Именну эту функцию выше стоит импортировать в качестве макроса и назначить ей комбинацию клавиш.
+
+Дальше нужно прописать саму логику. В следующей функции выполняется задача:
+
+```
+function DeleteCertainAmountOfRowsArbitrarily(day) {
+  var activeSheet = SpreadsheetApp.getActiveSheet();
+  var amount_of_rows_to_delete = 0;
+  switch(day) {
+  case "1":
+    amount_of_rows_to_delete = activeSheet.getRange('B56:H56').getValue();
+    break;
+  case "2":
+    amount_of_rows_to_delete = activeSheet.getRange('C56:H56').getValue();
+    break;
+  case "3":
+    amount_of_rows_to_delete = activeSheet.getRange('D56:H56').getValue();
+    break;
+  case "4":
+    amount_of_rows_to_delete = activeSheet.getRange('E56:H56').getValue();
+    break;
+  case "5":
+    amount_of_rows_to_delete = activeSheet.getRange('F56:H56').getValue();
+    break;
+  case "6":
+    amount_of_rows_to_delete = activeSheet.getRange('G56:H56').getValue();
+    break;
+  default:
+    var ui = SpreadsheetApp.getUi();
+    var result = ui.alert(
+     'You entered wrong number of day. The number must be from 1 to 6.');
+  }
+  // randomize range to not exclude same items
+  activeSheet.getRange('L3:M41').activate().randomize();
+  for (var i = 41; i > 2 && amount_of_rows_to_delete > 0; i--) {
+    var r = activeSheet.getRange('L'+i+':M'+i);
+    if(!r.isBlank())
+    {
+      // clear format and delete info of a cell
+      r.clearFormat().clear({contentsOnly: true, skipFilteredRows: true});
+      amount_of_rows_to_delete--;
+    }
+  }
+  // sort "Games" and "TV shows" columns
+  activeSheet.getRange('L3:L41').activate()
+  .sort({column: 12, ascending: true});
+  activeSheet.getRange('M3:M41').activate()
+  .sort({column: 13, ascending: true});
+};
+```
+
+Посидев на StackOverflow я пришел к выводу, что проще будет обрабатывать диапазон в цикле меняя счетчик, который будет указывать номер строки функции getRange. А сам счетчик лучше инициализировать числом 41, которое обозначает последнюю строку диапазон (вероятно, это стоит задать программно). Таким образом, программа делает это:
+
+1. Сначала происходит рандомизация диапазона, чтобы не удалять одни и те же элементы раз за разом, а оставлять хоть какое-то разнообразие.
+2. Потом удаляются строки пока, соответственно, счетчик количества невыполненых предметов не обратится в 0.
+3. И затем происходит сортировка диапазона отдельно по столбцам. Это возвращает порядок пользователю и так он сможет лучше понять какие развлекательные наименования остались в списке. 
