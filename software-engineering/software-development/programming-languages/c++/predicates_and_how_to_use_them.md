@@ -14,7 +14,7 @@ You have been asked to help study the population of birds migrating across the c
 
 In this example I sort a vector collection which consists of pointers to `bird_type` struct:
 
-```
+```C++
 template<class T> struct bird_type
 {
 	T type_number;
@@ -24,7 +24,7 @@ template<class T> struct bird_type
 
 Sorting should depend upon `sights` field. So, we compare two of those properties each time. If they are equal then we should compare corresponding `type_number` fields and choose the smallest `type_number` value. We could achieve this goal via Predicates. To set up them we need to create a structure (or maybe class?) which will inherits `binary_function` class from `<functional>` module. And then we need to overload operator '()' with two formal parameters because we set up 'binary function'. We can do this in the following way:
 
-```
+```C++
 template <class T> struct bird_type_less
 	: public binary_function<T, T, bool>
 {
@@ -38,7 +38,7 @@ template <class T> struct bird_type_less
 
 Then we can use Predicate (our structure with overloaded operator ()) in algorithms function. That's how we use our predicate in sort function to sort vector of `bird_type<int>*` elements:
 
-```
+```C++
 // Complete the migratoryBirds function below.
 int migratoryBirds(vector<int> arr) 
 {	
