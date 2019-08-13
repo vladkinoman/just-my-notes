@@ -106,10 +106,10 @@
 
 Для многих программ, разрабатывание мат. модели running time разделяется на такие шаги:
 
-1.	Разработать *input model*, включая определение проблемы размера
-2.	Найти *inner loop*
-3.	Определить *cost model*, которая включает операции в *inner loop*.
-4.	Определить частоту выполнения операций для данного *inputа*. Используя математический анализ, показать порядок роста.
+1. Разработать *input model*, включая определение проблемы размера
+2. Найти *inner loop*
+3. Определить *cost model*, которая включает операции в *inner loop*.
+4. Определить частоту выполнения операций для данного *inputа*. Используя математический анализ, показать порядок роста.
 
 Пример "Бинарный поиск":
 
@@ -206,7 +206,9 @@ This is the *scientific approach* (method) to designing and analyzing algorithms
 Problem: "Dynamic connectivity problem".
 Given a set of N objects. We need to connect two objects (union).
 Is there a path connecting two objects (find)?
-![image](images/dynamic-connectivity-problem-example.png)
+
+![image](images/dynamic_connectivity_problem_example.png)
+
 Answer is yes but how can we compute this?
 
 Let's develop an algorithm:
@@ -228,13 +230,16 @@ Let's develop an algorithm:
     - WeightedQuickUnion with Weighting. find() takes time proportional to depth of p and q. union() takes constant time, given roots. Fast algorithm but we can make it faster.
     - WeightedQuickUnion + Path Compression. Weighted quick union (with path compression) makes it possible to solve problems that could not otherwise be addressed.
 4. If not, figure out why.
+
     algorithm | initialize | find | union
     --- | --- | --- | ---
     QuickFind | N | 1 | N
     QuickUnion | N | N | N
     WeightedQuickUnion (Weighting) | N | lg N| lg N
     WeightedQuickUnion + Path Compression | N | lg* N | lg* N
+
     > lg* N is an iterated logarithm which grows very slowly, much slower than just log N. You basically just keep iteratively 'logging' the answer until it gets below one (E.g: log(log(log(...log(N)))), and the *number of times* you had to log() is the answer.
+
 5. Find a way to address the problem.
     We developed QuickFind -> QuickUnion -> WeightedQuickUnion (Weighting) -> WeightedQuickUnion + Path Compression.
 6. Iterate until satisfied.
