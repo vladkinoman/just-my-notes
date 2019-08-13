@@ -1,27 +1,5 @@
 # Анализ алгоритмов
 
-## Steps to developing a usable algorithm
-
-1. Model the problem.
-2. Find an algorithm to solve it.
-    > First attempt.
-3. Fast enough? Fits in memory?
-    > Build running time model using Math Analysis and memory usage model.
-4. If not, figure out why.
-    > Check TODO...
-5. Find a way to address the problem.
-    > Develop other algorithm.
-6. Iterate until satisfied.
-    > Do experiments to validate those models and help us to improve things. Then go to step 3.
-
-The scientific method.
-
-Mathematical analysis.
-
-### Example
-
-
-
 ## Почему так важен анализ алгоритмов
 
 Чтобы у пользователей или программистов не возникал вопрос "А почему моя программа так медленно работает?", будучи разработчиком, нужно уметь анализировать следующие важные вещи:
@@ -96,7 +74,6 @@ Mathematical analysis.
 Другие нотации: Big Theta, Big Oh, Big Omega. См. ниже, Теорию алгоритмов.
 
 > Частая ошибка - интерпретировать Big Oh как апроксимирующую модель
-
 > В курсе *Coursera Algorithms: Part 1-2* используется *Tilde-notation*
 
 ### Гипотеза порядка роста
@@ -204,3 +181,61 @@ Lower Bound. Доказательство того, что ни один алг�
 - есть оптимальный алгоритм для ThreeSum?
 - *Subquadratic* алгоритм для ThreeSum?
 - Квадратичный lower bound для ThreeSum?
+
+## Steps to developing a usable algorithm (could be a framework)
+
+> According to Coursera: Algorithms.
+
+1. Model the problem.
+    > Understand the problem. What are the elements (parts) of the problem that need to be solved? How can we present them in a code? Objects? How do those objects connect to each other? So, we should think about many different things.
+2. Find an algorithm to solve it.
+    > First attempt.
+3. Fast enough? Fits in memory?
+    > Run the program on different inputs and see what happen. Is algorithm fast enough? Fits in memory? If not, go to step 4. Steps 3 and 4 could be considered together. If we like our algorithm then we can just be off with it.
+4. If not, figure out why.
+    > Build a model of running time using math analysis (and a model of memory usage using our knowledge of computer and programming language). First we choose cost model for our algorithm. For example, number of array accesses. Then we should check running time of each method/fuction according to this cost model. We need to find the most expensive operation. This operation could take >= `N^2` array accesses in the worst case which is really bad. Maybe we can assume that the operation which take N array accesses actually take `N^2` because it executes on N objects (`N * N`). Notice, that we use order of growth which discards leading term in tilde notation. And we use tilde notation because it provides approximate models, accurately describes function and provides both upper bound and lower bound.
+5. Find a way to address the problem.
+    > Develop other algorithm.
+6. Iterate until satisfied.
+    > Do experiments to validate those models and help us to improve things. Then go to step 3.
+
+This is the *scientific approach* (method) to designing and analyzing algorithms where we build *mathematical models* to try and understand what's going on, and then we do *experiments* (empirical analysis) to validate those models and help us improve things.
+
+### Example
+
+Problem: "Dynamic connectivity problem".
+Given a set of N objects. We need to connect two objects (union).
+Is there a path connecting two objects (find)?
+![image](images/dynamic-connectivity-problem-example.png)
+Answer is yes but how can we compute this?
+
+Let's develop an algorithm:
+
+1. Model the problem
+   - Modelling the objects (elements):
+     - We will identify objects by indices from 0 to N - 1.
+     - We will use array of objects which will consist of integers (one object is an array element.). Those integers will indicate to which component current object belongs to. Example: [3, 3, 2, 3] means that objects "0", "1" and "3" belong to component "3".
+   - Modelling the connections (through equivalnce relation):
+     We assume "is connected to" is an equivalence relation:
+     - Reflexive: p is connected to p.
+     - Symmetric: if p is connected to q, then q is connected to p.
+     - Transitive: if p is connected to q and q is connected to r, then p is connected to r.
+2. Find an algorithm to solve it.
+    This will be our first attempt. Let's say we developed QuickFind algorithm.
+3. Fast enough? Fits in memory? (we won't consider memory in this example because for best algorithm we need to use a lot of memory)
+    - QuickFind algorithm. Well, find() operation is really fast but it feels like union() operation is pretty slow. Also trees are flat, but too expensive to keep them flat.
+    - QuickUnion algorithm. Apparently union() is fast but find() is really slow.  Trees can get tall.
+    - WeightedQuickUnion with Weighting. find() takes time proportional to depth of p and q. union() takes constant time, given roots. Fast algorithm but we can make it faster.
+    - WeightedQuickUnion + Path Compression. Weighted quick union (with path compression) makes it possible to solve problems that could not otherwise be addressed.
+4. If not, figure out why.
+    algorithm | initialize | find | union
+    --- | --- | --- | ---
+    QuickFind | N | 1 | N
+    QuickUnion | N | N | N
+    WeightedQuickUnion (Weighting) | N | lg N| lg N
+    WeightedQuickUnion + Path Compression | N | lg* N | lg* N
+    > lg* N is an iterated logarithm which grows very slowly, much slower than just log N. You basically just keep iteratively 'logging' the answer until it gets below one (E.g: log(log(log(...log(N)))), and the *number of times* you had to log() is the answer.
+5. Find a way to address the problem.
+    We developed QuickFind -> QuickUnion -> WeightedQuickUnion (Weighting) -> WeightedQuickUnion + Path Compression.
+6. Iterate until satisfied.
+    We developed different algorithms, their models and then find out that WeightedQuickUnion + Path Compression is the best algorithm on dynamic connectivity problem.
