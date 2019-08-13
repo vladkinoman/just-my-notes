@@ -96,6 +96,20 @@
 
 Порядок роста позволяет нам разделить программную реализацию от алгоритма. Алгоритм определяет порядок роста. Разделение алгоритма от реализации позволяет нам разрабатывать знания о производительности алгоритма и затем применять это знание к любому компьютеру.
 
+#### Класификация порядков роста (order-of-growth classifications)
+
+There is the small set of functions suffices to describe order-of-growth of typical algorithms:
+
+- 1 - constant order of growth
+- log N - logarithmic
+- N - linear
+- N log N - linearithmic
+- N^2 - quadratic
+- N^3 - cubic
+- 2^N - exponential
+
+![order-of-growth classifications plot](images/common_order_of_growth_classifications_log-log_lot.png)
+
 #### Модель стоимости
 
 Модель стоимости определяет стандартные операции, используемые алгоритмом, который мы изучаем. Для проблемы ThreeSum моделью стоимости будет *количество доступов к массиву*: `a[i] + a[j] + a[k]`. С помощью этой модели стоимости мы можем делать точные математические выражения о свойствах алгоритма, не только о конкретной реализации.
@@ -122,7 +136,7 @@
 
 ## Теория алгоритмов
 
-Типы анализа:
+### Типы анализа
 
 - Best case - lower bound по стоимости (чтобы разработать lower bound нужен `Ω(N)`)
   - определяется по "простому" инпуту
@@ -150,11 +164,20 @@ Best | `~ 1`
 Average | `~ lg N`
 Worst  | `~ lg N`
 
-Дополнительные заметки:
+### Обозначения в теории алгоримтов
 
-- Асимптотический порядок роста `Θ(N)` нужен для классификации алгоритмов.
-- Оптимальный алгоритм гарантирует, что lower bound ~ upper bound. 
-- Для анализа алгоритмов лучше использовать "тильда нотацию" (~) для предоставления приблизительных моделей (*approximate models*).  Зачем она? Ну она лучше описывает функцию. Предоставляет как upper bound так и lower bound
+Notation | Provides | Example | Shorthand for | Used to
+--- | --- | --- | --- | --- | ---
+Tilde | leading term | ~ 10 N^2 | 10 N^2 <br> 10N^2 + 22N log N <br> 10N^2 + 2N + 37 | provide approximate model
+Big Theta | asymptotic growth rate | Θ(N^2) | ½ N^2 <br> 10N^2 <br> 5N^2 + 22N log N + 3N | classify algorithms
+Big Oh | Θ(N^2) and smaller | O(N^2) | 10 N^2 <br> 100 N <br> 22N log N + 3N | develop upper bounds
+Big Omega | Θ(N^2) and larger | Ω(N^2) | ½ N^2 <br> N^5 <br> N^3 + 22N log N + 3N | develop lower bounds
+
+### Дополнительные заметки
+
+- Оптимальный алгоритм гарантирует, что lower bound ~ upper bound.
+- Подход к проектированию алгоритмов предполагает сначала разрабатывание алгоритма, а потом доказывание lower bound. Если есть gap - опускаем upper bound (находим новый алгоритм) или подымаем lower bound (тяжелее - как у union-find). Собственно, за последние десятилетия люди постепенно опускали upper bound, благодаря чему мы получили много эффективных алгоритмов.
+- Для анализа алгоритмов лучше использовать "тильда нотацию" (~) для предоставления приблизительных моделей (*approximate models*). Зачем она? Ну она лучше описывает функцию. Предоставляет как upper bound так и lower bound
 
 > В Инете я нашел ответ на вопрос про разницу ~ и O. Есть 2 разницы между ними:
 > i. O предоставляет upper bound, а ~ - и upper bound, и lower bound. Другая нотация с такими же свойствами, что и ~ - это Θ.
@@ -207,7 +230,7 @@ Problem: "Dynamic connectivity problem".
 Given a set of N objects. We need to connect two objects (union).
 Is there a path connecting two objects (find)?
 
-![image](images/dynamic_connectivity_problem_example.png)
+![Dynamic connectivity problem example](images/dynamic_connectivity_problem_example.PNG)
 
 Answer is yes but how can we compute this?
 
