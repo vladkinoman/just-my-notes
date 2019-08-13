@@ -167,7 +167,7 @@ Worst  | `~ lg N`
 ### Обозначения в теории алгоримтов
 
 Notation | Provides | Example | Shorthand for | Used to
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | ---
 Tilde | leading term | ~ 10 N^2 | 10 N^2 <br> 10N^2 + 22N log N <br> 10N^2 + 2N + 37 | provide approximate model
 Big Theta | asymptotic growth rate | Θ(N^2) | ½ N^2 <br> 10N^2 <br> 5N^2 + 22N log N + 3N | classify algorithms
 Big Oh | Θ(N^2) and smaller | O(N^2) | 10 N^2 <br> 100 N <br> 22N log N + 3N | develop upper bounds
