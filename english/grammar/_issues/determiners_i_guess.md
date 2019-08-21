@@ -14,6 +14,7 @@ Worthwhile the effort - стоящий усилий (можно ли так ск
 Пример: It's not too hard to do, definitely worthwhile the effort.
 
 ## Example "undertake"
+
 ... to undertake the second task - чтобы выполнить вторую задачу (verb)
 
 Undertake здесь - verb, и мы вроде как (?) можем его перевести как "выполнение": "для выполнения второй задачи".
