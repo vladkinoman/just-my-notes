@@ -39,6 +39,10 @@ Yes, ultimately, one uses computers by writing programs. And one learns some pro
 
 > Software Engineers write code really rarely but Software Developers do it a lot. Software Development is a sub-discipline of Software Engineering.
 
+### In addition: differences between coder and programmer
+
+Imagine you're an employer. You need people that can think their way through problems and assess all outcomes like a *programmer* does, but at the same time to gain fast throughput once those decisions are made, having some speedy *coders* on hand, can be very valuable.
+
 ## What you should choose. A quick overview of these two majors (CS and SE)
 
 Computer Science is the study of how computers work, mostly from the theoretical and mathematical perspective.
@@ -66,7 +70,7 @@ The key difference are that:
 - Software Engineering has more requirements in electrical engineering and software engineering fundamentals, such as software testing, design, and software requirements specification.
 - Computer Science allows more electives in higher-level computer science courses. You can choose from a wide range of topics such as security, software engineering fundamentals, computer vision, machine learning, and database management.
 
-### So, which major should you choose?
+### So, which major should you choose
 
 I think it mostly depends on your preferences. In short:
 
@@ -75,7 +79,7 @@ I think it mostly depends on your preferences. In short:
 
 > Where computer science is about taking complex problems and deriving a solution from mathematics, science and computational theory, software engineering is very much focused around designing, developing and documenting beautiful, complete, user-friendly software. - David Budden.
 
-## What is the difference between Computer Science, Computer Engineering, and Software Engineering?
+## What is the difference between Computer Science, Computer Engineering, and Software Engineering
 
 The three programs have common elements:  they all stress an understanding of both digital hardware and software, though to varying degrees, and they all hone students' problem-solving skills. However, the programs have different objectives [3].
 
@@ -88,3 +92,4 @@ The three programs have common elements:  they all stress an understanding of bo
 1. [Is programming a part of computer science?](https://www.quora.com/Is-programming-a-part-of-computer-science/answer/Miles-Fidelman/)
 2. [Computer Science VS Software Engineering: overview of courses](https://www.freecodecamp.org/news/computer-science-vs-software-engineering-which-one-is-a-better-major-88482c38446b/)
 3. [Frequently asked questions on Software Engineering discipline](https://uwaterloo.ca/software-engineering/future-undergraduate-students/frequently-asked-questions)
+4. [Programmers vs Coders — What’s the difference to me?](https://blog.usejournal.com/programmers-vs-coders-whats-the-difference-to-me-3c1dbe3b7747)
