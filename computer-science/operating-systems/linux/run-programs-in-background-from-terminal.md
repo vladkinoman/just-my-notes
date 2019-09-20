@@ -10,6 +10,14 @@ An example:
 setsid gnome-calculator
 ```
 
+We can use "&" instead of setsid:
+
+```Bash
+gnome-calculator &
+```
+
+I think it works the same way. TODO: check it.
+
 ## Source
 
 ​	https://askubuntu.com/questions/106351/running-programs-in-the-background-from-terminal
