@@ -47,7 +47,46 @@ It was a very hard problem which I have been able to solve in the next way:
   exit 0 
   ```
 
-**Conclusion**. So, now our drive will be mounted after we log in in our profile. In that case, our system recognizes us as a root (for example, "vlad" is a "root") and gives us permissions to execute `udisksctl` command. At least I think so :) That's why we can't use GDM's PreSession or Init features or anything else. But that's not all. After logout->login we will get an error message that our Drive is already mounted. In order to avoid this problem, we need to unmount it in PostSession's `DEFAULT` file.
+**Conclusion**. So, now our drive will be mounted after we log in in our profile. In that case, our system recognizes us as a root (for example, "vlad" is a "root") and gives us permissions to execute `udisksctl` command. At least I think so :) That's why we can't use GDM's PreSession or Init features or anything else [5]. But that's not all. After logout->login we will get an error message that our Drive is already mounted. In order to avoid this problem, we need to unmount it in PostSession's `DEFAULT` file.
+
+## Other methods I tried
+
+I tried these methods:
+
+- create `/etc/rc.local` and add `udisksctl` command mentioned above [6].
+
+- create job using `crontab -e` [6].
+
+- also I tried to make the `mountdrive.service` configuration file with systemd [7]:
+
+  ```Bash
+  #
+  [Unit]
+  Description=mountdrive script
+  
+  [Service]
+  Type=oneshot
+  ExecStart=/.../mountdrive.sh
+  
+  [Install]
+  WantedBy=multi-user.target
+  ```
+
+  > If you use systemd method, you need to add next lines to the header of your script:
+  >
+  > ```bas
+  > #!/bin/bash
+  > ### BEGIN INIT INFO
+  > # Provides:          mountdrive
+  > # Required-Start:    $all
+  > # Required-Stop:
+  > # Default-Start:     2 3 4 5
+  > # Default-Stop:      0 1 6
+  > # Short-Description: mount Drive Storage
+  > ### END INIT INFO
+  > ```
+
+All of these methods were unsuccessful or partially failed (in that case you could see only Disk's icon and `root` folder). They will probably work, but not for this command.
 
 ## Links
 
@@ -62,6 +101,10 @@ It was a very hard problem which I have been able to solve in the next way:
    > 4: some people recommended fsck command which was proposed in [2]. 
 
 5. [How to execute command before user login on linux - Introduction to GDM and the like](https://unix.stackexchange.com/questions/450835/how-to-execute-command-before-user-login-on-linux#answer-450836)
+
+6. [Ubuntu 18.04 Autorun a command at log in - rc.local and crontab](https://ubuntuforums.org/showthread.php?t=2390587)
+
+7. [Creating a Linux service with systemd](https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6)
 
 Additional links:
 
