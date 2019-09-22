@@ -5,7 +5,7 @@ So I experienced problems with time after switching from Ubuntu to Windows. The 
 To set the Internet time I created the next .bat script:
 
 ```powershell
-svchost.exe -k LocalService
+net start w32time
 w32tm /resync
 ```
 
