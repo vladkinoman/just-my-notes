@@ -9,6 +9,8 @@ udisksctl mount --block-device /dev/disk/by-label/baydrive
 udisksctl unmount --block-device /dev/disk/by-label/baydive
 ```
 
+> Maybe if you add the `--options` flag with [this](https://askubuntu.com/questions/913252/ntfs-partition-is-mounted-as-read-only#answer-1039025) parameter, you will get the capability to write to your drive at a glance (without a probability of having an issue which is described below).
+
 ## Using Ubuntu's default app - Disks 
 
 You can actually auto-mount hard disks on boot. Use Disks app which is default on Ubuntu:
@@ -19,9 +21,21 @@ You can actually auto-mount hard disks on boot. Use Disks app which is default o
 4. Switch User Session Defaults to OFF.
 5. Click OK.
 
-The first problem with it is that somehow disk could change permissions and make system to be mounted read-only which is bad. You need it to be mounted read-write (in that case you can apply command "chmod 777") [2]. After this problem you need to "remount" it, but it is really hard and might not work out [3].
+### ERRNO 30: read only file system
 
-The second problem that I get was a very strange problem [4]. So, I couldn't remove files/folders. When I removed them, they came back instantly (WHAT?). I didn't try solution from StackExchange. I just change permissions in Windows for all users. After that, all users can modify files/folders, but they do not get ALL permissions, which administrator has.
+The first problem with it is that somehow disk could change permissions and make system to be mounted read-only which is bad. ~~You need it to be mounted read-write (in that case you can apply command "chmod 777") [2]. After this problem you need to "remount" it, but it is really hard and might not work out [3].~~ **Edit**: If Linux detects a problem on the hard drive, it will switch the file system to read-only to prevent damage to the file system. It can caused by either a file system consistency issue [[link](https://askubuntu.com/questions/197459/how-to-fix-sudo-unable-to-open-read-only-file-system#answer-197468)] or an incorrect shutdown of the server or PC [[link](https://askubuntu.com/questions/1135389/how-to-fix-read-only-file-system-on-18-04#answer-1137752)]. That's where the commands like `sudo fsck.ext4 -f /dev/sda1` and `sudo mount -o rw,remount /`[[link](https://askubuntu.com/questions/287021/how-to-fix-read-only-file-system-error-when-i-run-something-as-sudo-and-try-to#answer-287024)] are useful. Sure, this could be useful if we talk about Linux system, but my problem was with Windows :) You see, Windows 8 and 10 offer a "Fast Startup" option that depends on a "non-complete" shutdown. If you shutdown your Windows system using "casual" option from menu, your system will save your data in a cash to quickly restore it after the launch. In order to fix that problem you can disable this function using [this](https://www.linuxuprising.com/2019/01/fix-windows-10-or-8-partition-mounted.html) tutorial or run this command to shutdown the system [[link](https://askubuntu.com/questions/462381/cant-mount-ntfs-drive-the-disk-contains-an-unclean-file-system)]:
+
+```powershell
+> shutdown /s
+```
+
+Also, you can try [this](https://askubuntu.com/questions/70281/why-does-my-ntfs-partition-mount-as-read-only#answer-70304) command but I didn't try it and can't say for sure.
+
+> Do not run `ntfsfix` command in Linux to fix the problem with drive. This could be dangerous. You might lose all your data! (this might be true if there is a Windows on this disk).
+
+### Could not remove files / folders
+
+The second problem that I get was a very strange problem [4]. So, I couldn't remove files/folders. When I removed them, they came back instantly (WHAT?). I didn't try the solution from StackExchange. ~~I just change permissions in Windows for all users. After that, all users can modify files/folders, but they do not get ALL permissions, which administrator has~~. **Edit**: I doubt that this action fixed the problem.
 
 ## Mount disk using udisksctl command on start 
 
