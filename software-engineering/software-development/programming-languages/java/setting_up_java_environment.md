@@ -61,6 +61,24 @@ We can also add CLASSPATH to the end of the `~/.bashrc` if, for example, our Lin
 
 > I found somewhere on the Internet that I should not assign CLASSPATH as a global variable in that way. TODO: find out why.
 
+### Problem with CLASSPATH variable
+
+If we set up CLASSPATH variable, and we want to run the program from the directory where the .class file is, then we get the next error:
+
+```bash
+$ Error: Could not find or load main class FooBar
+```
+
+To fix that problem we can make sure CLASSPATH include current directory. (dot). You can include it as set `CLASSPATH=%CLASSPATH%;.` in Windows and `export CLASSPATH = ${CLASSPATH}:.` (see the separator, in Windows it's;(semicolon) while in Linux it is (colon), also note we have included current directory in existing classpath. If you still face the issue of setting classpath, see this step by step guide to set the classpath. Same thing applies if you are running your program using `-cp` or `-classpath` option.
+
+Although, I didn't included folder in the CLASSPATH. I just added `-cp ""` and run the program in the directory with the .class file ¯\_(ツ)_/¯:
+
+```bash
+$ java -cp "" FooBar
+```
+
+I think it means "search in the current directory".
+
 ## Using .jar files in IntelliJ IDEA
 
 1. File -> Project Structure -> Modules
@@ -71,3 +89,4 @@ We can also add CLASSPATH to the end of the `~/.bashrc` if, for example, our Lin
 
 1. [The classpath syntax is OS-dependent](https://stackoverflow.com/questions/4528438/classpath-does-not-work-under-linux#answer-4528456)
 2. [How to set JAVA_HOME for Java?](https://askubuntu.com/questions/175514/how-to-set-java-home-for-java#answer-175547)
+3. [Error: Could not find or load main class in Java](https://javarevisited.blogspot.com/2015/04/error-could-not-find-or-load-main-class-helloworld-java.html)																																																																																																																									
