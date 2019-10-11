@@ -1,12 +1,12 @@
-﻿# Useful algorithms and formulas
+# Useful algorithms and formulas
 
 ## Table of Contents
 
 1. [Leap year identification](#Leap-year-identification)
-2. [Euclid's algorithm](#Euclid's-algorithm)
+2. [Euclid's algorithm](#Euclids-algorithm)
    - [Recursive version](#Recursive-version)
 3. [Shuffling](#Shuffling)
-   - [Q/A](#Q/A)
+   - [Q/A](#QA)
 
 ## Leap year identification
 
