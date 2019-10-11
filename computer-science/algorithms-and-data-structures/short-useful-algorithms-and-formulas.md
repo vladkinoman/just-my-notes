@@ -1,6 +1,12 @@
-[TOC]
-
 ﻿# Useful algorithms and formulas
+
+## Table of Contents
+
+1. [Leap year identification](#Leap-year-identification)
+2. [Euclid's algorithm](#Euclid's-algorithm)
+   - [Recursive version](#Recursive-version)
+3. [Shuffling](#Shuffling)
+   - [Q/A](#Q/A)
 
 ## Leap year identification
 
@@ -25,8 +31,6 @@ public static ing gcd(int p, int q) {
 This algorithm is the modern version of the Fisher–Yates shuffle, designed for computer use, was introduced by Richard Durstenfeld in 1964 and popularized by Donald E. Knuth in The Art of Computer Programming as "Algorithm P (Shuffling)" [[Fisher-Yates shuffle - wiki page]](https://www.wikiwand.com/en/Fisher%E2%80%93Yates_shuffle).
 
 The algorithm's time complexity is `O(n)`, compared to `O(n²)` for the original implementation.
-
-### Version with [0; i] range
 
 ```java
 // Java implementation
@@ -62,8 +66,6 @@ public static void shuffle(Object[] a) {
     }
 }
 ```
-
-### Version with [i; N-1] range
 
 The third version is similar to the first one, but uses a different range from `i` to `N-1`.
 
