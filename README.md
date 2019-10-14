@@ -25,6 +25,7 @@ This folder contains my notes I wrote while studying English.
 
 Subfolders:
 
+- **courses**: notes I wrote while studying various courses on websites like [Coursera](https://www.coursera.org). 
 - **grammar**: contains general notes on grammar. 
 - **grammarway**: notes I wrote while reading the "GrammarWay 4" book. There will be summaries of the passed units, essays, and solutions for some exercises.
 
@@ -110,7 +111,7 @@ Subfolders:
   - **programming-languages**: there are so many programming languages, so I decided to create  one folder where I will track my favorite ones. I will write down Pros&Cons, contradictory language features and their use, cheatsheets, Q/As, and comparisons between languages.
   - **software-testing**: notes on the software testing process, which includes Design by Contract and Unit testing.
 
-TODO: consider adding a folder **DevOps** in **!types-of-software-development** (or should I add it to the folder dev-management**?). 
+TODO: consider adding a folder **DevOps** in **!types-of-software-development** (or should I add it to the folder **dev-management**?). 
 
 ## Dependencies
 
