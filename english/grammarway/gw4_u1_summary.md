@@ -63,7 +63,27 @@ Mike `is looking` out of the window. (= is directing his eyes).
 
 > page 24.
 
-TODO: ...
+- `will you...?` - to give an order or make a request.
+
+- `won't` - to express unwillingness [ru: нежелание] or an emphatic refusal [ru: решительный отказ], even when the subject is not a person.
+
+  We use `wouldn't` to refer to the past.
+
+- `Shall I/we ...`
+
+  - to make an offer
+  - to make a suggestion
+  - to ask for suggestions or instructions.
+
+**Examples**:
+
+> exercise #30.
+
+What **shall I** do with this shopping?
+
+I've asked Jane to tidy her room, but she **won't** do it.
+
+**Will you** be quiet!
 
 ## Other ways of expressing the future
 
