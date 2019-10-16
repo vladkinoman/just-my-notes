@@ -1,13 +1,13 @@
-﻿# What Unit #1 was about
+# What Unit #1 was about
 
 ## Table of Contents
 
 - [All the tenses of English](#All-the-tenses-of-English)
 - [Adverbs of frequency](#Adverbs-of-frequency)
 - [State verbs](#State-verbs)
-- [Have gone to / Have been to](#Have-gone-to-/-Have-been-to)
-- [Used to / Be used to / Get used to / Would](#Used-to-/-Be-used-to-/-Get-used-to-/-Would)
-- [Will / Won't - Shall](#Will-/-Won't---Shall)
+- [Have gone to / Have been to](#Have-gone-to--Have-been-to)
+- [Used to / Be used to / Get used to / Would](#Used-to--Be-used-to--Get-used-to--Would)
+- [Will / Won't - Shall](#Will--Won't---Shall)
 - [Other ways of expressing the future](#Other-ways-of-expressing-the-future)
 
 ## All the tenses of English
@@ -34,9 +34,9 @@
   
     - with adverbs such as: *always*, *constantly*, *continually*, etc. for actions which happen very often, usually to express annoyance, irritation or anger.
   
-      > I**'m always meeting** Sara when I go shopping.
+      > I **'m always meeting** Sara when I go shopping.
       >
-      > You**'re constantly interrupting** me when I'm talking.
+      > You **'re constantly interrupting** me when I'm talking.
   
     - for actions that we already **arranged** to do in the near future, especially when the time and place have been **decided**.
   
@@ -85,9 +85,9 @@
   
   - We use the present perfect to put emhasis on number and the present perfect continuous to put emphasis on duration.
     
-    > I**'ve typed** four reports so far. (number)
+    > I **'ve typed** four reports so far. (number)
     >
-    > I**'ve been typing** reports all morning. (duration)
+    > I **'ve been typing** reports all morning. (duration)
   
 - Past Forms.
   
@@ -223,7 +223,7 @@
   
     - in predictions when there is evidence that something will happen in the near future
   
-      > Look at the clouds! It**'s going to** rain.
+      > Look at the clouds! It **'s going to** rain.
   
   - The future simple and `be going to` are used with the following time expressions: *tomorrow*, *the day after tomorrow*, *tonight*, *soon*, *next week/month/year*, *in a week/month/year*, *in two/three days/weeks/* etc.
   
@@ -241,7 +241,7 @@
   
   - We can use the future simple, future continuous or future perfect to make a prediction about the present or past, that is to say what we believe may be happening or have happened:
   
-    > Don't call her now — she'**ll be sleeping**.
+    > Don't call her now — she' **ll be sleeping**.
     >
     > It's seven o'clock. Dad will have left the office by now.
   
@@ -275,7 +275,7 @@
   
     - with **if** (= whether) when it is used after expressions which show ignorance, uncertainty, etc. such as *I don't know*, *I wonder*, *I doubt*, etc.
   
-      > I doubt **if/whether** she**'ll pass** her exams.
+      > I doubt **if/whether** she **'ll pass** her exams.
       >
       > BUT: If you call her, give her my regards. (conditional).
   
