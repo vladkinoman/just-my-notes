@@ -7,7 +7,7 @@
 - [State verbs](#State-verbs)
 - [Have gone to / Have been to](#Have-gone-to--Have-been-to)
 - [Used to / Be used to / Get used to / Would](#Used-to--Be-used-to--Get-used-to--Would)
-- [Will / Won't - Shall](#Will--Won't---Shall)
+- [Will / Won't - Shall](#Will--Wont---Shall)
 - [Other ways of expressing the future](#Other-ways-of-expressing-the-future)
 
 ## All the tenses of English
