@@ -6,7 +6,7 @@
 - [Adverbs of frequency](#Adverbs-of-frequency)
 - [State verbs](#State-verbs)
 - [Have gone to / Have been to](#Have-gone-to--Have-been-to)
-- [Used to / Be used to / Get used to / Would](#Used-to--Be-used-to--Get-used-to--Would)
+- [Used to / Would / Be used to / Get used to](#Used-to--Would--Be-used-to--Get-used-to)
 - [Will / Won't - Shall](#Will--Wont---Shall)
 - [Other ways of expressing the future](#Other-ways-of-expressing-the-future)
 
@@ -79,11 +79,11 @@
   
     - with the following time expressions: *for*, *since*, *how long*, *lately*, *recently*.
   
-  - With the verbs *live*, *work*, *teach*, *feel* (= have a particular emotion) we can use the present perfect or present perfect continuous with no difference in meaning.
+  - **With the verbs *live*, *work*, *teach*, *feel* (= have a particular emotion) we can use the present perfect or present perfect continuous with no difference in meaning.**
   
     > We **have lived/have been living** here for twenty years.
   
-  - We use the present perfect to put emhasis on number and the present perfect continuous to put emphasis on duration.
+  - We use the present perfect to put emphasis on number and the present perfect continuous to put emphasis on duration.
     
     > I **'ve typed** four reports so far. (number)
     >
@@ -141,7 +141,7 @@
   
     > He **had fixed** the old armchair. It **looked** brand new.
   
-  - We can use the past perfect or the past simple with *before* or *after* without any difference in meaning.
+  - **We can use the past perfect or the past simple with *before* or *after* without any difference in meaning.**
   
     > They went out *after* it **had stopped** / **stopped** raining.
   
@@ -173,7 +173,7 @@
   
       > Simon Cook **has painted** a lot of pictures.
   
-    - We use the past simple to talk about actions which were performed by people who are no longer alive, **even if the time is not stated**.
+    - **We use the past simple to talk about actions which were performed by people who are no longer alive, *even if the time is not stated*.**
   
       > Charles Dickens **wrote** 'Oliver Twist'.
   
@@ -193,7 +193,7 @@
   
       > When Jim came (2) home, Mary had already watched (1) the film on TV. (She watched the film first. Jim came home afterwards.)
   
-    - We can use PS, PC or PP without any difference in meaning with verbs such as *think*, *hope*, *mean*, *expect*, etc. for things we hoped or wished to do, but didn't.
+    - **We can use the past simple, past continuous or present perfect without any difference in meaning with verbs such as *think*, *hope*, *mean*, *expect*, etc. for things we hoped or wished to do, but didn't.**
   
 - Future Forms.
   
@@ -243,23 +243,23 @@
   
     > Don't call her now — she' **ll be sleeping**.
     >
-    > It's seven o'clock. Dad will have left the office by now.
+    > It's seven o'clock. Dad **will have left** the office by now.
   
   - Future Perfect Continuous — to emphasize the duration of an action up to a certain time in the future + it is used with `by ... for`.
   
     > By the end of next month, she **will have been teaching** for twenty years.
   
-  - After the time expressions *by the time*, *until*, *before*, we use the present simple because they introduce time clauses. The future perfect and the future perfect continuous may come either before or after the time clause.
+  - **After the time expressions *by the time*, *until*, *before*, we use the present simple because they introduce time clauses. The future perfect and the future perfect continuous may come either before or after the time clause.**
   
     > I **won't have finished** cleaning the house until you **come back**.
     >
-    > **By the time** they **reach** York, they **will have been travelling** for four hours.
+    > **By the time** they **reach** York, they **will have been traveling** for four hours.
   
   - Present Simple — programs, timetables.
   
   - Present Continuous — for actions we have decided **and** arranged to do in the near future.
   
-  - We use present simple or present perfect, and not future forms, after words and expressions such as *while, before, after, until/till, as, unless, when, whenever, if, suppose/supposing, once, as soon as, as long as, by the time, in case, on condition that,* etc.
+  - **We use present simple or present perfect, and not future forms, after words and expressions such as *while*, *before*, *after*, *until/till*, *as*, *unless*, *when*, *whenever*, *if*, *suppose/supposing*, *once*, *as soon as*, *as long as*, *by the time*, *in case*, *on condition that*, etc**.
   
     > Call me **as soon as** you **get** back.
   
@@ -291,10 +291,17 @@
 > page 8.
 
 - come before the `main verb` but after the verb `to be`, auxiliary verbs (such as `do`, `have`) or modal verbs.
-- they go before the auxiliary verbs in short answers
+
+  > Susan **often goes** (main v.) skiing at the weekend.
+  >
+- they go before the auxiliary verbs in short answers.
 
   > Yes, I usually do. 
-- expressions about days go at the beginning or the end of a sentence.
+- expressions such as *every day*, once/twice a week/month, etc., most mornings/evenings, etc. go at the beginning or the end of a sentence. *Usually*, *often*, *sometimes*, *normally* and *occasionally* can go at the beginning or the end of a sentence for more emphasis.
+
+  > We go on holiday **twice a year**.
+  >
+  > **Usually**, I finish work at five.
 - *never*, *seldom*, *rarely* have a negative meaning and are not used with `not`.
 
 ## State verbs
@@ -323,14 +330,41 @@ Mike **is looking** out of the window. (= is directing his eyes).
 - `have gone to` - [ru: уйти и пока не вернуться].
 - `have been to` - [ru: бывать где-то и при этом уже вернуться].
 
-## Used to / Be used to / Get used to / Would
+## Used to / Would / Be used to / Get used to
 
 > page 15.
 
-- `used to` + *infinitive* - to refer to past habits or states [ru: имели привычку].
-- `be used to` + *noun/pronoun/-ing form* - be accustomed to, be in the habit of [ru: являться привыкшим].
-- `get used to` + *noun/pronoun/-ing form* - become accustomed to [ru: становиться привыкшим].
-- `would`/`used to` - for repeated actions or routines in the past [ru: бывало постоянно].
+- `used to` + *infinitive* — to refer to past habits or states [ru: имели привычку].
+
+  > They **used to travel/traveled** a lot when they were younger. (They don't any more.)
+
+- We use the past simple, and not `used to`, in the following cases:
+
+  - to refer to an action which happened **at a definite time** in the past.
+
+  - to say **how many times** an action happened **at a definite time** in the past.
+
+    > I **went** to the cinema four times last month.
+
+- `would`/`used to` — for repeated actions or routines in the past [ru: бывало постоянно].
+
+  - we do not use `would` with state verbs.
+
+    > They **used to live** in London.
+    >
+    > (NOT: ~~They would live in London. - state~~)
+
+- `be used to` + *noun/pronoun/-ing form* — be accustomed [ru: привыкший, привычный] to, be in the habit of [ru: являться привыкшим].
+
+  > They **are used to the cold**. (present)
+  >
+  > She **wasn't used to living** in the country. (past) [ru: (буквально) она не была привыкшей к проживанию в стране]
+
+- `get used to` + *noun/pronoun/-ing form* — become accustomed to [ru: становиться привыкшим].
+
+  > He didn't like using the computer at first, but he **got used to it**. (past)
+  >
+  > She **will** soon **get used to wearing** contact lenses. (future) 
 
 ## Will / Won't - Shall
 
@@ -340,7 +374,9 @@ Mike **is looking** out of the window. (= is directing his eyes).
 
 - `won't` - to express unwillingness [ru: нежелание] or an emphatic refusal [ru: решительный отказ], even when the subject is not a person.
 
-  We use `wouldn't` to refer to the past.
+  - We use `wouldn't` to refer to the past.
+
+    > I asked him to help me, but he **wouldn't**.
 
 - `Shall I/we ...`
 
@@ -352,11 +388,11 @@ Mike **is looking** out of the window. (= is directing his eyes).
 
 > exercise #30.
 
-What **shall I** do with this shopping?
-
-I've asked Jane to tidy her room, but she **won't** do it.
-
-**Will you** be quiet!
+> What **shall I** do with this shopping?
+>
+> I've asked Jane to tidy her room, but she **won't** do it.
+>
+> **Will you** be quiet!
 
 ## Other ways of expressing the future
 
