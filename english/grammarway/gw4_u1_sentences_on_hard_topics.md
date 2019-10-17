@@ -1,6 +1,10 @@
 # Sentences on hard topics
 
+> Description: this document includes sentences from the exercises of the book, and sentences that I created on my own.
+
 ## Adverbs of frequency
+
+> page 8. 
 
 Sentences:
 
@@ -35,6 +39,8 @@ B: Yes, it is. But there are always so many people walking around and that’s w
 
 ## State verbs
 
+> page 10.
+
 Sentences:
 
 1. I like to play video games.
@@ -56,3 +62,78 @@ A: Actually no, they won’t. They must look after their baby.
 B: That's a pity. I expect them to come too. By the way, how did they name their child?
 A: Ooh, Amanda.
 B: That’s a nice name. I hope we will see them next time.
+
+## In other words
+
+> page 27.
+
+Examples:
+
+1. I've never heard such a sad story.
+   **ever** → It is the **saddest story I have ever** heard.
+2. He started painting fifteen years ago.
+   **been** → He **has been painting for** fifteen years.
+3. She hasn't finished decorating the flat yet.
+   **still** → She **is still decorating** the flat.
+4. I have never eaten Chinese food before.
+   **first** → This is the **first time when I have ever eat** Chinese food.
+5. When did they graduate from college?
+   **since** → How long is it **since they graduated** from college? [ru: как давно это было (время) с тех пор как они закончили колледж]
+   **ago** → How long **ago did they graduate** from college? [ru: как давно они (обьэкт) закончили колледж?]
+6. He didn't begin talking until everyone had sat down.
+   **before** → He waited until everyone had sat down **before he began** talking.
+7. We haven't been to the theater for a year.
+   **time** → The **last time** [when, no?] **we went** to the theater was a long time ago.
+   **last** → We **last went to** the theater a year ago.
+8. It's two years since I went on holiday.
+   **have** → I **haven't been** on holiday for two years.
+9. It was the first time they had traveled by boat.
+   **never** → They **had never traveled** by boat before.
+10. Jack was about to have a dinner when his boss called.
+    **point** → Jack was **on the point of having** dinner when his boss called. 
+
+## Common mistakes
+
+- He **hasn't still bought** a computer. **Error**. 
+
+  He **still hasn't bought** a computer. **OK**.
+
+  > Sorry, I don't understand this example. :laughing: **Still** usually comes in ‘mid-position’.
+  >
+  > Many people on the Internet say that this version is right. OK.
+  >
+  > It is better to use **yet** in negation and interrogation in present perfect.: "He hasn't bought a computer yet."
+
+  > Also, you can say any of the following:
+  >
+  > I still haven't read that book.
+  > I haven't read that book yet.
+  > I still haven't read that book yet. — implies that you have meant to read the book several times but have not done it yet.
+  > I have yet to read that book.
+
+  She **still is** abroad. **Error.**
+  She **is still** abroad. **OK**
+
+  > We don’t use **still** before the first auxiliary (such as have (has,had), be (am, is, are, was, were), do (does/did)) or modal verb in an affirmative clause.
+
+- I will call you **when I will finish**. **Error**.
+  I will call you **when I finish**. **OK**.
+
+  > We use present simple or present perfect after the word *when*.
+
+- Take a map **in case you will get lost**. **Error**.
+  Take a map **in case you get lost**. **OK**.
+
+  > We use present simple or present perfect after the word *in case*, *if*, *when*.
+  >
+  > It feels like in order to remember the right word, you need to think about time clauses (which started with words such as *when*, *whenever*, *as soon as*, etc.) and conditioned (*if*) / precautionary (*in case*) action.
+  
+  > It is important not to confuse *if* and *in case*. They can be used in similar sentences, but they have different meanings. Consider the following examples:
+  >
+  > I will take a coat **if** it rains. (true → take a coat, false → nope)
+  > I will take a coat **in case** it rains. (precaution — depending on the possibility)
+  > Here, *if* is used to present a conditional situation (dependent it raining), while *in case* is a precaution [ru: предосторожность] (done to prepare for the rain).
+  >
+  > *If*, as a conditional, shows an action or event that is dependent on something else happening. The action will not happen unless the if clause happens.
+  >
+  > *In case* is usually used to show that an action is being taken, or preparations have been made, as a precaution – so the action or event is completed based on a possibility.
