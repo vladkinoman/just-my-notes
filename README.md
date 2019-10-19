@@ -125,6 +125,10 @@ I made a decision to add this paragraph to track files whose topics overlap with
 
 [google_sheets_macros_scripts_and_triggers.md](https://github.com/vladbeklenyshchev/just-my-notes/blob/master/office/google_sheets_macros_scripts_and_triggers.md) ← scripts are written in [javascript](https://github.com/vladbeklenyshchev/just-my-notes/tree/master/software-engineering/software-development/programming-languages/javascript).
 
+###### Word order in English
+
+[Word order]( https://github.com/vladbeklenyshchev/just-my-notes/blob/master/english/grammar/word-order.md) ←→ [What GW4 Unit #1 was about - Adverbs of frequency](https://github.com/vladbeklenyshchev/just-my-notes/blob/master/english/grammarway/gw4_u1_summary.md#Adverbs-of-frequency)
+
  ###### Java and Jar files
 
 [setting_up_java_environment.md](https://github.com/vladbeklenyshchev/just-my-notes/blob/master/software-engineering/software-development/programming-languages/java/setting_up_java_environment.md) ←→ [viewing-contents-of-jar.md](https://github.com/vladbeklenyshchev/just-my-notes/blob/master/computer-science/operating-systems/linux/viewing-contents-of-jar.md)
@@ -141,5 +145,5 @@ I made a decision to add this paragraph to track files whose topics overlap with
 
 ## Marks
 
-`!`, `_` symbols allow quick access to folders with general information when using file managers or Linux terminal. `!` means directory with general information which isn't a part of the main topic (current folder). `_` means technology directory which isn't a part of the main topic (current folder).
+`!`, `_` symbols allow quick access to folders with general information when using file managers or Linux terminal. `!` means directory with general information which isn't a part of the main topic (current folder). `_` means directory with specific information which isn't a part of the main topic (current folder).
 
