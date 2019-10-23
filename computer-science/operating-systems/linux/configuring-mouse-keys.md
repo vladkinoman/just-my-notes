@@ -11,6 +11,13 @@ If yours touch-pad is dead, then this is the best solution for. Of course, this 
    $ xkbset ma 60 10 10 5 2
    ```
 
+In order to do this on Lubuntu we need to add one extra line:
+
+```bash
+$ xkbset m
+$ xkbset ma 60 10 10 5 2
+```
+
 ## Conclusion
 
 So, we set up our numpad as our new mouse. We also can use it to select a text and open the right-click menu using `5` button on the numpad. For more information, see this [3].
