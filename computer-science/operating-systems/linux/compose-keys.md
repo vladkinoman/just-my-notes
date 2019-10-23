@@ -23,7 +23,22 @@ So, in order to write down the "arrow" character you need to press `<Multi_key>`
 
 To enable compose for Greek alphabet you need to create the new file in `home` directory, which is named as .XCompose, and add to it your own key combinations [2]. 
 
+## Enabling the compose keys in Lubuntu
+
+> According to [3].
+
+1. Right click at the keyboard “flag” icon on your panel and choose “settings”.
+2. Go to “Advanced xkbdmap Options” and place the string “compose:” (without quotes) followed by the key you want to use. These are the available keys (in te example below I chose the Right Win key):
+   - compose:ralt  Right Alt
+   - compose:lwin  Left Win
+   - compose:rwin  Right Win
+
+3. Now ensure to click at the “save” icon next to the text you’ve just intruduced and close this dialog. You can start using it right now, without restart!
+
+> For example, write `<compose_key>+<->+<>>` to get the "→" symbol.
+
 ## Links
 
 1. [How can I enable Compose key?](https://askubuntu.com/questions/70784/how-can-i-enable-compose-key#answer-70788)
 2. [Enabling compose for Greek alphabet](https://askubuntu.com/questions/787113/compose-dead-greek-with-compose-key#answer-877344)
+3. [Compose key - tips on the Lubuntu website](https://lubuntu.me/tip-compose-key/)
