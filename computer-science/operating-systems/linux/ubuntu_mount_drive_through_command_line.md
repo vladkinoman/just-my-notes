@@ -1,5 +1,7 @@
 # Mount drive through command line (as if I clicked on it in nautilus) in Ubuntu
 
+> The best solution in the second paragraph "Using Ubuntu's default app - Disks "!
+
 ## Using udisksctl application
 
 Here is how to do this [1]:
@@ -13,13 +15,31 @@ udisksctl unmount --block-device /dev/disk/by-label/baydive
 
 ## Using Ubuntu's default app - Disks 
 
+> Works in Lubuntu too.
+
 You can actually auto-mount hard disks on boot. Use Disks app which is default on Ubuntu:
 
 1. Select your disk or partition.
-2. Click the gear icon.
+
+2. Click the gear icon (or the tick icon in Lubuntu).
+
 3. Edit mount options.
+
 4. Switch User Session Defaults to OFF.
-5. Click OK.
+
+5. Choose "Mount at system startup"
+
+6. Enter your mount point in the corresponding field.
+
+   > For example, I wrote `/media/vlad/Storage` where `Storage` was a label of my disk.
+
+7. Next, you should fill the field "Identify As" by choosing the next value: "Label=label_of_your_disk":
+
+   > For instance, I had the next value of this field in my system: "LABEL=Storage". 
+
+8. Click OK.
+
+**EDIT**: I finally figured this problem out. You won't have any of the problems below if you complete all the steps above :happy: 
 
 ### ERRNO 30: read only file system
 
