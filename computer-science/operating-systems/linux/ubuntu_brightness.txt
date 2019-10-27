@@ -1,5 +1,0 @@
-1. Необходимо прописать в /etc/default/grub следующее (отредактировать
-имеющуюся строку до следующего вида):
-GRUB_CMDLINE_LINUX_DEFAULT="quiet splash acpi_backlight=vendor"
-2. sudo update­grub
-3. Перезагрузится

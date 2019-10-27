@@ -7,13 +7,13 @@ This is because the command actually forks out and while the input comes through
 An example:
 
 ```bash
-setsid gnome-calculator
+$ setsid gnome-calculator
 ```
 
 We can use "&" instead of setsid:
 
 ```Bash
-gnome-calculator &
+$ gnome-calculator &
 ```
 
 I think it works the same way. TODO: check it.
@@ -21,3 +21,4 @@ I think it works the same way. TODO: check it.
 ## Source
 
 ​	https://askubuntu.com/questions/106351/running-programs-in-the-background-from-terminal
+
