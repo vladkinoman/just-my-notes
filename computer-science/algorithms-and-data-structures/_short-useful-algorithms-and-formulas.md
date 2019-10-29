@@ -7,6 +7,7 @@
    - [Recursive version](#Recursive-version)
 3. [Shuffling](#Shuffling)
    - [Q/A](#QA)
+4. [Get fractional and whole part out from double](#Get-fractional-and-whole-part-out-from-double)
 
 ## Leap year identification
 
@@ -106,3 +107,18 @@ public static void shuffle(Object[] a) {
 **Why can't we use the range** `[0; N-1]`**?** In this case, shuffle won't be uniform.
 
 **Java has a method called** `Collections.shuffle(Arrays.asList(array))`, **can we use it to sort an array of integers?** If you want to shuffle the array of type `int`, then `Collections.shuffle(Arrays.asList(array))` doesn't work, because `Arrays.asList(array)` returns `Collection<int[]>` not `Collection<Integer>`. You see, `aslist()` method works with generic parameter `T`, so we should use reference types. More detail explanation you can get [here](https://stackoverflow.com/questions/3981420/why-does-collections-shuffle-fail-for-my-array#answer-3981494). Also, you should know that `Collections.shuffle` is a bit of an overkill because if you have an array of thousands or millions of primitive values to sort, wrapping each one in an object just to do a sort is a bit costly, both in memory and in CPU.
+
+## Get fractional and whole part out from double
+
+In Java-like programming languages it can be done in this way:
+
+```Java
+double value = 3.25;
+double fractionalPart = value % 1;
+double integralPart = value - fractionalPart;
+```
+
+> `%` here means *remainder*. Meanwhile, in Python `%` means *modulo*. ToDo: check later the interpretations of this sign in various programming languages.
+
+More info [here](https://stackoverflow.com/questions/343584/how-do-i-get-whole-and-fractional-parts-from-double-in-jsp-java).
+
