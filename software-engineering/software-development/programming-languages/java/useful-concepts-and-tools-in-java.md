@@ -5,20 +5,22 @@
 1. [Collections](#collections)
    - [List Interface](#list-interface).
    - [ArrayList](#arraylist).
-2. [Coping](#copying).
+2. [Useful classes](#useful-classes).
+   - [BigInteger](#BigInteger).
+3. [Coping](#copying).
    - [Make a copy of an array](#Make-a-copy-of-an-array).
-3. [Sorting](#sorting).
+4. [Sorting](#sorting).
    - [Sort 2D array](#sort-2D-array).
      - [Sort 2D array only by the first element](#Sort-2D-array-only-by-the-first-element).
      - [Sort 2D array by the first and the second elements](#Sort-2D-array-by-the-first-and-the-second-elements).
-4. [Searching](#searching).
+5. [Searching](#searching).
    - [Binary search in Java](#Binary-search-in-Java).
    - [Search element in a sorted 2D array](#search-element-in-a-sorted-2D-array).
      - [A simple solution](#a-simple-solution).
      - [Binary search in 2D array](#binary-search-in-2D-array).
      - [Linear search in 2D array](#Linear-search-in-2D-array).
      - [Another efficient approach](#another-efficient-approach).
-5. [References](#references).
+6. [References](#references).
 
 ## Collections
 
@@ -85,6 +87,101 @@ The most useful methods:
   List<String> stringsToSearch = new ArrayList<>(list);
   stringsToSearch.addAll(list);
   ```
+
+## Useful classes
+
+### BigInteger
+
+BigInteger class is used for mathematical operation which involves very big integer calculations that are outside the limit of all available primitive data types.
+
+For example factorial of 100 contains 158 digits in it so we can’t store it in any primitive data type available. We can store as large Integer as we want in it. There is no theoretical limit on the upper bound of the range because memory is allocated dynamically but practically as memory is limited you can store a number which has Integer.MAX_VALUE number of bits in it which should be sufficient to store mostly all large values.
+
+```java
+// Initialize result 
+BigInteger f = new BigInteger("1"); // Or BigInteger.ONE 
+  
+// Multiply f with 2, 3, ...N 
+for (int i = 2; i <= N; i++) 
+    f = f.multiply(BigInteger.valueOf(i)); 
+```
+
+If we have to write above program in C++, that would be too large and complex, we can look at [Factorial of Large Number](https://www.geeksforgeeks.org/factorial-large-number/).
+In this way BigInteger class is very handy to use because of its large method library and it is also used a lot in competitive programming.
+
+And for Integers available as string you can initialize them as:
+
+```java
+A  = new BigInteger(“54”);
+B  = new BigInteger(“123456789123456789”); 
+```
+
+Some constant are also defined in BigInteger class for ease of initialization :
+
+```java
+A = BigInteger.ONE;
+// Other than this, available constant are BigInteger.ZERO 
+// and BigInteger.TEN
+```
+
+Mathematical operations:
+
+```java
+int c = a + b;
+BigInteger C = A.add(B); 
+```
+
+Other similar function are `subtract()`, `multiply()`, `divide()`, `remainder()`.
+But all these function take BigInteger as their argument so if we want these operation with integers or string convert them to BigInteger before passing them to functions as shown below:
+
+```java
+String str = “123456789”;
+BigInteger C = A.add(new BigInteger(str));
+int val  = 123456789;
+BigInteger C = A.add(BigInteger.valueOf(val)); 
+```
+
+Extraction of value from BigInteger:
+
+```java
+int x   =  A.intValue();   // value should be in limit of int x
+long y   = A.longValue();  // value should be in limit of long y
+String z = A.toString();  
+```
+
+Comparison:
+
+```java
+if (a < b) {}         // For primitive int
+if (A.compareTo(B) < 0)  {} // For BigInteger 
+```
+
+
+Actually compareTo returns -1(less than), 0(Equal), 1(greater than) according to values.
+
+For equality we can also use:
+
+```java
+if (A.equals(B)) {}  // A is equal to B 
+```
+
+The most useful methods:
+
+- **[BigInteger abs()](https://www.geeksforgeeks.org/biginteger-abs-method-in-java/)**: This method returns a BigInteger whose value is the absolute value of this BigInteger.
+- **[int bitCount()](https://www.geeksforgeeks.org/biginteger-bitcount-method-in-java/)**: This method returns the number of bits in the two’s complement representation of this BigInteger that differ from its sign bit.
+- **[int bitLength()](https://www.geeksforgeeks.org/biginteger-bitlength-method-in-java/)**: This method returns the number of bits in the minimal two’s-complement representation of this BigInteger, excluding a sign bit.
+- **[byte byteValueExact()](https://www.geeksforgeeks.org/java-8-biginteger-bytevalueexact-method-with-examples/)**: This method converts this BigInteger to a byte, checking for lost information.
+- **[BigInteger clearBit(int n)](https://www.geeksforgeeks.org/biginteger-clearbit-method-in-java/)**: This method returns a BigInteger whose value is equivalent to this BigInteger with the designated bit cleared.
+- **[BigInteger[] divideAndRemainder(BigInteger val)](https://www.geeksforgeeks.org/java-8-biginteger-divideandremainder-method-with-examples/)**: This method returns an array of two BigIntegers containing (this / val) followed by (this % val).
+- **BigInteger gcd(BigInteger val)**: This method returns a BigInteger whose value is the greatest common divisor of abs(this) and abs(val).
+- **[int getLowestSetBit()](https://www.geeksforgeeks.org/biginteger-getlowestsetbit-method-in-java/)**: This method returns the index of the rightmost (lowest-order) one bit in this BigInteger (the number of zero bits to the right of the rightmost one bit).
+- **[int signum()](https://www.geeksforgeeks.org/biginteger-signum-method-in-java/)**: This method returns the signum function of this BigInteger.
+- **[BigInteger sqrt()](https://www.geeksforgeeks.org/biginteger-sqrt-method-in-java/)**: This method returns the integer square root of this BigInteger.
+- **BigInteger[] sqrtAndRemainder()**: This method returns an array of two BigIntegers containing the integer square root s of this and its remainder this – s*s, respectively.
+- **[byte[\] toByteArray()](https://www.geeksforgeeks.org/biginteger-tobytearray-method-in-java/)**: This method returns a byte array containing the two’s-complement representation of this BigInteger.
+- **[String toString()](https://www.geeksforgeeks.org/biginteger-tostring-method-in-java/)**: This method returns the decimal String representation of this BigInteger.
+- **[String toString(int radix)](https://www.geeksforgeeks.org/biginteger-tostring-method-in-java/)**: This method returns the String representation of this BigInteger in the given radix.
+- **[static BigInteger valueOf(long val)](https://www.geeksforgeeks.org/biginteger-valueof-method-in-java/)**: This method returns a BigInteger whose value is equal to that of the specified long.
+- **[BigInteger xor(BigInteger val)](https://www.geeksforgeeks.org/biginteger-xor-method-in-java/)**: This method returns a BigInteger whose value is (this ^ val).
 
 ## Copying
 
@@ -329,6 +426,8 @@ Note: This approach works for the matrix n x m where 2 <= n. The algorithm can b
 https://www.geeksforgeeks.org/list-interface-java-examples/
 
 https://www.baeldung.com/java-arraylist 
+
+https://www.geeksforgeeks.org/biginteger-class-in-java/ 
 
 https://stackoverflow.com/questions/5785745/make-copy-of-an-array
 
