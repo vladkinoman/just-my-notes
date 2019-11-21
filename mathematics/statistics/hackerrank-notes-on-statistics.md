@@ -9,6 +9,7 @@
 2. [Weighted Mean](#Weighted-Mean)
 3. [Quartiles](#Quartiles)
    - [Computing the First and Third Quartile](#Computing-the-First-and-Third-Quartile)
+4. [Standard Deviation](#Standard-Deviation)
 
 ## Mean, median, and mode
 
@@ -62,3 +63,49 @@ We will split the data into two halves, *lower half* and *upper half*:
 - If there are an even number of data points in the original ordered data set, split this data set exactly in half.
 
 The value of the first quartile (**Q₁**) is the median of the lower half and the value of the third quartile (**Q₃**) is the median of the upper half.
+
+## Standard Deviation
+
+> From Quora:
+
+The main and most important purpose of standard deviation is to understand how spread out a data set is.
+
+If you imagine a cloud of data points, drawing a line through the middle of that cloud will give you the ‘average’ value of a data point in that cloud.
+
+Now that you have the average line, every data point in the cloud is going to be a certain distance from the average line. You could form another data cloud made up of data points derived from the distance every point in the first cloud is from the average line.
+
+With this second data cloud, you could draw a line through the middle and work out the average distance every point is from the average value in the first cloud. This is standard deviation.
+
+A high standard deviation implies that, on average, data points in the first cloud are all pretty far from the average (it looks spread out). A low standard deviation means most points are very close to the average.
+
+> From this [page]( https://www.dummies.com/education/math/statistics/why-standard-deviation-is-an-important-statistic/ ):
+
+The standard deviation is a commonly used statistic, but it doesn’t often get the attention it deserves. Although the mean and median are out there in common sight in the everyday media, you rarely see them accompanied by any measure of how diverse that data set was, and so you are getting only part of the story. In fact, you could be missing the most interesting part of the story.
+
+Without [calculating standard deviation](https://www.dummies.com/education/math/statistics/how-to-calculate-standard-deviation-in-a-statistical-data-set/), you can’t get a handle on **whether the data are close to the average** (as are the diameters of car parts that come off of a conveyor belt when everything is operating correctly) or **whether the data are spread out over a wide range** (as are house prices and income levels in the U.S.).
+
+For example, if you are told that the average starting salary for someone working at Company Statistix is $70,000, you may think, “Wow! That’s great.” But if the standard deviation for starting salaries at Company Statistix is $20,000, that’s a lot of variation in terms of how much money you can make, so the average starting salary of $70,000 isn’t as informative in the end, is it?
+
+On the other hand, if the standard deviation was only $5,000, you would have a much better idea of what to expect for a starting salary at that company. Which is more appealing? That’s a decision each person has to make; however, it’ll be a much more informed decision once you realize standard deviation matters.
+
+Without the standard deviation, you can’t compare two data sets effectively. Suppose two sets of data have the same average; does that mean that the data sets must be exactly the same? Not at all. For example, the data sets 199, 200, 201 and 0, 200, 400 both have the same average (200) yet they have very different standard deviations. The first data set has a *very* small standard deviation (*s*=1) compared to the second data set (*s*=200).
+
+### Expected Values
+
+The expected value of a discrete random variable, **X**, is more or less another way of referring to the mean (**µ** - mu is more population mean than sample mean). We can also refer to this as the mathematical expectation (or just the expectation) of **X**.
+
+### Variance σ²
+
+This is the average magnitude of fluctuations of **X** from its expected value, **µ**. You can also think of it as the expectation of a random variable's squared deviation from its mean. Given a data set, **X**, of size **n**:
+$$
+\sigma^2 = \frac{\sum_{i=1}^n (x_i - \mu)^2}{n}
+$$
+where **xᵢ** is the **ith** element of the data set and **µ** is the *mean* of all the elements.
+
+### Standard Deviation σ
+
+The standard deviation quantifies the amount of variation in a set of data values. Given a data set, **X**, of size **n**: 
+$$
+\sigma = \sqrt {\frac{\sum_{i=1}^n (x_i - \mu)^2}{n}}
+$$
+where **xᵢ** is the **ith** element of the data set and **µ** is the *mean* of all the elements.
