@@ -26,10 +26,20 @@ std::vector array_name;
 The initialization of an std::vector is also the same as that of std::array. We initialize an std::vector by either of the following ways.
 
 ```c++
+// this is how you initialize the vector in C++ 11...
 std::vector<int> marks = {50, 45, 47, 65, 80};
 
 std::vector<int> marks { {50, 45, 47, 65, 80} };
 ```
+
+This is how we return a single-element vector and a pointer to the single-element vector:
+
+```c++
+return vector<int>() = {-1};
+return new vector<int>(){-1};
+```
+
+
 
 We can also make multidimensional std::vectors. This is similar to std::array. Let's look at the syntax to make a std::vector.
 
