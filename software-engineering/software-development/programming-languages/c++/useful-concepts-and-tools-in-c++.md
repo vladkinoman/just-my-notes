@@ -39,7 +39,11 @@ return vector<int>() = {-1};
 return new vector<int>(){-1};
 ```
 
+This is how you can assign elements in vector declared with new:
 
+```c++
+(*v)[5][5] = 777;
+```
 
 We can also make multidimensional std::vectors. This is similar to std::array. Let's look at the syntax to make a std::vector.
 
