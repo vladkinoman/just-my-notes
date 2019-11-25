@@ -8,6 +8,9 @@
 3. [Shuffling](#Shuffling)
    - [Q/A](#QA)
 4. [Get fractional and whole part out from double](#Get-fractional-and-whole-part-out-from-double)
+5. [Bit manipulation](#Bit-manipulation)
+   - [(x - 1) trick](#(x---1)-trick)
+   - [x & (x - 1) trick and numbers which are powers of 2](#x-&-(x---1)-trick-and-numbers-which-are-powers-of-2)
 
 ## Leap year identification
 
@@ -122,3 +125,36 @@ double integralPart = value - fractionalPart;
 
 More info [here](https://stackoverflow.com/questions/343584/how-do-i-get-whole-and-fractional-parts-from-double-in-jsp-java).
 
+## Bit manipulation
+
+### (x - 1) trick
+
+Binary representation of (x-1) can be obtained by simply flipping all the bits to the right of rightmost 1 in x and also including the rightmost 1.
+
+> Let, x = 4 = (100)₂
+> x - 1 = 3 = (011)₂
+> Let, x = 6 = (110)₂
+> x - 1 = 5 = (101)₂
+
+###  x & (x - 1) trick and numbers which are powers of 2
+
+Now think about x & (x-1). x & (x-1) will have all the bits equal to the x except for the rightmost 1 in x.
+
+> Let, x = 4 = (100)₂
+> x - 1 = 3 = (011)₂
+> x & (x-1) = 4 & 3 = (100)₂ & (011)₂= (000)₂
+> Let, x = 6 = (110)₂
+> x - 1 = 5 = (101)₂
+> x & (x-1) = 6 & 5 = (110)₂ & (101)₂ = (100)₂ 
+
+Properties for numbers which are powers of 2, is that they have one and only one bit set in their binary representation. If the number is neither zero nor a power of two, it will have 1 in more than one place. So if x is a power of 2 then x & (x-1) will be 0.
+
+**Implementation:**
+
+```c++
+bool isPowerOfTwo(int x)
+{
+    // x will check if x == 0 and !(x & (x - 1)) will check if x is a power of 2 or not
+    return (x && !(x & (x - 1)));
+}
+```
