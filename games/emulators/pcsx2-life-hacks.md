@@ -9,12 +9,12 @@ Computer: Intel Core i5-3230M 2.60 GHz (2 cores) / 4.00 Gb RAM / AMD RADEON HD 8
 GS Window:
 
 - Aspect Ratio: Fit to Window / Screen.
-- Custom Window Size: 800 x 600.
+- Custom Window Size: ~~800 x 600~~. I entered 1680x1050, then emulator changed it to 1664x1002 since it fits the Metal Gear Solid 3 native resolution (512x448 ~ 3.25/2.24 ~ 1.45).
 
 Speedhacks:
 
 - Enable speedhacks: check.
-- EE Cyclerate [Not Recommended]: I use 0 - Default cyclerate, meanwhile PCSX2 Wiki recommends +2.
+- EE Cyclerate [Not Recommended]: ~~I use 0 - Default cyclerate, meanwhile PCSX2 Wiki recommends +2~~. Now I use 2 cause it works better in the cutscenes.
 - Other Hacks:
   - Enable INTC Spin Detection: check.
   - Enable Wait Loop Detection: check.
@@ -34,12 +34,15 @@ Game Fixes:
 
 Hardware Mode Settings:
 
-- Internal Resolution: 2x Native (3x Native gives few more lags for my computer).
+- Internal Resolution: ~~2x Native (3x Native gives few more lags for my computer)~~ 1680x1050. I decided to use this resolution since it fits Custom Window Size I written above.
 - Texture Filtering: Bilinear (PS 2).
-- Anisotropic Filtering: 2x.
+- Anisotropic Filtering: 0.
 - CRC Hack Level: Full (Safest).
 - Enable HW Hacks: check + Configure Hacks:
   - Skipdraw: 1.
+  - +Wild Arms Offset - check.
+  - Round Spite = OFF.
+  - Sprite = OFF.
 
 ## Sound settings (SPU2-X plugin settings)
 
@@ -60,7 +63,7 @@ Output Settings:
 
 > Just select it in-game and press F6 with GSDX to change between Aspect Ratios.
 
-16:10 (my screen is 1680x1050) isn't even supported by the PS2. You can just play at 16:9 (1920x1080) when supported or 4:3 (800x600 - I use it, 1600x1200).
+16:10 (my screen is 1680x1050) isn't even supported by the PS2. You can just play at 16:9 (1920x1080) when supported or 4:3 (800x600 - ~~I use it~~, 1600x1200, etc). So, I decided to use 1680x1050.
 
 If you still want to stretch it though, GSDx does support it.
 
