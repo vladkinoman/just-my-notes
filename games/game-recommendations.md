@@ -15,7 +15,7 @@ Here are the best fightings according to [Reddit](https://www.reddit.com/r/Fight
 
 Here are the best The Legend of Zelda games:
 
-- The Legend of Zelda: Ocarina of time.
+- The Legend of Zelda: Ocarina of time. The best way to play this game is through Nintendo 3DS. You can use Citra emulator in order to do this but it isn't that stable. Nonetheless, people say that OoT runs well on this emulator. The other way to play this game is to use the latest Project64 with the [GLideN64](http://www.emucr.com/2016/10/gliden64-git-20161016.html) plugin upscaled and played with true unstretched [widescreen](http://i.imgur.com/EEe7Wrx.jpg), it also supports high res textures [[Reddit](https://www.reddit.com/r/emulation/comments/5ajs18/best_way_to_play_emulated_ocarina_of_time_in_2016/?sort=top)].
 - The Legend of Zelda: Majora's Mask.
 - The Legend of Zelda: Breath of the Wild.
 - The Legend of Zelda: Twilight Princess.
