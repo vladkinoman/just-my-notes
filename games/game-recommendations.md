@@ -5,8 +5,17 @@
 Here are the best fightings according to [Reddit](https://www.reddit.com/r/Fighters/comments/8aodlb/best_fighting_games_of_all_time/):
 
 - Street Fighter Alpha 2 (the worst is 1, the 3rd one is slightly bad than the 2nd one). Street Fighter Alpha II is a different series than the Street Fighter II games. The Alpha series is quite good and a lot more varied than SF2 according to [Reddit](https://www.reddit.com/r/StreetFighter/comments/61wbxe/best_version_of_sfii/).
+
+  > SF 2 is the most important game in the series and is the mort important game in the genre. Nonetheless, people say Street Fighter III: 3rd Strike is the best in the series.
+
 - Super Street Fighter 2 Turbo is the best version of Street Fighter 2 (nonetheless, some people say that ST 2: Turbo is better than Super Turbo - e.g. audio). The best ways to play this game are through Hyper Street Fighter 2 for PS 2, Ultra SFII for the Switch, and the 30th Anniversary Collection for PS 3 and XBOX 360 according to [Reddit](https://www.reddit.com/r/StreetFighter/comments/7r0n54/what_is_the_difference_between_all_the_street/).
+
+- Street Fighter III: 3rd Strike is the most hyped game in the series.
+
+- What about modern SF? Ultra Street Figher lV is the most balanced because of patches. Nonetheless, SF V is more alive game than USF4.
+
 - Tekken 3.
+
 - Soulcalibur 2.
 
 ## Role-playing games
@@ -28,5 +37,23 @@ After googling I find out that the best Pokémon games (for me) are a pair of co
 
 Other great Pokémon games are Pokémon HeartGold/ SoulSilver.
 
+## Metroidvania
 
+### Metroid
+
+According to [Reddit 1](https://www.reddit.com/r/Metroid/comments/1rwsx8/how_would_you_rank_the_games_best_to_worst/) and [Reddit 2](https://www.reddit.com/r/Metroid/comments/9gcby0/what_are_your_top_5_metroid_games/):
+
+- Metroid: Prime (some people say that Prime 2 is better than the first one because it is more polished).
+- Super Metroid.
+
+## Platforms
+
+## Mario
+
+According to [Reddit 1](https://www.reddit.com/r/nintendo/comments/6a080g/super_mario_games_what_are_your_alltime_rankings/), [Reddit 2](https://www.reddit.com/r/AskReddit/comments/7y3sjd/what_do_you_think_is_the_best_mario_game_and_why/?sort=top) :
+
+- Super Mario World is still the best among the 2D games.
+- Super Mario Bros. 3.
+- Super Mario 64 - It was a super creative transition into 3D gaming.
+- The others would be Galaxy 1 and 2 (the second is slightly better than the first one but both are the best among 3D), classic Super Mario Bros and Super Mario Odyssey.
 
