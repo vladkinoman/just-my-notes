@@ -14,9 +14,15 @@ Here are the best fightings according to [Reddit](https://www.reddit.com/r/Fight
 
 - What about modern SF? Ultra Street Figher lV is the most balanced because of patches. Nonetheless, SF V is more alive game than USF4.
 
-- Tekken 3.
+- X-Men Children of the Atom was very innovative, gave birth to the Marvel / Capcom games which not only popularized the tag system and the crossovers, but also created a new genre with exaggerated super powers, high jumps and easy combos which we will later see in games like Guilty Gear and similar. Marvel vs Capcom 2: probably the best MvC ever made. Ultimate Marvel vs Capcom 3 if we want modern version.
+
+- Tekken 3 is the best fighting of PS One epoch, Tekken 7 is currently the best in the series in terms of the gameplay and the novelty. Also, Tekken 7 is the best fighting to get into online.
 
 - Soulcalibur 2.
+
+- Mortal Kombat 9 (sometimes MK 11 or just MK).
+
+- The others would be Super Smash Brother Melee and Super Smash Bros 64 (according to [Reddit](https://www.reddit.com/r/AskReddit/comments/459z3g/what_is_the_best_fighting_game_ever/?sort=top).
 
 ## Role-playing games
 
@@ -34,8 +40,7 @@ Here are the best The Legend of Zelda games:
 After googling I find out that the best Pokémon games (for me) are a pair of core series Generation III games that are set in the Kanto region (the first region - classic):
 
 - Pokémon FireRed / LeafGreen versions - are the enhanced remakes to the original Japanese Pokémon games (Red and Green) for the Game Boy Advance. While Fire Red was a remake of Pokémon Red, LeafGreen was a remake of the Japan-only Pokémon Green. Pokémon Green had previously been a Japan exclusive, being replaced by Pokémon Blue in the US. Regardless, the Green remake was chosen for the US editions [[WIKI]([https://nintendo.fandom.com/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen](https://nintendo.fandom.com/wiki/Pokémon_FireRed_and_LeafGreen))]. Yeah, this is hard!!! :laughing:
-
-Other great Pokémon games are Pokémon HeartGold/ SoulSilver.
+- Other great Pokémon games are Pokémon HeartGold/ SoulSilver.
 
 ## Metroidvania
 
@@ -48,12 +53,29 @@ According to [Reddit 1](https://www.reddit.com/r/Metroid/comments/1rwsx8/how_wou
 
 ## Platforms
 
-## Mario
+### Mario
 
-According to [Reddit 1](https://www.reddit.com/r/nintendo/comments/6a080g/super_mario_games_what_are_your_alltime_rankings/), [Reddit 2](https://www.reddit.com/r/AskReddit/comments/7y3sjd/what_do_you_think_is_the_best_mario_game_and_why/?sort=top) :
+According to [Reddit 1](https://www.reddit.com/r/nintendo/comments/6a080g/super_mario_games_what_are_your_alltime_rankings/), [Reddit 2](https://www.reddit.com/r/AskReddit/comments/7y3sjd/what_do_you_think_is_the_best_mario_game_and_why/?sort=top):
 
 - Super Mario World is still the best among the 2D games.
 - Super Mario Bros. 3.
 - Super Mario 64 - It was a super creative transition into 3D gaming.
 - The others would be Galaxy 1 and 2 (the second is slightly better than the first one but both are the best among 3D), classic Super Mario Bros and Super Mario Odyssey.
+
+### Donkey Kong
+
+According to [Reddit](https://www.reddit.com/r/nintendo/comments/6vcx5r/whats_your_favorite_donkey_kong_game_from_the/):
+
+- Donkey Kong Country 2: Diddy's Kong Quest.
+- Donkey Kong Country: Tropical Freeze.
+
+### Mega Man
+
+According to [Reddit 1](https://www.reddit.com/r/patientgamers/comments/9l4jgs/what_is_the_best_mega_man_game_in_2018/?sort=top), [Reddit 2](https://www.reddit.com/r/Megaman/comments/9mlkkp/what_is_the_best_mega_man_game_out_of_the_entire/?sort=top), and [Reddit 3](https://www.reddit.com/r/Megaman/comments/aahasi/what_do_you_think_is_the_best_mega_man_game/):
+
+- Mega Man 2 and Mega Man 3 are wildly considered the best of the original series. I tried them and must admit that they have annoying backgrounds.
+- Mega Man X is the best of the X series.
+- Mega Man Zero 3 for story.
+
+
 
