@@ -42,6 +42,26 @@ After googling I find out that the best Pokémon games (for me) are a pair of co
 - Pokémon FireRed / LeafGreen versions - are the enhanced remakes to the original Japanese Pokémon games (Red and Green) for the Game Boy Advance. While Fire Red was a remake of Pokémon Red, LeafGreen was a remake of the Japan-only Pokémon Green. Pokémon Green had previously been a Japan exclusive, being replaced by Pokémon Blue in the US. Regardless, the Green remake was chosen for the US editions [[WIKI]([https://nintendo.fandom.com/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen](https://nintendo.fandom.com/wiki/Pokémon_FireRed_and_LeafGreen))]. Yeah, this is hard!!! :laughing:
 - Other great Pokémon games are Pokémon HeartGold/ SoulSilver.
 
+### Chrono Trigger
+
+Mixing epic RPG action and time travel, Chrono Trigger is one of the best and most popular games on the SNES as well as one of the greatest RPG’s of all time. With a complex story revolving around your group of heroes jumping from one time period to the next trying to stop the apocalypse, Chrono Trigger presented amazing aesthetics, a fantastic musical score, endearing characters, an innovative battle system, multiple endings and even a major character’s death – we won’t say who, but it was unheard of at the time.
+
+### Persona
+
+> This is one of the best anime games according to [Reddit](https://www.reddit.com/r/anime/comments/brovbl/good_anime_games/).
+
+According to [Reddit](https://www.reddit.com/r/PERSoNA/comments/9mbj87/whats_the_general_consensus_on_best_persona_game/):
+
+- Persona 3 - 5 and 3 are a tie. The story of 3 is better, thematically strong, good characters who all get a fair amount of screen time. Persona 5 is a better **game** but not worth replaying. 
+- Persona 5 and Persona 2. 5 has the worst story but amazing gameplay and characters though they don't get any worthwhile development. Overall, the game is solid tho. 2 has meh gameplay but that story. And all the characters are amazing too.
+
+### Ni no Kuni
+
+> This is one of the best anime games according to [Reddit](https://www.reddit.com/r/anime/comments/brovbl/good_anime_games/).
+
+- Ni no Kuni 1 - the art style is by Studio Ghibli and it is an awesome RPG with some Pokémon like aspects too where you collect and evolve familiars.
+- Ni no Kuni 2 is less cool than the first but it has more abilities to build your army.
+
 ## Metroidvania
 
 ### Metroid
@@ -50,6 +70,14 @@ According to [Reddit 1](https://www.reddit.com/r/Metroid/comments/1rwsx8/how_wou
 
 - Metroid: Prime (some people say that Prime 2 is better than the first one because it is more polished).
 - Super Metroid.
+
+### Castelvania
+
+According to [Reddit 1](https://www.reddit.com/r/castlevania/comments/96ldav/what_are_the_essential_castlevania_games_that_i/) and [Reddit 2](https://www.reddit.com/r/castlevania/comments/8ehgo1/what_are_your_personal_top_10_castlevania_games/):
+
+- Castlevania 4: Symphony of the Night - revived the series and spawned a new genre known as Metroidvania games. Players assume the role of Alucard, as you explore Dracula’s Castle in order to find and defeat him. No longer are whips the weapon of choice, as swords and shields have taken over, along with magic and and the ability to transform into mist, wolves and bats. Explore the beautifully-detailed non-linear castle – right side up or inverted.
+- Rondo of Blood - probably the best game in the entire series
+- Aria of Sorrow - one of the best stories and gameplay.
 
 ## Platforms
 
@@ -77,5 +105,10 @@ According to [Reddit 1](https://www.reddit.com/r/patientgamers/comments/9l4jgs/w
 - Mega Man X is the best of the X series.
 - Mega Man Zero 3 for story.
 
+### Sonic
 
+Classic:
+
+- Sonic the Hedgehog 1
+- Sonic the Hedgehog 2 - Sega’s answer to Mario, Sonic arrive to to carry the Genesis brand name. While the original Sonic and its second sequel, Sonic 3, were fantastic games in their own right, the blue Hedgehog’s best adventure was his second go-around. Dazzling speed with beautifully rich and colourful levels, Sonic the Hedgehog 2 pits the titular character and his companion Tails against the evil Dr. Robotnik. Make sure to collect enough rings to enter the special stages, allowing you to transform into Super Sonic.
 
