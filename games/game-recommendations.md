@@ -112,3 +112,25 @@ Classic:
 - Sonic the Hedgehog 1
 - Sonic the Hedgehog 2 - Sega’s answer to Mario, Sonic arrive to to carry the Genesis brand name. While the original Sonic and its second sequel, Sonic 3, were fantastic games in their own right, the blue Hedgehog’s best adventure was his second go-around. Dazzling speed with beautifully rich and colourful levels, Sonic the Hedgehog 2 pits the titular character and his companion Tails against the evil Dr. Robotnik. Make sure to collect enough rings to enter the special stages, allowing you to transform into Super Sonic.
 
+## Strategies
+
+- Heroes of Might & Magic 3.
+
+- Anno 1404 and then Anno 2070 (feels like an ultra-polished version of 1404). Nice comments are [here](https://www.reddit.com/r/anno/comments/andnkq/how_would_you_rank_all_the_anno_games_and_why/). Some people say that Anno 1800 is actually pretty good and can be a nice modern Anno experience.
+
+- Civilization 4 (maybe with DLC, maybe without them.) and then Civilization 5 (with expansions!) - [here](https://www.reddit.com/r/patientgamers/comments/35wfzm/what_are_your_top_5_strategy_games_of_all_time/).
+
+- Age of Empires 2.
+
+- Rome: Total War and then Medieval II: Total War.
+
+- World in Conflict. 
+
+  > This is one of the few games I kept playing for its story. It assumes that the cold war got hot and the Soviet Union invaded the USA. At first this sounds kinda cliché and dull imo, but it was very well presented and actually thrilling to see how things unfold.
+
+- Command & Conquer: Red Alert and Command & Conquer: Tiberian Dawn.
+
+- Starcraft 1-2. Some people say Warcraft (especially the 3rd one) > Starcraft.
+
+- Age of Mythology - my own first strategy video game <3
+
