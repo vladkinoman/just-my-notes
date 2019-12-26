@@ -134,3 +134,17 @@ Classic:
 
 - Age of Mythology - my own first strategy video game <3
 
+## Immersive Sims
+
+- System shock 1 & 2.
+- Thief 1 & 2.
+- Deus Ex.
+- TES Morrowind - occasionally.
+- Vampire The Masquerade: Bloodlines.
+- Pathologic.
+- S.T.A.L.K.E.R.
+- Bioshock + second DLC of Bioshock Infinite.
+- Deus Ex: Human Revolution.
+- Dishonored.
+- Prey.
+- +Dark Messiah of Might and Magic. Some other games have Immersive Sim components too: Hitman Blood Money (with 1st person), Metal Gear Solid V (with its AI system), Fallout New Vegas (with its 1st person view and hardcore mode).
