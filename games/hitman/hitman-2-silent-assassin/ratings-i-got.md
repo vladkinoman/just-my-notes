@@ -53,11 +53,11 @@
 - Hired Killer
 - ~~Iceman~~ - use the crossbow in Japan, kill enemies silently, no alerts (probably, 1 is ok).
 - Butcher
-- Hired Gun
+- ~~Hired Gun~~
 - Hatchet Man
 - ~~Executioner~~: stealth/aggression = 70/30, shots > 0 (e.g. 14), alerts = 1,
 - Postal
-- Natural
+- ~~Natural~~ - kill all witnesses, not many bullets (killed all with silverballers). 
 - Button Man
 
 ## Special Ratings
