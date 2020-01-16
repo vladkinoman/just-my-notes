@@ -7,7 +7,7 @@
 ## Normal Ratings
 
 - ~~Silent Assassin~~ - no kills (except bosses), no shots (only melee weapons), no alerts (but 1 alert is ok depending on the boss - when guards found a boss body, this alert is ok).
-- +~~Expert~~ - can't say how to get this... Perhaps, it is "failed Silent Assassin" when you was spotted by the enemy when killing the boss.
+- ~~Expert~~ - can't say how to get this... Perhaps, it is "failed Silent Assassin" when you was spotted by the enemy when killing the boss. Close enc. < 5, alerts: 3, enemies killed: 1.
 - Shadow
 - ~~Professional~~ - no alerts, 1 < kills < 3.
 - Mugger
