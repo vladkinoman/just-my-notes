@@ -8,7 +8,7 @@
 
 - ~~Silent Assassin~~ - no kills (except bosses), no shots (only melee weapons), no alerts (but 1 alert is ok depending on the boss - when guards found a boss body, this alert is ok).
 - ~~Expert~~ - can't say how to get this... Perhaps, it is "failed Silent Assassin" when you was spotted by the enemy when killing the boss. Close enc. < 5, alerts: 3, enemies killed: 1.
-- Shadow
+- ~~Shadow~~ - kill a few people, no witnesses, st/ag = 80/20, shots = 26, cl. enc = 2, headshots = 2, enemies killed = 2, innocents = 1.
 - ~~Professional~~ - no alerts, 1 < kills < 3.
 - Mugger
 - Messy Murderer
@@ -25,7 +25,7 @@
 - The Ghost
 - Hoodlum
 - The Cleaner
-- Thug
+- ~~Thug~~ - kill handful of people, allow witnesses, killed 1 boss with garrote, killed 20 people with knife.
 - Violent Thug
 - Assailant
 - Shadow Killer
@@ -43,6 +43,7 @@
 - Mad Butcher
 - Berserker
 - Serial Killer
+- +~~Slayer~~ - st/ag = 80, shots = 69, cl. enc. = 15, headshots = 5, alerts = 1, enemies killed = 6, enemies harmed (!) = 1, cover blown = yes, time = 2.53.
 - Deranged Slayer
 - Terrorist
 - Armed Madman
@@ -59,7 +60,7 @@
 - ~~Postal~~ - shots: 94, enc.: 4, alert: 3, enemies > 5, innocents: 2 (+ I used only one gun - silenced micro uzi), .
 - ~~Natural~~ - kill all witnesses, not many bullets (killed all with silverballers), s/a = 55/35, your cover isn't blown. 
 - ~~Button Man~~ - cl. enc.: 4, s/a = 55/45, headshots: 4/17 (low), alerts: 2, enemies killed: 5 (low) - I guess this is how you should interpret it: "you press a few buttons and you killed someone" (pretty high accuracy).
-- ~~+Henchman~~ - shots: 26 (low), alerts: 2, enemies: 5, innocents: 0, close enc.: 11.
+- ~~+Henchman~~ - killed a boss fast + 1 enemy, shots: 26 (low), alerts: 2, enemies: 5, innocents: 0, close enc.: 11.
 
 ## Special Ratings
 
