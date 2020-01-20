@@ -55,7 +55,7 @@
 - ~~Iceman~~ - kill enemies silently, no alerts (probably, 1 is ok), shots: 53 (middle), enemies: 5 (low), innocents: 1, close enc.: 2, alerts: 2, s/a = 55/45.
 - Butcher
 - Hired Gun - kill all who would see, use different guns.
-- Hatchet Man
+- ~~Hatchet Man~~ - kill boss and many enemies with one gun (I used sniper riflle and missed a few shots), no covers blown (I used one disguise).
 - Executioner - stealth/aggression = 70/30, shots > 0 (e.g. 14), alerts = 1,
 - ~~Postal~~ - shots: 94, enc.: 4, alert: 3, enemies > 5, innocents: 2 (+ I used only one gun - silenced micro uzi), .
 - ~~Natural~~ - kill all witnesses, not many bullets (killed all with silverballers), s/a = 55/35, your cover isn't blown. 
