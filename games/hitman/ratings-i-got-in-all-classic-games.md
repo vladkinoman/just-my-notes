@@ -25,7 +25,7 @@
 - ~~The Ghost~~ - Hitman: Blood Money.
 - ~~Hoodlum~~ - Hitman: Blood Money.
 - ~~The Cleaner~~ - Hitman: Blood Money.
-- ~~Thug~~
+- ~~Thug~~ - Hitman 2: Silent Assassin.
 - Violent Thug
 - ~~Assailant~~ - Hitman: Blood Money.
 - ~~Shadow Killer~~ - Hitman: Blood Money.

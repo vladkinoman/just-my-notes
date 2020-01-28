@@ -25,7 +25,7 @@
 - The Ghost
 - Hoodlum
 - The Cleaner
-- Thug
+- ~~Thug~~
 - Violent Thug
 - Assailant
 - Shadow Killer
