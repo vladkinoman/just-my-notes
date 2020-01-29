@@ -24,7 +24,7 @@
 - ~~Stalker~~ - Hitman: Blood Money.
 - ~~The Ghost~~ - Hitman: Blood Money.
 - ~~Hoodlum~~ - Hitman: Blood Money.
-- ~~The Cleaner~~ - Hitman: Blood Money.
+- ~~The Cleaner~~ - Hitman: Contracts, Hitman: Blood Money.
 - ~~Thug~~ - Hitman 2: Silent Assassin.
 - Violent Thug
 - ~~Assailant~~ - Hitman: Blood Money.
@@ -54,10 +54,10 @@
 - Ninja Extraordinaire
 - ~~Hired Killer~~ - Hitman: Blood Money.
 - ~~Iceman~~ - Hitman 2: Silent Assassin, Hitman: Contracts.
-- Butcher
+- ~~Butcher~~ - Hitman: Contracts.
 - ~~Hired Gun~~ - Hitman 2: Silent Assassin.
 - ~~Hatchet Man~~ - Hitman: Contracts.
-- ~~Executioner~~ - Hitman 2: Silent Assassin.
+- ~~Executioner~~ - Hitman 2: Silent Assassin, Hitman: Contracts.
 - ~~Postal~~  - Hitman: Contracts.
 - ~~Natural~~  - Hitman 2: Silent Assassin, Hitman: Contracts.
 - ~~Button Man~~ - Hitman: Contracts.

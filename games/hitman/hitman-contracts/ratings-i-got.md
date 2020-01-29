@@ -24,7 +24,7 @@
 - Stalker
 - The Ghost
 - Hoodlum
-- The Cleaner
+- ~~The Cleaner~~ - used only sniper rifle and bombs (in bomb level). shots: 20, alerts: 11, enemies killed: 19, st/ag = 40/60.
 - ~~Thug~~ - kill handful of people, allow witnesses, killed 1 boss with garrote, killed 20 people with knife.
 - Violent Thug
 - Assailant
@@ -53,10 +53,10 @@
 - Ninja Extraordinaire
 - Hired Killer
 - ~~Iceman~~ - kill enemies silently, no alerts (probably, 1 is ok), shots: 53 (middle), enemies: 5 (low), innocents: 1, close enc.: 2, alerts: 2, s/a = 55/45.
-- Butcher
-- Hired Gun - kill all who would see, use different guns.
+- ~~Butcher~~ - st/ag = 45/55, shots: 70, cl. enc: 5, head shots: 1, alerts: 1, enemies killed: 6, started with stealth, changed in a chef disguise, killed with silverballers (without SD).
+- ~~Hired Gun~~ - kill all who would see, use different guns.
 - ~~Hatchet Man~~ - kill boss and many enemies with one gun (I used sniper riflle and missed a few shots), no covers blown (I used one disguise).
-- Executioner - stealth/aggression = 70/30, shots > 0 (e.g. 14), alerts = 1,
+- ~~Executioner~~ - stealth/aggression = 70/30, shots > 0 (e.g. 14), alerts = 1 (silent assassin with alerts),
 - ~~Postal~~ - shots: 94, enc.: 4, alert: 3, enemies > 5, innocents: 2 (+ I used only one gun - silenced micro uzi), .
 - ~~Natural~~ - kill all witnesses, not many bullets (killed all with silverballers), s/a = 55/35, your cover isn't blown. 
 - ~~Button Man~~ - cl. enc.: 4, s/a = 55/45, headshots: 4/17 (low), alerts: 2, enemies killed: 5 (low) - I guess this is how you should interpret it: "you press a few buttons and you killed someone" (pretty high accuracy).
