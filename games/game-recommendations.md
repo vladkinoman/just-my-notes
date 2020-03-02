@@ -24,6 +24,13 @@ Here are the best fightings according to [Reddit](https://www.reddit.com/r/Fight
 
 - The others would be Super Smash Brother Melee and Super Smash Bros 64 (according to [Reddit](https://www.reddit.com/r/AskReddit/comments/459z3g/what_is_the_best_fighting_game_ever/?sort=top).
 
+- Dragon Ball series: 
+
+  - FighterZ is objectively the best fighting game because it's designed to actually be competitive and the art/animation is freaking beautiful, but they focused more on competitive online multiplayer instead of a lengthy storymode full of unlockable characters.
+  - Budokai 3 and then Tenkaichi 3. Budokai 3 was great for fast action and feeling like a very DBZish fighting game, also had a good amount of unlockables and the story stuff was quite neat because of hsow you could go back and play through it again while making changes that would lead to fighting folks like Broly or so on. Tenkaichi 3 was good primarily because of its roster size which was unrivaled at the time, not to mention characters had transformations/etc. that could be pulled off mid-match (and most of the Saiyans could transform into Great Ape forms if there was a full moon on that stage). Tenkaichi 3 has the downside in copy-paste of the many characters.
+
+  > If you're looking for strictly a fighting game, FighterZ wins hands down. Budokai 3 is superior though if you aren't looking to play online competitive multiplayer and want to dig through story content with a lot of things to unlock.
+
 ## Role-playing games
 
 ### The Legend of Zelda
@@ -148,3 +155,17 @@ Classic:
 - Dishonored.
 - Prey.
 - +Dark Messiah of Might and Magic. Some other games have Immersive Sim components too: Hitman Blood Money (with 1st person), Metal Gear Solid V (with its AI system), Fallout New Vegas (with its 1st person view and hardcore mode).
+
+## Hack 'n' Slash
+
+### Devil May Cry
+
+> But 1, 3, and 5 are all masterpieces. 4 is just another solid game in comparison.
+
+- DMC5: Mechanically the best game in the series.
+- DMC3 (with 2): was genre defining, had the best story, perfect representation of the series.
+- DMC1: literally create a genre (Character action games or, to be more precise, Character Hack 'n' Slash games).
+- DMC4 - Aged better in terms of story and gameplay. Hated the fact it was rushed. 3 to 4 added onto the incredible combat and made it even more nuts. Some players over rate 4 because it was their first and that makes total and complete sense. But it has never been the best. Middle of the road game. And that's still a good thing because the DMC series is generally great.
+- DmC - Gameplay wise it's extremely fun, it just bastardizes everything else.
+- DMC2 - Ehhhh.
+
