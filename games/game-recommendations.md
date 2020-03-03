@@ -156,16 +156,25 @@ Classic:
 - Prey.
 - +Dark Messiah of Might and Magic. Some other games have Immersive Sim components too: Hitman Blood Money (with 1st person), Metal Gear Solid V (with its AI system), Fallout New Vegas (with its 1st person view and hardcore mode).
 
-## Hack 'n' Slash
+## Hack 'n' Slash (character action games)
 
-### Devil May Cry
+- Devil May Cry:
 
-> But 1, 3, and 5 are all masterpieces. 4 is just another solid game in comparison.
+  > But 1, 3, and 5 are all mast erpieces. 4 is just another solid game in comparison.
+  - DMC5: Mechanically the best game in the series.
+  - DMC3 (with 2): was genre defining, had the best story, perfect representation of the series.
+  - DMC1: literally create a genre (Character action games or, to be more precise, Character Hack 'n' Slash games).
+  - DMC4 - Aged better in terms of story and gameplay. Hated the fact it was rushed. 3 to 4 added onto the incredible combat and made it even more nuts. Some players over rate 4 because it was their first and that makes total and complete sense. But it has never been the best. Middle of the road game. And that's still a good thing because the DMC series is generally great.
+  - DmC - Gameplay wise it's extremely fun, it just bastardizes everything else.
+  - DMC2 - Ehhhh.
 
-- DMC5: Mechanically the best game in the series.
-- DMC3 (with 2): was genre defining, had the best story, perfect representation of the series.
-- DMC1: literally create a genre (Character action games or, to be more precise, Character Hack 'n' Slash games).
-- DMC4 - Aged better in terms of story and gameplay. Hated the fact it was rushed. 3 to 4 added onto the incredible combat and made it even more nuts. Some players over rate 4 because it was their first and that makes total and complete sense. But it has never been the best. Middle of the road game. And that's still a good thing because the DMC series is generally great.
-- DmC - Gameplay wise it's extremely fun, it just bastardizes everything else.
-- DMC2 - Ehhhh.
+- Metal Gear Rising: Revengeance.
+
+- NieR:Automata.
+
+- Ninja Gaiden Black + 2.
+
+- Onimusha (PS2) series isn't 'pure' hack-and-slash but still has some cool melee stuff going on (and moreso as the series progressed).
+
+- Bayonetta 2. It's just so well put together and satisfying to play.
 
