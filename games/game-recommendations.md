@@ -58,18 +58,26 @@ Here are the best fightings according to [Reddit](https://www.reddit.com/r/Fight
 
 ## Immersive Sims
 
-- System shock 1 & 2.
-- Thief 1 & 2.
-- Deus Ex.
+Many things were taken from this [source](https://www.gamasutra.com/view/news/313302/7_influential_immersive_sims_that_all_devs_should_play.php):
+
+- System Shock 2 - an RPG-influenced, twisted horror playground. The systems-heavy interactivity and freedom at the core of immersive sims can just as easily be used to stifle and undermine as to liberate and empower, if paired with smart writing.
+- Thief 1 & 2 - narrow-but-deep expression of the genre. Less is often more in game design; by focusing on a smaller set of ideas, systems, and verbs, Thief establishes a world dripping with detail and carefully designed around physicality — space, sound, light, dark, and movement bring depth to its relatively simple set of mechanics.
+- Deus Ex - broad ambition, flexible systems, and varying situations. Consistency does not mean always offering a full suite of options, or even necessarily allowing the same solutions to always work; rather, it's in following the rules of the world, and if you're smart about it it could involve setting expectations that experimentation will be rewarded more so than rote behavior.
 - TES Morrowind - occasionally.
-- Vampire The Masquerade: Bloodlines.
+- Vampire The Masquerade: Bloodlines - a flawed but brilliant study of power fantasies. Artful use of scripting can configure and reconfigure player expectations, even in games that prize player freedom and emergence.
 - Pathologic.
 - S.T.A.L.K.E.R.
 - Bioshock + second DLC of Bioshock Infinite.
 - Deus Ex: Human Revolution.
-- Dishonored.
+- Dishonored 1 & 2 - seamless possibility spaces meet masterful world building. Giving players full agency to play how they want takes two key design considerations: on the one hand, a diverse, inventive suite of tools and verbs, and on the other smart level design that allows freedom to solve problems in any way the player can imagine.
 - Prey.
-- +Dark Messiah of Might and Magic. Some other games have Immersive Sim components too: Hitman Blood Money (with 1st person), Metal Gear Solid V (with its AI system), Fallout New Vegas (with its 1st person view and hardcore mode).
+- Arx Fatalis - an immersive RPG. The beating heart of an immersive sim is its world — make that feel tangible and rewarding to simply exist in and you'll have achieved much of the central ideal of the genre: the sense of immersion in one's virtual surroundings.
+- Dark Messiah of Might and Magic.
+- My Summer Car - the future of immersive sims. Immersive sims don't need to have sci fi or fantasy themes; they can be set just as easily in the life of an unextraordinary person in decidedly ordinary circumstances.
+
+Some other games have Immersive Sim components too: Hitman Blood Money (with 1st person), Metal Gear Solid V (with its AI system), Fallout New Vegas (with its 1st person view and hardcore mode).
+
+> An immersive sim can be anything so long as it's consistent and reactive and its world feels alive.
 
 ## Metroidvania
 
