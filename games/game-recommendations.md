@@ -18,12 +18,6 @@ Here are the best fightings according to [Reddit](https://www.reddit.com/r/Fight
 
 - Tekken 3 is the best fighting of PS One epoch, Tekken 7 is currently the best in the series in terms of the gameplay and the novelty. Also, Tekken 7 is the best fighting to get into online.
 
-- Soulcalibur 2.
-
-- Mortal Kombat 9 (sometimes MK 11 or just MK).
-
-- The others would be Super Smash Brother Melee and Super Smash Bros 64 (according to [Reddit](https://www.reddit.com/r/AskReddit/comments/459z3g/what_is_the_best_fighting_game_ever/?sort=top).
-
 - Dragon Ball series: 
 
   - FighterZ is objectively the best fighting game because it's designed to actually be competitive and the art/animation is freaking beautiful, but they focused more on competitive online multiplayer instead of a lengthy storymode full of unlockable characters.
@@ -31,52 +25,53 @@ Here are the best fightings according to [Reddit](https://www.reddit.com/r/Fight
 
   > If you're looking for strictly a fighting game, FighterZ wins hands down. Budokai 3 is superior though if you aren't looking to play online competitive multiplayer and want to dig through story content with a lot of things to unlock.
 
-## Role-playing games
+- Soulcalibur 2.
 
-### The Legend of Zelda
+- Mortal Kombat 9 (sometimes MK 11 or just MK).
 
-Here are the best The Legend of Zelda games:
+- The others would be Super Smash Brother Melee and Super Smash Bros 64 (according to [Reddit](https://www.reddit.com/r/AskReddit/comments/459z3g/what_is_the_best_fighting_game_ever/?sort=top).
 
-- The Legend of Zelda: Ocarina of time. The best way to play this game is through Nintendo 3DS. You can use Citra emulator in order to do this but it isn't that stable. Nonetheless, people say that OoT runs well on this emulator. The other way to play this game is to use the latest Project64 with the [GLideN64](http://www.emucr.com/2016/10/gliden64-git-20161016.html) plugin upscaled and played with true unstretched [widescreen](http://i.imgur.com/EEe7Wrx.jpg), it also supports high res textures [[Reddit](https://www.reddit.com/r/emulation/comments/5ajs18/best_way_to_play_emulated_ocarina_of_time_in_2016/?sort=top)].
-- The Legend of Zelda: Majora's Mask.
-- The Legend of Zelda: Breath of the Wild.
-- The Legend of Zelda: Twilight Princess.
+## Hack 'n' Slash (character action games)
 
-### Pokemon
+- Devil May Cry:
 
-After googling I find out that the best Pokémon games (for me) are a pair of core series Generation III games that are set in the Kanto region (the first region - classic):
+  > But 1, 3, and 5 are all mast erpieces. 4 is just another solid game in comparison.
 
-- Pokémon FireRed / LeafGreen versions - are the enhanced remakes to the original Japanese Pokémon games (Red and Green) for the Game Boy Advance. While Fire Red was a remake of Pokémon Red, LeafGreen was a remake of the Japan-only Pokémon Green. Pokémon Green had previously been a Japan exclusive, being replaced by Pokémon Blue in the US. Regardless, the Green remake was chosen for the US editions [[WIKI]([https://nintendo.fandom.com/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen](https://nintendo.fandom.com/wiki/Pokémon_FireRed_and_LeafGreen))]. Yeah, this is hard!!! :laughing:
-- Other great Pokémon games are Pokémon HeartGold/ SoulSilver.
+  - DMC5: Mechanically the best game in the series.
+  - DMC3 (with 2): was genre defining, had the best story, perfect representation of the series.
+  - DMC1: literally create a genre (Character action games or, to be more precise, Character Hack 'n' Slash games).
+  - DMC4 - Aged better in terms of story and gameplay. Hated the fact it was rushed. 3 to 4 added onto the incredible combat and made it even more nuts. Some players over rate 4 because it was their first and that makes total and complete sense. But it has never been the best. Middle of the road game. And that's still a good thing because the DMC series is generally great.
+  - DmC - Gameplay wise it's extremely fun, it just bastardizes everything else.
+  - DMC2 - Ehhhh.
 
-### Chrono Trigger
+- Metal Gear Rising: Revengeance.
 
-Mixing epic RPG action and time travel, Chrono Trigger is one of the best and most popular games on the SNES as well as one of the greatest RPG’s of all time. With a complex story revolving around your group of heroes jumping from one time period to the next trying to stop the apocalypse, Chrono Trigger presented amazing aesthetics, a fantastic musical score, endearing characters, an innovative battle system, multiple endings and even a major character’s death – we won’t say who, but it was unheard of at the time.
+- NieR:Automata.
 
-### Persona
+- Ninja Gaiden Black + 2.
 
-> This is one of the best anime games according to [Reddit](https://www.reddit.com/r/anime/comments/brovbl/good_anime_games/).
+- Onimusha (PS2) series isn't 'pure' hack-and-slash but still has some cool melee stuff going on (and moreso as the series progressed).
 
-According to [Reddit](https://www.reddit.com/r/PERSoNA/comments/9mbj87/whats_the_general_consensus_on_best_persona_game/):
+- Bayonetta 2. It's just so well put together and satisfying to play.
 
-- Persona 3 - 5 and 3 are a tie. The story of 3 is better, thematically strong, good characters who all get a fair amount of screen time. Persona 5 is a better **game** but not worth replaying. 
-- Persona 5 and Persona 2. 5 has the worst story but amazing gameplay and characters though they don't get any worthwhile development. Overall, the game is solid tho. 2 has meh gameplay but that story. And all the characters are amazing too.
 
-### Ni no Kuni
 
-> This is one of the best anime games according to [Reddit](https://www.reddit.com/r/anime/comments/brovbl/good_anime_games/).
+## Immersive Sims
 
-- Ni no Kuni 1 - the art style is by Studio Ghibli and it is an awesome RPG with some Pokémon like aspects too where you collect and evolve familiars.
-- Ni no Kuni 2 is less cool than the first but it has more abilities to build your army.
+- System shock 1 & 2.
+- Thief 1 & 2.
+- Deus Ex.
+- TES Morrowind - occasionally.
+- Vampire The Masquerade: Bloodlines.
+- Pathologic.
+- S.T.A.L.K.E.R.
+- Bioshock + second DLC of Bioshock Infinite.
+- Deus Ex: Human Revolution.
+- Dishonored.
+- Prey.
+- +Dark Messiah of Might and Magic. Some other games have Immersive Sim components too: Hitman Blood Money (with 1st person), Metal Gear Solid V (with its AI system), Fallout New Vegas (with its 1st person view and hardcore mode).
 
 ## Metroidvania
-
-### Metroid
-
-According to [Reddit 1](https://www.reddit.com/r/Metroid/comments/1rwsx8/how_would_you_rank_the_games_best_to_worst/) and [Reddit 2](https://www.reddit.com/r/Metroid/comments/9gcby0/what_are_your_top_5_metroid_games/):
-
-- Metroid: Prime (some people say that Prime 2 is better than the first one because it is more polished).
-- Super Metroid.
 
 ### Castelvania
 
@@ -86,7 +81,21 @@ According to [Reddit 1](https://www.reddit.com/r/castlevania/comments/96ldav/wha
 - Rondo of Blood - probably the best game in the entire series
 - Aria of Sorrow - one of the best stories and gameplay.
 
+### Metroid
+
+According to [Reddit 1](https://www.reddit.com/r/Metroid/comments/1rwsx8/how_would_you_rank_the_games_best_to_worst/) and [Reddit 2](https://www.reddit.com/r/Metroid/comments/9gcby0/what_are_your_top_5_metroid_games/):
+
+- Super Metroid.
+- Metroid: Prime (some people say that Prime 2 is better than the first one because it is more polished).
+
 ## Platforms
+
+### Donkey Kong
+
+According to [Reddit](https://www.reddit.com/r/nintendo/comments/6vcx5r/whats_your_favorite_donkey_kong_game_from_the/):
+
+- Donkey Kong Country 2: Diddy's Kong Quest.
+- Donkey Kong Country: Tropical Freeze.
 
 ### Mario
 
@@ -97,20 +106,19 @@ According to [Reddit 1](https://www.reddit.com/r/nintendo/comments/6a080g/super_
 - Super Mario 64 - It was a super creative transition into 3D gaming.
 - The others would be Galaxy 1 and 2 (the second is slightly better than the first one but both are the best among 3D), classic Super Mario Bros and Super Mario Odyssey.
 
-### Donkey Kong
-
-According to [Reddit](https://www.reddit.com/r/nintendo/comments/6vcx5r/whats_your_favorite_donkey_kong_game_from_the/):
-
-- Donkey Kong Country 2: Diddy's Kong Quest.
-- Donkey Kong Country: Tropical Freeze.
-
 ### Mega Man
 
-According to [Reddit 1](https://www.reddit.com/r/patientgamers/comments/9l4jgs/what_is_the_best_mega_man_game_in_2018/?sort=top), [Reddit 2](https://www.reddit.com/r/Megaman/comments/9mlkkp/what_is_the_best_mega_man_game_out_of_the_entire/?sort=top), and [Reddit 3](https://www.reddit.com/r/Megaman/comments/aahasi/what_do_you_think_is_the_best_mega_man_game/):
+According to [Reddit 1](https://www.reddit.com/r/patientgamers/comments/9l4jgs/what_is_the_best_mega_man_game_in_2018/?sort=top), [Reddit 2](https://www.reddit.com/r/Megaman/comments/9mlkkp/what_is_the_best_mega_man_game_out_of_the_entire/?sort=top), [Reddit 3](https://www.reddit.com/r/Megaman/comments/aahasi/what_do_you_think_is_the_best_mega_man_game/), and [Reddit 4](reddit.com/r/Megaman/comments/8tlvvq/is_it_worth_playing_every_megaman_game/?sort=top):
 
-- Mega Man 2 and Mega Man 3 are wildly considered the best of the original series. I tried them and must admit that they have annoying backgrounds.
-- Mega Man X is the best of the X series.
-- Mega Man Zero 3 for story.
+>Most of the series is pretty redundant. I’d say start at Mega Man 2, 7, X and X4.
+
+- **Mega Man 2** and Mega Man 3 are wildly considered the best of the original series (especially 2). I tried them and must admit that they have annoying backgrounds. Don't pick 3 to start with. It's a good game but it's Incredibly hard and Longer than the other classic games. Also among them, people still distinguish Mega Man 7 (how many of them :().
+
+- **Mega Man X** is the best of the X series. The original Mega Man X was remade on the PlayStation Portable as Mega Man: Maverick Hunter X. On December 21, 2011, another remake of Mega Man X was released for download on the iPhone and iPad. X2 and X4 are good too, but someone thinks X4 is *the* best in that series and in the franchise as a whole.
+
+  > If you like X, then I highly recomment X2 - 4 as well (4 has some terrible voice work, but also some fantastic gameplay.)
+
+- Mega Man Zero is the hardest Mega Man series, the gameplay is similar to X but more fast and fluid, it has a very interesting plot and a conclusion, the music is top tier. 1 and 2 are especially worth it. Mega Man Zero 3 for story. 
 
 ### Sonic
 
@@ -118,6 +126,45 @@ Classic:
 
 - Sonic the Hedgehog 1
 - Sonic the Hedgehog 2 - Sega’s answer to Mario, Sonic arrive to to carry the Genesis brand name. While the original Sonic and its second sequel, Sonic 3, were fantastic games in their own right, the blue Hedgehog’s best adventure was his second go-around. Dazzling speed with beautifully rich and colourful levels, Sonic the Hedgehog 2 pits the titular character and his companion Tails against the evil Dr. Robotnik. Make sure to collect enough rings to enter the special stages, allowing you to transform into Super Sonic.
+
+## Role-playing games
+
+### Chrono Trigger
+
+Mixing epic RPG action and time travel, Chrono Trigger is one of the best and most popular games on the SNES as well as one of the greatest RPG’s of all time. With a complex story revolving around your group of heroes jumping from one time period to the next trying to stop the apocalypse, Chrono Trigger presented amazing aesthetics, a fantastic musical score, endearing characters, an innovative battle system, multiple endings and even a major character’s death – we won’t say who, but it was unheard of at the time.
+
+### Ni no Kuni
+
+> This is one of the best anime games according to [Reddit](https://www.reddit.com/r/anime/comments/brovbl/good_anime_games/).
+
+- Ni no Kuni 1 - the art style is by Studio Ghibli and it is an awesome RPG with some Pokémon like aspects too where you collect and evolve familiars.
+- Ni no Kuni 2 is less cool than the first but it has more abilities to build your army.
+
+### The Legend of Zelda
+
+Here are the best The Legend of Zelda games:
+
+- The Legend of Zelda: Ocarina of time. The best way to play this game is through Nintendo 3DS. You can use Citra emulator in order to do this but it isn't that stable. Nonetheless, people say that OoT runs well on this emulator. The other way to play this game is to use the latest Project64 with the [GLideN64](http://www.emucr.com/2016/10/gliden64-git-20161016.html) plugin upscaled and played with true unstretched [widescreen](http://i.imgur.com/EEe7Wrx.jpg), it also supports high res textures [[Reddit](https://www.reddit.com/r/emulation/comments/5ajs18/best_way_to_play_emulated_ocarina_of_time_in_2016/?sort=top)].
+- The Legend of Zelda: Majora's Mask.
+- The Legend of Zelda: Breath of the Wild.
+- The Legend of Zelda: Twilight Princess.
+
+### Persona
+
+> This is one of the best anime games according to [Reddit](https://www.reddit.com/r/anime/comments/brovbl/good_anime_games/).
+
+According to [Reddit](https://www.reddit.com/r/PERSoNA/comments/9mbj87/whats_the_general_consensus_on_best_persona_game/):
+
+- Persona 3 - 5 and 3 are a tie. The story of 3 is better, thematically strong, good characters who all get a fair amount of screen time. Persona 5 is a better **game** but not worth replaying. Persona 3 FES is honestly better than PSP version. 
+  P3P has the Female MC option to give you something new to do if you're already done all the social links with the Male MC. Battling is better in P3P since you can control all your party members. Outside battles and dungeons P3P is more of a visual novel style. You don't run around town, you just move a cursor. P3P doesn't have the animated cutscenes. P3P doesn't have the Answer included with it like FES does, but the Answer is boring anyway. The best way to experience it is through youtube for some story-line closure. The best way to play is with P3P while watching the animated cutscenes on youtube.
+- Persona 5 and Persona 2. 5 has the worst story but amazing gameplay and characters though they don't get any worthwhile development. Overall, the game is solid tho. 2 has meh gameplay but that story. And all the characters are amazing too.
+
+### Pokemon
+
+After googling I find out that the best Pokémon games (for me) are a pair of core series Generation III games that are set in the Kanto region (the first region - classic):
+
+- Pokémon FireRed / LeafGreen versions - are the enhanced remakes to the original Japanese Pokémon games (Red and Green) for the Game Boy Advance. While Fire Red was a remake of Pokémon Red, LeafGreen was a remake of the Japan-only Pokémon Green. Pokémon Green had previously been a Japan exclusive, being replaced by Pokémon Blue in the US. Regardless, the Green remake was chosen for the US editions [[WIKI]([https://nintendo.fandom.com/wiki/Pok%C3%A9mon_FireRed_and_LeafGreen](https://nintendo.fandom.com/wiki/Pokémon_FireRed_and_LeafGreen))]. Yeah, this is hard!!! :laughing:
+- Other great Pokémon games are Pokémon HeartGold/ SoulSilver.
 
 ## Strategies
 
@@ -140,41 +187,3 @@ Classic:
 - Starcraft 1-2. Some people say Warcraft (especially the 3rd one) > Starcraft.
 
 - Age of Mythology - my own first strategy video game <3
-
-## Immersive Sims
-
-- System shock 1 & 2.
-- Thief 1 & 2.
-- Deus Ex.
-- TES Morrowind - occasionally.
-- Vampire The Masquerade: Bloodlines.
-- Pathologic.
-- S.T.A.L.K.E.R.
-- Bioshock + second DLC of Bioshock Infinite.
-- Deus Ex: Human Revolution.
-- Dishonored.
-- Prey.
-- +Dark Messiah of Might and Magic. Some other games have Immersive Sim components too: Hitman Blood Money (with 1st person), Metal Gear Solid V (with its AI system), Fallout New Vegas (with its 1st person view and hardcore mode).
-
-## Hack 'n' Slash (character action games)
-
-- Devil May Cry:
-
-  > But 1, 3, and 5 are all mast erpieces. 4 is just another solid game in comparison.
-  - DMC5: Mechanically the best game in the series.
-  - DMC3 (with 2): was genre defining, had the best story, perfect representation of the series.
-  - DMC1: literally create a genre (Character action games or, to be more precise, Character Hack 'n' Slash games).
-  - DMC4 - Aged better in terms of story and gameplay. Hated the fact it was rushed. 3 to 4 added onto the incredible combat and made it even more nuts. Some players over rate 4 because it was their first and that makes total and complete sense. But it has never been the best. Middle of the road game. And that's still a good thing because the DMC series is generally great.
-  - DmC - Gameplay wise it's extremely fun, it just bastardizes everything else.
-  - DMC2 - Ehhhh.
-
-- Metal Gear Rising: Revengeance.
-
-- NieR:Automata.
-
-- Ninja Gaiden Black + 2.
-
-- Onimusha (PS2) series isn't 'pure' hack-and-slash but still has some cool melee stuff going on (and moreso as the series progressed).
-
-- Bayonetta 2. It's just so well put together and satisfying to play.
-
