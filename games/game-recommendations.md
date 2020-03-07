@@ -27,7 +27,13 @@ Here are the best fightings according to [Reddit](https://www.reddit.com/r/Fight
 
 - Soulcalibur 2.
 
-- Mortal Kombat 9 (sometimes MK 11 or just MK).
+- Mortal Kombat series according to [Reddit 1](https://www.reddit.com/r/MortalKombat/comments/ap39oc/whats_your_favourite_mortal_kombat_game/?sort=top) and [Reddit 2](https://www.reddit.com/r/MortalKombat/comments/72wjg9/rank_every_mk_game/?sort=top):
+
+  - the best is 9 (sometimes MK 11 or just MK).
+  - Mortal Kombat Deception (and then Armageddon). I tried this game. It's fun, but you need to grind too much to get cool items. Although, these items could be arts or photos which is strange. This one has cool modes among among which there is Tetris, and also  The Konquest Mode, which people like.
+  - MK3/UMK3/MKT - best original game.
+  - MK 2.
+  - MKX. Mind blowing graphics, a top notch story and awesome new characters, but those in game purchases...
 
 - The others would be Super Smash Brother Melee and Super Smash Bros 64 (according to [Reddit](https://www.reddit.com/r/AskReddit/comments/459z3g/what_is_the_best_fighting_game_ever/?sort=top).
 
@@ -70,6 +76,7 @@ Many things were taken from this [source](https://www.gamasutra.com/view/news/31
 - Bioshock + second DLC of Bioshock Infinite.
 - Deus Ex: Human Revolution.
 - Dishonored 1 & 2 - seamless possibility spaces meet masterful world building. Giving players full agency to play how they want takes two key design considerations: on the one hand, a diverse, inventive suite of tools and verbs, and on the other smart level design that allows freedom to solve problems in any way the player can imagine.
+- The Long Dark.
 - Prey.
 - Arx Fatalis - an immersive RPG. The beating heart of an immersive sim is its world — make that feel tangible and rewarding to simply exist in and you'll have achieved much of the central ideal of the genre: the sense of immersion in one's virtual surroundings.
 - Dark Messiah of Might and Magic.
