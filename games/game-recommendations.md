@@ -1,5 +1,15 @@
 # Game recommendations
 
+## Action-adventures
+
+### Tomb Raider
+
+The best Tomb Raider games according to [Reddit 1](reddit.com/r/TombRaider/comments/bew13k/whats_your_favoriteleast_favorite_tomb_raider_game/), [Reddit 2](https://www.reddit.com/r/TombRaider/comments/52ng6r/by_far_what_is_your_favorite_tomb_raider_game/), [Reddit 3](https://www.reddit.com/r/TombRaider/comments/7uh7lb/best_tomb_raider_game_you_guys_played/?sort=top), [Reddit 4](https://www.reddit.com/r/TombRaider/comments/454yvi/the_old_tomb_raider_games_are_really_amazing/):
+
+- Tomb Raider and Tomb Raider II: Starring Lara Croft are the best in the Original Timeline and the best in the whole franchise.
+- Tomb Raider: Legend is the best one in the Legend Timeline (I wouldn't say it after the StopGame streams). Also, people say that Tomb Raider: Anniversary is great too.
+- Rise of the Tomb Raider is the best game in the Survivor Timeline, it is like a perfect mix of action and puzzles. Shadow of the Tomb Raider is good, but in terms of puzzles. Tomb Raider is an action based game.
+
 ## Fightings
 
 Here are the best fightings according to [Reddit](https://www.reddit.com/r/Fighters/comments/8aodlb/best_fighting_games_of_all_time/):
