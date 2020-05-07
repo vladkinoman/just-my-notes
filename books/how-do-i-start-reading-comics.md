@@ -40,7 +40,7 @@ Ukraine:
 - [Cosmic.com.ua](https://cosmic.com.ua/ua/), [comics in original](https://cosmic.com.ua/ua/comics-en/) - Dnipro
 - [Comics.ua](https://comics.ua/), [comics in original](https://comics.ua/shop/komiksy/?rdrf[fil][6][0]=10)- Kiev
 - [OnTheBus.com.ua](https://www.onthebus.com.ua/), [comics in original](https://www.onthebus.com.ua/komiksy/angliyskiy/) - Odessa
-- [Ideo-grafika.com](https://www.ideo-grafika.com/comics/), [https://www.ideo-grafika.com/comics/](comics in original) - Kiev
+- [Ideo-grafika.com](https://www.ideo-grafika.com/comics/), [comics in original](https://www.ideo-grafika.com/comics/?swoof=1&pa_lang=english&really_curr_tax=88-product_cat) - Kiev
 - [Comxland.com](https://comxland.com/catalog/komiksy), [comics in original](https://comxland.com/catalog/komiksy?min_price=30&max_price=1690&6%5B0%5D=%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9) - Kiev
 - [Comics page on Geekach.com.ua](https://geekach.com.ua/komiksy/), it feels like there is no Original - Kiev, Kharkiv
 
