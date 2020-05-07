@@ -4,6 +4,10 @@
 
 This is where I store bookmarks from my browser (mostly from Brave) and subscriptions of the *Youtube subscription manager* (extension for Chrome/Brave and Firefox).
 
+## books
+
+This folder primarily contains all my notes collected while reading various books and comics.
+
 ## computer-science
 
 This folder contains primarily all my notes collected during my university studies in Computer Science and courses on [coursera.org](coursera.org).
