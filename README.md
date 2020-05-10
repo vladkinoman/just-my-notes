@@ -75,6 +75,10 @@ Notes on creating a program + my own programs (or trainer's programs) which I wi
 
 This folder contains my notes I wrote while studying Russian. I know the language, but I can improve this knowledge.
 
+## schedule
+
+This folder contains my notes on schedule, how I set it up, what kind of holidays I think are right for me and so on.
+
 ## software 
 
 Notes on the use of various software for development, multimedia software, editors, etc.
