@@ -1,6 +1,39 @@
-# *Best* comics to read
+# Best comics to read
 
-## Zero answer
+## Table of Contents
+
+- [Various answers](#Various-answers)
+- [Even more opinions](#Even-more-opinions)
+- [Bonus answer - Essential Graphic Novels Everyone Should Read](#Bonus-answer---Essential-Graphic-Novels-Everyone-Should-Read)
+- [Bonus answer - the only mention of Transmetropolitan](#Bonus-answer---the-only-mention-of-Transmetropolitan)
+- [Best Batman comics to read](#Best-Batman-comics-to-read)
+- [Best Comics about the Joker](#Best-Comics-about-the-Joker)
+- [Batman and Joker](#Batman-and-Joker)
+- [Dark comics, especially related to Batman](#Dark-comics-especially-related-to-Batman)
+- [Where to start with Green Lantern?](#Where-to-start-with-Green-Lantern)
+- [Best Harley Quinn comics](#Best-Harley-Quinn-comics)
+- [Best authors](#Best-authors)
+  - [Alan Moore](#Alan-Moore)
+  - [Ed Brubaker](#Ed-Brubaker)
+  - [Warren Ellis](#Warren-Ellis)
+  - [Jonathan Hickman](#Jonathan-Hickman)
+  - [Jeff Lemire](#Jeff-Lemire)
+  - [Frank Miller](#Frank-Miller)
+  - [Grant Morrison](#Grant-Morrison)
+  - [Rick Remender](#Rick-Remender)
+  - [Greg Rucka](#Greg-Rucka)
+  - [Scott Snyder](#Scott-Snyder)
+  - [Brian K. Vaughan](#Brian-K-Vaughan)
+  - [Mark Waid](#Mark-Waid)
+  - [Honorable mentions](#Honorable-mentions)
+- [Conclusion](#Conclusion)
+- [References](#References)
+
+## Various answers
+
+> **Bold** - means a name that people mention a lot.
+>
+> *Italic* - means a name that people mention a lot, but not as often as **Bold**.
 
 I'm not a fan of this sentiment at all, I don't think anyone gets to decide what makes someone a "true" fan of something and I especially wouldn't say someone wasn't a true fan for not having read books like Age of Ultron and Civil War, highly flawed as they are.
 
@@ -12,7 +45,7 @@ That aside, my favorites that I recommend to everybody:
 - **Bone** by Jeff Smith
 - Stray Bullets by David Lapham
 
-## First answer
+---
 
 There can’t really be a MUST read list, because comics appeal to many different audiences for many different reasons.
 
@@ -28,7 +61,7 @@ Someone:
 
 > I like this answer because it recognizes that "true comic book fan" should probably include the entire medium and not just one (dominant) genre/region.
 
-## Second answer
+---
 
 I can say, Civil War and Age of Ultron, would not be on many lists.
 
@@ -40,7 +73,7 @@ But top 5 I would recommend:
 4. Little Nemo
 5. Calvin and Hobbes
 
-## Third answer
+---
 
 **STANDALONE STORIES**
 
@@ -68,7 +101,7 @@ But top 5 I would recommend:
 4. Your Choice of Amazing Spider-Man by Nick Spencer or Friendly Neighborhood Spider-Man by Tom Taylor
 5. [reserve spot for Jonathan Hickman's House of X and Powers of X and whatever X-Men stuff of his comes next]
 
-## Fourth answer (various answers)
+---
 
 2: **Watchmen**, **The Dark Knight Returns**, The Dark Phoenix Saga, **Kingdom Come**, and Kraven’s Last Hunt.
 
@@ -84,7 +117,7 @@ But top 5 I would recommend:
 >
 > America is a good introduction, other than the Case Files. It is fantastic. Of course, I may be somewhat biased because that is the only Dredd I have read. However as Hugo said (two big paragraphs above), from what I've heard Dredd, it is best to read most stuff in order.
 
-## Fifth answer
+---
 
 In no particular order:
 
@@ -100,7 +133,7 @@ In no particular order:
 - **Batman: The Long Halloween** (Jeph Loeb & Tim Sale)
   "+" in other answer: **Kingdom Come** - Even if you don't regularly read their comics, you will know a lot of characters and the art is fantastic.
 
-## Sixth answer
+---
 
 1. **Watchmen**
 2. **Sandman**
@@ -115,7 +148,7 @@ In no particular order:
 
 > Where do you suggest to start with marvel? - By Marvels, I assume he means the (excellent) series by Kurt Busiek and and Alex Ross, not the entire Marvel Universe. That would be a tad excessive as a recommendation.
 
-## Seventh answer
+---
 
 James Robinson - *Starman*
 
@@ -139,7 +172,7 @@ John Layman - Chew
 
 > Fuck, I forgot Starman! I have to change my list, shit. Good call.
 
-## Eights answer
+---
 
 1. All-Star Superman : This is a story that can make even the biggest Superman detractors fall in love with the guy. This is the quintessential Superhero story.
 2. **Kingdom Come** : This is an epic. Alex Ross' art gives it the same feel, and it almost feels like mythology. It's amazing.
@@ -147,7 +180,7 @@ John Layman - Chew
 4. Infinite Crisis : Another Crisis. This shows that we don't need darkness to create good stories. Stories don't need to be dark and edgy for the sake of it. You know what's better than one Superman? Two of them.
 5. Geoff Johns' **Green Lantern** : This man brought the GL franchise from zero. He built on the legacy that was left by his previous writers and left it at a level that I don't think any other human can. Such innovation, and so many incredible ideas.
 
-## Ninth answer - even more opinions :)
+## Even more opinions
 
 143: I really liked the graphic novel **Bone** it had a really interesting story about each character, especially the old humans. It incorporated humor and drama that got me wondering about life in like fifth grade. And of course the Adventures of Tintin.
 
@@ -246,7 +279,7 @@ Bonus:
 
     "+" **The Sandman**.
 
-## Bonus answer - What are the the "must read" graphic novels?
+---
 
 38: "From hell" by Alan Moore. Revolves around the mystery of Jack the ripper. With insight to lot of conspiracy theories and postulations. Everything in the book is meticulously detailed and researched, down right the weather of the particular scene. It's extensive and an achievement in the medium. For me from hell represents the maximum potential of the graphic novel as a medium.
 
@@ -351,7 +384,7 @@ You are going to get a lot of recommendations for **Year One** and **The Dark Kn
 
 > EDIT: also Batman Earth One by Geoff Johns and Gary Frank.
 
-## Best Comics about the Joker?
+## Best Comics about the Joker
 
 ### First answer
 
@@ -517,7 +550,7 @@ Other's: *Death in the Family, Arkham Asylum, Long Halloween*.
 
 > Aside from all the mentioned and you're also interested in the animated universe, Return of the Joker's pretty grim.
 
-## Where to start with Green Lantern?
+## Where to start with Green Lantern
 
 Most people would tell you to start with **Green Lantern: Rebirth**, but I think that story is a bit confusing for a new reader. So here is a list of the events that take place before that story in chronological order. The **bold** ones are a part of Geoff John's run while the *italic* ones are from the 90's:
 
@@ -533,7 +566,7 @@ Most people would tell you to start with **Green Lantern: Rebirth**, but I think
 
 **Green Lantern: Rebirth**
 
-## Best Harley Quinn comics?
+## Best Harley Quinn comics
 
 **Batman: Mad Love**. I feel like it's the only good Harley comic. I personally think she hasn't been that great since B:TAS, but that's just me. Batman Adventures: My Boyfriend's Back and A Wedding to Die For are also gems.
 
@@ -541,9 +574,169 @@ Harley and Ivy is also a lot of fun but it's nothing serious. Her Pre New 52 sol
 
 In the New 52 she has gone through so many changes, in one issue she was killing 20 kids with bombs, in another she was shown with puppies and being a sweetheart. The New 52 Suicide Squad run was atrocious imo, and Palmiotti and Conner write her as Deadpool basically with same randomness and insanity.
 
+## Best authors
+
+### Alan Moore
+
+What's there to really say? Probably the greatest comic writer of all time. Has a thorough understanding of the history of not only the characters he's writing, but literature in general. And is able to weave an incredible amount of ideas in to the smallest amount of details in a panel.
+
+First comic I read was Watchmen, I was pretty young maybe 13. Didn't fully get it at the time, but loved the scope, characters and style of storytelling. It was one of the first times in my life I read a book because I enjoyed it. I've read much of his work and have seriously enjoyed virtually every one.
+
+Because he takes comics to another level of depth, creativity and realism. He exemplifies taking the medium to another level. **Watchmen**, Miracleman, V for Vendetta, Supreme, **Swamp Thing** and **From Hell** are some of the best ever done.
+
+Has a knack for real thematic depth and insight into human nature with a ton of great quotes while still writing stories that are entertaining even just from a relatively shallow perspective.
+
+> Best story arcs-Watchmen, Killing Joke, The Floronic Man arc of Swamp Thing
+
+The best there is. Comics would be completely different without him. No one has had a bigger impact since the 80s.
+
+What can I say that hasn’t already been said? great writer
+
+### Ed Brubaker
+
+Criminal is one of my favorite sagas in comics and everything he and Sean Phillips have done together I’ve loved, especially *The Fade Out*. Top notch stuff.
+
+Others have mentioned this, but he's really mastered mystery writing. If you've ever picked up his singles and read the backmatter, you can see why. He's always checking out the classics whether it's novels, film, or comics.
+
+I love crime stories and his takes have never disappointed, but he also has some fun superhero tales mixed in. Criminal, Fatale, Incognito, X-Men.
+
+Ed Brubaker - Fatale, Incognito, Kill or Be Killed, *Fade Out* etc.
+
+Everything he's done with Sean Phillips is amazing.
+
+### Warren Ellis
+
+Does high concept stuff really well similar to Morrison, but tackles more modern subject matter. Most notably technology. He also writes “realistic” superheroes the best.
+
+Able to write in so many different styles. Usually is able to insert his sense of occasionally juvenile humor. A bit of a futurist with nostalgia for certain things past, it's always interesting to see where he thinks we might be headed.
+
+His work makes me scared to be in his head. I love that he is never afraid to try anything good or bad. Transmetropliton, Global Frequency, Plantary, Authority, Black Summer, The Wild Storm.
+
+One of comics' best thinkers. Not always the best execution but certainly aiming higher than most out there.
+
+His imaginative and creativity is awesome.
+
+My go-to for a fix of out-there science fiction concepts and ascerbic social and political commentary.
+
+### Jonathan Hickman
+
+A world-builder extroardinaire with a flair for long-game storytelling and a wicked sense of humour. 
+
+He can make complex stories a breeze. 
+
+A long form story telling god, East of West and his Secret Wars saga speak for themselves in this regard. favorite work- East of West
+
+His Avengers/New Avengers saga, concluded in Secret Wars is one of my favorite epics of the medium. Beyond that his indie work is similarly incredible.
+
+### Jeff Lemire
+
+I feel like Lemire is someone who can just do it all. Doesn't matter what genre it is, or if it's even a genre work at all. He can tell a story about two people sitting in a room and it's as interesting as anything. He's great at making his characters feel very human and real, no matter what the situation around them is.
+
+This guy has an amazing ability to tug on your heartstrings. Damn good artist, too.
+
+He is an amazing writer. he knows how to tug at heartstrings and really make you feel for characters. the king of melancholy writing. favorite work- Black Hammer.
+
+His ability to bring something new to established heroes as well as create compelling original stories and characters is very impressive. Moon Knight, Animal Man and Justice League Dark are all fresh and interesting takes and Black Hammer and Sweet Tooth are both incredible stand alone series.
+
+### Frank Miller
+
+He reinvented Batman with **The Dark Knight Returns** and **Year One**, but his work on Daredevil saved the character and turned him into a heartbeat of the Marvel Universe. I love his dialogue and ability to put a Eastwood quote into any situation. He coveys underlying sadness and guilt effortlessly. Both *Daredevil* runs, Just Dark Knight Returns And Year One, 300, Sun City, Ronin.
+
+He's a legend. Like Alan Moore, he is undoubtedly one of the GOATs. Looking past his incredible (and much celebrated) Batman work and Sin City, his four issue Wolverine story is a personal favorite.
+
+### Grant Morrison
+
+Like Moore, has a great understanding of the characters he's writing, and knowledge beyond just the comic format. While Moore is generally more subtle in his approach to getting ideas across, Morrison takes the wildest route imaginable. It's usually bombastic and weird, yet always in homage to those that came before him.
+
+I think he’s the greatest writer in the medium’s history. He can do really high concept stuff like The Invisibles or Final Crisis better than anyone.
+
+He makes me think harder than any other writer.
+
+The writer who got me into comics, his Batman is my favorite run and his Vertigo work are some of the best written comics.
+
+Great at high-concept, out-of-this world storytelling. Love his take on superheroes and superhumanity as allegories for humanity striving to be the best possible version of itself, and I dig the generally optimistic worldview many of his stories promote (Even his darker stories have a hopeful undertone to them).
+
+Don't really have anything to add that hasn't been said better by other people but his way of making super stories feel fresh while also very true to their roots is basically unmatched
+
+### Rick Remender
+
+His work tends to feel extremely personal in a way that I don't really see from anyone else. Which isn't to say no one else's work *is* personal to them, but Remender just writes in a way that really shows it. You can easily see what the real-world themes behind the stories are, and it's always very human. It leaves me thinking not only about the specific stories he tells and the characters within them, but how the greater ideas apply to me and my own life. Obviously that's all subjective, and the themes he tends to explore are often relevant to me in the first place.
+
+Rick Remender- amazing story teller, often has unlikeable characters at first you learn to feel for. defiantly the most depressed writer on my list. favorite work- Deadly Class.
+
+> Haven’t heard much about Remender. What works do you recommend? - Mostly his Image books, they're some of my favorite comics, period. The best ones, in my opinion, are LOW, Tokyo Ghost, Black Science, Fear Agent, Deadly Class, Seven to Eternity, and Death or Glory.
+
+Creates these nothing characters and then twists and drags them through Hell without a possibility of relief. Deadly Class, Black Science, Fear Agent, X-Force and Low are inventive and fresh.
+
+### Greg Rucka
+
+Rucka is the one on this list who I've been a fan of the longest. His first Wonder Woman run way back is one of my favorite DC stories of all time, and his current books at Image are some of my favorites. He definitely has a type of character that his books tend to focus on, but I'm a fan of his style.
+
+Love his Wonder Woman, Batman, Gotham Central, and others; I've liked the vast majority of his work that I've read.
+
+Creates worlds that feel relatable. His characters have a weight to them-you can feel them. He would be here just for Lazarus, but Gotham Central, The Old Guard, Wonder Woman, Black Magic are all great stories...just noticed the strong female lead connection.
+
+Very similar reason to Brubaker with crime and spy stories, but Lazarus its self is a thing of beauty. Stumptown, Queen & Country, Veil, The Question, Wonder Woman.
+
+### Scott Snyder
+
+While I like a good portion of his DC work, his Vertigo and Image stuff is where he really shines in my opinion. The Wake, while not often talked about, is a favorite of mine. I'd love to see more Wytches and American Vampire. Hopefully Undiscovered Country doesn't end up in a similar situation.
+
+Batman is my favorite superhero. His Batman work is some of my favorite, from Black Mirror through New 52 Batman and his newer stuff like All-Star Batman, its one of the great runs on a character.
+
+Have only really read his Batman, but Snyder is a jack of all trades. He expertly balances plot, character development, emotion, blockbuster action, big speeches and horror. He always aims high and never phones in a story arc.
+
+> Best Story Arcs-Court Of Owls, Zero Year.
+
+### Brian K. Vaughan
+
+Between **Saga**, Y: The Last Man, and Paper girls, BKV is just *fun*. He has a great sense for balancing light, fun character stuff that makes you like his characters with the more serious, emotional stuff to get the best payoff possible when things start to go bad.
+
+**Saga** is the best comic series ever, imo. Serious credit also goes to Fiona Staples, but combined with Y and The Oath (Dr. Strange), he's one of my go tos.
+
+### Mark Waid
+
+Somewhat similar to Tomasi in terms of writing very human empathetic character driven stories. However, they have different strong suits. Mark Waid is better at having a character arc over the course of a larger story arc, but his individual emotional scene's don't work quite as well as Tomasi's. Also, his runs tend to have a lot of filler arcs without much character development (especially Flash and Daredevil). I like how he's optimistic, but isn't afraid to show his characters as flawed without making them anti heroes. 
+
+> Best story arcs-Superman Birthright, The Return Of Barry Allen, most of his Fantastic Four run.
+
+I think he's the best pure super hero writer it there. No matter the character he does great entertaining work. Daredevil, FF, Spidey are all amazing and he seems to be able to bring the most out of every hero.
+
+### Honorable mentions
+
+Jason Aaron: Great with heroes like Waid, especially Thor obviously, but also able to do good indie stuff. I feel like he's always solid no matter the book.
+
+Jeffrey Brown - his early autobio stuff is still my favourite thing in comics.
+
+Kurt Busiek, Mark Waid, Alan Davis, Roger Stern, Roy Thomas. Because they have written some of the best runs of all time, because they love superheroes, because they don't wish to deconstruct or decompress or derange or de anything, and because their work is smart, and most importantly, fun.
+
+> Kurt Busiek: Astro City and Conan. Both great reads.
+
+Mike Carey - There aren't many other writers out there who can better handle an epic fantasy comic. Mike Carey - Hellblazer, Lucifer, X-men.
+
+Chris Claremont - His X-men magnum opus. His X-Men runs, even when weird are interesting. He developed the superhero team I never can seem to completely stop reading and his issues are favorites.
+
+Peter David-makes me think about the psychology of the character more than anyone else. He is inventive and knows how to inject the kind of humor that make the Marvel movies work, but it is his deep characterization that makes him one of my favorites. Incredible Hulk and X-Factor.
+
+Al Feldstein - brilliant writer, he wrote some of EC’s best stories and paved the way for geniuses like Moore.
+
+Neil Gaiman - he writes stories and creates characters that drive my own imagination (**Sandman**). The most versatile writer I know.
+
+Kieron Gillen - A never-ending fountain of creativity with an incredible grasp of how comicbooks function as a medium, ceaselessly coming up with new ways to use that grasp to push comic book storytelling into new avenues.
+
+Geoff Johns - he knows how to bring wow moments in any comic he writes. Flash, **Green Lantern**.
+
+Mike Mignola: One of the best short story crafters out there. Great sense of mood, pacing and humor. Very poetic.
+
+Peter Milligan - as clever as Moore & Morrison, just check out *Enigma* to see why. His Hellblazer and X-Statix, X-Statix in particular is a great read. Also the Batman story Dark Night, Dark City.
+
+Russel- I love his views on society. I dont always agree with them, but I enjoy them nonetheless. I mean the man got me to pull the Wonder Twins. The Flintstones, Lone Ranger, Prez, God is disappointed in you.
+
+Jeff Smith - his characters, no matter how far fetched they are, seem real and relatable.
+
 ## Conclusion
 
-Best comic books: **Watchmen**, **Kingdom Come**, **The Dark Knight Returns**, **Sandman**, **Maus**, **From Hell**, **Persepolis**, **Planetary**, **Bone**, **Saga**, **Green Lantern** by Geoff Johns (+**Green Lantern: Secret Origin**), **Saga of the Swamp Thing** (+ [Hellblazer (Constantine)](https://www.amazon.com/dp/1401230067) | Delano, Ennis, et al. is also good), *Starman*, *Fables*, *Preacher*, Transmetropolitan, *Daredevil Born Again*, *Judge Dredd: America*.
+Best comic books: **Watchmen**, **Kingdom Come**, **The Dark Knight Returns**, **Sandman**, **Maus**, **From Hell**, **Persepolis**, **Planetary**, **Bone**, **Saga**, **Green Lantern** by Geoff Johns (+**Green Lantern: Secret Origin**), **Saga of the Swamp Thing** (+ [Hellblazer (Constantine)](https://www.amazon.com/dp/1401230067) | Delano, Ennis, et al. is also good), *Starman*, *Fables*, *Preacher*, *Transmetropolitan*, *Daredevil Born Again*, *Judge Dredd: America*, *Enigma*.
 
 Best Batman comic books: **Year One**, **The Long Halloween**, **Dark Victory**, **The Dark Knight Returns**, **Court of Owls**, *Arkham Asylum: A serious House on a Serious Earth*.
 
@@ -553,7 +746,7 @@ Best Green Lantern books: **Green Lantern: Secret Origin**, **Green Lantern: Reb
 
 Best Harley Quinn books: **Batman: Mad Love**.
 
-Best authors:  Alan Moore, Geoff Johns.
+Best authors:  **Alan Moore**, **Warren Ellis**, *Grant Morrison*, *Scott Snyder*, *Ed Brubaker*, *Frank Miller*, Greg Rucka, Jeff Lemire, Jonathan Hickman, Rick Remender, Brian K. Vaughan, Mark Waid.
 
 ## References
 
@@ -577,3 +770,5 @@ Best authors:  Alan Moore, Geoff Johns.
 18. https://www.reddit.com/r/DCcomics/comments/4urjkb/what_are_some_of_the_darkest_batman_stories_other/?sort=top
 19. https://www.reddit.com/r/DCcomics/comments/7791f6/where_to_start_with_green_lantern/
 20. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
+21. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+22. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
