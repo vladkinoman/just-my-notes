@@ -10,8 +10,11 @@
 - [Best Comics about the Joker](#Best-Comics-about-the-Joker)
 - [Batman and Joker](#Batman-and-Joker)
 - [Dark comics, especially related to Batman](#Dark-comics-especially-related-to-Batman)
-- [Where to start with Green Lantern?](#Where-to-start-with-Green-Lantern)
+- [Where to start with Green Lantern](#Where-to-start-with-Green-Lantern)
+- [Where to start with Swamp Thing](#Where-to-start-with-Swamp-Thing)
 - [Best Harley Quinn comics](#Best-Harley-Quinn-comics)
+- [Best Star Trek comics](#Best-Star-Trek-comics)
+- [Best Star Wars comics](#Best-Star-Wars-comics)
 - [Best authors](#Best-authors)
   - [Alan Moore](#Alan-Moore)
   - [Ed Brubaker](#Ed-Brubaker)
@@ -340,7 +343,7 @@ I’d have to add Dark Knight Returns but it has no where near the critical accl
 
 > [Batman - essentials](https://www.reddit.com/r/batman/wiki/recommendations/essentials) on Reddit.
 
-### First answer: three top answers
+---
 
 21: If you like a dark story with a twist, try **The Long Halloween** and its sequel, **Dark Victory**.
 
@@ -352,7 +355,7 @@ I’d have to add Dark Knight Returns but it has no where near the critical accl
 
 > Court of Owls is pretty dark IMO. # analyzing the comments, I can tell you that's not exactly true.
 
-### Second answer
+---
 
 For a starter I would say read Batman **Year One** or the **Killing Joke**. Basically the greats. After that it's pretty much a pick your own buffet. My personal favorites are no mans land (Batman helping Gotham in a huge earthquake) , **The Court of Owls** (new villians. As namesake) , the world's finest (Batman and Superman team up, its nothing like the movies )
 
@@ -360,7 +363,7 @@ Edit: there was one comic or short that was damn good, it was about Batman's psy
 
 I really recommend you to read it if anyone can help identify it.
 
-### Third answer: three bottom answers
+---
 
 6: Have a go at grant Morrison’s Arkham asylum and Alan Moore’s **the killing joke**. Both dark, and the art ok Arkham asylum is awesome.
 
@@ -370,7 +373,7 @@ I really recommend you to read it if anyone can help identify it.
 
 4: **The Dark Knight Returns** is about a Batman who come out of retirement because Gotham’s gone to hell. He’s unleashed, uncappable of holding back. It’s absolutely amazing. Skip watching the animated movies until you’ve read the comic. It’s only four issues.
 
-### Fourth answer: three additional answers
+---
 
 7: **The Court of Owls** is where I would start. It's modern and one of the best Batman stories ever. It's volume 1 of Scoot Snyder's Batman. If you like it, it runs for like 8 volumes.
 
@@ -385,8 +388,6 @@ You are going to get a lot of recommendations for **Year One** and **The Dark Kn
 > EDIT: also Batman Earth One by Geoff Johns and Gary Frank.
 
 ## Best Comics about the Joker
-
-### First answer
 
 *Comics:*
 
@@ -415,13 +416,13 @@ There’s also “The Three Jokers” coming up by Geoff Johns.
 >
 > The last one is collected into a single volume that makes it easier to read for a guy who's not big into comics, as you said.
 
-### Second answer
+---
 
 I loved Batman: White Knight personally - definitely recommend you read it. You may also like some of the New 52 stuff (**Death of The Family** is the one you hear most often but chronologically I'm not sure where it's placed).
 
 > The New 52 is Death **of** the Family, which I agree is really good. A Death **in** the Family is the post-crisis story, that I find terrible. Just wanted to clear it up for OP.
 
-### Third answer - answers on What is your favorite joker story?
+### What is your favorite joker story?
 
 You should probably add '*besides the Killing Joke*' because well obviously.
 
@@ -433,7 +434,7 @@ If I were to choose something besides **The Killing Joke** or "The Laughing Fish
 
 After **The Killing Joke**, **The Man Who Laughs**.
 
-### Fourth answer - What is the DARKEST Joker story in the Batman comics?
+### What is the DARKEST Joker story in the Batman comics?
 
 20: If you don't think the Joker from Snyder and Capullo's New 52 run is dark and twisted enough, then I don't know what's wrong with you. That's the most sadistic version I've seen yet.
 
@@ -447,7 +448,7 @@ After **The Killing Joke**, **The Man Who Laughs**.
 
 > Joker by Brian Azzerello is fantastic.
 
-### Fifth answer - amazing answer to Joker Comic Reading List
+### Joker Comic Reading List
 
 My number 1 personal recommendation is **The Killing Joke** its widely considered to be one of the best joker stories out there and in my opinion is the best. It was the first comic book I read and what hooked me on the character so I may be biased in this regard but I really can't think of a better jumping off point for a new comic book reader in general or a new batman reader or just a new reader to the Joker. Writer Alan Moore gives a gripping and terrifying story focusing more on the Joker then Batman while also exploring one of the possible origin stories for the character all in all it's one of the best characterizations out there along with Brian Bollands beautiful artwork it becomes a must-read for Joker fans.( just make sure to get the deluxe edition which was published years later and includes updated coloring that improves the quality of the whole book even more most comic book shops will exclusively sell the deluxe edition so it shouldn't be a problem but just in case I should mention it if you're not experience with comics)
 
@@ -500,8 +501,6 @@ Side note please keep in mind that this is a character with a 75 year lineage an
 
 ## Dark comics, especially related to Batman
 
-### First answer
-
 For Batman:
 
 Arkham Asylum, Dark Knights: Metal, One Shots **Dark Knight Returns**
@@ -510,11 +509,11 @@ Non-Batman:
 
 **Watchmen**, Invisibles, **Swamp Thing** (Alan Moore), **Sandman** (Neil Gaiman).
 
-### Second answer
+---
 
 *Arkham Asylum: A serious House on a Serious Earth* is probably the darkest. **Dark Knight Returns**, Shaman, The Cult, and Gothic are also really good dark ones.
 
-### Third answer
+---
 
 Now what do you mean by "dark?"
 
@@ -536,11 +535,11 @@ Now what do you mean by "dark?"
 
 Pretty much any ark from the pre 2008ish series *Streets of Gotham* would be about some pretty grim subjects - it was an uneven series.
 
-### Fourth answer
+---
 
 Read Scott Snyder's Batman run. Or **The Long Halloween**, maybe *Arkham Asylum: A Serious House On A Serious Earth*? It's probably harder to find "lighter" Batman stories haha
 
-### Fifth answer
+---
 
 Snyder's Works: Black Mirror, **Court of Owls**, City of Owls, **Death of the Family**, **Endgame**.
 
@@ -566,6 +565,40 @@ Most people would tell you to start with **Green Lantern: Rebirth**, but I think
 
 **Green Lantern: Rebirth**
 
+## Where to start with Swamp Thing
+
+7: Len Wein's *Roots of the Swamp Thing* collects the first appearances of Swampy and establishes some of the main characters that would be used later. Then, move on to the first volume of Alane Moore's **Saga of the Swamp Thing** and work your way up to the sixth volume.
+
+10: New 52's not a bad place to start, although Alan Moore's run is a better place to start (and also just better in general).
+
+---
+
+16: Moore's run redefined the character and is held up as the gold-standard.
+
+Other than that, the recent series by Snyder and then Soule was pretty good.
+
+I also think Nancy Collins run is underrated.
+
+7: Moore's run is not only the best Swap Thing run but also one of the best comic book series ever. Some issues read similar to a prose novel. I honestly don't think there's anything quite like it.
+
+5: Besides the obvious, I would recommend the original Len Wein run, collected in *Roots of the Swamp Thing* and if you want that plus all of pre-Moore Bronze Age Swamp Thing material (besides crossovers) it's all been collected in one of those [new monster omnibuses.](https://www.amazon.com/Swamp-Thing-Bronze-Omnibus-Vol/dp/1401273785) The run preceding Moore's does have plot elements that Moore follows on, so it might give you more of an appreciation for his stuff.
+
+1: I feel the Moore run doesn't really have as much weight behind it without having read any of the previous stuff. At the very least read either the "Dark Genesis" or "Roots of the Swamp Thing" trade first so you can get context for his relationships with Abby and Anton, along with Matthew Cable. After that, you can probably jump to the first Saga of the Swamp Thing trade without missing much.
+
+> Both have the 1st appearance of ST, along with the first 10 or 13 issues respectively.
+>
+> Apparently there's also a collection called Swamp Thing - Bronze Age and the first volume has the same material of "Roots", but it has a different title.
+>
+> Boy, I wonder why people have problems getting into comic books.
+
+---
+
+16: Start with Book One and read the subsequent trades. Alan Moore started writing the series at #20 and <u>wrapped up the previous writer’s storyline</u>. #21 (The Anatomy Lesson) is where the series starts to become an all-time great.
+
+Don’t get thrown off too much by the numbering. I’ve never read #1-19 and it’s never affected my enjoyment of the series.
+
+> It's all confusing, I know, but that's why most new reader advice avoids talking about all of this. I usually just say "Here, read this" instead of info-dumping about how the entire industry works. That's another reason publisher's label comics as "Book One". There should be no confusion about which book to buy first—it's book 1. Only the more inquisitive readers like yourself notice the comic numbering and think "Am I buying the right thing?" At that point, the publisher is thinking "Ugh, the Book One thing wasn't clear enough. Maybe we should just get rid of the comic numbering altogether to make it more obvious for the newbies." But then consumers would outcry "Now we can't see which issues are collected in this book! CROOKERY!" Again, more confusing meta-info a new reader doesn't need to worry about.
+
 ## Best Harley Quinn comics
 
 **Batman: Mad Love**. I feel like it's the only good Harley comic. I personally think she hasn't been that great since B:TAS, but that's just me. Batman Adventures: My Boyfriend's Back and A Wedding to Die For are also gems.
@@ -573,6 +606,203 @@ Most people would tell you to start with **Green Lantern: Rebirth**, but I think
 Harley and Ivy is also a lot of fun but it's nothing serious. Her Pre New 52 solo run was okay until the team changed and then it became unbearable.
 
 In the New 52 she has gone through so many changes, in one issue she was killing 20 kids with bombs, in another she was shown with puppies and being a sweetheart. The New 52 Suicide Squad run was atrocious imo, and Palmiotti and Conner write her as Deadpool basically with same randomness and insanity.
+
+## Best Star Trek comics
+
+3: Peter David's work is generally pretty good. I loved Who Killed Captain Kirk? when I read it way back in high school.
+
+2: Star Trek: *Starfleet Academy*, Star Trek: Boldly Go Vol 1 & 2, Star Trek: Countdown
+
+2: IDW series.
+
+2: As for stuff running now, John Byrne's New Visions is both bizarre and straight out of TOS. Many others are also very good.
+
+Marvel and DC published lots of good stuff in the 80s and 90s, though much of it takes place in the movie era. They are all available on one cd that I think you can still get on amazon. Definitely the best value.
+
+1: I've enjoyed the Star Trek TNG Mirror Broken series. It follows the Mirror universe versions of the Next Generation crew, a fun little 'what if' series.
+
+I also liked the first few issues of Star Trek: Waypoints. One has Geordi as the Captain with a crew of Data.
+
+Lastly, the second Doctor Who and Star Trek crossover was pretty fun. I think [Linkara did a review if it](https://youtu.be/qbknLNB8DcM).
+
+---
+
+5: I don't like a good portion of the later Marvel stuff, but I *love* *STARFLEET ACADEMY*. It's under 20 issues and follows Nog at the Academy with lots of clever tie-ins to the Dominion War and classic trek. There's a really awesome two-parter that brings the cadets to Talos IV and it's pure fanboy fun with some really great characters. Bizarrely, the book's artist went on to direct THE SECRET LIFE OF PETS.
+
+3: I would say that *Starfleet Academy* and *Early Voyages* are the two good Marvel ongoings.
+
+> Good call! Early Voyages is also fantastic. It would be cool if one day both series get proper endings somehow.
+
+4: It seems noone has yet mentioned Countdown, soo...
+
+STAR TREK: COUNTDOWN! Also Star Trek: Nero and Star Trek: Spock (reflections)
+
+---
+
+3: The "Star Trek: Ongoing" series is pretty good in my opinion. They're the only available tie-in to the Abrams-verse timeline and they're overseen by the writers of the movies, making more canon than others.
+
+They also did a decent job with the movie tie-in comics, the prequel and the story behind some of the deleted scenes. The actual movie adaptation was pretty bad, as is the case with most adaptations.
+
+The only other one I've read is Hive, written by Brannon Braga. It's got one issue to go, but so far its pretty fan-fictiony and it's kind of a re-hash.
+
+2: Hive is okay. It takes place some time after Nemesis, so no Mr. Data, Riker and Troi are married, Worf is still an ambassador, and the rest of the crew are scattered to the wind. The problem it has is the same that most Star Trek properties have: There is a need for fan service. The fans expect the original crew to get together to solve this, but they also want them frozen in amber the way they last saw them.
+
+Personally, I am mixed about it. It would make sense for Riker, Worf and Picard to work together, but the rest of the crew have gone on with their lives and should not come back because of expectations.
+
+As for the other series, I've heard good things about it, but I have not made room for it in my pull list.
+
+> Dark Mirror. http://memory-alpha.wikia.com/wiki/Dark_Mirror
+
+---
+
+3: The ones with green lantern (Star Trek/Green Lantern) were cool. Haven't really looked into them, intend to.
+
+2: The Star Trek X-men (Star Trek/X-Men) crossovers from the 90s were both really good.
+
+1: Most of them are not great tbh, I've read a few and the only ones I can recommend are The Enterprise Experiment, Harlan Ellison's City on the Edge of Forever, and the TNG Mirror Universe series.
+
+The Enterprise Experiment is a sequel to the Enterprise Incident written by the TOS writer and script editor DC Fontana. It has a real feeling of a lost TOS Script adapted to a comic.
+
+The most well-received Star Trek comics I've seen (not just among Trekkies but among comic book enthusiasts in general) are the TNG Mirror Universe series. They never touched the Mirror Universe (*Mirror Broken*) on TNG so it's fertile ground. It also shows the eventual fate of Mirror Spock. It was so well received that Eaglemoss made a model out of the Mirror Enterprise D for their collection https://shop.eaglemoss.com/usa/star-trek-starships/iss-enterprise-ncc-1701-d
+
+Harlan Ellison's City on the Edge of Forever is an adaptation of Ellison's original script that got heavily rewritten. Opinions differ on whether it's better than the final episode, but it's certainly worth taking a look.
+
+1: *Early Voyages*, which was basically a Captain Pike series, was pretty solid, old-school *Trek* (and even more intriguing after *Discovery*'s second season).
+
+1: Boldy Go is really great. I couldn't put them down.
+
+---
+
+2: If you can get your hands on some Gold Key issues from the 60's, those are pretty interesting. But for something more reasonable, Barr and David wrote a bunch of original series and TNG comics for DC in the late 80's and early 90's that are pretty good. There's some DS9 comics from Malibu in the 90's which are ok, but I think I might just have a blind spot for anything DS9.
+
+Over the past few years, Tipton has been writing some pretty good TNG comics. The Mirror Universe minis are especially good, *Mirror Broken* and *Through the Mirror*. Terra Incognita came after that, it was ok. The current one is The Q Conflict, and is only 1 issue in. Not sure on it yet. I've heard good things about the Discovery comics, but never bothered to pick them up.
+
+## Best Star Wars comics
+
+5: The best of the new canon IMO are Aphra, Poe Dameron, all the Vaders, and the older Lando miniseries. The main flagship series is middle of the road.
+
+4: Knights of the Old Republic and Star Wars Legacy!
+
+From the new canon, I liked a lot of the Vader 2015 run, Vader down especially. Haven't kept up to date with anything current though.
+
+> 6: The new Vader run is just as good, if not better, than the 2015 version, so I'd highly recommend it. The *Doctor Aphra* series too.
+
+4: *Knights of the Old Republic* was great fun, dramatic, and inventive. *Republic* told an excellent Quinlan Vos story across a few years and into the Clone Wars. *Agent of the Empire* was great too.
+
+In canon, the current *Darth Vader* (I guess he means *Star Wars: Darth Vader - Dark Lord of the Sith*) series has been excellent. The first *Lando* mini-series is probably his best story and one of the best in canon so far, and the *Poe Dameron* series is well worth checking out.
+
+EDIT: And the *Doctor Aphra* series has been absolutely bonkers.
+
+3: legends: dawn of the jedi
+
+canon: darth vader - dark lord of the sith
+
+2: I haven't read a lot of Legends, but the best series in canon so far has been Charles Soule's Darth Vader series (*Star Wars: Darth Vader - Dark Lord of the Sith*). Sometimes they use the title Darth Vader: Dark Lord of the Sith because there was already one Vader series.
+
+---
+
+11: [Soule's canon *Darth Vader* series](https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader:_Dark_Lord_of_the_Sith). Excellent story, art, and writing. Nice for newcomers.
+
+4: Start with the Vader comics, they're by far the best of the current comic canon. There was a 2015 series set after ANH and a 2017 series set in Vaders early days. The 2017 series is the best. You can buy them in collected editions:
+https://starwars.fandom.com/wiki/Star_Wars:_Darth_Vader:_Dark_Lord_of_the_Sith
+
+> 3: I agree 100%! The 2017 Vader series has easily been the best Marvel has put out, as far as Star Wars comics.
+
+3: What are your favorite characters/settings in Star Wars right now?
+
+Of the post-Disney comics, the two runs of Vader stories are probably the most popular (for good reason). The Lando and the Obi-Wan & Anakin miniseries are both really great, too.
+
+From Legends, the Legacy series and the Tales of the Jedi comics are both really highly rated.
+
+3: First off I would just like to say that all the Legends comics as well as the NEU comics (on a six month delay) are available on Marvel Unlimited
+
+For a lot of good lists check out [r/StarWarsEU](https://www.reddit.com/r/StarWarsEU/) or [r/starwarscanon](https://www.reddit.com/r/starwarscanon/). Also are you just interested in comics or books as well? Also [r/starwars](https://www.reddit.com/r/starwars/) has some archived threads about what books to read on its FAQ.
+
+IF you would like to check on some books your self I suggest using Wookieepedia
+
+http://starwars.wikia.com/wiki/Timeline_of_Legends_comics
+
+http://starwars.wikia.com/wiki/Timeline_of_canon_comics
+
+I will give you some of my personal favorites.
+
+Legends (The old canon universe up till the disney purchase in 2015)
+
+Comics:
+
+Tales of the Jedi (Sets the lore and history for the Jedi and Sith that the entire Legends EU would use. And that the NEU is still basing some small parts on)
+
+*Knights of the Old Republic* (A sort of Tie-in to the game but focused on new characters. You have never read about a Jedi like Zayne Carrick before)
+
+Star Wars Republic (The Clone Wars show before the Clone Wars show)
+
+Rebellion/Empire (A lot of good stories mainly about Luke but staring some others as well.
+
+Star Wars Tales (Some true and some not so true stories. Think the most recent point of view book. Also SKIPPY WAS NEVER CANON)
+
+Legacy of the Force (While the NJO series would give some more background all you need to know is that its 137ABY and Luke's great gandson is a force using pirate with a attitude problem)
+
+Now for the NEU/Canon
+
+Comics:
+
+Vader 2015/*2017* (Both Vader series are worth a read)
+
+Poe (They are trying to make Poe and Black Squadron the Rogue Squadon of the NEU and its working. Also get to learn more about Lor San Tekka as well)
+
+Aphra (About a rogue archeologist and her mission to steal everything in the galaxy)
+
+Shattered Empire (Adventures with our heroes days after Endor seen though the eyes of Poe's mom)
+
+Darth Maul (Maul killing people is fun)
+
+Star Wars 2015 (The art is terrible, the characterization is bad, the stories are either great or medicore. But it is the main flagship comic)
+
+Age Of miniseries (which tells stand alone stories from the main three eras of the movies)
+
+---
+
+10: The Obi-Wan and Anakin comic is one if my favorite, along with Poe Dameron!
+
+7: Don't limit yourself to the canon comics! The best Star Wars comics out there are some of the older non-canon ones that were originally published by Dark Horse. They *should* all be on Marvel unlimited. My favourite on-goings were *Republic*/*Dark Times* (same series, had a name change after the story caught up to a certain infamous galactic event involving a 66th order - though, on the balance, I feel like the *Dark Times* books are better and you could totally start with them), and *Knights of the Old Republic*. There are a few shorter series or parts of on-goings that really stand out, too. Any of the *Darth Vader and the [insert subtitle]* series are great, except *...Lost Command,* which I felt was pretty weak. The final arc of *Tales of the Jedi,* which unless I'm remembering my titles wrong is called *Redemption,* is great.
+
+Also, just as an aside, if you're in to big space adventures and you have the time to read it, check out the 2006 Marvel Cosmic event *Annihilation* - if you like Star Wars, you'd probably like it, too. [Here's a link to a reading order!](http://comicbookreadingorders.com/marvel/events/annihilation-reading-order/)
+
+7: Lando is the best of the new comics, I think. It's an interesting, self-contained story. There aren't too many outlandish things (I'm looking at you, Poe) and it really adds a lot to Lando's character and motivations. It's really well written, and even adds something extra to ESB for me, which is quite a feat. I can't recommend it enough!
+
+---
+
+1: Ledgends Canon:
+
+Tales of the Jedi (Takes place a long time ago and talks about the start of the Sith and some important Lords and Jedi Masters)
+
+*KOTOR* (acctually focused on a different jedi and not Revan but still a great read)
+
+Republic/The Clone Wars (focused on the era between Naboo and ep 2 then moves onto arcs dealing with the Clone Wars)
+
+Rebellion/Empire (Stories from the Rebellion and Empire and shows a more neutral imperial view)
+
+Legacy (Takes place 75 years after the death of Luke/Han/Leia. Lots of intersting characters and cool fights)
+
+Smaller ones: Mara Jade emperors hand, Dark Times, X-wing, Jedi hunt.
+
+Canon:
+
+Star Wars (The main title detailing Han/leia/luke after Yavin)
+
+*Darth Vader* (Enough said)
+
+Kannan: The last padawn (Kannan dealing with the death of his master and order 66)
+
+Shattered Empire (Lead up to TFU)
+
+Poe Dameron (New Comic just started)
+
+*Obi wan* & *Anakin* ( cool adventures and getting to see the two interact)
+
+Here is a list of all comics Ledgends and Disney Canon for you to look at. http://starwars.wikia.com/wiki/List_of_comics
+
+Amazon, Comixology, Dark Horse, Marvel are all great legal places to get the comics. Though if money is tight there are Kickass places to get them. Though thats Pirating them and that would be Bad
 
 ## Best authors
 
@@ -746,6 +976,13 @@ Best Green Lantern books: **Green Lantern: Secret Origin**, **Green Lantern: Reb
 
 Best Harley Quinn books: **Batman: Mad Love**.
 
+Best Star Trek comics: *Mirror Broken* and *Through the Mirror*, others are not great tbh.
+
+Best Star Wars comics: 
+
+- Legends: *Knights of the Old Republic*.
+- Canon: *Darth Vader*, **Star Wars: Darth Vader - Dark Lord of the Sith**.
+
 Best authors:  **Alan Moore**, **Warren Ellis**, *Grant Morrison*, *Scott Snyder*, *Ed Brubaker*, *Frank Miller*, Greg Rucka, Jeff Lemire, Jonathan Hickman, Rick Remender, Brian K. Vaughan, Mark Waid.
 
 ## References
@@ -769,6 +1006,18 @@ Best authors:  **Alan Moore**, **Warren Ellis**, *Grant Morrison*, *Scott Snyder
 17. https://www.reddit.com/r/DCcomics/comments/24uca6/what_is_the_darkest_batman_comic_out_there/?sort=top
 18. https://www.reddit.com/r/DCcomics/comments/4urjkb/what_are_some_of_the_darkest_batman_stories_other/?sort=top
 19. https://www.reddit.com/r/DCcomics/comments/7791f6/where_to_start_with_green_lantern/
-20. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
-21. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-22. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+20. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
+21. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
+22. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
+23. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
+24. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
+25. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
+26. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
+27. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
+28. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
+29. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
+30. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
+31. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
+32. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
+33. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+34. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
