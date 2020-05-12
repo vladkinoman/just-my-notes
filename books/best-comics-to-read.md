@@ -12,7 +12,10 @@
 - [Dark comics, especially related to Batman](#Dark-comics-especially-related-to-Batman)
 - [Where to start with Green Lantern](#Where-to-start-with-Green-Lantern)
 - [Where to start with Swamp Thing](#Where-to-start-with-Swamp-Thing)
+- [Where to start with Flash](#Where-to-start-with-Flash)
+- [Where to start with Wonder Woman](#Where-to-start-with-Wonder-Woman)
 - [Best Harley Quinn comics](#Best-Harley-Quinn-comics)
+- [Best Doctor Who comics](#Best-Doctor-Who-comics)
 - [Best Star Trek comics](#Best-Star-Trek-comics)
 - [Best Star Wars comics](#Best-Star-Wars-comics)
 - [Best authors](#Best-authors)
@@ -359,6 +362,8 @@ I’d have to add Dark Knight Returns but it has no where near the critical accl
 
 For a starter I would say read Batman **Year One** or the **Killing Joke**. Basically the greats. After that it's pretty much a pick your own buffet. My personal favorites are no mans land (Batman helping Gotham in a huge earthquake) , **The Court of Owls** (new villians. As namesake) , the world's finest (Batman and Superman team up, its nothing like the movies )
 
+> Watching or reading Batman: Year One first? - I'm biased due to Year One being one of my favorites, but I say read it first. Its not duper long, but it's fantastic. Just a warning though, it's just as much a Gordon story as a Batman one.
+
 Edit: there was one comic or short that was damn good, it was about Batman's psyche and it ended with Batman in a sewer who could not let go of his guns.
 
 I really recommend you to read it if anyone can help identify it.
@@ -368,6 +373,8 @@ I really recommend you to read it if anyone can help identify it.
 6: Have a go at grant Morrison’s Arkham asylum and Alan Moore’s **the killing joke**. Both dark, and the art ok Arkham asylum is awesome.
 
 > Edit: killing joke not man who laughs.
+>
+> Right after that, please, please, please read Frank Miller's Dark Knight Returns.
 
 5: Must reads are **Killing Joke** by Alan Moore and Hush by Jeph Loeb, both are extremely dark and the best batman books to date in my opinion. If you don't mind a Dick Grayson Batman, try Black Mirror as well, it is extremely dark.
 
@@ -599,6 +606,273 @@ Don’t get thrown off too much by the numbering. I’ve never read #1-19 and it
 
 > It's all confusing, I know, but that's why most new reader advice avoids talking about all of this. I usually just say "Here, read this" instead of info-dumping about how the entire industry works. That's another reason publisher's label comics as "Book One". There should be no confusion about which book to buy first—it's book 1. Only the more inquisitive readers like yourself notice the comic numbering and think "Am I buying the right thing?" At that point, the publisher is thinking "Ugh, the Book One thing wasn't clear enough. Maybe we should just get rid of the comic numbering altogether to make it more obvious for the newbies." But then consumers would outcry "Now we can't see which issues are collected in this book! CROOKERY!" Again, more confusing meta-info a new reader doesn't need to worry about.
 
+## Where to start with Flash
+
+12: Wally West recommendations:
+
+The Flash: Born to Run by Mark Waid
+
+The Flash: The Return of Barry Allen by Mark Waid
+
+The Flash: Terminal Velocity by Mark Waid
+
+The Flash: Dead Heat by Mark Waid
+
+The Flash: Race Against Time by Mark Waid
+
+The Flash: Emergency Stop by Grant Morrison
+
+The Flash: The Human Race by Grant Morrison
+
+10: New 52 Barry Allen recommendations:
+
+The Flash: Move Forward by Brian Buccellato and Francis Manapul
+
+The Flash: Rogues Revolution by Brian Buccellato and Francis Manapul
+
+The Flash: Gorilla Warfare by Brian Buccellato and Francis Manapul
+
+The Flash: Reverse by Brian Buccellato and Francis Manapul
+
+The Flash: History Lessons by Brian Buccellato
+
+>3: The first three of these are really good imo
+
+10: Pre-Flashpoint Barry Allen recommendations:
+
+The Flash: Rebirth by Geoff Johns
+
+The Flash: *The Dastardly Death of the Rogues by Geoff Johns*
+
+The Flash: *The Road to Flashpoint* by Geoff Johns
+
+Flashpoint by Geoff Johns
+
+4: If you want to read about Barry Allen specifically, then The Flash vol. 1: Move Forward is a pretty good place to start, and very new-reader-friendly. (The current "Flash" series that begins with The Flash vol. 1: Lightning Strikes Twice is also very popular, but I haven't read it so I can't comment.)
+
+If you're up for reading about any Flash then I recommend checking out Mark Waid's run from the 1990s, which stars Wally West. This is currently being reprinted in paperback form as The Flash by Mark Waid — there are three volumes out so far. The first volume contains a flashback origin story, "Born to Run", so it's a really good introductory point too. (Be warned, though, that the annuals and the "Flash Special" contained in that volume are nowhere near as good as Mark Waid's run ends up becoming, so don't be put off.)
+
+1: The Flash | #0, 62-129, 142-159, 162, 231-236; annual 4-6, 8; etc. | 1992-2008 | *Waid*
+
+The Flash | #130-138 | 1997-1998 | Morrison, Millar
+
+The Flash | #164-225, Rogues' Revenge #1-3, Rebirth #1-6, #1-12, etc. | 2000-2011 | Johns
+
+Flashpoint | #1-5 | 2011 | Johns
+
+The Flash | #1-29 | 2011-2014 | Manapul, Buccellato
+
+The Flash: Rebirth | #1-ongoing | 2016-2017 | Williamson
+
+---
+
+17: Best:
+
+Mark Waid's run (The Flash vol 2 #62-129,#142-163 plus some other crossover issues and one shots, will be collected in trades soon as The Flash by Mark Waid Books One to ___). By far the best Wally West run and the best Flash run in general, most modern ideas about the character come from his run. Everything from speedforce to the Flash family was from Waid. It's the best example of a legacy character in comics and has the best character growth I've ever read and it's the reason so many people loved the DCU Rebirth one shot.
+
+Almost the Best:
+
+Geoff Johns' first run (The Flash vol 2 #164-225 plus some crossover issues and one shots. Currently being reprinted as The Flash by Geoff Johns with the third trade coming out in a few months). Following on directly from Waid, this was Geoff Johns' third comics which makes it quite impressive. While he may not have had the grand ideas and perfect voice for Wally that Waid had he did one thing better: the villains. Throughout the run Johns gives the best writing for the Rogues that you will see as well as other villains like Grodd and even a new one, Zoom. It all culminates in Rogue War which was a great finale to the run and a great ending to the greatest (IMO) era of the Flash (1990-2005).
+
+Grant Morrison's and Mark Millar's run (The Flash vol 2 #130-141 and some crossover issues. All collected in one trade a few months ago as The Flash by Grant Morrison and Mark Millar). Set during Mark Waid's littel break this run features short, bizarre, silver age style stories with some of the most badass and overpowered feats ever in Flash history (like Wally winning a race against instant transportation). There's also a really nice single issue that will make you love Jay Garrick.
+
+Infantino/Broome's (and Fox's) run (The Flash vol 1 #105-174, also lets throw showcase #4, #8, #13, and #14 in there. Being collected in trade as The Flash: The Silver Age with one volume already out as well as omnibus with the second out later in the year). This might be a bit much for you if you can't handle silver age comics. This is the original Barry Allen stuff that brought about the silver age. It features lots of really wacky, bizarre and outrageous sci-fi/superhero stories. Also Infantino is the definitive Flash artist.
+
+Others worth reading:
+
+William Mesner-Loeb's run (The Flash vol 2 #15-61, though it takes a bit to get up to standard. No reprints). Criminally underrated even by me since very few people bring it up. It's a very good look at a young adult Wally who is still immature and learning how to be a proper adult hero. It has a really great supporting cast and also introduces Linda Park, who Mark Waid later builds upon to write the best relationship on comics.
+
+The Flash: Dastardly Death of the Rogues (and while not collected in the trade, I'll throw in The Flash vol 3 #8). This is part of Johns' second run, this time featuring Barry (Rebirth 09, Blackest Night: Flash, Flash vol 3, Flashpoint) and is the only story where Johns got things properly right (the rest suffers from what felt like an editorial agenda to push Barry and screw over the other characters, plus the other stories have some general writing issues). This also happens to be my favourite Barry story due to the excellent writing and the gorgeous art by Manapul and Buccellato (easily my favourite Flash art). All you really need to know is that it's Barry finally settling in and getting back to business after coming back to life (he was dead from 1985-2008, he saved the universe/multiverse).
+
+New 52 The Flash volumes 1-5. Written and with art by the same artists of Dastardly Death of the Rogues, like much of the new 52 reboot it was a jumping on point. The art is beautiful and the writing is solid and fun. However pretty much all Flash lore was scrapped which is disappointing, more so if you read the previous recommendations.
+
+Thankfully DC's recent Rebirth relaunch is bringing things back with DCU Rebirth #1, The Flash Rebirth #1 (2016) + The Flash (2016) ongoing series, and Titans Rebirth #1 + Titans ongoing series.
+
+---
+
+5: Summarize:
+
+The Flash (2011) #0-25 [Origin and a good introduction to The Flash's villains]
+
+The Flash: Rebirth (2016) [Re-introduces the history of The Flash which was forgotten]
+
+Then you have two options:
+
+Option 1: The Flash (2016) #1-Present [Upcoming arc is an expanded origin story]
+
+Option 2: The Flash (1987) #62-118 [Mark Waid's classic run, which features Wally West as The Flash instead of Barry Allen]
+
+If you want to know why Wally West became The Flash, read Crisis on Infinite Earths (1986), but this is very new-reader unfriendly and requires extensive knowledge of DC Comics history.
+
+4: Starting from the beginning is a long journey, the *Mark Waid series* are good but it’s Wally west. Rebirth is a good Barry Allen jump on point. They’re about to do flash year 1 to give a back story of the new 52/review the flash.
+
+5: Barry Allen started his carrier in the comics in 1956 until 1985 and then he was absent on until 2009. His modern-age series called [*The Flash: Rebirth*](https://www.amazon.com/Flash-Rebirth-Geoff-Johns/dp/1401230016/) when he returned. After that 2 trades came (In comics, a trade paperback (often shortened to trade) is a collection of stories originally published in comic books, reprinted in book format, usually capturing one story arc from a single title or a series of stories with a connected story arc or common theme.) called [The Flash Vol. 1: The Dastardly Death of the Rogues](https://www.amazon.com/Flash-Vol-Dastardly-Rogues-Brightest/dp/1401231950/) and [The Flash Vol. 2: The Road to Flashpoint](https://www.amazon.com/Flash-Vol-Flashpoint-Comics-Unnumbered/dp/1401234488).
+
+After these, a HUGE event came that changed everything called [Flashpont](https://www.amazon.com/Flashpoint-Geoff-Johns/dp/1401233384) that "reset" the continuity and started the New 52 age and it's first story-line called [The Flash, Vol. 1: Move Forward ](https://www.amazon.com/Flash-Vol-Move-Forward-New/dp/1401235549)or alternatively [The Flash: Starting Line (DC Essential Edition](https://www.amazon.com/Flash-Starting-Line-DC-Essential/dp/1401284760)) This series (New52) lasted till Spring 2016 and collected 9 trades (the show you watched is based on this era). In early 2016 [DC Rebirth](https://www.amazon.com/DC-Universe-Rebirth-Geoff-Johns/dp/1401270727) came (only name change, everything is continued from New52) but a huge exception: a long missing character came back to the grand scene who was missing for so long. Rebirth's first trade is [The Flash Vol. 1: Lightning Strikes Twice](https://www.amazon.com/Flash-Vol-Lightning-Strikes-Rebirth/dp/140126784X)
+
+So if you are interested in Barry (overall) start with [*The Flash: Rebirth*](https://www.amazon.com/Flash-Rebirth-Geoff-Johns/dp/1401230016/) and move onward to [Flashpont](https://www.amazon.com/Flashpoint-Geoff-Johns/dp/1401233384), but you can just start with [The Flash, Vol. 1: Move Forward ](https://www.amazon.com/Flash-Vol-Move-Forward-New/dp/1401235549)or [DC Rebirth](https://www.amazon.com/DC-Universe-Rebirth-Geoff-Johns/dp/1401270727) and [The Flash Vol. 1: Lightning Strikes Twice](https://www.amazon.com/Flash-Vol-Lightning-Strikes-Rebirth/dp/140126784X), then read everything up to today. (currently there is a Flash event called Flash War coming out)
+
+But if you are interested in old material, the best place to start is [The Flash: The Silver Age Vol. 1](https://www.amazon.com/Flash-Silver-Age-Vol/dp/1401261108), the first comics where Barry showed up.
+
+(there is an omnibus on sale at the moment (a collection of multiple trades) called [The Flash By Francis Manapul and Brian Buccellato Omnibus](https://www.amazon.com/Flash-Francis-Manapul-Buccellato-Omnibus/dp/1401261035/) that collects the first 4 trades of the New 52 era.
+
+> If you like TV show, then the current rebirth run might work for you then.
+>
+> The current rebirth run might work for you then
+
+2: *Flash by Mark Waid* volumes 1-5 Flash by Grant Morrison and Mark Millar Flash by Geoff Johns volumes 1-5
+
+Baron and Messner-Loebs runs are solid as well and do a lot of character development Flash volume 2 issues 1-63
+
+Secret Origins Annual 2 is an awesome Flash story
+
+2: *Flash by Mark Waid vol 1* Flash by Geoff Johns vol 1 Flash by Manapul and Buccellato Flash Rebirth
+
+---
+
+15: The best Flash run is *Mark Waid's run*. Waid built up the Flash Family and introduced the Speedforce into the DC Universe.
+
+That run easily has some of the best Flash stories ever. The only catch is that it's Wally West Flash. Barry Allen sacrificed his life during an event called Crisis on Infinite Earths and Wally took up the mantle.
+
+If you like Barry in the show you'll like Wally in the comics. Wally from the comics is much more similar to Grant Gustin's Flash than the actual Barry from the comics.
+
+[r/theflash](https://www.reddit.com/r/theflash/) has a reading recommendations list for both Barry and Wally. Here's the order I'd recommend for both Barry and Wally
+
+**Reading order for Wally**:
+*The Flash by Mark Waid*:
+Book 1
+Book 2
+Book 3
+Book 4
+Book 5(Not released yet)
+
+> it's actually released.
+
+*Waid takes a break here*
+**The Flash by Grant Morrison and Mark Millar (One trade only)**
+*Waid comes back here*
+**The Flash by Mark Waid**
+Book 6(Not released yet)
+**The Flash by Geoff Johns**
+Book 1
+Book 2
+Book 3
+Book 4
+Book 5(Not released yet)
+*Barry Comes Back*
+Flash: Rebirth (2009) <- *Don't Start With Barry Here. (It'll confuse you)*
+
+**Reading Order for Barry**
+*The Dastardly Death of the Rogues*
+*Flashpoint*
+New52 Flash
+DC Rebirth #1
+*Flash: Rebirth* (2016)
+
+5: *Mark Waid's Flash* (1992-2000) is the best Flash I have ever read, though, granted, I haven't read much else besides his run. I especially like his later stuff, like the "Dark Flash Saga."
+
+3: The Flash | #0, 62-129, 142-159, 162, 231-236; annual 4-6, 8; etc. | 1992-2008 | Waid
+
+The Flash | #130-138 | 1997-1998 | Morrison, Millar
+
+The Flash | #164-225, Rogues' Revenge #1-3, Rebirth #1-6, #1-12, etc. | 2000-2011 | Johns
+
+Flashpoint | #1-5 | 2011 | Johns
+
+The Flash | #1-29 | 2011-2014 | Manapul, Buccellato
+
+The Flash (Rebirth) | #1-ongoing | 2016-2017 | Williamson
+
+1: Everyone will rightfully tell you about *Waid’s* run being the best but if you can find the single issues, it’s worth it to check out Mike Baron and William Messner-Loebs runs since you see the full extent of Wally’s character development.
+
+## Where to start with Wonder Woman
+
+> [Definitive Wonder Woman Collecting Guide and Reading Order](https://crushingkrisis.com/crushing-comics-guide-collecting-dc-comic-books/wonder-woman-collecting-guide-trade-reading-order/#wonder-woman-1987).
+
+5: *The omnibus by Perez*
+
+*Rucka's run* is starting to be reprinted this month
+
+Simone's run is OOP but comes after Rucka's and can be bought on Comixology
+
+New 52 Volumes 1-6 then skip straight to *Rebirth*
+
+Legend of Wonder Woman
+
+Earth One
+
+2: Everything Rucka is a good start
+
+---
+
+> [Good feminist DC comics for birthday present?](https://www.reddit.com/r/DCcomics/comments/9c8uo4/good_feminist_dc_comics_for_birthday_present/) Wonder Woman seems to have a lot of hit or miss depending on the run itself but she did like wonder woman’s Down to Earth by Greg Rucka. - 
+>
+> 8: If you want something intellectually feminist, it's a little counter-intuitive, but some of the older WW stuff might be more interesting than the new. Obviously the book is more aware and politically correct now (because of the time), but it's in exchange for when it was actually pretty radical and progressive.
+>
+> While I don't mean the original bondage-heavy comics (which I suspect are challenging to find in collection anyway?), but for instance the Perez run (1986). This is actually the genesis of 'modern' WW as most people know her. Perez is highly credited by Patty Jenkins for inspiration for the movie (his name is credited 2nd only to Marston). He also had an influential female editor (Karen Berger), and it set the tone for a lot of her ongoing themes: for instance Rucka's embassy-based run (which you mention) was echoing Perez's diplomatic mission from Themyscira to the UN. There's also an issue that presents basically an academic deconstruction of the Pandora myth (as period Greek anti-feminism) in comic form.
+>
+> Going back to Marston, if she'd *like* the kinkier aspects of that transgressive history of the character, you might also look for Wonder Woman: Earth One by Grant Morrison. These are graphic novels so there's less difficulty collecting trades and making sure you don't miss things, but they essentially re-interpret some of those WMM-era sexual politics with beautiful modern art.
+>
+> > > which I suspect are challenging to find in collection anyway?
+> >
+> > They've been reprinted in [Wonder Woman: The Golden Age](https://www.amazon.com/Wonder-Woman-Golden-Age-Vol/dp/1401274447/), with volume 2 coming out [in December.](https://www.amazon.com/Wonder-Woman-Golden-Age-Vol/dp/1401285368/)
+> >
+> > And I second the Perez recommendation, what I've read of his Wonder Woman is great.
+>
+> 4: Wonder Woman by Azzarello, Rucka, Simone, and Morrison. Mera got a book not too long ago. Birds of Prey by Simone. Renee Montoya as the Question. Batwoman Elergy or vol 1-4 of the new 52. Not exactly feminist, but Harley Quinn Mad Love, the Kesel run (heh, star wars) or the new 52 title.
+>
+> 2: My favorites are Wonder Woman (Rucka, Simone, and Azzarello are all great in different ways), Batwoman (the first set of books, by Williams), and anything with a good Lois. The Stephanie Brown Batgirl run is also good in that you get to see both Steph taking on Batgirl and Babs grappling with her role as unwilling mentor.
+>
+> 1: Wonder Woman Earth One by Grant Morrison and Yannick Paquette. Feminist in a ridiculously radical way imo. The art is absolutely gorgeous though.
+
+---
+
+9: So with her if you are just starting out at as a reader, I recommend the Rebirth Run by Greg Rucka. It even has a Year One Origin Story, and that will give you a good idea of where she’s at in the present day.
+
+So if you are okay with skipping around and reading some past runs, I recommend the *Runs by George Perez*, Greg Rucka’s first run (he had two, one from rebirth and one from the mid 2000’s), and Gail Simone’s Run.
+
+*George Perez’s Wonder Woman Run* is the definitive WW Run, all of the important aspects of Wonder Woman were basically developed here.
+
+If you still want to read more, I would say catch up with her Run Rucka Rebirth Run, it’s on issue 77 I think?
+
+Lastly, Brian Azzarello’s Run from the New 52 is pretty good, it has its problems imo, but I think it reads fine on its own.
+
+1: If you are after the Classic-feel and understanding of the character: You should read the *George Perez-relaunch* from 1986 because it defines the character as she is today, everything everyone else does is measured against that run.
+
+Other good runs in this classic era includes the *first run by Greg Rucka* and arguably that of Gail Simone (though it is rather light). There are also certain one-off stories that may be good to start on: The Heiketia (also by Rucka), League of One, and Who is Wonder Woman are all worth checking out.
+
+Then you have the reboot from 2011, Wonder Woman was reset a little harder than the other big names of DC, but if you are into a book with more of a horror bent than traditional superhero action, the Azzarello run should be on your reading list. (I maintain it was one of the best written books of the New 52 that had a definitive beginning, middle and end that wasn't derailed by what other people were doing).
+*Rucka's Rebirth* story is also well written, but I would honestly stick with the Year One story, the Lies wasn't that good because it just felt more like Rucka doing a reintroduction of the characters he created and used in his first run, while basically flushing out what everyone else had done in between (for better or worse).
+
+---
+
+So, this is going to be not a very short list, since I tend to mention a lot of stuff (though it's still considerably shorter than a Superman or Batman list). I'll start with a complete look into all the recommended stuff, with comments on which ones are good starting points.
+
+- *Wonder Woman by Perez* - This is a classic run, a favourite for many. It was where I started reading WW. It is a good introduction to the character and the lore. However since you're new, you might not care for the old style, due to which you can leave this for later.
+- *Wonder Woman by Rucka (1st run)* - This is the best WW run according to many. Highly recommended. Good entry point.
+- Wonder Woman by Azzarello - This one is a bit divisive, since there are quite a few changes to the character and the lore. I like to think of it as an alternate take on the character rather than a main universe one.
+- *Wonder Woman (Rebirth) by Rucka* - This is probably the best starting point. Very well received.
+- Wonder Woman by Simone - Another really good Wonder Woman run.
+- Wonder Woman by Jimenez - This is not as well-known as the other runs, but it has some fun stuff. Check it out later if you need more of WW.
+- Legend of Wonder Woman - I haven't read it but I've heard really good things.
+- JLA: A League of One - This one might sound like a JL story but is more of a Wonder Woman story.
+
+TL;DR - Start with Rebirth. After that check out any of Rucka, Perez, Simone or Azzarello, and then other stuff
+
+> A big comment about all runs: [link](https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/djscf88/?utm_source=share&utm_medium=web2x).
+
+2: How about the Wonder Woman Rebirth series? You can get the first issue for free here: https://www.readdcentertainment.com/free-comics
+
+2:
+
+- [Wonder Woman](https://www.amazon.com/dp/1401263755) | George Perez
+- [Spirit of Truth](https://www.amazon.com/dp/1563898616) | Paul Dini
+- [The Hiketeia / Wonder Woman](https://www.amazon.com/dp/1401263321) | Greg Rucka
+- [The Circle](https://www.amazon.com/dp/1401220118) | Gail Simone
+- [Wonder Woman](https://www.amazon.com/dp/140123562X) | Brian Azzarello
+- [The Legend of Wonder Woman](https://www.amazon.com/dp/1401267289) | Renae De Liz
+- [Wonder Woman: Rebirth](https://www.amazon.com/dp/1401267785) | Greg Rucka
+
 ## Best Harley Quinn comics
 
 **Batman: Mad Love**. I feel like it's the only good Harley comic. I personally think she hasn't been that great since B:TAS, but that's just me. Batman Adventures: My Boyfriend's Back and A Wedding to Die For are also gems.
@@ -606,6 +880,10 @@ Don’t get thrown off too much by the numbering. I’ve never read #1-19 and it
 Harley and Ivy is also a lot of fun but it's nothing serious. Her Pre New 52 solo run was okay until the team changed and then it became unbearable.
 
 In the New 52 she has gone through so many changes, in one issue she was killing 20 kids with bombs, in another she was shown with puppies and being a sweetheart. The New 52 Suicide Squad run was atrocious imo, and Palmiotti and Conner write her as Deadpool basically with same randomness and insanity.
+
+## Best Doctor Who comics
+
+
 
 ## Best Star Trek comics
 
@@ -974,6 +1252,18 @@ Best Joker comic books: **The Man Who Laughs**, **The Killing Joke**, **Death *o
 
 Best Green Lantern books: **Green Lantern: Secret Origin**, **Green Lantern: Rebirth** and other books in Geoff Johns's Green Lantern Saga.
 
+Best Wonder Woman books: *Wonder Woman by George Perez Omnibus Vol. 1*, *Wonder Woman By George Perez Omnibus Vol. 2*, *Wonder Woman by George Perez Omnibus Vol. 3*, *Wonder Woman By Greg Rucka Vol. 1* (Rucka's first run), *Wonder Woman by Greg Rucka, Vol. 2* (Rucka's first run), *Wonder Woman Vol. 1: The Lies (Rebirth)* (Rucka is back, it's his second run, and it's good starting point).
+
+Best Flash books: 
+
+- Wally West: *The Flash by Mark Waid* - best run!
+
+- Barry Allen: *The Flash (2010-2011) Vol. 1: The Dastardly Death of the Rogues (The Flash: Rebirth series)*, *The Flash (2010-2011): The Road To Flashpoint (The Flash: Rebirth series Book 2)*, *Flashpoint*, New52 Flash, (DC Rebirth #1), Flash: Rebirth (2016) (*The Flash (2016-) Vol. 1: Lightning Strikes Twice*), and so forth. 
+
+  > Flash: Rebirth (2009) <- *Don't Start With Barry Here. (It'll confuse you)*
+  >
+  > New 52 The Flash volumes 1-5. Written and with art by the same artists of Dastardly Death of the Rogues, like much of the new 52 reboot it was a jumping on point. The art is beautiful and the writing is solid and fun. However pretty much all Flash lore was scrapped which is disappointing, more so if you read the previous recommendations.
+
 Best Harley Quinn books: **Batman: Mad Love**.
 
 Best Star Trek comics: *Mirror Broken* and *Through the Mirror*, others are not great tbh.
@@ -1009,15 +1299,22 @@ Best authors:  **Alan Moore**, **Warren Ellis**, *Grant Morrison*, *Scott Snyder
 20. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
 21. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
 22. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
-23. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
-24. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
-25. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
-26. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
-27. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
-28. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
-29. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
-30. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
-31. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
-32. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
-33. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-34. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+23. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
+24. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
+25. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
+26. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
+27. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
+28. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
+29. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
+30. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
+31. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
+32. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
+33. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
+34. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
+35. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
+36. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
+37. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
+38. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
+39. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
+40. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+41. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
