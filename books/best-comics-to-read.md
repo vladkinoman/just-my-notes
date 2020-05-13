@@ -646,29 +646,17 @@ The Flash: *The Dastardly Death of the Rogues by Geoff Johns*
 
 The Flash: *The Road to Flashpoint* by Geoff Johns
 
-Flashpoint by Geoff Johns
+*Flashpoint* by Geoff Johns
 
-4: If you want to read about Barry Allen specifically, then The Flash vol. 1: Move Forward is a pretty good place to start, and very new-reader-friendly. (The current "Flash" series that begins with The Flash vol. 1: Lightning Strikes Twice is also very popular, but I haven't read it so I can't comment.)
+4: If you want to read about Barry Allen specifically, then The Flash vol. 1: Move Forward is a pretty good place to start, and very new-reader-friendly. (The current "Flash" series that begins with *The Flash vol. 1: Lightning Strikes Twice* is also very popular, but I haven't read it so I can't comment.)
 
-If you're up for reading about any Flash then I recommend checking out Mark Waid's run from the 1990s, which stars Wally West. This is currently being reprinted in paperback form as The Flash by Mark Waid — there are three volumes out so far. The first volume contains a flashback origin story, "Born to Run", so it's a really good introductory point too. (Be warned, though, that the annuals and the "Flash Special" contained in that volume are nowhere near as good as Mark Waid's run ends up becoming, so don't be put off.)
-
-1: The Flash | #0, 62-129, 142-159, 162, 231-236; annual 4-6, 8; etc. | 1992-2008 | *Waid*
-
-The Flash | #130-138 | 1997-1998 | Morrison, Millar
-
-The Flash | #164-225, Rogues' Revenge #1-3, Rebirth #1-6, #1-12, etc. | 2000-2011 | Johns
-
-Flashpoint | #1-5 | 2011 | Johns
-
-The Flash | #1-29 | 2011-2014 | Manapul, Buccellato
-
-The Flash: Rebirth | #1-ongoing | 2016-2017 | Williamson
+If you're up for reading about any Flash then I recommend checking out *Mark Waid's run* from the 1990s, which stars Wally West. This is currently being reprinted in paperback form as The Flash by Mark Waid — there are three volumes out so far. The first volume contains a flashback origin story, "Born to Run", so it's a really good introductory point too. (Be warned, though, that the annuals and the "Flash Special" contained in that volume are nowhere near as good as Mark Waid's run ends up becoming, so don't be put off.)
 
 ---
 
 17: Best:
 
-Mark Waid's run (The Flash vol 2 #62-129,#142-163 plus some other crossover issues and one shots, will be collected in trades soon as The Flash by Mark Waid Books One to ___). By far the best Wally West run and the best Flash run in general, most modern ideas about the character come from his run. Everything from speedforce to the Flash family was from Waid. It's the best example of a legacy character in comics and has the best character growth I've ever read and it's the reason so many people loved the DCU Rebirth one shot.
+*Mark Waid's run* (The Flash vol 2 #62-129,#142-163 plus some other crossover issues and one shots, will be collected in trades soon as The Flash by Mark Waid Books One to ___). By far the best Wally West run and the best Flash run in general, most modern ideas about the character come from his run. Everything from speedforce to the Flash family was from Waid. It's the best example of a legacy character in comics and has the best character growth I've ever read and it's the reason so many people loved the DCU Rebirth one shot.
 
 Almost the Best:
 
@@ -686,7 +674,7 @@ The Flash: Dastardly Death of the Rogues (and while not collected in the trade, 
 
 New 52 The Flash volumes 1-5. Written and with art by the same artists of Dastardly Death of the Rogues, like much of the new 52 reboot it was a jumping on point. The art is beautiful and the writing is solid and fun. However pretty much all Flash lore was scrapped which is disappointing, more so if you read the previous recommendations.
 
-Thankfully DC's recent Rebirth relaunch is bringing things back with DCU Rebirth #1, The Flash Rebirth #1 (2016) + The Flash (2016) ongoing series, and Titans Rebirth #1 + Titans ongoing series.
+Thankfully DC's recent Rebirth relaunch is bringing things back with DCU Rebirth #1, *The Flash Rebirth* #1 (2016) + The Flash (2016) ongoing series, and Titans Rebirth #1 + Titans ongoing series.
 
 ---
 
@@ -694,23 +682,23 @@ Thankfully DC's recent Rebirth relaunch is bringing things back with DCU Rebirth
 
 The Flash (2011) #0-25 [Origin and a good introduction to The Flash's villains]
 
-The Flash: Rebirth (2016) [Re-introduces the history of The Flash which was forgotten]
+*The Flash: Rebirth* (2016) [Re-introduces the history of The Flash which was forgotten]
 
 Then you have two options:
 
 Option 1: The Flash (2016) #1-Present [Upcoming arc is an expanded origin story]
 
-Option 2: The Flash (1987) #62-118 [Mark Waid's classic run, which features Wally West as The Flash instead of Barry Allen]
+Option 2: The Flash (1987) #62-118 [*Mark Waid's classic run*, which features Wally West as The Flash instead of Barry Allen]
 
 If you want to know why Wally West became The Flash, read Crisis on Infinite Earths (1986), but this is very new-reader unfriendly and requires extensive knowledge of DC Comics history.
 
 4: Starting from the beginning is a long journey, the *Mark Waid series* are good but it’s Wally west. Rebirth is a good Barry Allen jump on point. They’re about to do flash year 1 to give a back story of the new 52/review the flash.
 
-5: Barry Allen started his carrier in the comics in 1956 until 1985 and then he was absent on until 2009. His modern-age series called [*The Flash: Rebirth*](https://www.amazon.com/Flash-Rebirth-Geoff-Johns/dp/1401230016/) when he returned. After that 2 trades came (In comics, a trade paperback (often shortened to trade) is a collection of stories originally published in comic books, reprinted in book format, usually capturing one story arc from a single title or a series of stories with a connected story arc or common theme.) called [The Flash Vol. 1: The Dastardly Death of the Rogues](https://www.amazon.com/Flash-Vol-Dastardly-Rogues-Brightest/dp/1401231950/) and [The Flash Vol. 2: The Road to Flashpoint](https://www.amazon.com/Flash-Vol-Flashpoint-Comics-Unnumbered/dp/1401234488).
+5: Barry Allen started his carrier in the comics in 1956 until 1985 and then he was absent on until 2009. His modern-age series called [The Flash: Rebirth](https://www.amazon.com/Flash-Rebirth-Geoff-Johns/dp/1401230016/) when he returned. After that 2 trades came (In comics, a trade paperback (often shortened to trade) is a collection of stories originally published in comic books, reprinted in book format, usually capturing one story arc from a single title or a series of stories with a connected story arc or common theme.) called [*The Flash Vol. 1: The Dastardly Death of the Rogues*](https://www.amazon.com/Flash-Vol-Dastardly-Rogues-Brightest/dp/1401231950/) and [*The Flash Vol. 2: The Road to Flashpoint*](https://www.amazon.com/Flash-Vol-Flashpoint-Comics-Unnumbered/dp/1401234488).
 
-After these, a HUGE event came that changed everything called [Flashpont](https://www.amazon.com/Flashpoint-Geoff-Johns/dp/1401233384) that "reset" the continuity and started the New 52 age and it's first story-line called [The Flash, Vol. 1: Move Forward ](https://www.amazon.com/Flash-Vol-Move-Forward-New/dp/1401235549)or alternatively [The Flash: Starting Line (DC Essential Edition](https://www.amazon.com/Flash-Starting-Line-DC-Essential/dp/1401284760)) This series (New52) lasted till Spring 2016 and collected 9 trades (the show you watched is based on this era). In early 2016 [DC Rebirth](https://www.amazon.com/DC-Universe-Rebirth-Geoff-Johns/dp/1401270727) came (only name change, everything is continued from New52) but a huge exception: a long missing character came back to the grand scene who was missing for so long. Rebirth's first trade is [The Flash Vol. 1: Lightning Strikes Twice](https://www.amazon.com/Flash-Vol-Lightning-Strikes-Rebirth/dp/140126784X)
+After these, a HUGE event came that changed everything called [Flashpont](https://www.amazon.com/Flashpoint-Geoff-Johns/dp/1401233384) that "reset" the continuity and started the New 52 age and it's first story-line called [The Flash, Vol. 1: Move Forward ](https://www.amazon.com/Flash-Vol-Move-Forward-New/dp/1401235549)or alternatively [The Flash: Starting Line (DC Essential Edition](https://www.amazon.com/Flash-Starting-Line-DC-Essential/dp/1401284760)) This series (New52) lasted till Spring 2016 and collected 9 trades (the show you watched is based on this era). In early 2016 [DC Rebirth](https://www.amazon.com/DC-Universe-Rebirth-Geoff-Johns/dp/1401270727) came (only name change, everything is continued from New52) but a huge exception: a long missing character came back to the grand scene who was missing for so long. Rebirth's first trade is [*The Flash Vol. 1: Lightning Strikes Twice*](https://www.amazon.com/Flash-Vol-Lightning-Strikes-Rebirth/dp/140126784X)
 
-So if you are interested in Barry (overall) start with [*The Flash: Rebirth*](https://www.amazon.com/Flash-Rebirth-Geoff-Johns/dp/1401230016/) and move onward to [Flashpont](https://www.amazon.com/Flashpoint-Geoff-Johns/dp/1401233384), but you can just start with [The Flash, Vol. 1: Move Forward ](https://www.amazon.com/Flash-Vol-Move-Forward-New/dp/1401235549)or [DC Rebirth](https://www.amazon.com/DC-Universe-Rebirth-Geoff-Johns/dp/1401270727) and [The Flash Vol. 1: Lightning Strikes Twice](https://www.amazon.com/Flash-Vol-Lightning-Strikes-Rebirth/dp/140126784X), then read everything up to today. (currently there is a Flash event called Flash War coming out)
+So if you are interested in Barry (overall) start with [The Flash: Rebirth](https://www.amazon.com/Flash-Rebirth-Geoff-Johns/dp/1401230016/) and move onward to [*Flashpont*](https://www.amazon.com/Flashpoint-Geoff-Johns/dp/1401233384), but you can just start with [The Flash, Vol. 1: Move Forward ](https://www.amazon.com/Flash-Vol-Move-Forward-New/dp/1401235549)or [DC Rebirth](https://www.amazon.com/DC-Universe-Rebirth-Geoff-Johns/dp/1401270727) and [*The Flash Vol. 1: Lightning Strikes Twice*](https://www.amazon.com/Flash-Vol-Lightning-Strikes-Rebirth/dp/140126784X), then read everything up to today. (currently there is a Flash event called Flash War coming out)
 
 But if you are interested in old material, the best place to start is [The Flash: The Silver Age Vol. 1](https://www.amazon.com/Flash-Silver-Age-Vol/dp/1401261108), the first comics where Barry showed up.
 
@@ -771,17 +759,19 @@ DC Rebirth #1
 
 5: *Mark Waid's Flash* (1992-2000) is the best Flash I have ever read, though, granted, I haven't read much else besides his run. I especially like his later stuff, like the "Dark Flash Saga."
 
-3: The Flash | #0, 62-129, 142-159, 162, 231-236; annual 4-6, 8; etc. | 1992-2008 | Waid
+> IIRC Dark Flash Saga was never collected in a trade and can only be read through the individual issues (#152-#159). It'll probably be hard to find physical copies but I'm sure if you look hard enough you'd find them somewhere. They are also available in digital copies on Comixology and other digital sites.
+
+3: The Flash | #0, 62-129, 142-159, 162, 231-236; annual 4-6, 8; etc. | 1992-2008 | *Waid*
 
 The Flash | #130-138 | 1997-1998 | Morrison, Millar
 
 The Flash | #164-225, Rogues' Revenge #1-3, Rebirth #1-6, #1-12, etc. | 2000-2011 | Johns
 
-Flashpoint | #1-5 | 2011 | Johns
+*Flashpoint* | #1-5 | 2011 | Johns
 
 The Flash | #1-29 | 2011-2014 | Manapul, Buccellato
 
-The Flash (Rebirth) | #1-ongoing | 2016-2017 | Williamson
+*The Flash (Rebirth)* | #1-ongoing | 2016-2017 | Williamson
 
 1: Everyone will rightfully tell you about *Waid’s* run being the best but if you can find the single issues, it’s worth it to check out Mike Baron and William Messner-Loebs runs since you see the full extent of Wally’s character development.
 
