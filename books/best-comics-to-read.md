@@ -1,4 +1,4 @@
-# The latest jumping on point is DC Rebirth. All series were relaunched with the intent to restore the DC Universe to a form much like that prior to the “**Flashpoint**” event, while still incorporating numerous elements of The New 52. If this is where you want to begin then head over to the [DC Rebirth Reading Order](https://comicbookreadingorders.com/dc/dc-rebirth-reading-order/) and start reading.Best comics to read
+# Best comics to read
 
 > [Conclusion](#Conclusion) ← if you have no time, then this is your bro :)
 
