@@ -1,23 +1,26 @@
 # Best comics to read
 
+> [Conclusion](#Conclusion) ← if you have no time, then this is your bro :)
+
 ## Table of Contents
 
 - [Various answers](#Various-answers)
-- [Even more opinions](#Even-more-opinions)
-- [Bonus answer - Essential Graphic Novels Everyone Should Read](#Bonus-answer---Essential-Graphic-Novels-Everyone-Should-Read)
-- [Bonus answer - the only mention of Transmetropolitan](#Bonus-answer---the-only-mention-of-Transmetropolitan)
-- [Best Batman comics to read](#Best-Batman-comics-to-read)
-- [Best Comics about the Joker](#Best-Comics-about-the-Joker)
-- [Batman and Joker](#Batman-and-Joker)
-- [Dark comics, especially related to Batman](#Dark-comics-especially-related-to-Batman)
-- [Where to start with Green Lantern](#Where-to-start-with-Green-Lantern)
-- [Where to start with Swamp Thing](#Where-to-start-with-Swamp-Thing)
-- [Where to start with Flash](#Where-to-start-with-Flash)
-- [Where to start with Wonder Woman](#Where-to-start-with-Wonder-Woman)
-- [Best Harley Quinn comics](#Best-Harley-Quinn-comics)
-- [Best Doctor Who comics](#Best-Doctor-Who-comics)
-- [Best Star Trek comics](#Best-Star-Trek-comics)
-- [Best Star Wars comics](#Best-Star-Wars-comics)
+  - [Bonus answer - Essential Graphic Novels Everyone Should Read](#Bonus-answer---Essential-Graphic-Novels-Everyone-Should-Read)
+  - [Bonus answer - the only mention of Transmetropolitan](#Bonus-answer---the-only-mention-of-Transmetropolitan)
+  - [Bonus answer - dark comics, especially related to Batman](#Bonus-answer---dark-comics-especially-related-to-Batman)
+- [Superhero comic books - best books and where to start](#Superhero-comic-books---best-books-and-where-to-start)
+  - [Batman](#Batman)
+    - [The Joker](#The-Joker)
+    - [Batman and Joker](#Batman-and-Joker)
+  - [Green Lantern](#Green-Lantern)
+  - [Swamp Thing](#Swamp-Thing)
+  - [The Flash](#The-Flash)
+  - [Wonder Woman](#Wonder-Woman)
+  - [Harley Quinn](#Harley-Quinn)
+- [Comic books of the most popular franchises - best books and where to start](#Comic-books-of-the-most-popular-franchises---best-books-and-where-to-start)
+  - [Doctor Who](#Doctor-Who)
+  - [Star Trek](#Star-Trek)
+  - [Star Wars](#Star-Wars)
 - [Best authors](#Best-authors)
   - [Alan Moore](#Alan-Moore)
   - [Ed Brubaker](#Ed-Brubaker)
@@ -32,7 +35,7 @@
   - [Brian K. Vaughan](#Brian-K-Vaughan)
   - [Mark Waid](#Mark-Waid)
   - [Honorable mentions](#Honorable-mentions)
-- [Conclusion](#Conclusion) <- if you have no time, then this is your bro :)
+- [Conclusion](#Conclusion)
 - [References](#References)
 
 ## Various answers
@@ -186,7 +189,7 @@ John Layman - Chew
 4. Infinite Crisis : Another Crisis. This shows that we don't need darkness to create good stories. Stories don't need to be dark and edgy for the sake of it. You know what's better than one Superman? Two of them.
 5. Geoff Johns' **Green Lantern** : This man brought the GL franchise from zero. He built on the legacy that was left by his previous writers and left it at a level that I don't think any other human can. Such innovation, and so many incredible ideas.
 
-## Even more opinions
+---
 
 143: I really liked the graphic novel **Bone** it had a really interesting story about each character, especially the old humans. It incorporated humor and drama that got me wondering about life in like fifth grade. And of course the Adventures of Tintin.
 
@@ -261,7 +264,7 @@ Bonus:
 >
 > > I'd rate it better than Watchmen, almost as good as The Boys which is  one of my all time favourites.
 
-## Bonus answer - Essential Graphic Novels Everyone Should Read
+### Bonus answer - Essential Graphic Novels Everyone Should Read
 
 1. **Maus Complete**. (Includes Maus + Maus II)
 
@@ -332,7 +335,7 @@ I’d have to add Dark Knight Returns but it has no where near the critical accl
 >
 > This is the book that transformed Batman from the old comedy tv show to the much darker batman we're used to nowadays. It's pretty political though, at least one friend I lent it to didn't like it because he didn't agree with the political statements.
 
-## Bonus answer - the only mention of Transmetropolitan
+### Bonus answer - the only mention of Transmetropolitan
 
 5: Top Ten by Alan Moore. It's a very non-Alan-Moore-like comic. Fun, entertaining and bright. It's yet another take on his usual schtick ("what if superheroes really existed in the real world") but it's done with a sense of fun and the end result is a great comic book.
 
@@ -342,7 +345,59 @@ I’d have to add Dark Knight Returns but it has no where near the critical accl
 
 3: It depends on what they are looking for. For those who want something outside the realm of Superheroes usually Essex County. For those who want Superhero stories but done in a different way All Star Superman, and for those who just want a great starting point to get into comics usually Ultimate Spider-Man.
 
-## Best Batman comics to read
+### Bonus answer - dark comics, especially related to Batman
+
+For Batman:
+
+Arkham Asylum, Dark Knights: Metal, One Shots **Dark Knight Returns**
+
+Non-Batman:
+
+**Watchmen**, Invisibles, **Swamp Thing** (Alan Moore), **Sandman** (Neil Gaiman).
+
+---
+
+*Arkham Asylum: A serious House on a Serious Earth* is probably the darkest. **Dark Knight Returns**, Shaman, The Cult, and Gothic are also really good dark ones.
+
+---
+
+Now what do you mean by "dark?"
+
+*All-Star Batman and Robin* is pretty damn dark in tone and content - I wouldn't recommend it to anyone though.
+
+> As a dark and serious Batman story, I also wouldn't recommend *All Star Batman & Robin*...
+>
+> ...HOWEVER as a farcical, crazy-town, banana-pants story I wholly recommend *All Star Batman & Robin.*
+
+*Arkham Asylum: A serious House on a Serious Earth* by Morrison is <u>probably the darkest you'll find</u>. It is pretty much all psychological and is fairly light on the blood but it is probably the most all-out horror batman story there is.
+
+*The Black Glove* contains the issue *Joe Chill in Hell* where Batman mentally tortures Joe Chill into committing suicide - that's pretty dark.
+
+*Dark Knight/Dark City* was recently re-released I hear and is probably the most grim Riddler story out there... it starts of pretty dark and stays that way. Got some baby kidnapping and it is generally pretty creepy.
+
+**Killing Joke** has implied rape, house invasion, execution and general mental torture so that's pretty dark.
+
+*Black Mirror* has a lot of psychological darkness and detective work to it and some torture and mutilation too.
+
+Pretty much any ark from the pre 2008ish series *Streets of Gotham* would be about some pretty grim subjects - it was an uneven series.
+
+---
+
+Read Scott Snyder's Batman run. Or **The Long Halloween**, maybe *Arkham Asylum: A Serious House On A Serious Earth*? It's probably harder to find "lighter" Batman stories haha
+
+---
+
+Snyder's Works: Black Mirror, **Court of Owls**, City of Owls, **Death of the Family**, **Endgame**.
+
+Geoff Johns: *Batman: Earth One Vol. 1 & 2*.
+
+Other's: *Death in the Family, Arkham Asylum, Long Halloween*.
+
+> Aside from all the mentioned and you're also interested in the animated universe, Return of the Joker's pretty grim.
+
+## Superhero comic books - best books and where to start
+
+### Batman
 
 > [Batman - essentials](https://www.reddit.com/r/batman/wiki/recommendations/essentials) on Reddit.
 
@@ -394,7 +449,7 @@ You are going to get a lot of recommendations for **Year One** and **The Dark Kn
 
 > EDIT: also Batman Earth One by Geoff Johns and Gary Frank.
 
-## Best Comics about the Joker
+#### The Joker
 
 *Comics:*
 
@@ -429,7 +484,7 @@ I loved Batman: White Knight personally - definitely recommend you read it. You 
 
 > The New 52 is Death **of** the Family, which I agree is really good. A Death **in** the Family is the post-crisis story, that I find terrible. Just wanted to clear it up for OP.
 
-### What is your favorite joker story?
+##### What is your favorite joker story?
 
 You should probably add '*besides the Killing Joke*' because well obviously.
 
@@ -441,7 +496,7 @@ If I were to choose something besides **The Killing Joke** or "The Laughing Fish
 
 After **The Killing Joke**, **The Man Who Laughs**.
 
-### What is the DARKEST Joker story in the Batman comics?
+##### What is the DARKEST Joker story in the Batman comics?
 
 20: If you don't think the Joker from Snyder and Capullo's New 52 run is dark and twisted enough, then I don't know what's wrong with you. That's the most sadistic version I've seen yet.
 
@@ -455,7 +510,7 @@ After **The Killing Joke**, **The Man Who Laughs**.
 
 > Joker by Brian Azzerello is fantastic.
 
-### Joker Comic Reading List
+##### Joker Comic Reading List
 
 My number 1 personal recommendation is **The Killing Joke** its widely considered to be one of the best joker stories out there and in my opinion is the best. It was the first comic book I read and what hooked me on the character so I may be biased in this regard but I really can't think of a better jumping off point for a new comic book reader in general or a new batman reader or just a new reader to the Joker. Writer Alan Moore gives a gripping and terrifying story focusing more on the Joker then Batman while also exploring one of the possible origin stories for the character all in all it's one of the best characterizations out there along with Brian Bollands beautiful artwork it becomes a must-read for Joker fans.( just make sure to get the deluxe edition which was published years later and includes updated coloring that improves the quality of the whole book even more most comic book shops will exclusively sell the deluxe edition so it shouldn't be a problem but just in case I should mention it if you're not experience with comics)
 
@@ -471,9 +526,9 @@ Lastly is "**The Man Who Laughs** written as a follow up to a year one which was
 
 Side note please keep in mind that this is a character with a 75 year lineage and that his character has been told many times by many different authors so there are hundreds of storylines graphic novels and trade paperbacks that feature him as the main character that I am probably leaving out these are only the ones that I have read and enjoyed this being my favorite character. So I encourage you if there's a comic book store near you to go and just check out the rack of Joker comics there and see if any of them strike your fancy but this list should be more than enough to get you started.
 
-## Batman and Joker
+#### Batman and Joker
 
-### First answer - What are the best Batman tpbs with the Joker?
+###### First answer - What are the best Batman tpbs with the Joker?
 
 > I think tpbs means Thought Provoking Bible Studies.
 
@@ -483,7 +538,7 @@ Side note please keep in mind that this is a character with a 75 year lineage an
 
 6: **Death of the Family** and Endgame. **The Man who Laughs**.
 
-### Second answer - Comics that dive into Batman and Joker’s relationship/psychology
+###### Second answer - Comics that dive into Batman and Joker’s relationship/psychology
 
 **Well known:**
 
@@ -506,57 +561,7 @@ Side note please keep in mind that this is a character with a 75 year lineage an
 
 **Other:** Scott Snyder's run on Batman, particularly Death of the Family and Endgame. I'm not going to comment either way on Snyder's Joker stories; I think they're worth reading and well-written, and there's some quite interesting and worthwhile commentary on the Batman-Joker relationship in them, but I wouldn't go out of my way to say they're "underrated" or the best Batman-Joker stories of all time.
 
-## Dark comics, especially related to Batman
-
-For Batman:
-
-Arkham Asylum, Dark Knights: Metal, One Shots **Dark Knight Returns**
-
-Non-Batman:
-
-**Watchmen**, Invisibles, **Swamp Thing** (Alan Moore), **Sandman** (Neil Gaiman).
-
----
-
-*Arkham Asylum: A serious House on a Serious Earth* is probably the darkest. **Dark Knight Returns**, Shaman, The Cult, and Gothic are also really good dark ones.
-
----
-
-Now what do you mean by "dark?"
-
-*All-Star Batman and Robin* is pretty damn dark in tone and content - I wouldn't recommend it to anyone though.
-
-> As a dark and serious Batman story, I also wouldn't recommend *All Star Batman & Robin*...
->
-> ...HOWEVER as a farcical, crazy-town, banana-pants story I wholly recommend *All Star Batman & Robin.*
-
-*Arkham Asylum: A serious House on a Serious Earth* by Morrison is <u>probably the darkest you'll find</u>. It is pretty much all psychological and is fairly light on the blood but it is probably the most all-out horror batman story there is.
-
-*The Black Glove* contains the issue *Joe Chill in Hell* where Batman mentally tortures Joe Chill into committing suicide - that's pretty dark.
-
-*Dark Knight/Dark City* was recently re-released I hear and is probably the most grim Riddler story out there... it starts of pretty dark and stays that way. Got some baby kidnapping and it is generally pretty creepy.
-
-**Killing Joke** has implied rape, house invasion, execution and general mental torture so that's pretty dark.
-
-*Black Mirror* has a lot of psychological darkness and detective work to it and some torture and mutilation too.
-
-Pretty much any ark from the pre 2008ish series *Streets of Gotham* would be about some pretty grim subjects - it was an uneven series.
-
----
-
-Read Scott Snyder's Batman run. Or **The Long Halloween**, maybe *Arkham Asylum: A Serious House On A Serious Earth*? It's probably harder to find "lighter" Batman stories haha
-
----
-
-Snyder's Works: Black Mirror, **Court of Owls**, City of Owls, **Death of the Family**, **Endgame**.
-
-Geoff Johns: *Batman: Earth One Vol. 1 & 2*.
-
-Other's: *Death in the Family, Arkham Asylum, Long Halloween*.
-
-> Aside from all the mentioned and you're also interested in the animated universe, Return of the Joker's pretty grim.
-
-## Where to start with Green Lantern
+### Green Lantern
 
 Most people would tell you to start with **Green Lantern: Rebirth**, but I think that story is a bit confusing for a new reader. So here is a list of the events that take place before that story in chronological order. The **bold** ones are a part of Geoff John's run while the *italic* ones are from the 90's:
 
@@ -572,7 +577,7 @@ Most people would tell you to start with **Green Lantern: Rebirth**, but I think
 
 **Green Lantern: Rebirth**
 
-## Where to start with Swamp Thing
+### Swamp Thing
 
 7: Len Wein's *Roots of the Swamp Thing* collects the first appearances of Swampy and establishes some of the main characters that would be used later. Then, move on to the first volume of Alane Moore's **Saga of the Swamp Thing** and work your way up to the sixth volume.
 
@@ -606,7 +611,7 @@ Don’t get thrown off too much by the numbering. I’ve never read #1-19 and it
 
 > It's all confusing, I know, but that's why most new reader advice avoids talking about all of this. I usually just say "Here, read this" instead of info-dumping about how the entire industry works. That's another reason publisher's label comics as "Book One". There should be no confusion about which book to buy first—it's book 1. Only the more inquisitive readers like yourself notice the comic numbering and think "Am I buying the right thing?" At that point, the publisher is thinking "Ugh, the Book One thing wasn't clear enough. Maybe we should just get rid of the comic numbering altogether to make it more obvious for the newbies." But then consumers would outcry "Now we can't see which issues are collected in this book! CROOKERY!" Again, more confusing meta-info a new reader doesn't need to worry about.
 
-## Where to start with Flash
+### The Flash
 
 12: Wally West recommendations:
 
@@ -775,7 +780,7 @@ The Flash | #1-29 | 2011-2014 | Manapul, Buccellato
 
 1: Everyone will rightfully tell you about *Waid’s* run being the best but if you can find the single issues, it’s worth it to check out Mike Baron and William Messner-Loebs runs since you see the full extent of Wally’s character development.
 
-## Where to start with Wonder Woman
+### Wonder Woman
 
 > [Definitive Wonder Woman Collecting Guide and Reading Order](https://crushingkrisis.com/crushing-comics-guide-collecting-dc-comic-books/wonder-woman-collecting-guide-trade-reading-order/#wonder-woman-1987).
 
@@ -863,7 +868,7 @@ TL;DR - Start with Rebirth. After that check out any of Rucka, Perez, Simone or 
 - [The Legend of Wonder Woman](https://www.amazon.com/dp/1401267289) | Renae De Liz
 - [Wonder Woman: Rebirth](https://www.amazon.com/dp/1401267785) | Greg Rucka
 
-## Best Harley Quinn comics
+### Harley Quinn
 
 **Batman: Mad Love**. I feel like it's the only good Harley comic. I personally think she hasn't been that great since B:TAS, but that's just me. Batman Adventures: My Boyfriend's Back and A Wedding to Die For are also gems.
 
@@ -871,7 +876,9 @@ Harley and Ivy is also a lot of fun but it's nothing serious. Her Pre New 52 sol
 
 In the New 52 she has gone through so many changes, in one issue she was killing 20 kids with bombs, in another she was shown with puppies and being a sweetheart. The New 52 Suicide Squad run was atrocious imo, and Palmiotti and Conner write her as Deadpool basically with same randomness and insanity.
 
-## Best Doctor Who comics
+## Comic books of the most popular franchises - best books and where to start
+
+### Doctor Who
 
 Q: I wanna start reading doctor who comics But I don't know where should I start I mean what's the right order of the comics And where can I find it? 
 
@@ -1170,7 +1177,7 @@ There are also three multi-Doctor crossover stories.
 
 as with the television series, you really do not have to know anything. you already know the basics.
 
-## Best Star Trek comics
+### Star Trek
 
 3: Peter David's work is generally pretty good. I loved Who Killed Captain Kirk? when I read it way back in high school.
 
@@ -1240,7 +1247,7 @@ Harlan Ellison's City on the Edge of Forever is an adaptation of Ellison's origi
 
 Over the past few years, Tipton has been writing some pretty good TNG comics. The Mirror Universe minis are especially good, *Mirror Broken* and *Through the Mirror*. Terra Incognita came after that, it was ok. The current one is The Q Conflict, and is only 1 issue in. Not sure on it yet. I've heard good things about the Discovery comics, but never bothered to pick them up.
 
-## Best Star Wars comics
+### Star Wars
 
 5: The best of the new canon IMO are Aphra, Poe Dameron, all the Vaders, and the older Lando miniseries. The main flagship series is middle of the road.
 
