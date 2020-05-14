@@ -32,7 +32,7 @@
   - [Brian K. Vaughan](#Brian-K-Vaughan)
   - [Mark Waid](#Mark-Waid)
   - [Honorable mentions](#Honorable-mentions)
-- [Conclusion](#Conclusion)
+- [Conclusion](#Conclusion) <- if you have no time, then this is your bro :)
 - [References](#References)
 
 ## Various answers
@@ -873,7 +873,302 @@ In the New 52 she has gone through so many changes, in one issue she was killing
 
 ## Best Doctor Who comics
 
+Q: I wanna start reading doctor who comics But I don't know where should I start I mean what's the right order of the comics And where can I find it? 
 
+A (by [LegoK9](https://www.reddit.com/user/LegoK9/)):
+
+> I mean what's the right order of the comics
+
+There are like, a dozen or so Doctor Who comic series by half a dozen publishers.
+
+The most recommended are [Doctor Who Magazine](http://tardis.wikia.com/wiki/Doctor_Who_Magazine_graphic_novels) and [Titan Comics](https://www.reddit.com/r/doctorwho/comments/85stpi/titan_comics_doctor_who_series_miniseries_and).
+
+Just pick a Doctor you like and start at the beginning of (one of) their runs.
+
+---
+
+3 (LegoK9): *The Weeping Angels of Mons*
+
+2: I’ve only read a few but I really liked the Star Trek Next Generation crossover. Has there been any other Doctor Who crossovers?
+
+2: My favorite is [Abslom Daak](https://i.imgur.com/U90NSRH.jpg), but it may be hard to find a copy now, unfortunately.
+
+2: As [/u/LegoK9](https://www.reddit.com/u/LegoK9/) says, Titan's Tenth Doctor tale *The Weeping Angels of Mons* is almost certainly the best short arc that they have produced so far - and is available as a graphic novel.
+
+Other than that, both *Year One* and *Year Two* of their *Eleventh Doctor* run (volume 1 - 6, I think) are extremely good - and work best (especially Year Two) read as a straight run through - single issues will just be confusing.
+
+Their Third Doctor mini-series *The Heralds of Destruction* is also great fun, and the Ninth Doctor mini-series *Weapons of Past Destruction* is also very true to this team's TV appearances.
+
+Looking back to IDW, before them, both *Prisoners of Time* and *The Forgotten* are enjoyable.
+
+Then there are the Panini comics from Doctor Who Magazine - where the entire Eighth Doctor run is a very good one. These are collected into four volumes: *Endgame*, *The Glorious Dead*,*Oblivion* and *The Flood*. I'm not sure about the availability of all of these - I think that *The Flood* was out of print at one point - but may be found on ebay etc.
+
+> All of the Panini graphic novels are still in print.
+>
+> They can still be purchased directly from Amazon and Book Depository.
+
+---
+
+12: There have been loads over the years.
+
+At the moment, **Titan** have the license for actual comics and are producing some excellent material in general:
+
+- The Eleventh Doctor - *the first two years* of this have been brilliant - arguably better than S6 and 7 on TV, and I'd recommend them to anyone. We are now into the third year, which isn't quite on the same level, but is still interesting.
+- The Twelfth Doctor - had some great arcs in *Year One*, and hit a real high point in the first half of *Year Two*. Has been a little more patchy since, but still generally very good - and the current arc is looking excellent.
+- The Tenth Doctor - The highpoint so far is the *Weeping Angels of Mons* arc - outstanding, and probably best use of the Angels since *Blink*. Otherwise, the tales have been above average and pretty enjoyable overall.
+- The Ninth Doctor - started with an excellent miniseries, which really caught the spirit and characterization of all the characters involved. Then became an ongoing series and has been generally good, but perhaps the most patchy of their ongoing series overall.
+- Torchwood - more style than substance, and fairly slow moving as a result. Interesting, but not outstanding.
+
+They have also done a number of miniseries for some of the Doctors - *The Eight Doctor* was a bit wishy-washy, *The Fourth Doctor* was very well characterized, but a mediocre plot, and the *Third Doctor* was brilliant.
+
+And then there are their 'event' series, which have been mediocre at best, and gernally disappointing.
+
+Besides **Titan**, the other line that is still ongoing is the comic strip in **Doctor Who Magazine**, which is giving us some great material for the *Twelfth Doctor* overall, but probably peaked with it's long *Eighth Doctor run* - collected into TPB's which can be difficult to find, but are worth it.
+
+Historically the early comic strips for the first two Doctors - published in the Polystyle group of comics/magazines are really only curiosities for completists, but some of the later Third Doctor strips are really quite excellent in artwork and plot, and can rival the TV tales of the time. However the Fourth Doctor tales rapidly went downhill again, until they moved to DWM.
+
+Prior to Titan, IDW had the licence for comics and produced a few good miniseries such as *The Forgotten* and *Prisoners of Time* which are well worth hunting out, but otherwise did not hit the same league as the current Titan tales.
+
+> 3: Without giving it away, I do like how 10 worked out how to beat the Angels. I did like 11's story arc with Daak.
+
+5: Yes.
+
+The question is....which ones though?
+
+Personally I would recommend the panini graphic novel collections. The **doctor who magazine** comic strip is for me the best doctor who comic form which all other series hope to live up to. And they have a natural advantage- a much closer connection to the BBC, and by being one part of a magazine, the comic doesn't need to always e trying any gimmicks to bring people in, it's enough that it's enjoyable.
+
+Recommended reading- 5th doctor, *tides of time*, 6th doctor *voyager* and *the world shapers*, *all the eighth doctor* strips, tenth doctor *Crimson hand*, and *all the eleventh doctor* books.
+
+These are the arcs where the comic really came into its own, deciding to create their own story arcs without focusing on what is happening in the tv series, or in other words, leading with great stories, instead of trying to follow what others are doing.
+
+As for the other series, IDW is all right, but never really grabbed me (seemed to have too much continuity references for their own sake- I remember one author trying to make his story appealing by finally having the fifth doctor meet the juddoon) and **Titan** seems to be having the same issues, particularly with their multi doctor events. I really enjoy the *weeping angel of mons* (tenth doctor series) as it made me realize how we never saw the angels again in the same way we did in blink (when they returned with the eleventh doctor they were the mad killers, not those who killed with kindness by sending people back), and subsequently we had not seen the doctor face those angels directly. Also like the fourth doctor series, eyes of the medusa, as it seemed a good attempt to show the sort f story the fourth doctor would have had in television, whereas the third doctor series was clearly the sort of story a fan would write occurring between the series but would have never had appeared on television.
+
+3: Well, *The World-Shapers* was directly referenced twice in *World Enough and Time/The Doctor Falls.* It was also written by Grant Morrison.
+
+Colin Baker even wrote a graphic novel himself. For the **DW Magazine** comics, I don't know how many of them are considered worth the time/money, but as an artifact of the series' past and something more permanent to fans from that era than the TV show was (VHS copies of the episodes didn't start coming out til 1983 and came out 1-5 per year til after the show was cancelled), I'd say they're worth a look.
+
+2: I've not read many but those I have read have been generally very good, although aimed more at hardcore fans than casual viewers, as they often feature and expand on sub plots and tertiary characters from the tv series. I just finished reading the 12 issue series "*Prisoners of time*", which was released for the 50th anniversary and I have to say, as a fan of both classic and new who, it was excellent and I would highly recommend.
+
+1: The Titan miniseries (*3*,*4* and *8*) are good, *11th Doc* is consistently good, 10th is eh with a few good arcs here and there and I can't speak for 9 or 12. The IDW comics can be hit or miss. For sure I'd recommend Titan's *11th Doctor*.
+
+---
+
+5: I'm not really a fan of **IDW**'s Tenth Doctor comics. I prefer **Titan**'s and **Doctor Who Magazine**'s a lot more. I think it's mostly to do with the art style for me, though I'm also a big fan of the other comic lines' stories.
+
+You have a few options for Tenth Doctor comics
+
+- DWM: The Betrothal of Sontar - 10/Rose
+- IDW: Doctor Who (2008) - 10/Martha
+- DWM: The Widow's Curse - 10/Martha & 10/Donna
+- DWM: *The Crimson Hand* - 10/Majenta
+- Titan: The Tenth Doctor - 10/Gabby/Cindy
+- IDW: Doctor Who (2009) - 10/Emily/Matthew
+
+I loved his later two DWM graphic novels, and his current run with Titan Comics is pretty great as well.
+
+---
+
+8: In modern day, there's basically three big groups of comic publishers: **IDW**, **Panini**, and **Titan**. You can get an overview of each from [here](http://tardis.wikia.com/wiki/Doctor_Who_comic_stories).
+
+**IDW** no longer does Doctor Who comics, but they had a Tenth and Eleventh Doctor series, as well as several special stories. You can find more information [here](http://tardis.wikia.com/wiki/IDW_Publishing).
+
+Panini is the company publishing the comics featured in **DWM**. [There was a fantastic comment on here](https://www.reddit.com/r/gallifrey/comments/5lqgcl/big_finish_doom_coalition_4_trailer/dc0apsj/) that gives you all the info you would need about them, and how they're organized.
+
+**Titan** also currently publishes their own comics, featuring Doctor Who. They currently publish Ninth, Tenth, Eleventh, and Twelfth Doctor comics, and have published Third, Fourth, and Eighth Doctor comics in the past. These are ongoing series, and are currently being published as I type. Additionally, Titan has published several other comics, including Torchwood comics, Ghost Stories (featuring the Ghost from *The Return of Doctor Mysterio*) and Summer Special comic events. You can find more information [here](http://tardis.wikia.com/wiki/Titan_Publishing_Group).
+
+Personally, the Titan stuff is fairly easy to find and digest, and is split up pretty well. The Panini stuff has some great artwork, but it can be a bit dense, and it's more expensive than the Titan stuff, generally. If you're looking for a good place to start, try starting with Titan, I don't think you'll be disappointed.
+
+> 2: I highly recommend the *Eleventh Doctor's run* at Titan. I haven't kept up but the first 4 or 5 volumes were great! The art work is... not everyone's cup of tea but I don't mind because it fit sand flows and the story is interesting.
+>
+> They're all good, different from one another, but just wanted to give a heads up on 11's art styling, which I've heard complaints on.
+>
+> 2: On top of above suggestions, give *The Weeping Angels of Mons* a read. It's a fantastic Weeping Angel story in the 10th Doctor's run.
+
+6: You can get the **DWM** and **Titan** graphic novels for reasonable prices from Amazon, Book Depository, and Abe Books.
+
+Here's a list of the collections:
+
+**DOCTOR WHO MAGAZINE (Marvel/Panini):**
+
+- 4 Volume 1: The Iron Legion (DWW 1-38, minus Timeslip)
+- 4 Volume 2: Dragon's Claw (DWW 39-43, plus DWM 44-60)
+- *5 Complete: The Tides of Time* (DWM 61-87, plus Timeslip)
+- *6 Volume 1: Voyager* (DWM 88-107)
+- *6 Volume 2: The World Shapers* (DWM 108-129)
+- 7 Volume 1: A Cold Day in Hell! (DWM 130-150)
+- 7 Volume 2: Nemesis of the Daleks (DWM 152-162, plus IHP 1-12)
+- 7 Volume 3: The Good Soldier (DWM 164-179)
+- 7 Volume 4: Evening's Empire (DWM 180-192, plus complete version of Evening's Empire)
+- 7 Volume 5: Emperor of the Daleks (DWM 193-211, plus Up Above the Gods)
+- Past Doctor Volume 1: Land of the Blind (TBA)
+- Past Doctor Volume 2: Ground Zero (TBA)
+- *8 Volume 1: Endgame* (DWM 244-271)
+- *8 Volume 2: The Glorious Dead* (DWM 272-299)
+- *8 Volume 3: Oblivion* (DWM 300-328, minus The Last Word - 7th Doctor strip)
+- *8 Volume 4: The Flood* (DWM 339-353)
+- 9 Complete: The Cruel Sea (DWM 355-364)
+- 10 Volume 1: The Betrothal of Sontar (DWM 365-380)
+- 10 Volume 2: The Widow's Curse (DWM 381-399, minus Hotel Historia)
+- *10 Volume 3: The Crimson Hand* (DWM 400-420, plus Hotel Historia)
+- *11 Volume 1: The Child of Time* (DWM 421-441)
+- *11 Volume 2: The Chains of Olympus* (DWM 442-450)
+- *11 Volume 3: Hunters of the Burning Stone* (DWM 451-561)
+- *11 Volume 4: The Blood of Azrael* (DWM 462-474)
+- 12 *Volume 1: The Eye of Torment* (DWM 475-488, minus Space Invaders)
+- 12 Volume 2: The Highgate Horror (DWM 489-500, plus Space Invaders)
+- 12 Volume 3: Doorway to Hell (DWM 501-511)
+- 12 Volume 4: TBA (DWM 512-TBA)
+
+**IDW PUBLISHING:**
+
+- 10 Special: Agent Provocateur
+- 10 Special: Through Time and Space
+- *1-10 Special: The Forgotten*
+- Series 1 Volume 1: Fugitive
+- Series 1 Volume 2: Tesseract
+- Series 1 Volume 3: Final Sacrifice
+- 11 Special: A Fairy Tale Life
+- Series 2 Volume 1: The Ripper
+- Series 2 Volume 2: When Worlds Collide
+- Series 2 Volume 3: It Came From Outer Space
+- Series 2 Volume 4: As Time Goes By
+- 11/Star Trek Special: Assimilation² (1 HB or 2 PPB volumes)
+- Series 3 Volume 1: The Hypothetical Gentleman
+- Series 3 Volume 2: The Eye of Ashaya
+- Series 3 Volume 3: Sky Jacks!
+- Series 3 Volume 4: Dead Man's Hand
+- *1-11 Special: Prisoners of Time* (1 HB or 3 PPB volumes)
+
+**TITAN COMICS:**
+
+YEAR ONE:
+
+- 10 Volume 1: Revolutions of Terror (10D 1.1-1.5)
+- 10 Volume 2: *The Weeping Angels of Mons* (10D 1.6-1.10)
+- 10 Volume 3: The Fountains of Forever (10D 1.11-1.15)
+- *11 Volume 1: After Life* (11D 1.1-1.5)
+- *11 Volume 2: Serve You* (11D 1.6-1.10)
+- *11 Volume 3: Conversion* (11D 1.11-1.15)
+- 12 Volume 1: Terrorformer (12D 1.1-1.5)
+- 12 Volume 2: Fractures (12D 1.6-1.10)
+- 10-12 Event: Four Doctors (Event 1.1-1.5)
+- 12 Volume 3: Hyperion (12D 1.11-1.15)
+
+MINI-SERIES:
+
+- *8 Volume 1: A Matter of Life and Death* (8D Mini 1-5)
+- *9 Volume 1: Weapons of Past Destruction* (9D Mini 1-5)
+
+YEAR TWO:
+
+- 9 Volume 2: Doctormania (9D 1.1-1.5)
+- 9 Volume 3: Official Secrets (9D 1.6-1.10)
+- 9 Volume 4: Sin Eaters (9D 1.11-1.15)
+- 10 Volume 4: The Endless Song (10D 2.1-2.5)
+- 10 Volume 5: Arena of Fear (10D 2.6-2.10)
+- 10 Volume 6: Sins of the Father (10D 2.11-2.14)
+- 10 Volume 7: War of Gods (10D 2.15-2.17)
+- *11 Volume 4: The Then and the Now* (11D 2.1-2.5)
+- *11 Volume 5: The One* (11D 2.6-2.10)
+- *11 Volume 6: The Malignant Truth* (11D 2.11-2.15)
+- 12 Volume 4: The School of Death (12D 2.1-2.5)
+- 12 Volume 5: The Twist (12D 2.6-2.10
+- 9-12 Event: Supremacy of the Cybermen (Event 2.1-2.5)
+- 12 Volume 6: Sonic Boom (12D 2.11-2.15)
+
+MINI-SERIES:
+
+- *3 Volume 1: The Heralds of Destruction* (3D Mini 1-5)
+- *4 Volume 1: Gaze of the Medusa* (4D Mini 1-5)
+
+YEAR THREE:
+
+- 10 Volume 8 (Facing Fate 1): Breakfast at Tyranny's
+- 10 Volume 9 (Facing Fate 2): Vortex Butterflies
+- 10 Volume 10 (Facing Fate 3): Second Chances
+- 11 Volume 7 (The Sapling 1): Growth
+- 11 Volume 8 (The Sapling 2): Roots
+- 11 Volume 9 (The Sapling 3): Branches
+- 12 Volume 7 (Time Trials 1): The Terror Beneath
+- 12 Volume 8 (Time Trials 2): TBA
+- 9-12 Event: The Lost Dimension
+- 12 Volume 9 (Time Trials 3): TBA
+
+2: The best comics are the **DWM** ones. The entire *8th doctor run* is a must read along with *Voyager*, Tides of Time and all the 4th doctor ones.
+
+2: The first comic to get me into Doctor Who comics was "Doctor Who Classics" and I still haven't read much more. Iron Legion is just gripping and goofy and perfect 4th.
+
+---
+
+7: Long post sorry but tried to make this as comprehensive as I could for the different publishers and what to expect from each:
+
+**Doctor Who Magazine Comics**
+
+The longest running of Doctor Who comics and probably the most consistent of the major publishers. Forming a single series across the Doctors, it does build its own lore over the years but has plenty of jumping on points and you can start with any Doctor you want, I'll list the major jumping on points though. All of the TPBs are still in print and are easy to get ahold of at a decent price.
+
+*The beginning* - Starting at the start with Tom Baker's first volume isn't a bad choice. You have some very good early strips by acclaimed 2000AD writers and they really capture Tom Baker's Doctor in a way I feel a lot of more recent 4th Doctor stories don't quite.
+
+*Steve Parkhouse's run* - Parkhouse was one of the longest serving DWM writers and a very good comic writer in general. Starting with the 4th Doctor strip "The Deal", collected in the second 4th Doctor volume, Parkhouse builds a run across the 4th, 5th and 6th Doctor that's accessible enough to jump on board with any Doctor but more narratively satisfying to follow from the start as he builds on his own lore and narrative themes across his run. Parkhouse's run is among the most held up Doctor Who comics and both Tides of Time and Voyager are 2 of the highest rates stories by fans.
+
+*post-Parkhouse* - Parkhouse leaves half way through the 6th Doctor's first collected volume and the writing keeps rotating between different creators through the 6th and 7th Doctors eras. The 6th Doctor still has a few stand outs in this time following on from Parkhouse, The World Shapers story by Grant Morrison in particular is very popular and was explicitly referenced in the s10 finale. But DWM lose their way a bit in early 7th Doctor stories. They're not bad stories, just a bit directionless and tonally light. After a few years though DWM editorial themselves feel they could be doing more and work hard to use their stable of varied writers to their strength and try to build a varied series of stories that for the first time reflect the show and move between light and heavy stories. Jumping ahead to the v2 or v3 for the 7th Doctor isn't a bad idea if you're not as willing to sit through a lot of light hearted strips that never really build up much momentum. As of v5 the 7th Doctor comics do start to use book companion Benny but the stories are still accessible enough not knowing her (and if you want her introduction you can stand alone read Love and War or listen to the BF adaptation and it's a great story).
+
+*8th Doctor's run* - It's debatable whether this or Parkhouse's run is the more iconic of the DWM runs. Great series of stories that builds its own ongoing story for the 8th Doctor, definitely start at the start with v1 for the most rewarding experience. Writing was shared between Alan Barnes and Scott Gray early on before Scott Gray becomes the single writer for the series. Alan Barnes stories are strong, but Gray's are the highlight and I confess Barnes' characterisation for companion Izzy never really worked for me but she grew on me in leaps and bounds once Gray really took over. These stories were also a huge influence on the new show, RTD was a big fan and he lifted more than one idea for his era of the show. Most nuWho finales in RTD's time as showrunner are influenced by this run to varying levels.
+
+*nuWho Doctors* - DWM had a lot of creative freedom even before the wilderness years, there was never much pressure or rules placed on them to be like the show and they never really were because of that. With the return of the show though DWM had to get much more in line with whatever was on TV, so more than any other era nuWho Doctors are the most accessible of DWM's comics. I'm only part way through the 10th Doctor's run so I can't speak with much insight but there are some cool stories in here, some of which became the basis of TV stories, and although he stepped away for a few years into the role of just editing the comic Scott Gray has come back to do some very well received stories for the 11th and 12th Doctors.
+
+**IDW Comics**
+
+IDW opened the license with a couple of years of mini-series and one shots for the 10th Doctor, the only one of which I'd significantly recommend is The Whispering Gallery one-shot.
+
+After initial success they launched a Doctor Who ongoing starring the 10th Doctor, it's very continuity heavy pulling tonnes of classic and even Big Finish references making itself difficult for more casual fans and not particularly good either.
+
+IDW opened the 11th Doctor's era with a relaunch from issue #1, this new ongoing was the same writer that had handled the 10th Doctor's run, but his writing is much improved, towards the end of v2 the writer changes which also gives a boost in quality.
+
+IDW had a second relaunch during the 11th Doctor's era and v3 is probably the strongest ongoing IDW did with the license.
+
+IDW also put out a few mini-series during the 11th Doctor's run. Most memorable an 11th Doctor Star Trek TNG crossover and the 50th anniversary *Prisoners of Time* with a single issue for each Doctor, in both cases YMMV.
+
+Overall while IDW have their moments, and their 11th Doctor run was consistently enjoyable, they have the weakest output with the license of the 3 significant publishers. Titan collected all the IDW stuff except the Star Trek crossover into 3 trades called Archives if you want to give a look though, I recommend jumping straight to the 11th Doctor stuff if you do.
+
+**Titan Comics**
+
+Titan are the biggest mixed bag of the publishers and they also flood the market compared to the others so they can be a bit more overwhelming. I'll break them down by Doctor.
+
+*Classic Doctor Mini-Series* - So far there's been tree mini series for classic Doctors, the easy stand out for most being Paul Cornell's Third Doctor mini series that tells an engaging story of its own while being a hugely nostalgic era celebration of the *3rd Doctor* and Cornell's writing farewell to Doctor Who (before he backpedaled slightly tempted back by the new Target books). There's also the 4th and 8th Doctor mini-series, neither is stand out in the way the *3rd Doctor's mini-series* but both decent reads. I personally enjoy the 8th Doctor's more of the two.
+
+*9th Doctor Series* - Comprised of a mini-series followed by a single ongoing, got off to a decent start but never really has much in the way of stand out stories and I find I liked it less as it went on and it didn't seem to capture anyone as their favourite.
+
+*10th Doctor Series* - 3 ongoing series separated into "Years" that operate like separate seasons of the show. Builds a new journey for the 10th Doctor with a new set of companions set during his specials year. The stories are a bit hit and miss but rarely bad and it does very good long running character work across the run with good companion growth and engaging characters. The "season finale" type stories do tend to be a bit messy and dense, I find them usually the weakest part of the 10th Doctor stuff so don't be too put off if you have fun but don't like a finale, it's worth carrying on if you've enjoyed it up to then.
+
+*11th Doctor Series* - The easy stand out of Titans output IMO. Similar to the 10th Doctor, split into "Years" each like its own season and builds its own era with new companions set between s5 and s6. *11th Doctor* stuff isn't just good Doctor Who stories but genuinely good comics in general. Some of the biggest current talent in comics worked on this and put out some really experimental and impressive stories. Strong characterisation of the Doctor and original companions, strong stories some of which really experiment with the comic medium and really adds to the shows lore in a way I feel genuinely adds to what we saw on screen with the 11th Doctor.
+
+*12th Doctor Series* - The most inconsistent of Titan's output, most likely in part down to a lack of freedom and writers lack of familiarity with the era having to write for it as it's unfolding. Follows a "Year" format once again, but the splitting points feel a bit more arbitrary since it's always structured around changes in the show that don't line up with the relaunches. At its best it's better than the 9th Doctor series, at its worst it's Titans worst output. I'd advise skipping to Year Two if you want to give it a go and I feel Year Two and Three are mostly fun engaging stories but it does have a weak showing at the end when a new writer comes on board at the same time Bill does.
+
+*Yearly Multi-Doctor Events* - These are of very variable quality, none of them are great but to different degrees they can be fun very fannish reads depending on if that's your thing. They use original Titan companions travelling with the Doctors but each Doctor ongoing is totally stand alone from these so they're a totally optional read and not reflective of Titan's usual quality.
+
+Titan are also building up to a new direction to coincide with Whittaker's era. The 10th and 11th Doctors are getting fresh ongoings with totally new directions and a new 13th Doctor ongoing with one of Titan's best artists and a new writer. There's also the recently announced "Road to the Thirteenth Doctor" one shots for Doctors 10, 11 and 12 that'll lead up to Whittaker's debut, but I'm cautious about them as they're all written by the worst writer Titan have.
+
+5: If you're a New Series fan, check out Titan's stuff. The *Tenth Doctor* and *Eleventh Doctor* stuff is generally really strong, and the Ninth and Twelfth Doctor stuff have their moments. They're a bit easier to get into, and while artwork can sometimes be wonky as hell (I don't think anyone has been able to do a good Eleventh Doctor from what I've read so far), the stories are mostly good.
+
+If you're interested in the Classic Series, Panini (the publishers of Doctor Who Magazine) have been collecting old comics into graphic novels. These feature the Fourth Doctor on, and have work by some pretty big people (Dave Gibbons, the artist for Watchmen, did the artwork for most of the Fourth Doctor's run and the first story of Five's run, Andrew Cartmel wrote for Seven, and Rob Shearman wrote for Nine). Those comica are generally really high quality, with generally great artwork and strong stories. They're a bit more mature than Titan's stuff (not a dig at all), and as such, they can be a bit heavy, so be aware of that.
+
+There's a lot of earlier comics, but those are harder to come by, and there's also IDW, who did some Ten and Eleven comics in the late 2000s and early 2010s, but I'm not as familiar with those, honestly, so I can't in good conscience make a recommendation there either way.
+
+5 (by LegoK9): The current run of Doctor Who comics by Titan comics are high quality and very accessible for modern fans. I highly recommend *The Weeping Angels of Mons*.
+
+Titan has main series for Doctors 9-12 and miniseries for 3, 4, and 8. A series for 13 and a miniseries for 7 come out this year.
+
+There are also three multi-Doctor crossover stories.
+
+[Here's my visual guide for how the crossovers fit in each Doctor's timeline,](https://i.imgur.com/DLGJVaz.jpg) but they aren't essential reading for the main plots.
+
+2: Titan. They're like new who done in the serial format of old who. They expand the source material in various ways, and they have a ninth doctor mini.
+
+1: if you like *The Sandman*, then track down Steve Parkhouse's early '80's work. they have some stylistic similarities to that period Gaiman.
+
+> Or where is a good place to start for someone who hasn't gotten into the Who universe beyond the show?
+
+as with the television series, you really do not have to know anything. you already know the basics.
 
 ## Best Star Trek comics
 
@@ -1256,6 +1551,20 @@ Best Flash books:
 
 Best Harley Quinn books: **Batman: Mad Love**.
 
+Best Doctor Who books:
+
+- **TITAN COMICS**: *Doctor Who: The Tenth Doctor Vol. 2: The Weeping Angels of Mons* (or Doctor Who: The Tenth Doctor Complete Year 1 Vol. 1), *Doctor Who: The Eleventh Doctor Vol. 1-6* (the first two years of [Eleventh Doctor](https://tardis.fandom.com/wiki/Doctor_Who%3A_The_Eleventh_Doctor)), *3 Volume 1: The Heralds of Destruction*, *9 Volume 1: Weapons of Past Destruction* (+-), *4 Volume 1: Gaze of the Medusa* (+- mediocre plot), *8 Volume 1: A Matter of Life and Death* (+- wishy-washy).
+
+  > Personally, the Titan stuff is fairly easy to find and digest, and is split up pretty well. While artwork in Titan comics can sometimes be wonky as hell (I don't think anyone has been able to do a good Eleventh Doctor from what I've read so far), the stories are mostly good. 
+
+- **DOCTOR WHO MAGAZINE (Marvel/Panini):** *5 Complete: The Tides of Time*, *6 Volume 1: Voyager*, *6 Volume 2: The World Shapers*, entire *8th Doctor's run*, *10 Volume 3: The Crimson Hand*, entire *11th Doctor's run*.
+
+  > The Panini stuff has some great artwork, but it can be a bit dense, and it's more expensive than the Titan stuff, generally. And they have a natural advantage - a much closer connection to the BBC.
+
+- **IDW**: *1-10 Special: The Forgotten*, *1-11 Special: Prisoners of Time*. Just for fun: [Star Trek: The Next Generation / Doctor Who: Assimilation 2: The Complete Series](https://www.amazon.com/Star-Trek-Generation-Assimilation-Complete/dp/1613777825/) - crossover of Eleventh Doctor and The Next Generation crew of Star Trek.
+
+  >IDW is the worst among those publishers.
+
 Best Star Trek comics: *Mirror Broken* and *Through the Mirror*, others are not great tbh.
 
 Best Star Wars comics: 
@@ -1297,14 +1606,20 @@ Best authors:  **Alan Moore**, **Warren Ellis**, *Grant Morrison*, *Scott Snyder
 28. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
 29. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
 30. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
-31. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
-32. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
-33. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
-34. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
-35. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
-36. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
-37. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
-38. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
-39. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
-40. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-41. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+31. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
+32. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
+33. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
+34. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
+35. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
+36. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
+37. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
+38. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
+39. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
+40. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
+41. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
+42. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
+43. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
+44. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
+45. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
+46. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+47. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
