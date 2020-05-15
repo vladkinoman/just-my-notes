@@ -2,6 +2,8 @@
 
 ## Table of Contents
 
+- [Terminology](#Terminology)
+  - [Comic book formats](#Comic-book-formats)
 - [Recommendations](#Recommendations)
   - [Introduction to Comics](#Introduction-to-Comics)
   - [Marvel](#Marvel)
@@ -16,6 +18,73 @@
     - [DC Rebirth](#DC-Rebirth)
   - [Shops](#Shops)
 - [References](#References)
+
+## Terminology
+
+"**Comics**" is used as a [non-count noun](https://www.wikiwand.com/en/Non-count_noun), and thus is used with the singular form of a verb, in the way the words "politics" or "economics" are, to refer to the medium, so that one refers to the "comics industry" rather than the "comic industry". "Comic" as an adjective also has the meaning of "funny", or as pertaining to comedians, which can cause confusion and is usually avoided in most cases ("comic strip" being a well-entrenched exception).
+
+"**Comic**" as a singular noun is sometimes used to refer to individual comics periodicals, what are known in North America as "[comic books](https://www.wikiwand.com/en/Comic_book)".
+
+![img](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Comics_page_layout_example.png/440px-Comics_page_layout_example.png)
+
+A typical comics page layout.
+
+**A** is a **panel**
+
+**B** is a **borderless** panel
+
+Violet are the **gutters**
+
+Green is a **tier**
+
+A **splash** or **splash page** is a large, often full-page illustration which opens and introduces a story. Often designed as a decorative unit, its purpose is to capture the reader's attention, and can be used to establish time, place and mood.
+
+A **[spread](https://www.wikiwand.com/en/Spread_(typography))** is an image that spans more than one page. The **two-page spread** or **double-page spread** is the most common, but there are spreads that span more pages, often by making use of a foldout (or [gatefold](https://www.wikiwand.com/en/Gatefold)).
+
+### Comic book formats
+
+A **[comic book](https://www.wikiwand.com/en/Comic_book)**, also known as a **comic** or **floppy**, is a periodical, normally thin in size and stapled together. Comic books have a greater variety of units of encapsulation than comic strips, including the [panel](https://www.wikiwand.com/en/Glossary_of_comics_terminology#Panel), the page, the [spread](https://www.wikiwand.com/en/Glossary_of_comics_terminology#Spread), and inset panels. They are also capable of more sophisticated layouts and compositions. A floppy comic is also known as an [American comic book](https://www.wikiwand.com/en/American_comic_book).
+
+According to this [source](https://www.howtolovecomics.com/comic-book-glossary-of-terms/) there are many formats of comic books:
+
+<u>**Single Issue**</u> **–** This is the serial magazine-style format of a comic. Generally, 20-32 pages of a story but sometimes can be more, with some being up to 100 pages. These are generally numbered in chronological order eg. Issue #5.
+
+**Prestige Edition –** These are comics that are generally 48-64 pages long that have a thin spine.
+
+**Digital Comics –** Editions of comics that can be viewed on computer screens, tablets or mobile phones.
+
+**Digital First** **–** This is where a comic is released in a digital format first then later in print.
+
+**Collected Edition –** This is where multiple single issues are collected to create a whole story or set of stories, often collecting 5-6 single issues.
+
+There are many kinds of collected editions including…
+
+- **<u>Trade Paperback (TPB)</u> –** This is the most common kind of collected edition where it is usually collecting 5-8 single issues. It is in a paperback format and can be often referred to as a “trade”. [Read here to find out if reading in trade paperback is for you.](https://www.howtolovecomics.com/2013/12/10/trade-waiting-advantages-disadvantages/)
+- **Digest –** These are collected editions that are smaller in height and length. The most popular comics in this format are All Ages comics and Manga.
+- **<u>Hardcover (HC)</u> –** Similar to a Trade Paperback but the cover has a very thick stock just like a hardcover novel. Sometimes these collected editions can collect more single issues than Trade Paperbacks, with 12 issues common.
+- **<u>Omnibus</u> –** These are very large hardcover collections. These collections can can be 25+ singles issues collected. Often these collect entire series or a creative run on a comic series.
+- **Graphic Novel –** Often a fancier term for collected edition but can also be used to describe an OGN. Essentially any comic that is bounded like a book. Some people use the term graphic novel to make the comic book medium sound more serious.
+- **Original Graphic Novel (OGN) –** This is a comic book that comes out in the trade paperback/hardcover format without being in the serial single issue format beforehand.
+
+**Variant Cover –** A variant cover is an alternative cover of a single issue. Most of the time it includes the art of a different artist and are often fewer of these available. [More information on variant covers.](https://www.howtolovecomics.com/2013/08/22/whats-the-deal-with-variant-covers/)
+
+**Incentive Cover –** A variant cover in which the retailer has to order x amount of a cover to redeem the variant cover. For example the retailer might need to or 10, 25, 50 or maybe even 100 of the regular cover to be eligible to order the variant.
+
+**Limited Series/Mini-series** – This is a comic series that has a set number of issues. Most commonly it is 6 issues but it will often vary depending on the story. The series has a beginning, middle and an end.
+
+**Maxi-series** – A maxi-series is a longer mini-series generally 12 issues or longer but often each publisher has a different definition. Often mini-series of 12 issues duration has been referred to as maxi-series.
+
+**Annual** – An over-sized special of a comic book that is released in addition to the regular comics in that series.
+
+**One-shot –** A story that is contained to a single issue.
+
+**Webcomic** – Comics that are made for viewing on the Internet This could be in a comic strip format or as an on-going narrative.
+
+**Mini-comic** – A comic that is smaller than the conventional comic book size. Generally, these comics are handmade with a DIY ethos and have small print runs.
+
+**Zine –** Self-published and often handmade comic or magazine. I talk more about zines [here](https://www.howtolovecomics.com/2015/02/25/why-zines-are-a-great-way-to-enjoy-comics/).
+
+**Floppies –** A slang term for the single issue comic. Called so as it is used with floppy paper.
 
 ## Recommendations
 
@@ -219,19 +288,39 @@ The latest jumping on point is DC Rebirth. All series were relaunched with the i
 
 World:
 
-- [Amazon](https://smile.amazon.com/Comics-Graphic-Novels-Books/b?ie=UTF8&node=4366). Note that Amazon also has a large selection of digital comics, and most of them link to your ComiXology account if you have one--it'll say whether or not this is the case on each comic's page. Additionally, their prices are frequently better for digital collected editions than one can find on ComiXology, but not always.
+- [**mycomicshop**](https://www.mycomicshop.com/) (Great store!), [midtowncomics](http://www.midtowncomics.com/) (mixed opinions on this one), [DCBS](https://www.dcbservice.com/), [local store](http://www.comicshoplocator.com/) - print (<u>singles</u>).
 
-- [**Book Depository**](https://www.bookdepository.com/category/2633/Graphic-Novels-Anime-Manga)
+  > MyComicShop always does me right on grading and over-protecting for shipping. I've had the worst luck with Midtown. They're awesome! They may be a little pricier, but the books I get from here are ALWAYS in great condition and packaged extremely securely. Plus, they have some out of print stuff the others won't have.
+  >
+  > DCBS is great for preordering comicbooks in advance for a cheaper price. It's more worth it if you plan on buying a bunch at a time as you save more.
 
-  > [Source](https://kitchenriots.com/comic-store-ua/): А для тех, кто не знает откуда можно заказать комиксы в оригинале с бесплатной доставкой, поделюсь отличным магазином. **[BookDepository](http://www.bookdepository.com/)** продают книги, комиксы, артбуки и много других интересных вещей. Доставка по всему миру бесплатна, отгрузка осуществляется в течении 24 или 48 часов. В подарок к каждому заказу идет дизайнерская закладка — мелочь, а приятно. В Днепропетровск комиксы едут до 10 дней с момента осуществления заказа. А еще на сайте есть интересная фишка — на карте мира можно [посмотреть](http://www.bookdepository.com/live), что именно прямо сейчас заказывают люди.
+- [**instocktrades**](http://www.instocktrades.com/) (Great store!), [ISBNS](http://www.isbns.net/), library (free) - print (<u>collected editions</u>).
 
-- [Comixology](https://www.comixology.com/) - digital only
+  > instocktrades is great for purchasing *trades*, which are collected issues into one big volume. (Instead of buying individual issues #1-#12, you just buy a trade which has them all in it).
+  >
+  > instocktrades: it may be worth it to trade wait if you are going to order everything online, and if that is the case instocktrades is great. It’s free shipping if you order $50 or more and you get an extra 2% off on your next order, so plan accordingly if you want to make a big order. Everything is usually discounted there too, so you can get a lot for that $50. They only sell trades, but I recommended trade waiting because it’s hard to order floppies every week due to cost. Unless your pull list is huge, to save money or spend the same amount on floppies as you would in store usually means you have to wait to order things anyhow. I have to be cost conscious and switching to trade waiting ended up making more sense for me; I might not have made that clear in my post, but I was throwing it out there as a cost-efficient option.
 
-- [**Marvel Unlimited**](http://marvel.com/comics/unlimited) ($10/mo or $70/yr for all but new releases).
+- [**Comixology**](https://www.comixology.com/), e-library e.g. [Hoopla](https://www.hoopladigital.com/) (free, not for Ukraine), webcomics (free) - <u>digital only</u>.
+
+- [**Amazon**](https://smile.amazon.com/Comics-Graphic-Novels-Books/b?ie=UTF8&node=4366). Note that Amazon also has a large selection of digital comics, and most of them link to your ComiXology account if you have one--it'll say whether or not this is the case on each comic's page. Additionally, their prices are frequently better for digital collected editions than one can find on ComiXology, but not always.
+
+  > Note that Amazon also has a large selection of digital comics, and most of them link to your ComiXology account if you have one--it'll say whether or not this is the case on each comic's page. Additionally, their prices are frequently better for digital collected editions than one can find on ComiXology, but not always.
+  >
+  > Amazon for graphic novels...
+
+- [Book Depository](https://www.bookdepository.com/category/2633/Graphic-Novels-Anime-Manga)
+
+  > [Source](https://kitchenriots.com/comic-store-ua/): А для тех, кто не знает откуда можно заказать комиксы в оригинале с бесплатной доставкой, поделюсь отличным магазином. [BookDepository](http://www.bookdepository.com/) продают книги, комиксы, артбуки и много других интересных вещей. Доставка по всему миру бесплатна, отгрузка осуществляется в течении 24 или 48 часов. В подарок к каждому заказу идет дизайнерская закладка — мелочь, а приятно. В Днепропетровск комиксы едут до 10 дней с момента осуществления заказа. А еще на сайте есть интересная фишка — на карте мира можно [посмотреть](http://www.bookdepository.com/live), что именно прямо сейчас заказывают люди.
+
+- [Marvel Unlimited](http://marvel.com/comics/unlimited) ($10/mo or $70/yr for all but new releases).
+
+- [TFAW](https://www.tfaw.com/) - I don't know what this store is, but it looks cool.
+
+- Someone find [Ebay](https://www.ebay.com/) is pretty good, a lot of shops sell through there.
 
 Ukraine:
 
-- [OnTheBus.com.ua](https://www.onthebus.com.ua/), [comics in original](https://www.onthebus.com.ua/komiksy/angliyskiy/) - Odessa
+- [**OnTheBus.com.ua**](https://www.onthebus.com.ua/), [comics in original](https://www.onthebus.com.ua/komiksy/angliyskiy/) - Odessa
 
 - [CosmicShop](https://cosmic.com.ua/ua/), [comics in original](https://cosmic.com.ua/ua/comics-en/) - Dnipro
 
@@ -241,7 +330,7 @@ Ukraine:
 
   > manga and comics, there are comic books that aren't available in other stores (Transmetropolitan)
 
-  > In the following stores, the choice is not so good.
+  > In the next stores, the choice is not so good.
 
 - [Comics.ua](https://comics.ua/), [comics in original](https://comics.ua/shop/komiksy/?rdrf[fil][6][0]=10)- Kiev
 
@@ -249,7 +338,7 @@ Ukraine:
 
 - [Comxland.com](https://comxland.com/catalog/komiksy), [comics in original](https://comxland.com/catalog/komiksy?min_price=30&max_price=1690&6%5B0%5D=%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9) - Kiev
 
-- [GeekPoint](https://geek-point.com.ua/), [comics in original](https://geek-point.com.ua/komiksi/komiksi-anglijskoyu/) - Kiev
+- [GeekPoint](https://geek-point.com.ua/), [comics in original](https://geek-point.com.ua/komiksi/komiksi-anglijskoyu/) - Kiev, decent amount of comic books in original.
 
 - [Comics page on Geekach.com.ua](https://geekach.com.ua/komiksy/), it feels like there is no Original - Kiev, Kharkiv
 
