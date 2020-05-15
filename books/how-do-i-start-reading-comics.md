@@ -45,6 +45,10 @@ A **[spread](https://www.wikiwand.com/en/Spread_(typography))** is an image that
 
 A **[comic book](https://www.wikiwand.com/en/Comic_book)**, also known as a **comic** or **floppy**, is a periodical, normally thin in size and stapled together. Comic books have a greater variety of units of encapsulation than comic strips, including the [panel](https://www.wikiwand.com/en/Glossary_of_comics_terminology#Panel), the page, the [spread](https://www.wikiwand.com/en/Glossary_of_comics_terminology#Spread), and inset panels. They are also capable of more sophisticated layouts and compositions. A floppy comic is also known as an [American comic book](https://www.wikiwand.com/en/American_comic_book).
 
+Well for starters there's the regular floppy comic issues that come out, these are often monthly. When a story arc of these "**floppies**" comes out it's usually collected in a paperback called a "**trade paperback**" or "**graphic novel**". However there are bigger collections that group together a few paperbacks worth of story and these are called "**omnibuses**". That's where you'll get the most story for your money and it gathers a lot of stuff in order so that's why people are recommending getting an omnibus edition. For example, *Hellboy Omnibus Volume 1* is where you should start.
+
+> floppies (issues) → trade paperbacks (TPB) → omnibus
+
 According to this [source](https://www.howtolovecomics.com/comic-book-glossary-of-terms/) there are many formats of comic books:
 
 <u>**Single Issue**</u> **–** This is the serial magazine-style format of a comic. Generally, 20-32 pages of a story but sometimes can be more, with some being up to 100 pages. These are generally numbered in chronological order eg. Issue #5.
