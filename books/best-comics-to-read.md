@@ -14,11 +14,12 @@
   - [Batman](#Batman)
     - [The Joker](#The-Joker)
     - [Batman and Joker](#Batman-and-Joker)
+    - [Harley Quinn](#Harley-Quinn)
   - [Green Lantern](#Green-Lantern)
+  - [Hellboy](#Hellboy)
   - [Swamp Thing](#Swamp-Thing)
   - [The Flash](#The-Flash)
   - [Wonder Woman](#Wonder-Woman)
-  - [Harley Quinn](#Harley-Quinn)
 - [Comic books of the most popular franchises - best books and where to start](#Comic-books-of-the-most-popular-franchises---best-books-and-where-to-start)
   - [Doctor Who](#Doctor-Who)
   - [Star Trek](#Star-Trek)
@@ -780,6 +781,14 @@ Side note please keep in mind that this is a character with a 75 year lineage an
 
 **Other:** Scott Snyder's run on Batman, particularly Death of the Family and Endgame. I'm not going to comment either way on Snyder's Joker stories; I think they're worth reading and well-written, and there's some quite interesting and worthwhile commentary on the Batman-Joker relationship in them, but I wouldn't go out of my way to say they're "underrated" or the best Batman-Joker stories of all time.
 
+#### Harley Quinn
+
+**Batman: Mad Love**. I feel like it's the only good Harley comic. I personally think she hasn't been that great since B:TAS, but that's just me. Batman Adventures: My Boyfriend's Back and A Wedding to Die For are also gems.
+
+Harley and Ivy is also a lot of fun but it's nothing serious. Her Pre New 52 solo run was okay until the team changed and then it became unbearable.
+
+In the New 52 she has gone through so many changes, in one issue she was killing 20 kids with bombs, in another she was shown with puppies and being a sweetheart. The New 52 Suicide Squad run was atrocious imo, and Palmiotti and Conner write her as Deadpool basically with same randomness and insanity.
+
 ### Green Lantern
 
 Most people would tell you to start with **Green Lantern: Rebirth**, but I think that story is a bit confusing for a new reader. So here is a list of the events that take place before that story in chronological order. The **bold** ones are a part of Geoff John's run while the *italic* ones are from the 90's:
@@ -796,11 +805,76 @@ Most people would tell you to start with **Green Lantern: Rebirth**, but I think
 
 **Green Lantern: Rebirth**
 
+### Hellboy
+
+25: Hellboy isn't like most superhero comics where there's multiple "runs" to keep track of. Nearly all of it is written by Mike Mignola and nearly all of it is worth reading. Just start at the beginning with [Hellboy, Volume 1: *Seed of Destruction*](https://www.amazon.com/dp/1593070942) and follow the rest in [suggested reading order](http://www.multiversitycomics.com/annotations/hellboy-reading-order-2017/).
+
+> Updated version of the reading order: [link](http://www.multiversitycomics.com/annotations/hellboy-reading-order-2019/).
+
+9: Mignola writes all of Hellboy and co-writes most of the tie-ins if not all, the universe is pretty amazing just in itself, can't go wrong with Mignola.
+
+7: There is only one Hellboy run, and that's the Mike Mignola one that begins with *Seed of Destruction*. It is available in regular trades that collect roughly four to six issues each, or the oversized Library Edition hardcovers which collect twice that much. This is also due to be released Omnibus form starting this year.
+
+There's one main BPRD run split into three cycles, *Plague of Frogs*, Hell on Earth and The Devil You Know. I would recommend starting *Plague of Frogs* once you've reached at least volume 4 of Hellboy, Conqueror Worm (this is fifth), which is what Plague of Frogs follows directly on from. There are some lovely paperback and hardcover collections of PoF available for reasonable prices, and HoE is also due to have some released soon. TDYK has only just started so is currently only available in single issues, but give it time.
+
+There are also the prequel miniseries Hellboy & The BPRD, and BPRD 1946, 1947 and 1948. These are prequels and as such don't have to be read at any particular point, but I'd at least recommend reading BPRD 1947 before starting BPRD: Hell On Earth as a character is introduced in 1947 who comes back and has a large part to play in HoE.
+
+There is also the Abe Sapien solo series, which happens mostly alongside BPRD: Hell on Earth. Abe runs away from the BPRD during this period, so if you want to know what he's up to, read the Abe Sapien solo series. Otherwise it is not necessary to the main BPRD plot.
+
+> 5: I would add a few things to this.
+>
+> The sapien series will likely be more important to the overall plot in the next cycle of bprd. And Hellboy and the BPRD is a full ongoing series but likely not important to the future and mignola wrote or was heavily involved in at least half of it as of now so it's still one run basically.
+
+---
+
+16: The spin-offs are just as good. I recommend *Frankenstein Underground*, I'm a sucker for the Frankenstein myth and the series does not disappoint.
+
+12: Comic Hellboy is just a lot more fun than the movie version. The del Toro movies are totally fine, but Hellboy always sort of annoyed me in them. He's sort of a whiney teen in them. I much prefer him as a grouchy old man.
+
+I think BPRD is one of the best long form comics we have as well. They do a great job of creating a lot of finality. When people fuck up, there are lasting consequences. You get to also see this crew develop from being a regular team to these hardened war vets.
+
+9: They absolutely are; those and especially BPRD are among the best that comics have to offer
+
+8: Abe has his own set of comics as well. I think his are set while Hellboy is in hell.
+
+---
+
+> Essential/Best Hellboy Comics?
+
+5: I may missing some, but here is what I think
+
+- Seed of Destruction (Hellboy – Volume 1: Seed of Destruction, <u>Omnibus: Hellboy – Volume 1: Seed of Destruction</u>)
+- Wake the Devil (Hellboy – Volume 2: Wake the Devil, <u>Omnibus: Hellboy – Volume 1: Seed of Destruction</u>)
+- The Nature of the Beast (Hellboy – Volume 4: The Right Hand of Doom, Omnibus: Hellboy: The Complete Short Stories – Volume 1)
+- The Corpse (Hellboy – Volume 3: The Chained Coffin and Others, Omnibus: Hellboy: The Complete Short Stories – Volume 1)
+- Almost Colossus (Hellboy – Volume 3: The Chained Coffin and Others, <u>Omnibus: Hellboy – Volume 1: Seed of Destruction</u>)
+- *Conqueror Worm* - here is where he leaves the BPRD (Hellboy – Volume 5: Conqueror Worm, <u>Omnibus: Hellboy – Volume 2: Strange Places</u>)
+- Darkness Calls (Hellboy – Volume 8: Darkness Calls, <u>Omnibus: Hellboy – Volume 3: The Wild Hunt</u>)
+- The Wild Hunt (Hellboy – Volume 9: The Wild Hunt, <u>Omnibus: Hellboy – Volume 3: The Wild Hunt</u>)
+- Storm & Fury (Hellboy – Volume 12: The Storm and the Fury, <u>Omnibus: Hellboy – Volume 3: The Wild Hunt</u>, Hellboy – Volume 12: The Storm and the Fury, <u>Omnibus: Hellboy – Volume 3: The Wild Hunt</u>)
+- Hellboy in Hell - end of series (everything in <u>Hellboy Omnibus – Volume 4: Hellboy in Hell</u>)
+
+There's much more, but I would consider those to be the most essential for understanding the whole story without being too confused.
+
+> Conqueror worm is my favourite of the comics and is really a defining point in hellboy’s character.
+
+---
+
+5: Main Hellboy: The Troll Witch, *Conquerer Worm*, The Third Wish, The Crooked Man, The Wild Hunt
+
+Spin-offs: BPRD - The Long Death
+
+3: Anything written and drawn by Mignola is great. Anything by him and Fegredo or Corben is also great.
+
+The BPRD stuff is mostly good and the minis of the side characters tend to vary in quality.
+
+> +People say that *Lobster Johnson* is also good series.
+
 ### Swamp Thing
 
 7: Len Wein's *Roots of the Swamp Thing* collects the first appearances of Swampy and establishes some of the main characters that would be used later. Then, move on to the first volume of Alane Moore's **Saga of the Swamp Thing** and work your way up to the sixth volume.
 
-10: New 52's not a bad place to start, although Alan Moore's run is a better place to start (and also just better in general).
+10: *New 52's* (I think he means Swamp Thing by Snyder) not a bad place to start, although Alan Moore's run is a better place to start (and also just better in general).
 
 ---
 
@@ -1086,14 +1160,6 @@ TL;DR - Start with Rebirth. After that check out any of Rucka, Perez, Simone or 
 - [Wonder Woman](https://www.amazon.com/dp/140123562X) | Brian Azzarello
 - [The Legend of Wonder Woman](https://www.amazon.com/dp/1401267289) | Renae De Liz
 - [Wonder Woman: Rebirth](https://www.amazon.com/dp/1401267785) | Greg Rucka
-
-### Harley Quinn
-
-**Batman: Mad Love**. I feel like it's the only good Harley comic. I personally think she hasn't been that great since B:TAS, but that's just me. Batman Adventures: My Boyfriend's Back and A Wedding to Die For are also gems.
-
-Harley and Ivy is also a lot of fun but it's nothing serious. Her Pre New 52 solo run was okay until the team changed and then it became unbearable.
-
-In the New 52 she has gone through so many changes, in one issue she was killing 20 kids with bombs, in another she was shown with puppies and being a sweetheart. The New 52 Suicide Squad run was atrocious imo, and Palmiotti and Conner write her as Deadpool basically with same randomness and insanity.
 
 ## Comic books of the most popular franchises - best books and where to start
 
@@ -1761,11 +1827,15 @@ Best Batman comic books: **Year One**, **The Long Halloween**, **Dark Victory**,
 
 Best Joker comic books: **The Man Who Laughs**, **The Killing Joke**, **Death *of* the Family**, **Joker**, **Endgame**.
 
+Best Harley Quinn books: **Batman: Mad Love**.
+
 Best Green Lantern books: **Green Lantern: Secret Origin**, **Green Lantern: Rebirth** and other books in Geoff Johns's Green Lantern Saga.
 
-Best Wonder Woman books: *Wonder Woman by George Perez Omnibus Vol. 1*, *Wonder Woman By George Perez Omnibus Vol. 2*, *Wonder Woman by George Perez Omnibus Vol. 3*, *Wonder Woman By Greg Rucka Vol. 1* (Rucka's first run), *Wonder Woman by Greg Rucka, Vol. 2* (Rucka's first run), *Wonder Woman Vol. 1: The Lies (Rebirth)* (Rucka is back, it's his second run, and it's good starting point).
+Best Hellboy books: nearly all of it is written by Mike Mignola and nearly all of it is worth reading. Just start at the beginning with [Hellboy, Volume 1: *Seed of Destruction*](https://www.amazon.com/dp/1593070942) and follow the rest in [suggested reading order](http://www.multiversitycomics.com/annotations/hellboy-reading-order-2019/) (*Conqueror Worm* is the best story arc among them). Although, the best option would be to buy omnibuses. *Plague of Frogs* BPRD run is also recommended by people. Besides this spin-off, people also recommend these books: *Frankenstein Underground*, *Lobster Johnson*.
 
-Best Flash books: 
+Best Swamp Thing books: **Saga of the Swamp Thing** by Alan Moore, *New 52 Swamp Thing* by *Scott Snyder*.
+
+Best The Flash books: 
 
 - Wally West: *The Flash by Mark Waid* - best run!
 
@@ -1775,7 +1845,7 @@ Best Flash books:
   >
   > New 52 The Flash volumes 1-5. Written and with art by the same artists of Dastardly Death of the Rogues, like much of the new 52 reboot it was a jumping on point. The art is beautiful and the writing is solid and fun. However pretty much all Flash lore was scrapped which is disappointing, more so if you read the previous recommendations.
 
-Best Harley Quinn books: **Batman: Mad Love**.
+Best Wonder Woman books: *Wonder Woman by George Perez Omnibus Vol. 1*, *Wonder Woman By George Perez Omnibus Vol. 2*, *Wonder Woman by George Perez Omnibus Vol. 3*, *Wonder Woman By Greg Rucka Vol. 1* (Rucka's first run), *Wonder Woman by Greg Rucka, Vol. 2* (Rucka's first run), *Wonder Woman Vol. 1: The Lies (Rebirth)* (Rucka is back, it's his second run, and it's good starting point).
 
 Best Doctor Who books:
 
@@ -1798,7 +1868,7 @@ Best Star Wars comics:
 - Legends: *Knights of the Old Republic*.
 - Canon: *Darth Vader*, **Star Wars: Darth Vader - Dark Lord of the Sith**.
 
-Best authors:  **Alan Moore**, **Warren Ellis**, *Grant Morrison*, *Scott Snyder*, *Ed Brubaker*, *Frank Miller*, Greg Rucka, Jeff Lemire, Jonathan Hickman, Rick Remender, Brian K. Vaughan, Mark Waid.
+Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyder*, *Ed Brubaker*, *Frank Miller*, Greg Rucka, Jeff Lemire, Jonathan Hickman, Rick Remender, Brian K. Vaughan, Mark Waid.
 
 ## References
 
@@ -1821,31 +1891,35 @@ Best authors:  **Alan Moore**, **Warren Ellis**, *Grant Morrison*, *Scott Snyder
 17. https://www.reddit.com/r/DCcomics/comments/24uca6/what_is_the_darkest_batman_comic_out_there/?sort=top
 18. https://www.reddit.com/r/DCcomics/comments/4urjkb/what_are_some_of_the_darkest_batman_stories_other/?sort=top
 19. https://www.reddit.com/r/DCcomics/comments/7791f6/where_to_start_with_green_lantern/
-20. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
-21. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
-22. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
-23. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
-24. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
-25. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
-26. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
-27. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
-28. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
-29. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
-30. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
-31. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
-32. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
-33. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
-34. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
-35. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
-36. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
-37. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
-38. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
-39. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
-40. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
-41. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
-42. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
-43. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
-44. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
-45. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
-46. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-47. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+20. https://www.reddit.com/r/comicbooks/comments/7008wz/best_runs_of_hellboy_to_check_out/
+21. https://www.reddit.com/r/comicbooks/comments/8breze/wow_the_hellboy_comics_are_actually_really_really/
+22. https://www.reddit.com/r/HellBoy/comments/b9rnbd/essentialbest_hellboy_comics/
+23. https://www.reddit.com/r/comicbooks/comments/as5j2l/favorite_hellboy_comics/
+24. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
+25. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
+26. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
+27. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
+28. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
+29. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
+30. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
+31. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
+32. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
+33. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
+34. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
+35. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
+36. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
+37. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
+38. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
+39. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
+40. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
+41. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
+42. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
+43. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
+44. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
+45. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
+46. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
+47. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
+48. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
+49. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
+50. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+51. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
