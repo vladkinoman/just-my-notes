@@ -22,15 +22,18 @@
   - [Wonder Woman](#Wonder-Woman)
 - [Comic books of the most popular franchises - best books and where to start](#Comic-books-of-the-most-popular-franchises---best-books-and-where-to-start)
   - [Doctor Who](#Doctor-Who)
+  - [Judge Dredd](#Judge-Dredd)
+  - [Silent Hill](#Silent-HIll)
   - [Star Trek](#Star-Trek)
   - [Star Wars](#Star-Wars)
+  - [Teenage Mutant Ninja Turtles](#Teenage-Mutant-Ninja-Turtles)
 - [Best authors](#Best-authors)
-  - [Alan Moore](#Alan-Moore)
   - [Ed Brubaker](#Ed-Brubaker)
   - [Warren Ellis](#Warren-Ellis)
   - [Jonathan Hickman](#Jonathan-Hickman)
   - [Jeff Lemire](#Jeff-Lemire)
   - [Frank Miller](#Frank-Miller)
+  - [Alan Moore](#Alan-Moore)
   - [Grant Morrison](#Grant-Morrison)
   - [Rick Remender](#Rick-Remender)
   - [Greg Rucka](#Greg-Rucka)
@@ -1462,6 +1465,134 @@ There are also three multi-Doctor crossover stories.
 
 as with the television series, you really do not have to know anything. you already know the basics.
 
+### Judge Dredd
+
+16: Dredd is unfortunately even worse than Marvel and DC because he's got one unbroken continuity for 30some years, over 2100 "progs" (issues, I believe usually 6 pages every week), he ages in real time, and constantly references events that happened decades ago. In recent issues he's still dealing with fallout from the Apocalypse War, which happened in the 80s.
+
+If you really want to just get right into it, I would suggest buying the *Complete Case Files #1* and going from there. I'd love to pick up all those Mega Collection books but I can only image how expensive that'd be here in Canada. If you're from the UK, and you can find them for a decent price, have at it.
+
+I think basically the best advice with ANY character is just jump in wherever you want, and know that you might have to look a few things up. As people have mentioned, Apocalypse War and the Cursed Earth Saga are great old runs (with the Apocalypse War being a constant major theme throughout his entire history), *Origins* and *America* are excellent "middle years" stories, and the three Day of Chaos books and Titan are good modern day stories. Understand that early Dredd is very silly, but it's a sci-fi comic, so that's expected. It becomes a little more "grounded" later on, as much as it can/should, but you'll find that most of the case files books or other collections do a good job of having contained stories that can be enjoyed on their own.
+
+8: Been re-reading the entirety of Dredd over the past few years as well as his spin-offs. I'd say you should go for the mega collection and start off with the following handful of books from it:
+
+*Origins*
+
+*America*
+
+Brothers of the blood
+
+The apocalypse war
+
+Judge Death lives
+
+The cursed earth
+
+Psi-judge Anderson: The possessed
+
+These books are really the foundation of Dredd. *Origins* and Brothers of the blood pretty much sum up his backstory as well as handling the world-building while *America* goes into how the citizens view the judges. They're great individually as introductory Dredd books because they just need you to understand the idea that the judges are dictators and the citizens both hate and need them and they each have great stories. Reading these will allow you to read most of the stuff in the mega collection as most of the books are filled with standalone stories built around a theme like there's one all about assassins and another about horror monsters.
+
+If you enjoy those 3 then Apocalypse war, Judge Death lives and the cursed earth are a great next step. They all expand Dredd's world, introduce major characters that'll be important for big events set after them and they're pretty solid standalone reads.
+
+The Anderson book collects her first handful of solo stories. There's some amazing work here with great writing and some of the best art I've seen from comics but the main reason to read this after the others I mentioned is that she plays big roles in a lot of major stories like Necropolis and Judgement on Gotham set later on so it's worth knowing the character a bit.
+
+Dredd can seem like an intimidating comic series to get into because of how long it's been running but all you really need to get into any of his books is a Wikipedia summary of what the franchise is about. After that he's pretty simple.
+
+<u>I'd say avoid the case files</u>. I've tried reading them and they're just not as enjoyable to read due to the production quality. The paper in the mega collection feels so much better than the old newspaper stuff in the case files, the binding is better since the pages are sewn to the spine in the same way as a marvel omnibus which just makes it so comfy to read compared to the files where they're glued into the spine. Lastly, and maybe it's not really an advantage depending on opinion but Dredd hasn't always put out winners and the case files start from issue 1 and go through everything so you have to deal with filler and straight-up bad stories while <u>the collection tends to leave the really bad and irrelevant stuff out</u>.
+
+Good luck getting into the character, hope you enjoy him since I always want to see more Dredd fans. Feel free to shoot me a message if you want to ask any further questions.
+
+6: *Case Files 5* is a good starting point. Contains *Blockmania* and *The Apocalypse War*.
+
+For modern Dredd, id go for *America*, *Origins* or Mandroid.
+
+Edit: or Titan. Titan was great!
+
+4: The Complete Case Files are perfect. If you don't want to start at #1 I'd go with *#5*. This contains *Blockmania* and *The Apocalypse War* which are the perfect go to at any point in Dredds history.
+
+2: Agreed on *Case Files vol. 5*, and on "*America*"--both stone classics.
+
+I also really love "Trifecta," which does a lot less hand-holding up front--you'll probably be baffled at first if you're going in cold--but is eventually pretty clear, and is also a fantastic story.
+
+1: STAY AWAY FROM ANYTHING IDW HAS DONE WITH DREDD. It's all completely awful, trust me. Keep it to 2000AD.
+
+Start with Case Files #1 and go from there.
+
+---
+
+10: Here's a video for ya mate: https://www.youtube.com/watch?v=1yUwX1rR-zc
+
+> *Case Files vol. 1*, *Case Files vol. 5*, *America*.
+
+5: I just started recently myself and after looking into a bit it seemed like the recommendations were either to start at the beginning if you're a completionist or jump to *complete case files 05* that has a few iconic stories. I picked up *complete case files 05* and am enjoying it so far but I still have a ways to go with it. So far none of it really felt like I jumped into a story halfway through. Other recommendations were either *America* or *Origins* but I haven't read them yet so hopefully someone else can weigh in.
+
+Most of the stories I've read seem to be stand alone cases though, sort of like a police procedural like law & order except the stories take place in a sci-fi future and the police, lawyers, and judges are all rolled up into completely over the top fascist super cops. 
+
+> 9: *Case Files 05* has *Block Mania*, *The Apocalypse War* and The Dark Judges in it. it's an absolutely brilliant introduction to the character and features some of the most iconic early stories.
+>
+> *America* is fantastic and one of the best Dredd stories ever written, but it definitely doesn't paint Dredd and the whole Judges system in a very good light.
+>
+> This article might help as well:
+>
+> http://io9.com/5944097/top-11-essential-judge-dredd-stories
+>
+> Be aware though that some of the info in that article is definitely spoilers for the arcs they are referencing. Might just want to read the titles of the stories and nothing else.
+
+2: [*Judge Dredd: America*](http://www.amazon.com/Judge-Dredd-America-John-Wagner/dp/1781083703/ref=sr_1_1?ie=UTF8&qid=1439796591&sr=8-1&keywords=judge+dredd+america) is often considered the best Judge Dredd story, and it just got reprinted in trade paperback!
+
+---
+
+I get asked "where do I start with *Judge Dredd*?" rather a lot. My short answer: Of the books that are currently in print in the U.S., **you're going to want to start** with [*Judge Dredd: Complete Case Files 05*](http://www.amazon.com/gp/product/1781080283/ref=as_li_ss_tl?ie=UTF8&tag=readcomi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1781080283). That's right: volume 5. It's a very solid introduction; you won't need any information from the earlier volumes that it won't give you, and you can always go back and read those volumes later if you want. It's a big fat black-and-white paperback with a year's worth of weekly stories, circa 1981-1982, including (among others) three very fondly remembered serials: "Judge Death Lives" (drawn by Brian Bolland), "Block Mania" and "The Apocalypse War" (drawn by Dredd's co-creator Carlos Ezquerra).
+
+The **best introduction** to *Judge Dredd* is probably *America*, a collection of three stories by John Wagner and Colin MacNeil (from 1990, 1996 and 2006) that made the series much more interestingly complicated. It's finally back in print--in the U.K., not the U.S.--but there's [a Kindle edition](http://www.amazon.com/gp/product/1905437587/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1905437587&linkCode=as2&tag=readcomi-20) of it that's available in the U.S., too. (There's also an argument that a lot of the drama of *America* comes from its reversal of what had come before it; I still think it's a terrific place to start.)
+
+The **most recent material that's been collected** is [Judge Dredd: Tour of Duty - Mega-City Justice](http://www.amazon.com/gp/product/1907992391/ref=as_li_ss_tl?ie=UTF8&tag=readcomi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1907992391)![img](https://lh5.googleusercontent.com/proxy/MR47EhB5RE0Aif-KjwDTlxHTKG_QP8D84XNJEakZN1PVGOGcIPsdJF5Q2PqzUhLMIS50IYKhgGB6KKFmnprvM8Ly7NmgDBFWi9vOyTj02TEmmOtNiHXqmMw=s0-d) , which collects a pretty terrific 2009-2010 serial. It's a British book, though, and effectively the second half of a long storyline (the first half has been collected as [Judge Dredd: Tour of Duty - The Backlash](http://www.amazon.com/gp/product/1907519238/ref=as_li_ss_tl?ie=UTF8&tag=readcomi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1907519238)![img](https://lh4.googleusercontent.com/proxy/EJaB25eqApk62yFERfGNPqT6r8rP4f0PCibwSY7VSn8AJB1eA3P5bTx4ee_1QywD9_YXgCa0fFpU1b4H7r6VKip410MFGO34r1bKmAcjBXCQpgJdIOlnO1I=s0-d)). (UPDATE: As of this writing, the most recent U.K. material to be collected is the terrific [Judge Dredd: Trifecta](http://www.amazon.com/gp/product/B00EHJVQBW/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00EHJVQBW&linkCode=as2&tag=readcomi-20)![img](https://lh3.googleusercontent.com/proxy/RRCyWsL8tTF4Wy3VGYjL2nwMFUxGaxCCJZ0WXihosypGPVRvpFXkgphQsrWzrnr-G_fVW7l2W8DZ0pUQCJZqy-aTihmnnw0V6oP-46Yl6xk08Y2iGAYNrjV97k6K0A=s0-d).)
+
+The **most recent long storyline** in the weekly *2000 AD* comics was "Day of Chaos," an excellent, very densely packed thriller that ran for an entire year, from *2000 AD* #1740 to 1789. It hasn't yet been collected, and it's the payoff for several years' worth of buildup. You can, however, buy the whole thing issue-by-issue, in physical or digital form, from [2000 AD's site](http://shop.2000adonline.com/). (UPDATE: It's now available in two volumes: [Judge Dredd Day Of Chaos: The Fourth Faction](http://www.amazon.com/gp/product/B00EHJVQC6/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00EHJVQC6&linkCode=as2&tag=readcomi-20)![img](https://lh5.googleusercontent.com/proxy/WwQ9p4xg7oCWPB0yRzSNVTdL06S181wNjy2bJXDjpZi9DKXuZFZaOxLcgR2-tCLDzQ6UFrW0YCfaelWUx4PxoV8CdNkDmcbPK27VP21C3K-iouX6S401ISgcFmE7Kw=s0-d) and [Judge Dredd Day Of Chaos: Endgame](http://www.amazon.com/gp/product/B00EHJVQDA/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00EHJVQDA&linkCode=as2&tag=readcomi-20)![img](https://lh6.googleusercontent.com/proxy/xXVjjED8MxN8XGq6n3QPtAeDOytiJZvzHpa-bfZRv7g8Nb72ZbX92-SSXLgFJqbhEW_rJpbm4xN0WRee6NH7F9qyqHtLl7fkm7o_rxczVvL0PWvz8kN8mHEoR-9fnw=s0-d).)
+
+Is there a **story from which \*Dredd\*-the-movie was adapted**? No, there isn't. (From what I can tell, the movie effectively takes place a little while before the beginning of the comics series.) However, Olivia Thirlby's character Cassandra Anderson makes one of her memorable early appearances in "Judge Death Lives," in the aforementioned [*Complete Case Files 05*](http://www.amazon.com/gp/product/1781080283/ref=as_li_ss_tl?ie=UTF8&tag=readcomi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1781080283)![img](https://lh4.googleusercontent.com/proxy/kXChuX5clDhQ3B32xjQim96iT5a3SgVCspL0jrKtfZKK4twADGRId96MXAyeLnGHDU-dRM6TDCvWgwn2LAHeSGQJ9YO6kOuol7iDbrXeLaiFl18Uk-uVkeA=s0-d). (UPDATE: There is, however, a one-shot comic book sequel to the movie that's also available in digital form: [Dredd: Underbelly](http://shop.2000adonline.com/products/digital_dredd_underbelly).)
+
+If you want to **read everything in order**, there's always the blog you're looking at right now: I'm writing about all the non-redundant collections of *Dredd* comics in the publication order of the first story they include that hasn't already been covered (with a few exceptions). There are a lot of them--counting spinoffs with the same setting, there are currently about 75 volumes' worth of material, and that's not counting the hundreds of episodes that haven't yet been reprinted. 
+
+
+And the **best books**? The general favorites among fans are everything named above, as well as the British collection [Complete Case Files 14](http://www.amazon.com/gp/product/1906735298/ref=as_li_ss_tl?ie=UTF8&tag=readcomi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1906735298)![img](https://lh5.googleusercontent.com/proxy/Z06k0vMg-2IK7jpN-nNxTYHty3isz61mH5Oab40CA1Xeizky-KO1uQlfDjhhGGcummV_q0HQzaV_KiG6R2dEJ6tA3VpDV7Z2fDDFplTUsG2BZEemw_KVRLo=s0-d), which collects the "Necropolis" storyline (and serves as the payoff to another few years' worth of stories). My personal faves also include *Brothers of the Blood* and the spinoffs *Chopper: Surf's Up*, *Mega-City Undercover Vol. 02: Living the Low Life*, *The Taxidermist* and [Devlin Waugh: Red Tide](http://www.amazon.com/gp/product/1904265294/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1904265294&linkCode=as2&tag=readcomi-20)![img](https://lh5.googleusercontent.com/proxy/2bFMeb0RWp7zJyJoLLzhPl3J7FptyA2aer4BE3_dQLUKKBEhw8kxN4dCFHeEt3JdUHDkO544Qh8HgYIzmcuaE64S8o_PZzs5B6Dzhfu4ywg3j-Cw9BN4QUSiOyzyUA=s0-d).)
+
+### Silent Hill
+
+> Are all the Silent Hill comics garbage?
+
+10: *Past Life* and *Downpour: Anne's Story* are very good out of the ones I've read.
+
+> 5: Those were great. I enjoyed Sinner's Reward, too. The art in Past Life is just amazing. Of course, I am a Menton3 fangirl.
+
+3: The ones released in the early 2000's I've heard were not very good, but I've never read them so idk. The ones Tom Waltz has written are pretty good. Sinner's Reward is my personal favorite, but I liked the *Downpour* comics too.
+
+---
+
+5: *Anne's Story* and *Past Life* are the best comics in the Silent Hill series. Anne's story is the Downpour DLC we never got and Past Life connects to Downpour as well and has amazing artwork. All the other comics are pretty terrible. I really wish we could have gotten those Japanese mobile comics by Ito :(
+
+> 1: This is the correct answer.
+>
+> Also, there is one crazy short Ito comic available here: http://www.silenthillmemories.net/publications/sh_white_hunter_en.htm
+>
+> The best bet for Silent Hill fans would be to read Junji Ito's work. It contains the same feeling, but in independent short stories of cosmic horror madness. https://junji-ito-index.tumblr.com/the-index
+
+3: I'm currently reading Silent Hill 2's official novelization.
+
+Gives the story a whole new dimension.
+
+100% recommended!
+
+---
+
+8: They’re not generally well received, check out Linkara Atop The 4th Wall. He reviewed them a while back
+
+7: *Past Life* was good and there was at least one more that was good, and everything else was laughably bad.
+
+7: Fun fact - there are two comics made by Team Silent members - Hiroyuki Owaku and Masahiro Ito.
+
+1. Cage of Cradle - it's about Lisa and her boyfriend.
+2. Double Under Dusk - it's about father who loses his son. However, they were made for Japanese market only :(
+
 ### Star Trek
 
 3: Peter David's work is generally pretty good. I loved Who Killed Captain Kirk? when I read it way back in high school.
@@ -1659,23 +1790,11 @@ Here is a list of all comics Ledgends and Disney Canon for you to look at. http:
 
 Amazon, Comixology, Dark Horse, Marvel are all great legal places to get the comics. Though if money is tight there are Kickass places to get them. Though thats Pirating them and that would be Bad
 
+### Teenage Mutant Ninja Turtles
+
+
+
 ## Best authors
-
-### Alan Moore
-
-What's there to really say? Probably the greatest comic writer of all time. Has a thorough understanding of the history of not only the characters he's writing, but literature in general. And is able to weave an incredible amount of ideas in to the smallest amount of details in a panel.
-
-First comic I read was Watchmen, I was pretty young maybe 13. Didn't fully get it at the time, but loved the scope, characters and style of storytelling. It was one of the first times in my life I read a book because I enjoyed it. I've read much of his work and have seriously enjoyed virtually every one.
-
-Because he takes comics to another level of depth, creativity and realism. He exemplifies taking the medium to another level. **Watchmen**, Miracleman, V for Vendetta, Supreme, **Swamp Thing** and **From Hell** are some of the best ever done.
-
-Has a knack for real thematic depth and insight into human nature with a ton of great quotes while still writing stories that are entertaining even just from a relatively shallow perspective.
-
-> Best story arcs-Watchmen, Killing Joke, The Floronic Man arc of Swamp Thing
-
-The best there is. Comics would be completely different without him. No one has had a bigger impact since the 80s.
-
-What can I say that hasn’t already been said? great writer
 
 ### Ed Brubaker
 
@@ -1729,6 +1848,22 @@ He reinvented Batman with **The Dark Knight Returns** and **Year One**, but his 
 
 He's a legend. Like Alan Moore, he is undoubtedly one of the GOATs. Looking past his incredible (and much celebrated) Batman work and Sin City, his four issue Wolverine story is a personal favorite.
 
+### Alan Moore
+
+What's there to really say? Probably the greatest comic writer of all time. Has a thorough understanding of the history of not only the characters he's writing, but literature in general. And is able to weave an incredible amount of ideas in to the smallest amount of details in a panel.
+
+First comic I read was Watchmen, I was pretty young maybe 13. Didn't fully get it at the time, but loved the scope, characters and style of storytelling. It was one of the first times in my life I read a book because I enjoyed it. I've read much of his work and have seriously enjoyed virtually every one.
+
+Because he takes comics to another level of depth, creativity and realism. He exemplifies taking the medium to another level. **Watchmen**, Miracleman, V for Vendetta, Supreme, **Swamp Thing** and **From Hell** are some of the best ever done.
+
+Has a knack for real thematic depth and insight into human nature with a ton of great quotes while still writing stories that are entertaining even just from a relatively shallow perspective.
+
+> Best story arcs-Watchmen, Killing Joke, The Floronic Man arc of Swamp Thing
+
+The best there is. Comics would be completely different without him. No one has had a bigger impact since the 80s.
+
+What can I say that hasn’t already been said? great writer
+
 ### Grant Morrison
 
 Like Moore, has a great understanding of the characters he's writing, and knowledge beyond just the comic format. While Moore is generally more subtle in his approach to getting ideas across, Morrison takes the wildest route imaginable. It's usually bombastic and weird, yet always in homage to those that came before him.
@@ -1742,6 +1877,8 @@ The writer who got me into comics, his Batman is my favorite run and his Vertigo
 Great at high-concept, out-of-this world storytelling. Love his take on superheroes and superhumanity as allegories for humanity striving to be the best possible version of itself, and I dig the generally optimistic worldview many of his stories promote (Even his darker stories have a hopeful undertone to them).
 
 Don't really have anything to add that hasn't been said better by other people but his way of making super stories feel fresh while also very true to their roots is basically unmatched
+
+> He's very similar in writing style to Kojima, with heavy emphasis on metaphysics and meta textual references as well as allusions intended to make you question what is real and pushing the boundaries of what the medium can accomplish.
 
 ### Rick Remender
 
@@ -1861,6 +1998,10 @@ Best Doctor Who books:
 
   >IDW is the worst among those publishers.
 
+Best Judge Dredd books: *Judge Dredd: Complete Case Files #5*, *Origins*, *America*, (+*Complete Case Files #1*, *Complete Case Files #14*).
+
+Best Silent Hill comic books: *Past Life* and *Downpour: Anne's Story* are very good, but the others are really bad.
+
 Best Star Trek comics: *Mirror Broken* and *Through the Mirror*, others are not great tbh.
 
 Best Star Wars comics: 
@@ -1912,14 +2053,20 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 38. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
 39. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
 40. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
-41. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
-42. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
-43. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
-44. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
-45. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
-46. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
-47. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
-48. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
-49. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
-50. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-51. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+41. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
+42. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
+43. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
+44. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
+45. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
+46. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
+47. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
+48. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
+49. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
+50. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
+51. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
+52. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
+53. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
+54. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
+55. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
+56. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+57. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
