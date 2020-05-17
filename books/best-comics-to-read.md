@@ -21,12 +21,17 @@
   - [The Flash](#The-Flash)
   - [Wonder Woman](#Wonder-Woman)
 - [Comic books of the most popular franchises - best books and where to start](#Comic-books-of-the-most-popular-franchises---best-books-and-where-to-start)
+  - [Blade Runner](#Blade-Runner)
   - [Doctor Who](#Doctor-Who)
   - [Judge Dredd](#Judge-Dredd)
   - [Silent Hill](#Silent-HIll)
   - [Star Trek](#Star-Trek)
   - [Star Wars](#Star-Wars)
   - [Teenage Mutant Ninja Turtles](#Teenage-Mutant-Ninja-Turtles)
+- [Best comics by literary genres](#Best-comics-by-literary-genres)
+  - [Fantasy](#Fantasy)
+  - [Sci-fi](#Sci-fi)
+    - [Cyberpunk](#Cyberpunk)
 - [Best authors](#Best-authors)
   - [Ed Brubaker](#Ed-Brubaker)
   - [Warren Ellis](#Warren-Ellis)
@@ -1166,6 +1171,10 @@ TL;DR - Start with Rebirth. After that check out any of Rucka, Perez, Simone or 
 
 ## Comic books of the most popular franchises - best books and where to start
 
+### Blade Runner
+
+Among the comics on Blader Runner official is only [Blade Runner 2019](https://www.goodreads.com/book/show/45033606-blade-runner-2019-vol-1?ac=1&from_search=true&qid=4ZNCpNkBS0&rank=1) and it is good.
+
 ### Doctor Who
 
 Q: I wanna start reading doctor who comics But I don't know where should I start I mean what's the right order of the comics And where can I find it? 
@@ -1556,6 +1565,12 @@ If you want to **read everything in order**, there's always the blog you're look
 
 And the **best books**? The general favorites among fans are everything named above, as well as the British collection [Complete Case Files 14](http://www.amazon.com/gp/product/1906735298/ref=as_li_ss_tl?ie=UTF8&tag=readcomi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1906735298)![img](https://lh5.googleusercontent.com/proxy/Z06k0vMg-2IK7jpN-nNxTYHty3isz61mH5Oab40CA1Xeizky-KO1uQlfDjhhGGcummV_q0HQzaV_KiG6R2dEJ6tA3VpDV7Z2fDDFplTUsG2BZEemw_KVRLo=s0-d), which collects the "Necropolis" storyline (and serves as the payoff to another few years' worth of stories). My personal faves also include *Brothers of the Blood* and the spinoffs *Chopper: Surf's Up*, *Mega-City Undercover Vol. 02: Living the Low Life*, *The Taxidermist* and [Devlin Waugh: Red Tide](http://www.amazon.com/gp/product/1904265294/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1904265294&linkCode=as2&tag=readcomi-20)![img](https://lh5.googleusercontent.com/proxy/2bFMeb0RWp7zJyJoLLzhPl3J7FptyA2aer4BE3_dQLUKKBEhw8kxN4dCFHeEt3JdUHDkO544Qh8HgYIzmcuaE64S8o_PZzs5B6Dzhfu4ywg3j-Cw9BN4QUSiOyzyUA=s0-d).)
 
+### Rick and Morty
+
+People say all Rick and Morty comics are good. At least that's what they say about the main run.
+
+> Rick and Morty Comics Baby! Every Issue, Every Series, Ever. Seriously. Updates are Impending, and be sure to Subscribe to C-132 for more content like this. You're Welcome - [link](https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/).
+
 ### Silent Hill
 
 > Are all the Silent Hill comics garbage?
@@ -1792,6 +1807,83 @@ Amazon, Comixology, Dark Horse, Marvel are all great legal places to get the com
 
 ### Teenage Mutant Ninja Turtles
 
+6: I would start with the *IDW* comics. It's probably the best incarnation of the turtles thus far. (or at least the first 50 issues that I've read was)
+
+3: Please take a look at our [Comic Book Primer](https://www.reddit.com/r/TMNT/comments/3egxa6/official_rtmnt_comic_book_primer/). If you take a few minutes to read through the whole thing, you should be able to get a good idea what series fits your desire. But as others have said, the *IDW* series is real good. It isn't as dark as the Mirage series, but the story is far better since it has been well organized throughout its existence.
+
+1: I would suggest one of three starting points:
+
+If you are ready to deep dive from the beginning, go back to the Mirage Vol. 1 issues. (The first TMNT comics.) They are 80's independent comics, so they may not be to your taste. But as a big TMNT fan, it is at least worth reading the ones done by Eastman & Laird which is roughly the first 11 issues, Return to New York (three issues) and City at War. All of those stories were reprinted by IDW and should be available on comixology.
+
+If you just want something to read and would prefer a modern take, start with *IDW's* current series. It's a fresh reboot though it does build off ideas and characters done in previous versions.
+
+Since you specifically mentioned the 80's Turtles though, your best bet may be the Archie series. It essentially took the cartoon Turtles and then built their own world around them. *IDW* has reprinted the first 20 to 30 issues of that series as trade paperbacks as well. That's probably the easiest and cheapest way to get them.
+
+> 3: The IDW series falls about midway between the original Mirage series and the cartoon Turtles.
+
+---
+
+> Where's a good place to start reading TMNT comics?
+
+2: Comixology has the whole series!
+
+2: If you're actually wanting to get into TMNT comics, I suggest starting with our [Comic Book Primer](https://www.reddit.com/r/TMNT/comments/3egxa6/official_rtmnt_comic_book_primer/)
+
+If you're looking for the shortest and most concise answer, I recommend starting with either:
+
+1. The old school Mirage series (this is the true original origin of the TMNT). The first volume can be purchased [here](https://www.amazon.com/Teenage-Mutant-Ninja-Turtles-Collection/dp/1613770073/ref=sr_1_1_twi_har_2?ie=UTF8&qid=1497874868&sr=8-1&keywords=mirage+vol+1)
+2. The first *IDW* volume. This is debatable the best iteration of the TMTN comic. Purchase link [here](https://www.amazon.com/Teenage-Mutant-Ninja-Turtles-Collection/dp/1631401114/ref=sr_1_1?ie=UTF8&qid=1497874857&sr=8-1&keywords=idw+volume+1)
+
+There are an overwhelming amount of comics for someone just starting out. Feel free to ask us any questions! The comics are phenomenal, and I think you would enjoy the comics if you're looking for a more adult-themed version of the show. IDW is my personal favorite.
+
+> Nice!! Hope you enjoy it. In my opinion, if you start to really enjoy IDW, then pick up the Mirage collection volume 1. That's really the first main story arc. It's worth a read at some point, but the Mirage story is all over the place starting after that arc. Let us know how you like *IDW*!
+
+1: I personally like the *IDW* collections. They are hard bound editions, full color and contain the main series and the micro series in chronological order. I went this route after trying to read them digitally and quickly learned I was not understanding the references of the micro series as they weren't included. They may be included in the Comixology, but when i downloaded the issues for Kindle, there were not.
+
+I order the books from Amazon and they are normally below $40. They are fantastic collector pieces and are stories I turn to often. Here is a link to Vol. 1. https://www.amazon.com/Teenage-Mutant-Ninja-Turtles-Collection/dp/1631401114/ref=sr_1_3?ie=UTF8&qid=1497846307&sr=8-3&keywords=idw+collection
+
+The series is fantastic, you won't be disappointed.
+
+---
+
+> Must read TMNT runs
+
+7: For $35, you can get [Vol. 1 (issues 1-8)](http://www.amazon.com/Teenage-Mutant-Ninja-Turtles-Collection/dp/1613770073) of the famous Mirage Studios run in hardcover. It's known for being more gritty and adult compared to the animated series.
+
+For something more recent, try the [*IDW series*](http://www.amazon.com/Teenage-Mutant-Ninja-Turtles-Volume/dp/1613771398) ($13 for issues 1-4). It's a reboot set in NYC with some interesting twists on the original world.
+
+Happy reading!
+
+4: Definitely read the original Mirage run (mostly, just the stuff by Eastman & Laird, found in the Ultimate Collection HC's) and *the current IDW* ongoing. For the latter, I would recommend starting at the beginning and reading all the tie-ins like the micro-series one-shots, mini-series, etc. They've really put together an excellent narrative with lots of classic elements and great new twists. Here's a pretty good [reading order](http://forums.thetechnodrome.com/showthread.php?t=36475) for the IDW stuff.
+
+Outside of that, I haven't actually read any of Vol. 2 (also Mirage), 3 (Image), or 4 (Mirage? Done by Peter Laird). Vol. 2 is really short and I haven't heard much about it. Vol. 3 is basically considered non-canon at this point, and from what I gather runs very far afield from what was established by the original comics, cartoons, and movie. It seems like a "love it" or "hate it" sort of thing. Vol. 4 seems to have a small but very devoted fan-base, but I don't know much about that one either.
+
+> 2:
+>
+> > Vol. 2 is really short and I haven't heard much about it.
+>
+> In that case, I think you will find the following this writeup interesting:
+>
+> http://everydayislikewednesday.blogspot.com/2014/09/on-teenage-mutant-ninja-turtles-vol-2.html
+
+4: *City at War* (Mirage v1 #50-62) is widely viewed as the best TMNT run, it's the arc that every other arc is compared to basically. The recent *City Fall* (IDW 21-28 - Volume 3 I guess) was incredibly good as well, very comparable to City at War in terms of quality). Return to New York (Mirage v1 19-21 plus Tales of TMNT v2 70) was also a fantastic run.
+
+2: Original Mirage volume 1 of course. Get the Ultimate Collections. Every single one of them. Brilliant stuff.
+
+the new Eastman/Waltz run on IDW is okay, not great, though. The micro series and various miniseries (Secret History of the Foot, Utrom Empire, Turtles in Time) related to it have been extremely good, though.
+
+Also, Tales of the TMNT volume 2, published by Mirage by various writers and artists, is something any TMNT fan can greatly appreciate. [IDW is starting to publish them in collected but I don't know how far they'll go.](http://www.amazon.com/Teenage-Mutant-Ninja-Turtles-Tales-ebook/dp/B00HYIC9JQ/ref=sr_1_3?ie=UTF8&qid=1411233211&sr=8-3&keywords=tales+of+the+tmnt) Also, they've collected the volume 1 Tales which is cool, too. It's the first two volumes of the Tales trades.
+
+## Best comics by literary genres
+
+### Fantasy
+
+
+
+### Sci-fi
+
+#### Cyberpunk
+
 
 
 ## Best authors
@@ -1984,6 +2076,8 @@ Best The Flash books:
 
 Best Wonder Woman books: *Wonder Woman by George Perez Omnibus Vol. 1*, *Wonder Woman By George Perez Omnibus Vol. 2*, *Wonder Woman by George Perez Omnibus Vol. 3*, *Wonder Woman By Greg Rucka Vol. 1* (Rucka's first run), *Wonder Woman by Greg Rucka, Vol. 2* (Rucka's first run), *Wonder Woman Vol. 1: The Lies (Rebirth)* (Rucka is back, it's his second run, and it's good starting point).
 
+Best Blade Runner books: Blade Runner 2019 (it is a pretty fresh run).
+
 Best Doctor Who books:
 
 - **TITAN COMICS**: *Doctor Who: The Tenth Doctor Vol. 2: The Weeping Angels of Mons* (or Doctor Who: The Tenth Doctor Complete Year 1 Vol. 1), *Doctor Who: The Eleventh Doctor Vol. 1-6* (the first two years of [Eleventh Doctor](https://tardis.fandom.com/wiki/Doctor_Who%3A_The_Eleventh_Doctor)), *3 Volume 1: The Heralds of Destruction*, *9 Volume 1: Weapons of Past Destruction* (+-), *4 Volume 1: Gaze of the Medusa* (+- mediocre plot), *8 Volume 1: A Matter of Life and Death* (+- wishy-washy).
@@ -2000,6 +2094,8 @@ Best Doctor Who books:
 
 Best Judge Dredd books: *Judge Dredd: Complete Case Files #5*, *Origins*, *America*, (+*Complete Case Files #1*, *Complete Case Files #14*).
 
+Best Rick and Morty books: the entire main run.
+
 Best Silent Hill comic books: *Past Life* and *Downpour: Anne's Story* are very good, but the others are really bad.
 
 Best Star Trek comics: *Mirror Broken* and *Through the Mirror*, others are not great tbh.
@@ -2008,6 +2104,8 @@ Best Star Wars comics:
 
 - Legends: *Knights of the Old Republic*.
 - Canon: *Darth Vader*, **Star Wars: Darth Vader - Dark Lord of the Sith**.
+
+Best Teenage Mutant Ninja Turtles: *the current IDW* is the best starting point, *City at War* (Mirage v1 #50-62) is widely viewed as the best TMNT run, *City Fall* (IDW 21-28 - Teenage Mutant Ninja Turtles: The IDW Collection Volume 3 (TMNT IDW Collection) I guess) was incredibly good as well.
 
 Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyder*, *Ed Brubaker*, *Frank Miller*, Greg Rucka, Jeff Lemire, Jonathan Hickman, Rick Remender, Brian K. Vaughan, Mark Waid.
 
@@ -2056,17 +2154,21 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 41. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
 42. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
 43. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
-44. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
-45. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
-46. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
-47. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
-48. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
-49. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
-50. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
-51. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
-52. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
-53. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
-54. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
-55. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
-56. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-57. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+44. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
+45. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
+46. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
+47. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
+48. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
+49. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
+50. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
+51. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
+52. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
+53. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
+54. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
+55. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
+56. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
+57. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
+58. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
+59. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
+60. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+61. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
