@@ -1884,7 +1884,123 @@ Also, Tales of the TMNT volume 2, published by Mirage by various writers and art
 
 #### Cyberpunk
 
+10: It's not light-drizzle, neon-light cyberpunk, but *Transmetropolitan* is really good. I've only read the first three volumes, but from what I've read so far, it explores a lot of problems that the author has imagined for a dystopian future. Also, the protagonist is crazy af.
 
+6: *Judge Dredd* comics, old, but still good.
+
+5: [*Blame!*](https://en.wikipedia.org/wiki/Blame!) is what I would describe as Goth Cyberpunk, and it's story is told through minimal dialogue, major action, and one of the Largest worlds I have ever come across. It's absolutely bananas how large of a scale we are talking.
+
+4: Drugs and Wires
+
+> 3: http://www.drugsandwires.fail/contents/ <<link
+>
+> 3: Also [dreamspace](http://dreamspace.nfshost.com/) by the same artist.
+
+3: Try Elephantmen, it's set in the future when a group tries to create super soldiers by impregnating humans with human/animal hybrid embryos. We come in when the hybrids or 'elephantmen' are integrated into human society which at this point is a dystopian cyberpunk world. I've only read the first four omnibus graphic novels but so far it's great.
+
+3: *Hard Boiled* is Cyberpunk as fuck.
+
+3: Just finished reading *Tokyo Ghost* by Rick Remender and Sean Murphy and that was an enjoyable read. It has a nature v. technology (or maybe communism v. capitalism?) theme that gets a bit over thew top but the world building and central characters are interesting.
+
+2: Stuff I've read and enjoyed:
+
+- [Chronicles of Centrum](https://www.amazon.de/Die-Chroniken-Centrum-Jean-Pierre-Andrevon/dp/3770432541) could only find german and french issues but maybe there's a translation. Also a bit short, but I like it.
+- [Battle Angel Alita aka. Gunnm](https://myanimelist.net/manga/768/Gunnm) Does Manga count? This one's pretty good and also long. Love the scenario.
+- [Ghost in the Shell](https://myanimelist.net/manga/1023/Koukaku_Kidoutai__The_Ghost_in_the_Shell) Haven't read it but the ratings are not bad and since the movies are based on it.
+
+2: None of these are 100% cyberpunk, but they incorporate some elements:
+
+Lazarus - no neon lights or hacking, but a cool low life high tech dystopian that's regressed to a feudal system. Also super soldiers with swords
+
+Copperhead - does space western count as cyberpunk?
+
+Descender - robots, cyborgs, civilization on the brink of collapse etc.
+
+---
+
+> Trawling through the web I came upon this little gem from CBR: [The Best Cyberpunk Comics Ever](https://www.cbr.com/the-best-cyberpunk-comics-ever/) and thought it worth the share.
+>
+> Note: the author points out at the beginning that Manga is excepted, as are the Neuromancer and Blade Runner adaptations, so that frees the field a little. Take a look and enjoy! Feel free to discuss, there were a few in there I’d never even heard of.
+
+- 9/15: EMPTY ZONE
+- 8/15: JUDGE DREDD: MEGA-CITY 2
+- 7/15: THE PRIVATE EYE
+- 6/15: 2020 VISIONS
+- 5/15: 100%
+- 4/15: *TOKYO GHOST*
+- 3/15: *HARD BOILED*
+- 2/15: *TRANSMETROPOLITAN*
+- 1/15: THE LONG TOMORROW
+
+---
+
+7: *Transmetropolitan*.
+
+"Sorry, no. I'm married, not hungry, infected with seven unknown diseases, gay, pregnant with lizards and clinically dead."
+
+> 2: This - highly recommend Transmet, it's completely off the hook cyberpunk/transhumanist, the art is amazing, couldn't recommend more.
+
+4: Ghost in the shell, Akira
+
+2: Silent Dragon basically a yakuza revenge story in a cyberpunk setting
+
+1: People have already said GiTS and Akira, so I'll second those and also recommend; Blame! *Origin Judge Dredd* A lot of Masamune Shirow's other work
+
+---
+
+10: *transmetropolitan*
+
+> 1: I can't get enough of Blame! have you got more recommendations for similar things?
+
+2: *Trasmetropolitan*, *Hard Boiled*, Ronin, Akira, Battle Angel Alita, *Tokyo Ghost*,
+
+2: I think this is the third time this last two weeks that I've had to recommend our wiki.
+
+Check it out here, its a really comprehensive list, enjoy: https://www.reddit.com/r/Cyberpunk/wiki/comicbooks
+
+---
+
+18: [*Transmetropolitan*](https://en.wikipedia.org/wiki/Transmetropolitan).
+
+You'll thank me after you've read it :-P
+
+4: *Hard Boiled* by Frank Miller
+
+3: If you liked Ghost in the Shell try Appleseed, and if you like your post-apocalyptic cyberpunk with a little more humor (and a lot more gene-altered cat-girls) try Dominion.
+
+2: Ghost in the Shell...and it is not cyberpunk specifically but "Incal" by Moebius is the bible of graphic novels.
+
+2: *Tokyo Ghost*
+
+2: [The Outrunners](http://www.outrunnerscomic.com/Page-0) An ongoing web comic with an accompanying soundtrack.
+
+1: It's short and still ongoing, but [Drugs & Wires](http://www.drugsandwires.fail/dnwcomic/clean-and-sober-living/) is pretty great alt-90s Soviet Bloc cyberpunk. Highly recommend it.
+
+1: It's a little more sci-fi focused, but Trees by Warren Ellis and Jason Howard has a great setting with some awesome cyberpunk vibes in the first issue. I haven't been able to pick up a copy of the second issue, but I certainly intend to.
+
+---
+
+15: Ghost in the Shell.
+
+11: Does *Tokyo Ghost* fit the bill? I pick that if it does.
+
+10: *Judge Dredd*.
+
+> 2: I'd also suggest the Eagle comics run from 83. That was my first intro to him. For what it's worth [here](https://io9.gizmodo.com/5944097/top-11-essential-judge-dredd-stories) is a pretty good article laying out some of his best story lines.
+
+Warren Ellis writes quite of stuff that would be considered cyberpunk and biopunk.
+
+6: *Hard Boiled* by Frank Miller. An oldie but a goodie. Has a ton of gore and sexual content just fyi.
+
+> 3: Underrated. One of Miller's best.
+
+5: I'd suggest Ghost Rider 2099, if you can find it.
+
+5: the original spider-man 2099 and fray are good
+
+2: Frank Millers Ronin fits the bill id say.
+
+1: [Old City Blues](http://ocb.milonogiannis.com/)
 
 ## Best authors
 
@@ -2103,9 +2219,15 @@ Best Star Trek comics: *Mirror Broken* and *Through the Mirror*, others are not 
 Best Star Wars comics: 
 
 - Legends: *Knights of the Old Republic*.
-- Canon: *Darth Vader*, **Star Wars: Darth Vader - Dark Lord of the Sith**.
+- Canon: *Darth Vader*, *Star Wars: Darth Vader - Dark Lord of the Sith* (it looks like it's the best SW comics).
 
 Best Teenage Mutant Ninja Turtles: *the current IDW* is the best starting point, *City at War* (Mirage v1 #50-62) is widely viewed as the best TMNT run, *City Fall* (IDW 21-28 - Teenage Mutant Ninja Turtles: The IDW Collection Volume 3 (TMNT IDW Collection) I guess) was incredibly good as well.
+
+Best books by genre:
+
+- Fantasy:
+- Sci-fi:
+  - Cyberpunk: *Transmetropolitan*, *Hard Boiled*, *Judge Dredd*, *Tokyo Ghost*, *Blame!* (+THE LONG TOMORROW and manga: Ghost in the shell, Akira).
 
 Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyder*, *Ed Brubaker*, *Frank Miller*, Greg Rucka, Jeff Lemire, Jonathan Hickman, Rick Remender, Brian K. Vaughan, Mark Waid.
 
@@ -2170,5 +2292,11 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 57. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
 58. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
 59. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
-60. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-61. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+60. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
+61. https://www.cbr.com/the-best-cyberpunk-comics-ever/
+62. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
+63. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
+64. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
+65. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
+66. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+67. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
