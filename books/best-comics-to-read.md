@@ -23,6 +23,7 @@
 - [Comic books of the most popular franchises - best books and where to start](#Comic-books-of-the-most-popular-franchises---best-books-and-where-to-start)
   - [Blade Runner](#Blade-Runner)
   - [Doctor Who](#Doctor-Who)
+  - [Godzilla](#Godzilla)
   - [Judge Dredd](#Judge-Dredd)
   - [Silent Hill](#Silent-HIll)
   - [Star Trek](#Star-Trek)
@@ -1474,6 +1475,152 @@ There are also three multi-Doctor crossover stories.
 
 as with the television series, you really do not have to know anything. you already know the basics.
 
+### Godzilla
+
+> Best Godzilla comic book runs?
+
+5: Try out *Half-Century War*! Definitely one of my faves :D
+
+> 3: Yup. This is the only one worth the hardcover. It's an encapsulated story - beginning, middle and, importantly, an end. The art by James Stokoe is jaw dropping and as detailed as Jeff Darrow. In all the best book ever.
+>
+> https://orcstain.files.wordpress.com/2012/05/skreeonk.jpg
+
+3: *Half century war* and rulers of the earth (if only for Matt Frank's wonderful art)
+
+> 1: Matt Frank is crazy good at art.
+
+3: Others have mentioned *Rulers of the Earth* (which is connected to some other IDW Godzilla runs of varying quality and references them), but I want to make a mention of the Marvel run, if only because it ends with him fighting the Avengers.
+
+---
+
+> Where to start with Godzilla comics
+
+4: As far as im aware there are 3 different universes based on publisher, you have the original **Marvel** Godzilla comics, which has the much more dinosaurian mean green look, intermingles with other marvel heroes on a constant basis. If you like that sort of thing and vintage comics go with that.
+
+Then there's the **Dark Horse** comics but I don't know much about those.
+
+**IDW** is the newest and probably the best from a fan standpoint. There are three main runs of comics here that is one continuity), Kingdom of Monsters (first) Godzilla (second) and *Rulers of Earth* (third and final) while kingdom of monsters is kind of garbage, Godzilla is good and Rulers of earth is FANTASTIC, highly recommend it. you can skip Kingdom if you want.
+
+> 3: Then there are the ones that stand completely on their own: Godzilla in Hell Cataclysm The Half-Century War Gangsters and Goliaths
+>
+> You could skip these if you want, but they're great little graphic novels you could usually take out in one sitting. I highly recommend Cataclysm and The *Half-Century War*.
+
+1: I started with *Half Century War* but moved on to *Rulers of Earth* which I highly recommend.
+
+1: Super short and easy to collect (5 issues) is Godzilla in Hell. It's super weird but I absolutely fucking love it. It's my favorite comic serial ever. It's very very abstract though.
+
+1: I used to have the Essential Marvel omnibus of their Godzilla run from '77-'79, but sold it a few years ago to a friend. It's reasonably entertaining in a '70s comics kinda way, and I love to see my favorite kaiju clashing with many of the Marvel characters I grew up reading (Godzilla clashes with the Avengers and the Fantastic Four in the final story arc).
+
+I grew up on the Dark Horse Godzilla series back in the mid-90s, and this run features a lot of the work of Art Adams, my favorite Western Godzilla artist ever. Dark Horse began their association with Godzilla back in '88 when they released a translation of Kazuhisa Iwata's manga adaptation of The Return of Godzilla, and they released the very good *Godzilla Color Special* in '92, featuring Godzilla battling Gekido-jin (an homage to Daiei's Daimajin) and some stellar art from Mr. Adams. While they weren't able to secure or afford the rights to other Toho kaiju, the writers came up with some fairly interesting foes for Godzilla, and even had a race of hunter aliens (a riff on Predator?) attempting to bag Godzilla like a big-game trophy, only to find him to be the most dangerous game. Though very '90s, it's quite an entertaining run, worth checking out.
+
+Most fans these days are into IDW's ongoing main series and miniseries. This run got off to a rocky start, and it ranges from the mediocre (G:Kingdom of Monsters) to the superb (*Godzilla: the Half-Century War* and G:Legends). Still, like the Dark Horse run, it's well worth your time. Any time spent with the Big G is time well-spent, no matter what media it is.
+
+**EDIT:** Forgot to mention Legendary's prequel comic, Godzilla: Awakening, released just weeks before the movie back in spring '14. I don't remember much about this one, except that it was a bland bit of promotional product for the movie, and its art was pretty weak overall. Too bad, as I was looking forward to seeing Godzilla and Dr. Ishiro Serizawa's respective misadventures in the decades before the events of G'14.
+
+---
+
+> The IDW Godzilla comics, has anyone read them?
+
+5: IMO:
+
+Godzilla: Kingdom of Monsters - Very "meh". Some cool monster moments, but the human stuff is mostly forgettable. Serves as set up for Ongoing and Rulers of Earth, but you could honestly skip it.
+
+Gangsters and Goliaths - I think this one is really good. Nice contained story with decent human characters that actually get some attention, an interesting plot and some solid monster action.
+
+Godzilla (Ongoing) - Pretty cool. Much better than Kingdom with better human work, more monsters and bigger battles. I'd say start here if you want to read it and Rulers.
+
+Godzilla Legends - These range from decent to awesome. Five separate stories, so you could pick and choose.
+
+*Godzilla: Rulers of Earth* - This is top notch. Better human focus, bigger monster brawls and even more kaiju throughout.
+
+*Godzilla: The Half-Century War* - This is my personal favourite. A five issue story that tells a very interesting human story set alongside some cool kaiju action.
+
+*Godzilla: Cataclysm* - I love this one due to the setting and the world they set up. Solid monster showcase and fairly good human characters as well.
+
+Godzilla in Hell - Really cool art and an interesting, and humanless, story.
+
+Godzilla: Oblivion - Pretty solid, IMO. A pretty interesting plot and some cool monster action.
+
+Godzilla: Rage Across Time - Much like Legends, the stories range in quality.
+
+Of you're looking for a Top 3 that are worth checking out I'd recommend *Rulers*, *Half-Century War* and *Cataclysm*. But Ongoing/Gangsters/Oblivion/Hell are solid enough as well.
+
+3: Definitely *Cataclysm*, *Rulers of Earth* and *Half Century War*. Solid reads. *Rulers of Earth* is epic. Also, Godzilla In Hell. Haven’t read Rage Across Time yet but I heard good things.
+
+3: I loved Legends and Godzilla in Hell. *Half Century War* was alright. Never really got too into the others. The art is solid in all of them that I've came across though.
+
+2: I've read:
+
+Kingdom of Monsters - Awful, but has a few decent issues.
+
+Gangsters and Goliaths - Pretty good overall, but the art is weak.
+
+Godzilla Ongoing - Decent writing, decent art, worth a read.
+
+Legends - Mediocre mixed bag. Totally skippable, IMO.
+
+*Half-Century War* - Very good, with excellent artwork and a solid story.
+
+*Cataclysm* - My personal favorite Godzilla comic. Everything just gels perfectly together, and I wish to God that this was a longer series.
+
+Godzilla In Hell - My second favorite Godzilla comic ever. The only truly weak issue, IMO, is Bob Eggleton's (unpopular opinion, I know), but the art is great and the writing is creative.
+
+2: *Rulers of Earth* is definitely my personal favourite. Interesting plot (for Godzilla, anyway), likeable humans, and of course, great kaiju battles that even use some old, old kaiju. Varn, Zilla, and Geozora come to mind. In fact, the only kaiju I think don't fight are Hedorah and Gabara. Definitely worth a read, but one of the volumes (the fourth?) is extremely rare, so you'll have to read it another way.
+
+---
+
+3: *Half Century War* and *Rulers of Earth* are easily the best in my opinion. HCW is a standalone mini series so you can jump right in, RoE is a follow up to Kingdom of Monsters and Godzilla(History's Greatest Monster), but those aren't exactly stellar and you don't miss a whole lot by skipping them.
+
+---
+
+5: *Half century war* is general consider to be the best.
+
+> 1: Gotta agree, first comic I ever read.
+
+3: *Half Century War* is great, but my favorite has to be Gangsters and Goliaths. It's more of a Mothra story than a Godzilla story, but it's still fantastic. I really like the balance of human and kaiju drama, and it's a really great use of the Mothra mythos.
+
+2: Godzilla vs. Barkley.
+
+> Me: is this a joke? :D
+
+Also, the old Marvel Godzilla is great fun but will probably never be reprinted due to licencing issues.
+
+---
+
+17: [*Godzilla: Half Century War*](https://www.amazon.com/Godzilla-Half-Century-War-IDW/dp/1613775954) is one of the best Godzilla comics ever made, imo. It's definitely worth checking out even if you're not a Godzilla fan, if only for James Stokoe's [awesome art](http://i.imgur.com/mWc0Z.jpg).
+
+Collectors, the IDW hardcover edition is Absolute-sized and super nice.
+
+> 1: His Kaiju are just amazing. They really give off this sense of size and weight that you'd expect them to have.
+>
+> This is the first time where I've seen Godzilla and really felt like he was this unstoppable force of nature.
+
+5: [Godzilla vs. Barkley](https://d2lzb5v10mb0lj.cloudfront.net/covers/300/g/gvb.jpg) is a must
+
+> Me: is this a joke? :D
+
+3: Godzilla In Hell was entertaining.
+
+2: *Half Century War* by James Stokoe is absolutely godlike.
+
+---
+
+3: *Godzilla: Cataclysm* is a great mini series. Also *Godzilla: Rulers of Earth*, Godzilla In Hell and Godzilla Rage Across Time. If you are into older comics, Darkhorse had a 90’s series that ran for around 15 issues or so called simply Godzilla: King of the Monsters, I believe. That one was pretty solid but mostly nostalgic for me.
+
+> 2 : You may be able to find some on Amazon but some may have to be purchased through third party sellers which are fulfilled through Amazon. If you want complete collections of lots and such, you can search eBay. Also try sites like Entertainment Earth or Things From Another World.
+
+---
+
+3: I'd say *half century war* is the best, it stays most true to classic portrayals of the monsters, I think.
+
+2: *Rulers of Earth* is far and away the best series they produced. It's a follow up to the vastly inferior *Rulers of Earth* and History's Greatest Monster, but it's not really necessary to read those first. I'd recommend diving right into Rulers of Earth and going back and re reading the first two series if you want to afterwards.
+
+> Idk, I always felt *Rulers of Earth*'s dialogue was a little weak compared to *Cataclysm* or *Half-Century War*
+>
+> Everything else was great.
+
+1: Legends is great. Godzilla in Hell is pretty cool and the art is good but there's not much narrative.
+
 ### Judge Dredd
 
 16: Dredd is unfortunately even worse than Marvel and DC because he's got one unbroken continuity for 30some years, over 2100 "progs" (issues, I believe usually 6 pages every week), he ages in real time, and constantly references events that happened decades ago. In recent issues he's still dealing with fallout from the Apocalypse War, which happened in the 80s.
@@ -2644,6 +2791,8 @@ Best Doctor Who books:
 
   >IDW is the worst among those publishers.
 
+Best Godzilla books: *Godzilla: The Half-Century War*, *Godzilla: Rulers of Earth*, *Godzilla: Cataclysm*, Godzilla in Hell (+- Godzilla: Gangsters & Goliaths, Godzilla: Legends).
+
 Best Judge Dredd books: *Judge Dredd: Complete Case Files #5*, *Origins*, *America*, (+*Complete Case Files #1*, *Complete Case Files #14*).
 
 Best Rick and Morty books: the entire main run.
@@ -2709,37 +2858,45 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 38. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
 39. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
 40. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
-41. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
-42. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
-43. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
-44. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
-45. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
-46. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
-47. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
-48. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
-49. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
-50. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
-51. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
-52. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
-53. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
-54. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
-55. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
-56. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
-57. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
-58. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
-59. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
-60. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
-61. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
-62. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
-63. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
-64. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
-65. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
-66. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
-67. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
-68. https://www.cbr.com/the-best-cyberpunk-comics-ever/
-69. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
-70. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
-71. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
-72. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
-73. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-74. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+41. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
+42. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
+43. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
+44. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
+45. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
+46. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
+47. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
+48. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
+49. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
+50. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
+51. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
+52. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
+53. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
+54. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
+55. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
+56. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
+57. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
+58. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
+59. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
+60. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
+61. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
+62. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
+63. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
+64. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
+65. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
+66. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
+67. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
+68. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
+69. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
+70. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
+71. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
+72. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
+73. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
+74. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
+75. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
+76. https://www.cbr.com/the-best-cyberpunk-comics-ever/
+77. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
+78. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
+79. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
+80. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
+81. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+82. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
