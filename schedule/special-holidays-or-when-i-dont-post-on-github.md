@@ -23,25 +23,27 @@
 21. ? June - E3.
 22. ? June - E3.
 23. 22 June - ARMA started as a franchise.
-24. 13 July - Metal Gear started as a franchise.
-25. 23 July - Max Payne started as a franchise.
-26. 30 July - Friendship Day.
-27. 5 August - Magic: The Gathering underwent a general release.
-28. 23 August - My birthday.
-29. 30 August - Operation Snake Eater (Metal Gear Solid 3 main events begin).
-30. 8 September - Star Trek Day, International Literacy Day.
-31. 12 September - Day of The Programmer (leap year), Video Games Day.
-32. 13 September (common) - Day of The Programmer.
-33. 22 September - F.R.I.E.N.D.S. Day (TV show started this day), Hobbit Day. Hobbit Day is a name used for September 22 in reference to its being the birthday of the hobbits Bilbo and Frodo Baggins, two fictional characters in J. R. R. Tolkien's popular set of books The Hobbit and The Lord of the Rings.
-34. 1 October - International Coffee Day.
-35. 4 October - Teacher's Day.
-36. 21 October - GTA started as a franchise (GTA Vice City and  GTA San Andreas are the games of my childhood).
-37. 23 October - The Great War (The Great War is the main event that precedes the events in Fallout series).
-38. 26 October - Witcher started as a franchise.
-39. 31 October - Halloween.
-40. 19 November - Half-Life started as a franchise.
-41. 21 November - Hitman started as a franchise.
-42. 26 November - Thanksgiving.
-43. ? December - The Game Awards.
-44. 28 December - International Cinema Day. On this day in 1895, the world's first commercial movie screening took place at the Grand Cafe in Paris. The film was made by Louis and Auguste Lumiere, two French brothers who developed a camera-projector called the Cinematographe.
-45. 31 December - preparation for New Year celebration.
+24. 23 June - Reddit was founded (in 2005).
+25. 13 July - Metal Gear started as a franchise.
+26. 15 July - Twitter was launched (in 2006).
+27. 23 July - Max Payne started as a franchise.
+28. 30 July - Friendship Day.
+29. 5 August - Magic: The Gathering underwent a general release.
+30. 23 August - My birthday.
+31. 30 August - Operation Snake Eater (Metal Gear Solid 3 main events begin).
+32. 8 September - Star Trek Day, International Literacy Day.
+33. 12 September - Day of The Programmer (leap year), Video Games Day.
+34. 13 September (common) - Day of The Programmer.
+35. 22 September - F.R.I.E.N.D.S. Day (TV show started this day), Hobbit Day. Hobbit Day is a name used for September 22 in reference to its being the birthday of the hobbits Bilbo and Frodo Baggins, two fictional characters in J. R. R. Tolkien's popular set of books The Hobbit and The Lord of the Rings.
+36. 1 October - International Coffee Day.
+37. 4 October - Teacher's Day.
+38. 21 October - GTA started as a franchise (GTA Vice City and  GTA San Andreas are the games of my childhood).
+39. 23 October - The Great War (The Great War is the main event that precedes the events in Fallout series).
+40. 26 October - Witcher started as a franchise.
+41. 31 October - Halloween.
+42. 19 November - Half-Life started as a franchise.
+43. 21 November - Hitman started as a franchise.
+44. 26 November - Thanksgiving.
+45. ? December - The Game Awards.
+46. 28 December - International Cinema Day. On this day in 1895, the world's first commercial movie screening took place at the Grand Cafe in Paris. The film was made by Louis and Auguste Lumiere, two French brothers who developed a camera-projector called the Cinematographe.
+47. 31 December - preparation for New Year celebration.
