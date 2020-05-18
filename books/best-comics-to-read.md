@@ -1878,7 +1878,443 @@ Also, Tales of the TMNT volume 2, published by Mirage by various writers and art
 
 ### Fantasy
 
+19: **Sandman** is at, or near, the top for a lot of people. Neil Gaiman's first major work (AFAIK), following the life and times of Morpheus, the immortal, anthropomorphic personification of dreaming. Slow start but a magnificent finish.
 
+Also a Gaiman work, Marvel 1602 is superheroes in ~~Victorian~~ Elizabethan England, which is as fantasy as it gets.
+
+**Saga** by Brian K. Vaughan looks like a scifi if spaceships and robots are enough to define a genre, but it also has at least one dragon, spaceships that are made from trees, ghosts, an ongoing war between magic-users and tech-users, and satyrs and fairies (though they're not called that). The only thing wrong with it is that it's not finished yet.
+
+Last of all, *Fables* by Bill Willingham! All the characters in all the fairy tales (at least, the ones in the public domain) are real, but they've been chased out of their respective worlds by the Adversary, a faceless immortal emperor with deep pockets and an unstoppable army. The *Fables* find refuge on Earth, where they deal with issues of diaspora, prejudice, and small-town politics. Highlights include a *deep* cast of nuanced characters, a midseason twist that *will* make you swear out loud, and one of the hands-down best love stories in modern fiction.
+
+> 4: All of these, so very much. Even the little spinoffs from *Fables* are brilliant, and the Lucifer spinoff from **Sandman** is equally interesting.
+
+11: *Monstress* is stunning.
+
+It got a rush job at the end of its run but Hinterlands was a quite a good read each month.
+
+**Saga** obviously gets mentioned quite a bit. Not sure if I would count East of West or not but its a pretty fantastic Comic as well.
+
+Some others:
+
+- *Fables*
+- *Rat Queens*
+- Mouse Guard
+- Red Sonja and a few of the other Dynamite titles.
+- Nimona - maybe that was a web comic first? Not sure, it had a print version.
+- Locke & Key
+- For some lighter fare - I Hate Fairyland. It is complete over the top nonsense but it is a really fun read.
+
+[Check out the big thread of recommendations](https://www.reddit.com/r/Fantasy/comments/62sfzd/rfantasy_bingo_recommendations_thread/) for the Bingo challenge. Graphic Novel is one of the categories.
+
+**Edit**: Oh man completely forgot about Black Magick which is kind of shaping up to be Urban Fantasy. I've only read the 6 issues but Greg Rucka does some fantastic world building. Definitely worth checking out.
+
+> 2: I own Black Magick, but need to read it. I've read a *lot* by Rucka over the years, but was disappointed with some of his more recent stuff like his Jad Bell book series, and that, combined with my being burned out on comics, has led to it languishing (along with some others like Monstress). But I'll try to push it higher.
+
+10: I just love *Rat Queens*
+
+9: The ones that you might not think of - Goscinny & Uderzo's Asterix is ostensibly for kids, but a LOT of fun for adults who can understand all the in-jokes. And if you think they are funny in English, remember it is translated from French originally.
+
+Jeff Smith's **Bone**, which has dragons, heroes, cowboys, rat creatures, and a wonderful combination of epic adventure and small scale humour.
+
+7: Berserk by Kentaro Miura one of my favorite manga
+
+6: **Sandman** and Books of Magic by Gaiman. https://www.goodreads.com/series/40372-the-sandman https://www.goodreads.com/book/show/17727.The_Books_of_Magic?ac=1&from_search=true
+
+Lucifer and The Unwritten by Carey. https://www.goodreads.com/series/59893-lucifer https://www.goodreads.com/series/55720-the-unwritten
+
+*Fables* by Willingham. https://www.goodreads.com/series/54296-fables
+
+Artesia The Eisner-award winner by Smylie https://www.goodreads.com/series/121190-artesia
+
+The Wizard's Tale by Busiek is fun, sweet and centers on a protagonist well over 50. https://www.goodreads.com/book/show/685529.The_Wizard_s_Tale?ac=1&from_search=true
+
+*Conan* by Busiek. https://www.goodreads.com/series/90218-conan-ongoing-series
+
+*The Autumnlands* by Busiek. https://www.goodreads.com/series/160012-the-autumnlands
+
+Groo by Aragonés https://www.goodreads.com/series/50300-groo-the-wanderer
+
+Aria by Holguin https://www.goodreads.com/series/68291-aria
+
+Mouse Guard by Petersen https://www.goodreads.com/series/67194-mouse-guard
+
+Thieves & Kings by Oakley https://www.goodreads.com/series/72417-thieves-kings
+
+The Atlantis Chronicles by David is getting a HC compilation in November. It tells the history of the fall of Atlantis, and all of the civil wars, brother vs. brother rifts/wars, magic, curses, tragedies, etc. that resulted over thousands of years. https://www.goodreads.com/series/118737-the-atlantis-chronicles
+
+5: *Rat Queens* (If you like inappropriate D&D sessions involving sex, drugs, and lots and lots of sarcasm this is for you)
+
+Skull Kickers (This is also a comedy fantasy series where the heroes are more likely to kill the quest givers than go on the quest, it also has the best sound effect jokes I've ever seen in comics)
+
+East of West (Equal parts western, apocalypse tale, and sci-fi that may as well be fantasy, this is a dark look at an America that never united and is now facing the three horsemen trying to end the world and one trying to stop them. Also I had dinner with the artist last year and he told me that Game of Thrones was a huge influence on the structure of the series)
+
+Wayward (This was pitched as Buffy the Vampire Slayer goes to Japan, if you like Japanese mythology and high school drama with a lot of violence, this series is well worth checking out)
+
+Curse Words (A fairly new comic about an evil wizard sent to our world to take it over for his master, but he finds the world endearing and decides to cut his ties with his dark lord and start a new life being a famous wizard in Manhattan. Very funny and very weird.)
+
+Black Cloud (Another fairly new comic about the power of story and maybe alternate dimensions. Not much is known so far since only two issues are out, but this just may be the next big series)
+
+God Country (I believe the final issue of this mini series is coming out within the next month, so a trade shouldn't be too far behind. This is a story about an old man fighting alzheimer's with a magic sword stolen from the gods. It's very emotional, but beautifully written and drawn)
+
+Black Clover (If manga is more your thing this is the series to check out. It's a traditional shonen battle manga, but instead of ki or ninjitsu they characters are given grimoires which grow as they learn new spells and magic. Normally the most powerful mages have grimoires with four leaf clovers on the cover, but our main character gets a grimoire with five leafs and the power to nullify other magic. It's a lot of fun.)
+
+2: MetaBaron - By Alejandro jodorowski is totally amazing. Its super dark and pretty much a fantasy story wrapped in scifi clothes. I highly recommend it.
+
+**Saga** - by brian K. vaughan is fantastic as well. The best currently running fantasy comic right now imo.
+
+Birthright by Joshua Williamson is pretty awesome. I've only read the first trade so far but it seemed really promising.
+
+Headlopper by Andrew maclean is one of the most surprising and enjoyable reads ive had lately. his art is beautiful and the story is just super fun.
+
+45: I consider **The Sandman** to be both the finest thing Neil Gaiman has ever written and the best graphic novel of all time.
+
+It’s a fantasy series following the Lord of Dreams (who also goes by many other names) as he gets involved with the affairs of mortals. He’s one of the seven Endless, powerful entities that are older than Gods and play huge roles in human lives.
+
+**The Sandman** is a phenomenal series that depicts Gaiman’s strengths (his creativity, dark fairy tale-esque storytelling and beautiful writing) at their absolute peak, and I would highly recommend it to anyone looking for a good fantasy read or a quality graphic novel.
+
+25: I recommend **Bone** by Jeff Smith. Three of the main characters may have accidentally stumbled into the story from the funny papers, but the story is well told and Smith's background as an animator really shows and it is one of the most visually dynamic comics I've ever read.
+
+16: If you count webcomics, Kill Six Billion Demons is amazing. It blends so many different mythos and religious icons into a kick ass wuxia comic.
+
+Best part! It's free online! The artwork is often trippy, beautiful, strange. It's a lovely thing.
+
+> 2: It's actually also available in print!
+
+12: Easily **Saga**. Anything Brian K. Vaughan writes is gold.
+
+7: Jeff Smith's **Bone**.
+Bill Willingham's *Fables*.
+And of course Neil Gaiman's **Sandman**.
+
+All three are truly phenomenal masterpieces, each in their own way.
+
+6: Amulet, *Rat Queens*, The Hedge Knight, East of West, Locke & Key, Lady Mechanika, Umbrella Academy, Lumberjanes.
+
+5: I really like *Rat Queens*.
+
+4: Berserk Manga, so freaking brutal and good. **Sandman** series by Neil Gaimon, kind of fantasy. Hellsing, bleach, Solomon Kane, Attack on Titan, all good comics/manga/graphic novels.
+
+---
+
+7: Berserk
+
+> 3: Berserk is dark fantasy and it is epic in the truest sense of the word. Couldn't recommend it enough
+>
+> 1: Dude, I wish I was you right now. Berserk is one of those works of fiction that you wish you could experience again for the first time, learning about the world, characters, experiencing the art, all that. If you are a fan of fantasy, you'll like it probably. It's dark, almost brooding sometimes, but it is often beautiful as well. It's a damn good manga.
+
+4: 
+
+- *Autumnlands*
+- *Conan* (esp. the b&w 1970s series)
+- Head Lopper
+- *Rat Queens*
+
+> 3: *Autumnlands* is beautiful! I really enjoyed both arcs a lot. Birthright is pretty good, Arclight is an amazing one volume series from Image, and Seven to Eternity is excellent.
+>
+> Edit: and yes Head Lopper is killer!
+
+4: Dark Horse has a bunch of good "*Conan*" books, and the omnibuses go on sale pretty regularly.
+
+> 2: If you are getting trades all the numbered volumes range from good to great, the minis were hit or miss. I think it runs about 22 volumes across multiple title changes.
+
+3: Seven to Eternity is an awesome new fantasy comic. The first two arcs have been released in trades.
+
+3: Dynamite comics has a bunch of Pathfinder comics, as well as stuff with old pulp characters like Red Sonja.
+
+2: If you can find the D&D comic written by John Rogers, it's quite good. Sadly, it like most D&D campaigns just ended abruptly without any real resolution, but it was one of the best books on the market at the time.
+
+2: Seven to Eternity is great, yeah. You might also want to check out The Last Siege, *Monstress*, Eternal Empire, Sleepless, Rose, and The Realm.
+
+2: The IDW Baldur's Gate comics are pretty decent.
+
+2: I'm gonna second *Monstress*
+
+1: If you are into D&D, you should definitely check out the various Pathfinder mini-series from Dynamite. As you might have guessed, they are based on the popular pen and paper RPG by PAIZO. I have enjoyed each and every one of them. A fun and exciting read for sure.
+
+Another ongoing fantasy series I feel is underrated and deserves more love is Rose by Image.
+
+---
+
+11: What about [**Bone**](https://en.wikipedia.org/wiki/Bone_(comics))?
+
+Not solely high fantasy, but it contains some (as well as some of everything else) is **Sandman**. It is a legitimate masterpiece in my opinion.
+
+8: There's *Autumnlands* by Kurt Busiek and Ben Dewey. One volume published so far, gorgeous artwork. A cabal of wizards bring back a legendary hero to stop magic seeping away from their world, things don't go as planned.
+
+*Rat Queens* is more comic fantasy, but still worth a look.
+
+Parts of the *Fables* series also qualify I think, mostly those set in the Homelands.
+
+Maybe Prince Valiant? It's not really fantasy, but it has an Arthurian setting.
+
+There are adaptations of several fantasy novels, ranging from good (GRRM's Dunk and Egg novellas) to bad (Discworld).
+
+I'm not sure how many Franco-Belgian comics have been translated to English, but there are many series like La Quête de l'oiseau du temps, Lanfeust etc.
+
+As for webcomics:
+
+[Inverloch](http://inverloch.seraph-inn.com/) and [Phoenix Requiem](http://requiem.seraph-inn.com/) by Sarah Ellerton are both finished and worth the read.
+
+[Girl Genius](http://www.girlgeniusonline.com/) is a great steampunk comic.
+
+[Unsounded](http://www.casualvillain.com/Unsounded/), [A Redtail's Dream](http://www.minnasundberg.fi/artd.php) and especially [Back](http://backcomic.com/) are worth a look as well.
+
+6: Depending on your definition of "high fantasy," there's plenty!
+
+- *Conan* - an obvious first choice. The Marvel books by Roy Thomas and Barry Windsor-Smith are fantastic, and the newer Dark Horse series by Kurt Busiek and Cary Nord are great if you're into more modern graphic storytelling.
+- Birthright - a new series by Joshua Williamson put out my Image comics. A young boy goes missing and his father is suspected of killing him, driving his family apart. A year later, a grizzled man claiming to be the young boy in question appeals to his family and the police, maintaining that he's been gone 20 years in a fantasy land.
+- *The Autumlands* - another Image series written by Kurt Busiek and illistrated by Benjamin Dewey and Jordie Bellaire about anthropomorphic animals in a waning period of magic who try to resurrect the lost champion in a moment of desperation.
+- The Umbral - I haven't read this one yet, but it's by Antony Johnston, and that's enough for my seal of approval.
+
+I have lots more, but my lunch break is over! Please reply if none of these do it for you!
+
+3: Elfquest is one that I read when I was younger. In fact, I believe almost the entire series is free on for viewing on their website. It does have some sci-fi overtones, but the majority of the series is about elves with some atypical characteristics. It was the series that really got me into reading comics, so I'm still rather fond of it.
+
+3: **Sandman**?
+
+3: Check out some manga.
+
+Berserk: Great, longish read, but unfinished. Don't worry though, will be finished as soon as ASOIAF is.
+
+Shin Angyo Onshi: Completed and quite the ride.
+
+Fullmetal Alchemist: This one is a weird hybrid and not 100% high fantasy, but very much worth a read.
+
+Claymore: Another great one, high fantasy to a tee and with a female protagonist.
+
+2: If you mean "high fantasy" in a literary sense (i.e. takes place in a different world from ours, like in The Lord of the Rings) there are plenty. Graphic novel adaptations of Michael Moorcock's multiverse stories and Terry Pratchett's Discworld, original productions like Thorgal and Arzach...there's a bunch.
+
+If you mean "high fantasy" in the popular sense of "lots and lots of magic and monsters," there are plenty of those too.
+
+2: I can recommend Dungeons & Dragons by IDW, which at its core is just about a D&D campaign.
+
+Another one is the New 52 Demon Knights which has sorceresses, a shining knight, and a guy who transforms into a demon to fight as its main characters.
+
+1: The Pathfinder comics are decent. They lost me around 5 issues in, but I'm not a comic guy, so it says a lot that I lasted that long. *Rat Queens* I absolutely love though.
+
+1: Try [Ravine](https://imagecomics.com/comics/series/ravine) by Stjepan Sejic
+
+---
+
+20: *Fables*. **Sandman**. **Bone**.
+
+16: **The Sandman** is the best graphic novel I have ever read, fantasy or otherwise. It’s truly a classic and arguably the greatest thing Neil Gaiman has written to date.
+
+12: *Rat Queens*
+
+A group of female companions go on a bunch of D&D style adventures. Each character is a different take on fantasy species and archetypes. Hilariously awesome.
+
+9: Does Berserk count?
+
+> 5: fuck yeah it does ;)
+
+9: *Monstress*	
+
+9: The Wicked + The Divine by Kieron Gillen and Jamie McKelvie is fantastic! It's a story about a pantheon of God's who are resurrected as pop stars but will die in two years. Lots of great music references and allusions. Phonogram is another series by the same team with a similar focus on music. This one has a mage who uses BritPop as a magic system.
+
+I also just posted a review for a book named Extremity by Daniel Warren Johnson. It's a science fiction/fantasy/post apocalyptic story with lots of blood and violence but also feeeellings.
+
+And if you're into *Conan* I suggest checking out Prophet by Brandon Graham and his cadre of artists. It's like a weird far future scifi story heavily inspired by Howard.
+
+8: 
+
+0. Hellblazer - Personal favourite. Urban dark fantasy.
+1. **Sandman** - Neil Gaiman's magnum opus. Probably the best fantasy GN out there.
+2. Arawn - Some edgy dark fantasy about a chosen one villain.
+3. Black Moon Chronicles - The final volume got translated last week. Has some of the best artwork ever.
+4. *Conan* (Dark Horse stuff, especially works of Kurt Busiek) - Great art, great writing.
+5. Crossgen comics - okay it's a whole publisher and they have a tonne of great series. Sigil is the most important one. Try that if you wanna check out for yourself. Seriously, most of Crossgen comics are nothing short of a 3/5.
+6. Discworld, Riftwar, Wheel of Time and some other famous fantasy series have a few comics. (Fafhrd and the Grey Mouser by Mignola and Elric comics by Roy Thomas are especially great)
+7. Siegfried by Alex Alice - Retelling of Der Ring des Nibelungen. Changes a lot of things but only for the good. Such a shame the [animated movie](https://www.youtube.com/watch?v=yDoJMwjs0I8) got cancelled.
+8. DC comics' He-Man - Good enough art (reminiscent of the 2002 show) with some innovative storylines.
+9. Grant Morrison's 18Days - adaptation of Mahabharata.
+10. Ravine - Stjepan Sejic fucking unchained.
+11. Requiem Vampire Knight - supreme edge with good characters. Fun to read.
+12. Umbral - never read but heard a lot about it.
+13. Sigilverse - Crossgen had this line of like 15 series set in the same universe (but on different planets) where every hero (NOT superheroes, only fantasy or sci-fi heroes) had a mark granted to them. It was called the Sigil. Do read it if you like Sanderson's Cosmere. Must read ones are Sigil, Scion, Mystic, Sojourn, Crossgenesis, The First, El Cazador.
+
+7: Some of my favorites:
+
+Girl Genius- A gaslamp fantasy (magic/mad-science/steampunk) webcomic that is chock full of mad science, melodrama, and (most importantly) humor. I've been following this webcomic for more than a decade.
+
+Gunnerkrigg Court- A science fantasy webcomic that takes the "magical school" trope to some rather weird and unsettling places. I've been following this webcomic for about 7 years.
+
+Chew- A comedy horror comic that combines the "magic detective" trope with cannibalism and gratuitous gore. Hilarious and cringe-inducing disgusting. I nearly vomited while reading it. *This is a compliment.* Takes a hard-line stance against chickens1 . 60 issues.
+
+^1 Explanation on the first few pages of the first issue.
+
+4: Thorgal by Jean van Hamme and Grzegorz Rosinski
+
+A very pulpy fantasy series with a sprinkling of sci fi and psychedelic elements. The main character Thorgal Aegirsson is a great warrior who only wants to live in peace with his family but his gets tangled up in one adventure after the other. The series can be a bit bleak at times but it is also very inventive and wonderfully weird. I've heard it compared to *Conan* but I've never read any of those books or comic books so I can't say for sure if they are similar.
+
+Rice Boy by Evan Dahm
+
+A webcomic that can be read here: [First page](http://www.rice-boy.com/see/index.php?c=001)
+
+It follows Rice Boy who is a strange little creature that might be the chosen one to fulfill a prophecy. The drawings for some reason reminds me of the Moomin Trolls but the scope of the story is more like The Lord of the Rings. There is also a Gandalf-like character that sets the events in motion. For some reason this character is a robot with a TV for a head. The TV shows pictures from old movies to convey his mood and feelings. This character might have inspired the similar designed character in Saga.
+
+I can't recommend this story enough. It's strange, funny, weird and very moving at times.
+
+Valhalla by Peter Madsen and Henning Kure
+
+A humoristic and quite faithfull retelling of Norse Mythology. It started in the seventies (which is pretty obvious from the humor) and ended about 10 years ago when they told their version of Ragnarok. If you like Norse mythology and don't mind a bit of silly humor I can definitely recommend this series.
+
+I also love **Sandman** by Neil Gaiman but I wanted to recommend some comics that aren't usually talked about on this forum. I agree that almost all post about novels and I have thought about doing some post about interesting fantasy comic books. I might make some more expansive posts about these three comic books some time in the future to get a bit more variety on this great forum.
+
+4: The Mignolaverse (Hellboy)
+
+4: *Hellboy* is probably the best fantasy American comics has produced (including, yes, **Sandman**), and I don't just the main comic, which is fantastic, but the entire universe built around it. Also note that there is spoilers in the links below, nothing big or revealing, mostly first issue stuff, but you've been warned.
+
+Some other stuff I'm reading/looking into:
+
+Birthright, by Joshua Williamson, Andrei Bressan, and Adriano Lucas. It's a kind of deconstructist portal fantasy in the vein of Narnia, except the kid comes back an adult, and, well a whole of stuff has happened into between those two points. At it's core it's very much a family drama. The art team also is [mind-blowing](https://static0.srcdn.com/wordpress/wp-content/uploads/2018/01/Birthright-Comic-Book-Vol.-1.jpg).
+
+Black Cloud, by Jason Latour, Ivan Brandon, Greg Hinkle, and Matt Wilson. It's a pretty strange story which it's backstory, and world-building isn't spelled for you, but largely implied by the characters. The magic is pretty interest as well--it's basically a world in which the strongest story has the strongest magic. It's, following that, about the power of story. And what will be a running theme here, the [art is great](https://imagecomics.com/uploads/releases/07_BlackCloud05.jpg).
+
+Black Magick, by Greg Rucka and Nicola Scott. Great witch/urban fantasy story will all the classic elements: secret societies, cabals of monsters, and a investigatory type right in the middle of it. It also has one of the best visual representations of magic in all of comics. It is mostly drawn in grey tones, except for magic which is coloured, and it's [great](https://www.herocollector.com/Content/ArticleImages/9ef100f3-66e0-4dfe-9d77-ab3b167a83c3.jpg)
+
+Curse Words, by Charles Soule, and Ryan Browne. Pretty funny/wacky story about a wizard from a different world coming to our world a setting up a kind of 'help you' shop. I'd say it's a comedy at it's heart but there is a lot more going on under the hood. Ryan Browne has a real talent for comedic timing and action.
+
+East of West, by Jonathan Hickman, Nick Dragotta, and Frank Martin. A dystopian, alt-history, weird western about the literal end days starring Death, one of the horsemen of the Apocalypse, and the archetypical cowboy out for vengeance. Despite all that, I'd say this story is very much a: epic fantasy with the scope of epic fantasy, and a character piece, filled in political intrigue. Hickman has a great ear for dialogue, and the East of West is his best work in the terms of that. The art is, likewise, great, and probably the best thing Dragotta has ever done. I'll also plug Hickman's out work here: The Black Monday Murders, a police procedural of sorts about economic clans who also black wizards, and The Dying and the Dead, a kind of pulp adventure. Both are great, and having amazing art, but both come out very infrequently.
+
+Eternal Empire, by Jonathan Luna, and Sarah Vaughn, is the first proper secondary world fantasy, and it's only ten-issue long, with a simply story, but I've really enjoyed it. It does a lot of it's emotional storytelling be told through the visuals, (which many people might not like, but I do), and the world is pretty unique, which is also done a lot through it's visuals.
+
+Head Lopper, by Andrew Maclean who does everything by the lettering on the book, is the best sword-and-sorcery comic on the shelves with some of the best, cleanest [art](https://pre00.deviantart.net/82c3/th/pre/i/2014/325/1/8/head_lopper_2_spread_by_andrew_ross_maclean-d875jtr.jpg) in the entire industry. If you like that style of story I highly recommend Head Lopper.
+
+Isola, by Brendan Fletcher, Karl Kerschl, and Msassyk is a pretty knew comic, only three issues out, but it's got a couple things going for it, it's art is [gorgeous](https://www.dailydot.com/wp-content/uploads/711/a1/c0907939f907c30f3498129710a94fe1.jpg), so far it's story is pretty intriguing, but one of it's main sources of inspiration in Studio Ghibli. If you local library doesn't get single issues like mine does (if you pester them enough), I'd wait for the trade, but so far so good.
+
+Stalker Prism, by Sloane Leong, a kind of biopunk/magical girl school mashup, the book is very strange, can be shockingly brutal, and as is a prerequisite, the [art](https://imagecomics.com/uploads/releases/_small/PrismStalker_03-1.png) is mind-blowing.
+
+Scales and Scoundrels, by Sebastian Girner, and Galaad. Follows the adventures of a dragon trapped in a humans body, and we've got one bigger introduction story, and a couple smaller ones, and we seem to be, like all great adventure comics, circling the Big One. The cartooning is great, the world is pretty classic fantasy, but is fun, and the main character is pretty great, proper mix of self-serving and selfless.
+
+Sleepless, by Sarah Vaughn, and Leila Del Duca. It's a fantasy of manners filled with great court intrigue, subtle fantasy world-building (no high-magic here), and some good romance. And, of course, the art is [gorgeous](http://www.nerdspan.com/wp-content/uploads/2018/01/samplepage-sleepless1-341x525.png).
+
+Sword of Ages, by Gabriel Rodriguez (co-creator of Locke & Key, another great fantasy horror comic). A kind of retelling of the Matter of Britain in a very John Carter of Mars setting, it's very good as a story, but the main attraction here is really the [art](https://www.previewsworld.com/news_images/199561_1135180_1018.jpg).
+
+And finally I want the new work by Simon Spurrier fantasy comic, Coda, he's doing with Matias Bergara. There is only two issues, but Spurrier been making very interesting fantasy comics for a long time (The Spire, Cry Havoc, Godshaper, Weavers), and is one my favourite fantasy writers going right now.
+
+And so much more I didn't touch upon. There's a lot of good fantasy right in just American comics, and probably even more in the European side, and probably even more in Japan. If you like visual interesting fantasy comics has a lot to offer.
+
+3: **Sandman**.
+
+3: Girl Genius is my second favourite. It's a steampunk world full of very mad scientistist, monsters and some beautiful art work.
+
+My all-time favourite has been mentioned a few times already..
+
+3: My favorite graphic novel, is **Watchmen**, if you haven't read that you really need to. Also check out his run on the **Swamp Thing**.
+
+George R.R. Martin has a short graphic novel that I really enjoyed called The Hedge Knight.
+
+Pierce Brown has a prequel comic to his series called, Sons of Ares, not sure if the trade is out yet, but I really enjoyed it.
+
+Sorry these might not be your thing: I've mentioned my love for Nimona recently...also I love the Lumberjanes to death...Just picked up *Mega Princess* by **Kelly Thompson**, Kelly's run on the Kate Bishop/Hawkeye book was one of my favorite comics. I was so psyched to see she's slated to write West Coast Avengers. Kelly, writing Kate and Clint? yes very much please...it feels as if the world has righted itself..at least Hawkeye-wise.
+
+3: *Monstress*
+
+Best grimdark Fantasy Comic since the original 13 Volumes of Berserk.
+
+3: 
+
+1. **Sandman** (easily the G.O.A.T.)
+2. *Hellboy*
+3. Hellblazer
+4. The Books of Magic (Gaimen's original graphic novel and the follow-up monthly series by John Ney Rieber)
+5. *Rat Queens*
+6. **Saga**
+7. *Fables*
+8. Unwritten
+9. *Conan* (especially Kurt Busiek's run at Darkhorse)
+
+3: Hey Aristo, my name is Justin Mayhew. I am currently creating my new graphic novel: Strong Mountain. SM is a Dwarven Fantasy epic set in the frozen northlands of Eremor.
+
+https://jtmayhew.deviantart.com/art/Dwarven-Mammoth-from-Strong-Mountain-751674491
+
+I am just barely finishing up my first chapter, and will be deploying within a few weeks. I am trying to find my beginning audience.
+
+I really dig the Elric comics you metioned (Stormbringer was badass). I also liked the Autumnlands stories, its quasi Fantasy-Scifi. Hope the suggestion helps.
+
+2: GrimJack by John Ostrander. It’s an awesome mix of Sword &Sorcery, Horror and Noir.
+
+2: Chalk up another recommendation for **Sandman** and *Monstress*.
+
+I've very picky about art styles and don't read many graphic novels because most of them just don't float my boat that way. But Monstress blew me away. **Sandman** I'm still working on, but it's great, too.
+
+2: Matt Wagner’s Mage. It’s an urban fantasy about a dude who turns out to be a reincarnation of King Arthur. The first third is about him learning this, starting to come to terms with his powers, and losing his mentor and most of his companions on his way to defeating an evil faery king. The second third has him rambling across America, bouncing off of reincarnations of other mythic heros, and dealing with that faery king again. The last third is in progress (the series started in the eighties, and there are gaps between each third) and sees the hero as a father, whose family becomes a target for what I assume is going to be the last hurrah of that faery king, since Wagner has been advertising the whole thing as a three-part story since the beginning.
+
+The first third is a pretty straight Hero’s Journey; the other two play with it in various ways. Also the hero is totally a Mary Sue for Wagner. But I enjoyed it a lot and am snagging each issue off the shelf, which is pretty rare for me.
+
+2: **Saga** by Brian K Vaughan is , in my humble opinion , the best comic ever written, and it's most definitely fantasy.
+
+*Fables* is extremely good, with some awesome plots and great characters.
+
+On manga i really like Rurouni Kenshin, although it may not be everyones cup of tea.
+
+1: Stand Still Stay Silent is an excellent webcomic.
+
+1: I have a list somewhere, which I have to find. It's *long*.
+
+In the meantime I heartily recommend The Wizard's Tale by Kurt Busiek and David Wenzel (some editions include an intro by Charles de Lint) about a wizard named Bafflerog Rumplewhisker, who does his darndest to be evil, but somehow always gets it wrong.
+
+https://www.goodreads.com/book/show/685529.The_Wizard_s_Tale
+
+1: In no particular order: *Fables* **sandman** **swamp thing** (Brian k Vaughan) revival shadowman Rachel rising Wayward Excalibur
+Journey into mystery
+
+1: Green Valley was more recent, it’s fantastic
+
+1: Ravine. Death Vigil. Anything by Steifan Sejic
+
+1: Death Vigil by Stjepan Sejic. Urban fantasy-ish in which the grim reaper recruits soldiers from among those who died a worthy death to help with her fight against ancient eldritch horrors who want to enter our dimension and consumer it and their human helpers. Gorgeous art with some amazing monster designs and great characters with a lot of humor and heart.
+
+*Monstress* by Marjorie Liu and Sana Takeda. Asian inspired grimdark epic/quest fantasy about a world at war and one traumatised young woman who holds the power to end it all, one way or another.
+
+---
+
+> Pathfinder Tales & Comics
+
+7: For Iconics stuff, the comics are good in general, but I'd specifically suggest the [Origins](http://paizo.com/store/byCompany/d/dynamiteEntertainment/pathfinderComics/origins) storyline. It's basically a prequel, so you could probably jump in with that if you wanted.
+
+Out of the tales books, [Death's Heretic](http://paizo.com/products/btpy8oda?Pathfinder-Tales-Deaths-Heretic) is actually one of my favorite fantasy novels. But they cover a lot of thematic ground. If you like gritty horror, [Bloodbound](http://paizo.com/products/btpy9e43?Pathfinder-Tales-Bloodbound) does a good job and if you like, well, pirates, then [Pirate's Promise](http://paizo.com/products/btpy9aon?Pathfinder-Tales-Pirates-Promise) is a good place to start.
+
+3: The comics do indeed follow the iconics (though, of course, not all of them, and not all from the beginning). You can get them in some pretty good hardcover collections as well.
+
+3: Just started getting into Pathfinder myself and so picked up a few of the comics and a novel to try and get into the setting. <u>The comics were pretty fun, the art was occasionally a little odd</u> and not quite to my taste but still a fun read. Only grabbed one novel, Winter Witch, and whilst it wasn’t great literature, for a “shared universe” fantasy novel it was a good read. Nicely written characters, a fun plot and some good scenes. Helped me get a handle on the Inner Sea too (least some areas of it). Probably will pick up some more now.
+
+2: The Pathfinder comics are pretty fun *and* they include write ups in the back for encounters (with maps) or random additions somewhat related to what happened in the comic. The Goblins subseries especially has weird writeups to add weird items or characters to the game.
+
+---
+
+> Good D&D Comics?
+
+16: I'm more a [Dungeons and Doggo's](https://www.reddit.com/r/DnD/comments/6n9fy9/art_dungeons_and_doggos_scary_man/) man myself. [Site](https://dndoggos.com/#!#1-the-ogre)
+
+11: *The Rat Queens* is a great comic, it's not official d&d but it has d&d in its bones. It uses d&d terminology throughout and is sorta meta with rpg stuff. It's very very fun.
+
+11: OOTS (Order of the Stick). Great story line, with 1K+ strips for you to enjoy even with its infrequent updates.
+
+10: Not really a D&D comic, but check out Steve Lichman, it's hilarious. Its about a dungeon community of monsters living their everyday dungeon lives, has the flavor and themes of D&D and is super accessible.
+
+https://rapozacomics.carbonmade.com/projects/5313679
+
+6: Critical Role is releasing a comic book of Vox Machina before they started livestreaming soon.
+
+4: Goblins: Life through their eyes. 3x homebrew, a bit meta. Often tries to be humorous to varying degrees of success. Uploads at a pace best described as "Glacial". 1 page/month is pushing it. Still, the drama is good your first time or two around, and you have a lot to read. The art style is shiny and round.
+
+You mentioned more classical comic style, so what about digging around to find the old Dragonlance comics?
+
+3: *Ratqueens*
+
+3: Seconding *Rat Queens*, also Pathfinders official comics and DNDs official comics.
+
+Slayers ,Lodoss, and Dungeon Meshi/Delicious in Dungeon if into Manga
+
+2: Nodwick used to be a staple of Dragon Magazine. It centers around an adventuring party and their hilariously terrible treatment of their henchman. It's not current but you can find the comics online.
+
+2: As far as official stuff goes, have you checked out [Fell's Five](https://static.comicvine.com/uploads/original/1/15659/1674789-zombieorphans.jpg)?
+
+1: Here's a collection of different comic series on Comixology. https://www.comixology.com/search/series?search=Dungeons+%26+Dragons&lang=1
+
+1: [DnDUI](http://www.dndui.com/webcomic/01Wits_web.php) has always been a favorite of mine
 
 ### Sci-fi
 
@@ -2140,7 +2576,7 @@ Jeffrey Brown - his early autobio stuff is still my favourite thing in comics.
 
 Kurt Busiek, Mark Waid, Alan Davis, Roger Stern, Roy Thomas. Because they have written some of the best runs of all time, because they love superheroes, because they don't wish to deconstruct or decompress or derange or de anything, and because their work is smart, and most importantly, fun.
 
-> Kurt Busiek: Astro City and Conan. Both great reads.
+> Kurt Busiek: Astro City and *Conan*. Both great reads.
 
 Mike Carey - There aren't many other writers out there who can better handle an epic fantasy comic. Mike Carey - Hellblazer, Lucifer, X-men.
 
@@ -2225,7 +2661,7 @@ Best Teenage Mutant Ninja Turtles: *the current IDW* is the best starting point,
 
 Best books by genre:
 
-- Fantasy:
+- Fantasy: **Sandman**, *Fables*, **Saga**, **Bone**, *Monstress*, *Rat Queens*, *Conan*, *The Autumnlands*, *Black Magick* by Greg Rucka, *Locke & Key*, East of West by Jonathan Hickman, Birthright, Seven to Eternity by Rick Remender, Girl Genius (Agatha Heterodyne and the Beetleburg Clank - #1), Head Lopper, Ravine, *Hellboy*, The Hedge Knight by George Martin, official Pathfinder comics (especially the Origins series), official DnD comics (especially Fell's Five), Order of the Stick, Critical Role: Vox Machina, (+ Berserk manga).
 - Sci-fi:
   - Cyberpunk: *Transmetropolitan*, *Hard Boiled*, *Judge Dredd*, *Tokyo Ghost*, *Blame!* (+THE LONG TOMORROW and manga: Ghost in the shell, Akira).
 
@@ -2292,11 +2728,18 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 57. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
 58. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
 59. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
-60. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
-61. https://www.cbr.com/the-best-cyberpunk-comics-ever/
-62. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
-63. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
-64. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
-65. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
-66. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-67. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+60. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
+61. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
+62. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
+63. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
+64. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
+65. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
+66. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
+67. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
+68. https://www.cbr.com/the-best-cyberpunk-comics-ever/
+69. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
+70. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
+71. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
+72. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
+73. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+74. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
