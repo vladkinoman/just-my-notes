@@ -1,5 +1,11 @@
 # Best video essayists and reviewers
 
+> **Bold** - means a name that people mention a lot.
+>
+> *Italic* - means a name that people mention a lot, but not as often as **Bold**.
+>
+> ~~Name~~ - people don't like this channel, so we shouldn't consider it as a source of reliable information.
+
 ## Table of Contents
 
 - [All spheres](#All-spheres)
@@ -19,7 +25,11 @@
 
 [MrBtongue](https://www.youtube.com/channel/UCI3GAJaOTL1BoipG41OmfyA): the guy who got me to start watching video essays in the first place. Not the greatest presentation but really interesting ideas.
 
-[kaptainkristian](https://www.youtube.com/channel/UCuPgdqQKpq4T4zeqmTelnFg): my favorite presentation/editing, speaks to me personally as a person who grew up with Toonami and Adult Swim in the late 90s and early 00s.
+[~~kaptainkristian~~](https://www.youtube.com/channel/UCuPgdqQKpq4T4zeqmTelnFg): my favorite presentation/editing, speaks to me personally as a person who grew up with Toonami and Adult Swim in the late 90s and early 00s.
+
+> ~~~~KaptainKristain~~~~ in particular is lot of production value to present hardly a single original thought. His videos are usually a collection of ideas that have been explored ad nauseam beforehand (e.g. his Jurassic Park video), and in one of the examples where he actually does attempt to make an argument (color theory and X-Men), it's just shit.
+> 
+> ~~~~
 
 [CaspianReport](https://www.youtube.com/user/CaspianReport/videos?disable_polymer=1): modern geopolitics and some recent history. He opened my eyes on many interesting topics in international politics such as the Iran-Saudi proxy war.
 
@@ -43,11 +53,11 @@
 
 8: [Polyphonic](https://www.youtube.com/channel/UCXkNod_JcH7PleOjwK_8rYQ)
 
-[kaptainkristian](https://www.youtube.com/channel/UCuPgdqQKpq4T4zeqmTelnFg)
+[~~kaptainkristian~~](https://www.youtube.com/channel/UCuPgdqQKpq4T4zeqmTelnFg)
 
 [The Royal Ocean Film Society](https://www.youtube.com/channel/UCWq-qJSudqKrzquTVep9Jwg)
 
-[Nerdwriter1](https://www.youtube.com/user/Nerdwriter1)
+[~~~~Nerdwriter~~1~~](https://www.youtube.com/user/~~Nerdwriter~~1)
 
 Not all Vox is good, but these are.
 
@@ -57,7 +67,7 @@ Not all Vox is good, but these are.
 
 7: All of the people already posted, but I also thoroughly enjoy [Like Stories of Old](https://www.youtube.com/watch?v=O4etinsAy34)
 
-4: Came here to second anything Vox does, second Nerdwriter, and to offer the channel [Trekspertise](https://youtu.be/Hziy8HcZAFE)
+4: Came here to second anything Vox does, second ~~Nerdwriter~~, and to offer the channel [Trekspertise](https://youtu.be/Hziy8HcZAFE)
 
 5: There are some fantastic suggestions already here, so I'd like to just add a few more that I like:
 
@@ -93,16 +103,16 @@ Additional words so this comment won't be deleted.
 
 ---
 
-> With **Every Frame A Painting** shutting down, I was wondering if anyone has any other youtube channels they go to for video analysis on films? I know Nerdwriter's also pretty good.
+> With **Every Frame A Painting** shutting down, I was wondering if anyone has any other youtube channels they go to for video analysis on films? I know ~~Nerdwriter~~'s also pretty good.
 
 20: I’m not a huge fan of Nerdwiter, but Channel Criswell (The Cinema Cartography) is pretty good.
 Also **Lessons From The Screenplay**.
 
-> 10: Nerdwriter is hit or miss. His non-film videos are better honestly. I think he suffers just from being a little vague and talking for awhile without really saying anything.
+> 10: ~~Nerdwriter~~ is hit or miss. His non-film videos are better honestly. I think he suffers just from being a little vague and talking for awhile without really saying anything.
 >
 > > 7: That being said his "How Hitchcock Blocks A Scene" video is one of his best and it really emphasizes how upon analysis, a small and seemingly insignificant scene can be so important and done with extreme precision.
 >
-> > 3: Nerdwriter is way too pretentious IMO. Especially that stupid video where he complains about Instagram and people enjoying themselves.
+> > 3: ~~Nerdwriter~~ is way too pretentious IMO. Especially that stupid video where he complains about Instagram and people enjoying themselves.
 >
 > > 2: +1 for Channel Criswell (The Cinema Cartography) and **Lessons from the Screenplay**
 > >
@@ -132,9 +142,9 @@ Also **Lessons From The Screenplay**.
 
 3: Now You See It is pretty good. If you're into horror, Dr. Udru is good too.
 
-3: Check out kaptainkristian. Video essays on all things pop-culture, from film to television to music, but he kills it on all fronts. Second only to **Every Frame a Painting**
+3: Check out ~~kaptainkristian~~. Video essays on all things pop-culture, from film to television to music, but he kills it on all fronts. Second only to **Every Frame a Painting**
 
-3: Some that are a little different than the **Every Frame a Painting** and Nerdwriter (who I can't stand) style that I don't see get enough love are Pop Culture Detective, Hbomberguy, and Folding Ideas. They all have film related videos but their channels aren't limited to that.
+3: Some that are a little different than the **Every Frame a Painting** and ~~Nerdwriter~~ (who I can't stand) style that I don't see get enough love are Pop Culture Detective, Hbomberguy, and Folding Ideas. They all have film related videos but their channels aren't limited to that.
 
 2: Royal Ocean Film Society is really good for tips for beginning filmmakers and the creator adds a lot of unique filmmaking techniques into his videos. I also like **Lessons From the Screenplay**
 
@@ -153,7 +163,7 @@ Video Essay Channels on YouTube
 |                    Video Essayist/Channel                    |                         Description                          |                         Best Example                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [**Every Frame a Painting**](https://www.youtube.com/user/everyframeapainting?&ab_channel=EveryFrameaPainting) | Every Frame a Painting is dedicated to the analysis of film form and is the most popular video essayist on the Internet. | [Akira Kurosawa - Composing Movement](https://www.youtube.com/watch?v=doaQC-S8de8) |
-|   [Nerdwriter1](https://www.youtube.com/user/Nerdwriter1)    | This channel isn't just movies, but his "Understanding Art" videos on movies are absolutely brilliant (no he isn't, Nerdwriter is a damn hack). If I need to sell you on this channel any further Tony from Every Frame a Painting has said that Nerdwriter has the best movie analysis videos on YouTube. (Note: Nerdwriter has dropped the "Understanding Art title on his newer movie analysis videos however). | [Harry Potter & The Prisoner of Azkaban: Why It's The Best](https://www.youtube.com/watch?v=3hZ_ZyzCO24) |
+| [~~Nerdwriter~~1](https://www.youtube.com/user/~~Nerdwriter~~1) | This channel isn't just movies, but his "Understanding Art" videos on movies are absolutely brilliant (no he isn't, ~~Nerdwriter~~ is a damn hack). If I need to sell you on this channel any further Tony from Every Frame a Painting has said that ~~Nerdwriter~~ has the best movie analysis videos on YouTube. (Note: ~~Nerdwriter~~ has dropped the "Understanding Art title on his newer movie analysis videos however). | [Harry Potter & The Prisoner of Azkaban: Why It's The Best](https://www.youtube.com/watch?v=3hZ_ZyzCO24) |
 | [*Channel Criswell*](https://www.youtube.com/channel/UCL5kBJmBUVFLYBDiSiK1VDw/featured?&ab_channel=ChannelCriswell) | *Channel Criswell (The Cinema Cartography)* is dedicated to creating video essays that cover the art of cinema ranging from the use of cinematic tools in films to the themes of certain filmmakers. | [Colour In Storytelling](https://www.youtube.com/watch?v=aXgFcNUWqX0) |
 | [Wisecrack](https://www.youtube.com/user/thugnotes/videos?&ab_channel=Wisecrack) | Their most popular video series called "Earthling Cinema" or "The Hidden Meaning" (which is presented by an "alien", explores the symbolic/thematic nature of films and sometimes TV shows. Another show of their's also breaks down the philosophy of pieces of media into a easily consumed video. | [The Brilliant Deception of Inception](https://www.youtube.com/watch?v=p162TQ6NTc0) |
 | [Brows Held High](https://www.youtube.com/user/oancitizen?&ab_channel=KyleKallgrenBHH) | BHH has great in-depth and amazingly well researched videos that breakdown the choices made by a filmmaker in a film. | [Throne of Blood: Noh Shakespeare, No Problems!](https://www.youtube.com/watch?v=Na_PrOYqKNY&ab_channel=KyleKallgrenBHH) |
@@ -177,7 +187,7 @@ Video Essay Channels on YouTube
 | [Rob Ager](https://www.youtube.com/user/robag555?&ab_channel=RobAger) |          Film and media analysis and fiction films           | [11 interesting details in THE MATRIX](https://www.youtube.com/watch?v=8xcr96JG4fc) |
 | [StrucciMovies](https://www.youtube.com/channel/UCh9DnjvObUcvvwrYbJ4-cLQ/videos?&ab_channel=StrucciMovies) | Her main series "So You Want to be a Film Nerd?" focuses more on general film appreciation rather than analysis of formal filmic techniques. | [SO YOU WANNA BE A FILM NERD EPISODE 1: an introduction](https://www.youtube.com/watch?v=3NsVB7zvPd8) |
 | [First Ten Minutes](https://www.youtube.com/channel/UC6BY-3WpOsJ6-mm6UXjKKiw) | Super basic, but really good if your new to learning about film. Basically they analyse the first 10 minutes of a movie and do a play by play of what the director is trying to achieve. | [First Ten Minutes: Se7en (1995) - David Fincher](https://www.youtube.com/watch?v=X17ZP2cv-44) |
-| [Glowing Screens](https://www.youtube.com/channel/UC5AqpaFylGRgqMJZPskpr-w/videos) | Another newbie on the scene, he's very much in the style of Nerdwriter but he's finding his voice fast. | [Ma: Miyazaki's Calm](https://www.youtube.com/watch?v=Nq7LPOopXho) |
+| [Glowing Screens](https://www.youtube.com/channel/UC5AqpaFylGRgqMJZPskpr-w/videos) | Another newbie on the scene, he's very much in the style of ~~Nerdwriter~~ but he's finding his voice fast. | [Ma: Miyazaki's Calm](https://www.youtube.com/watch?v=Nq7LPOopXho) |
 | [now you see it](https://www.youtube.com/channel/UCWTFGPpNQ0Ms6afXhaWDiRw) | A Every Frame a Painting clone that's boarder themed with simple short videos. | [The Problem with Trailers](https://www.youtube.com/watch?v=lzJgrmYQAao) |
 | [Lost in The Movies](https://www.youtube.com/user/MovieMan0283/featured?&ab_channel=LostInTheMovies) | A video essayist channel most known for their series on David Lynch | [Journey Through Twin Peaks - Ep 1: The Show About Everything](https://www.youtube.com/watch?v=9l0n_ZtxbH8) |
 | [City Absurdia](https://www.youtube.com/channel/UCfMKkvxD2P65x1Wk5aVJwlg) |                             N/A                              | [Arnold Schwarzenegger: The Greatest Film Actor of All Time?](https://www.youtube.com/watch?v=XBNwXKlXc30&ab_channel=CityAbsurdia) |
@@ -207,7 +217,7 @@ Video Essay Channels on Vimeo
 |      [Kevin B. Lee](https://vimeo.com/kevinblee/videos)      | This guy is the ‘original’ video essayist. He’s been in the game for +5 years and has produced some fantastic videos over the years. However, his style is less flashy than others and can be dry at times. | [Who Deserves the 2015 Oscar for Best Director?](https://vimeo.com/118550917) |
 |      [Fandor Keyframe](https://vimeo.com/fandor/videos)      | A channel devoted to helping fellow film enthusiasts discover amazing, hard-to-find films from all over the world. Note: This is Fandor’s Vimeo channel; it’s the same as their YouTube expect that it has a larger backlog and is mostly immune to Copyright Strikes. | [A side-by-side comparison of the THE GIRL WITH THE DRAGON TATTOO (2009 and 2011)](https://vimeo.com/156260650) |
 |        [Kogonada](https://vimeo.com/kogonada/videos)         | This channel has a variety of videos from visual video essays to traditional spoken video essays. Kogonada currently works for the Criterion Collection to create video essays. |      [What is Neorealism?](https://vimeo.com/68514760)       |
-| [The Director Series](https://vimeo.com/raccordcollective/videos) | A great video essay series that explores the work and careers of great directors (Season 1 - Kubrick, Season 2 - Fincher, and Season 3 - Paul Thomas Anderson). Personally, it's one of my favourite video series on the internet. | [The Directors Series- Stanley Kubrick [1.1\]](https://vimeo.com/111020652) |
+|     [The Director Series](https://vimeo.com/cameronbeyl)     | A great video essay series that explores the work and careers of great directors (Season 1 - Kubrick, Season 2 - Fincher, and Season 3 - Paul Thomas Anderson). Personally, it's one of my favourite video series on the internet. | [The Directors Series- Stanley Kubrick [1.1\]](https://vimeo.com/111020652) |
 |   [MUST SEE FILMS](https://vimeo.com/user15233185/videos)    | MUST SEE FILMS does analysis/breakdown videos on films, although the editing and appearence of the videos are somewhat low quality the content is great. | [‘Reaction Shot’ - The Economy of Storytelling](https://vimeo.com/135785606) |
 |      [Max Tohline](https://vimeo.com/maxtohline/videos)      | Max’s video essays solely focus on the use of editing in films. | [The Art of Editing in The Good, the Bad, and the Ugly](https://vimeo.com/86125935) |
 | [Scout Tafoya](https://vimeo.com/honorszombiefilms/videos/)  | Tafoya's main essay series titled "The Unloved" focuses on bringing 'love' back to films that were critically panned or forgotten over time (this series in created for the RogerEbert.com, more of his videos can be found on their vimeo channel). | [The Unloved - Public Enemies](https://vimeo.com/115105710)  |
@@ -232,7 +242,7 @@ Movie-related channels that are also worth checking out
 - [Ryan Hollinger](https://www.youtube.com/user/himynamesryan/videos?&ab_channel=RyanHollinger) - A video essay channel that covers various topics and ideas across media (film included).
 - [DP/30: The Oral History Of Hollywood](https://www.youtube.com/user/TheHotButton?&ab_channel=DP/30:TheOralHistoryOfHollywood) - A YouTube channel that interviews various famous directors, actors, editors, writers and producers.
 - [Directors Guild of America](https://www.youtube.com/channel/UCtN09-o2yfJyo0QcaHzVvNg/videos?&ab_channel=DirectorsGuildofAmerica&ab_channel=DirectorsGuildofAmerica) - The official YouTube channel for the DGA which contains interviews between big directors like Scorsese, Nolan, Spielberg, etc.
-- [kaptainkristian](https://www.youtube.com/channel/UCuPgdqQKpq4T4zeqmTelnFg?&ab_channel=kaptainkristian) - Makes video essays exploring pop culture figures in the field of animation and/or comics.
+- [~~kaptainkristian~~](https://www.youtube.com/channel/UCuPgdqQKpq4T4zeqmTelnFg?&ab_channel=kaptainkristian) - Makes video essays exploring pop culture figures in the field of animation and/or comics.
 
 Video essays on platforms other than Vimeo and YouTube
 
@@ -263,7 +273,7 @@ Unfortunately, imo, his videos which get the most attention are those which are 
 My other favourite channels w/ examples:
 
 - [DouchebagChocolat](https://www.youtube.com/channel/UCcAvljdM2NMdMYq_pvT9pBw) | [Should you watch: Alien Nine? Should you watch: Alien Nine?](https://www.youtube.com/watch?v=mbI_XGQ1ejU) [7:21]
-- [kaptainkristian](https://www.youtube.com/channel/UCuPgdqQKpq4T4zeqmTelnFg) | [Superman - The Golden Age of Animation](https://www.youtube.com/watch?v=dDMQ3tXNKgM) [7:46]
+- [~~kaptainkristian~~](https://www.youtube.com/channel/UCuPgdqQKpq4T4zeqmTelnFg) | [Superman - The Golden Age of Animation](https://www.youtube.com/watch?v=dDMQ3tXNKgM) [7:46]
 - [Ninouh](https://www.youtube.com/channel/UCX7hu_boq1Dl5vlujfp54bw) | [Anime Editorial: Legendary Animation Techniques](https://www.youtube.com/watch?v=86joWzmE_r4) [6:33]
 - [Pause and Select](https://www.youtube.com/channel/UCfpDNSkMPnmMwZHhUyplbZg) | [Death in Shouwa Genroku Rakugo Shinjuu](https://www.youtube.com/watch?v=qjNHi8ECsQY) [11:25]
 - [The Canipa Effect](https://www.youtube.com/channel/UCz4ZjuO7HrynjRrRlur1yWg) | [Who on Earth is A-1 Pictures? | Anime Studio Spotlight](https://www.youtube.com/watch?v=ZxOLsijykuo) [7:28]
@@ -311,7 +321,7 @@ I'd add [Catherine Grant](https://vimeo.com/filmstudiesff): Writer, researcher, 
 
 3: MovieBob
 
-2: Georg Rockall-Schmidt, Kaptain Kristian, MauLer, Rossatron off the top of my head.
+2: Georg Rockall-Schmidt, ~~Kaptain Kristian~~, MauLer, Rossatron off the top of my head.
 
 > 4: Yesss. Georg is the one!
 
@@ -356,11 +366,11 @@ Let me know if I've missed any.
 - [**Every Frame a Painting**](https://www.youtube.com/user/everyframeapainting)
 - [Gaming Historian](https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg)
 - [Just Write](https://www.youtube.com/channel/UCx0L2ZdYfiq-tsAXb8IXpQg)
-- [kaptainkristian](https://www.youtube.com/channel/UCuPgdqQKpq4T4zeqmTelnFg)
+- [~~kaptainkristian~~](https://www.youtube.com/channel/UCuPgdqQKpq4T4zeqmTelnFg)
 - [KyleKallgrenBHH](https://www.youtube.com/channel/UC0KaZd_ki4l2EUc1GY9u5Ew)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)
 - [Mr Nerdista](https://www.youtube.com/user/MrNerdista)
-- [Nerdwriter1](https://www.youtube.com/user/Nerdwriter1)
+- [~~Nerdwriter~~1](https://www.youtube.com/user/~~Nerdwriter~~1)
 - [Now You See it](https://www.youtube.com/channel/UCWTFGPpNQ0Ms6afXhaWDiRw)
 - [One Hundred Years of Cinema](https://www.youtube.com/channel/UCbM9iT_PqBCUOQdaREDAP3g)
 - [Philosophy Tube](https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ)
@@ -424,7 +434,7 @@ Comments from r/movies:
 
 4: not super informative but comicbookgirl19 is fun to watch
 
-5: Fandor has some good video essays on its channel and Lessons from the Screenplay is a great one not in the list as well.
+5: Fandor has some good video essays on its channel and **Lessons from the Screenplay** is a great one not in the list as well.
 
 3: A smaller one that has been popping up in my recommendations recently is Magnus Prophecy.
 
@@ -474,17 +484,17 @@ Comments from r/videoessay:
 >
 > Some of my faves:
 >
-> [Nerdwriter](https://www.youtube.com/user/Nerdwriter1) [*Channel Criswell*](https://www.youtube.com/channel/UCL5kBJmBUVFLYDiSiK1VDw) [Now You See It](https://www.youtube.com/channel/UCWTFGPpNQ0Ms6afXhaWDiRw) [**Every Frame A Painting**](https://www.youtube.com/channel/UCjFqcJQXGZ6T6sxyFB-5i6A) [Kermode and Mayo](https://www.youtube.com/channel/UCCxKPNMqjnqbxVEt1tyDUsA) (for the reviews - Hello to Jason Isaacs) [The Royal Ocean Film Society](https://www.youtube.com/channel/UCWq-qJSudqKrzquTVep9Jwg) [Cameron Carpenter](https://www.youtube.com/channel/UCnYV4uuX5--1KFGJFfAFETQ) (mostly for humour)
+> [~~Nerdwriter~~](https://www.youtube.com/user/~~Nerdwriter~~1) [*Channel Criswell*](https://www.youtube.com/channel/UCL5kBJmBUVFLYDiSiK1VDw) [Now You See It](https://www.youtube.com/channel/UCWTFGPpNQ0Ms6afXhaWDiRw) [**Every Frame A Painting**](https://www.youtube.com/channel/UCjFqcJQXGZ6T6sxyFB-5i6A) [Kermode and Mayo](https://www.youtube.com/channel/UCCxKPNMqjnqbxVEt1tyDUsA) (for the reviews - Hello to Jason Isaacs) [The Royal Ocean Film Society](https://www.youtube.com/channel/UCWq-qJSudqKrzquTVep9Jwg) [Cameron Carpenter](https://www.youtube.com/channel/UCnYV4uuX5--1KFGJFfAFETQ) (mostly for humour)
 >
 > In particular, shout out to *Channel Criswell*. I just love the way the films almost speak for themselves in his videos - they are almost well crafted films in themselves, drawing your attention to specific moods and details. Many recommendations for his video on Kubrick (which, I believe, he got into trouble for because of copyright or some such according to my friend who is also a fan).
 
 37: I'm actually not a very big fan of film video essays. You have to be very careful and cross-check information presented in those essays. Lots of times, essayists seem to be pulling stuff straight out of their butts, using fancy rhetoric and language (and careful editing) to cover the fact that they have no idea what they're talking about.
 
-> 15: I'll have to agree with gospeljohn. I have found most film video essayists to ride the hype around these essays created by kogonada and **every frame a painting**. Only those two have created interesting essays. People like Nerdwriter however....
+> 15: I'll have to agree with gospeljohn. I have found most film video essayists to ride the hype around these essays created by kogonada and **every frame a painting**. Only those two have created interesting essays. People like ~~Nerdwriter~~ however....
 >
-> > 16: Nerdwriter is a damn hack and i'm endlessly getting sent his sloppy videos by relatives..
+> > 16: ~~Nerdwriter~~ is a damn hack and i'm endlessly getting sent his sloppy videos by relatives..
 > >
-> > > 9: he's so fucking bad. honestly, youtube is a fucking mess. so many content creators get popular because audiences cant think for themselves. I'm watching nerdwriter and I think "that's not how this works. that's not any of this works" lul
+> > > 9: he's so fucking bad. honestly, youtube is a fucking mess. so many content creators get popular because audiences cant think for themselves. I'm watching ~~Nerdwriter~~ and I think "that's not how this works. that's not any of this works" lul
 
 > 3: This is actually something I worry about being not a film student at all but just a casual cinephile. Some opinions too may not be very representative. I heard some awesome things about "mother!", for example, and really enjoyed it but all my friends hated it (including those who studied film.) It's probably best to watch them with a pinch of salt, do you think?
 >
@@ -494,7 +504,7 @@ Comments from r/videoessay:
 > >
 > > Where most film essayists and theorist break down is in an over eager application of auteur theory - they basically take the same tools used to analyse a book by a single author and try to apply it to a movie which has hundreds of authors (just look at the credits). A director is no longer a coordinator, guide and champion of a vision, he is now the soul dictatorial voice making everyone else bend to his will.
 > >
-> > I got into it in a Nerdwriter comment section on his video of how Hitchcock blocks a scene from Vertigo. Nerdwriter started attributing every thing to Hitch - every movement, every reaction... as if Hitchcock was a puppet master that brilliantly pre-thought every move.
+> > I got into it in a ~~Nerdwriter~~ comment section on his video of how Hitchcock blocks a scene from Vertigo. ~~Nerdwriter~~ started attributing every thing to Hitch - every movement, every reaction... as if Hitchcock was a puppet master that brilliantly pre-thought every move.
 > >
 > > Of course, as someone that loved to shroud himself in maestro status, Hitchcock would have loved people to think of him that way. But the truth is he didn't storyboard every movie completely - for instance the crop duster sequence from North by Northwest was only storyboarded AFTER it had been shot (for a publicity poster). Hitchcock had years and years of practice staging a talking scene, by the time he got to Vertigo, he probably didn't even bother with storyboards. And I'm sure the actors and camera crew that worked so closely with Hitchcock probably had some input or at least knew what Hitch expected from them.
 > >
@@ -510,9 +520,9 @@ Comments from r/videoessay:
 > >
 > > > 1: This is really interesting! So for an amateur like me (I'm not necessarily a film-maker, I just try to appreciate films that I watch on some "deeper level" - whatever this means), would you recommend any resources? Either books, podcasts or other types of YouTube channels?
 > > >
-> > > > 3: Well researched books are always a good start - Bill Krohn's book on Hitchcock at Work is a much better picture of who Hitchcock was than most any essayist will give you.
+> > > > **3: Well researched books are always a good start - Bill Krohn's book on Hitchcock at Work is a much better picture of who Hitchcock was than most any essayist will give you.**
 > > > >
-> > > > For "responsible film criticism" - someone like David Bordwell is Excellent. Just this last post on books is a great resource for getting deeper into film:
+> > > > **For "responsible film criticism" - someone like David Bordwell is Excellent. Just this last post on books is a great resource for getting deeper into film:**
 > > > >
 > > > > http://www.davidbordwell.net/blog/2017/07/22/books-not-so-briefly-noted/
 > > >
@@ -538,7 +548,7 @@ I cannot recommend her enough.
 
 [Brows Held High](https://www.youtube.com/user/oancitizen/videos). Kyle Kallgren got his start on the same network as Lindsay Ellis and are actually pretty close colleagues. His series "Brows Held High" features him taking a close, formal, and often times very humorous look at arthouse films. My favorite most recent videos of his are "The Love Witch's Subtle Cinematic Subversion" and "Why Buckaroo Banzai is Today's Most Important Superhero."
 
-> 2: It's frustrating to me too, since many of the other essays are simply the man's opinions. That can be interesting, but rarely to they ever say anything insightful or new to anybody who thinks critically about cinema. (see: the nerdwriters music in lord of the rings, which boils down to "movies use music to make us feel." Literally. You learn nothing. Its a shaggy dog story).
+> 2: It's frustrating to me too, since many of the other essays are simply the man's opinions. That can be interesting, but rarely to they ever say anything insightful or new to anybody who thinks critically about cinema. (see: the ~~Nerdwriter~~s music in lord of the rings, which boils down to "movies use music to make us feel." Literally. You learn nothing. Its a shaggy dog story).
 >
 > **Lindsey Ellis** actually instructs and teaches to the point where you have learned about the history of film. She makes terrific content.
 
@@ -598,7 +608,7 @@ The first video of his i watched was the Black Swan and Whiplash comparison vide
 
 His videos can be a bit much, if it's your first film channel though
 
-2: Go watch Kaptain Kristian, his editing is par to none and he really makes you feel what he feels for all of the shows movies and comics that he loves. Sadly he hasn’t posted anything in months, a common problem with video essayists, but each upload is incredible!
+2: Go watch ~~Kaptain Kristian~~, his editing is par to none and he really makes you feel what he feels for all of the shows movies and comics that he loves. Sadly he hasn’t posted anything in months, a common problem with video essayists, but each upload is incredible!
 
 2: I’ll recommend a bit of a smaller channel, Like Stories of Old. His video on Arrival was absolutely incredible, I would suggest anyone who liked the film to check it out.
 
@@ -606,7 +616,7 @@ His videos can be a bit much, if it's your first film channel though
 
 2: Not “video essays” in particular but I very much enjoy RedLetterMedia and all the thought and time and care they put into their thoughts on movies.
 
-1: Depends. I like some of the ones you mentioned a lot too. They're mostly about film techniques though and not so much about subtext (Nerdwriter *is*, and is decent about it, but rarely that in-depth and has a horrible habit of leaving out sources). I like Kyle Kallgreen as well and **Lindsay Ellis**. They're by no means perfect, but have some interesting views on film and often bring up some points I've never given much thought myself.
+1: Depends. I like some of the ones you mentioned a lot too. They're mostly about film techniques though and not so much about subtext (~~Nerdwriter~~ *is*, and is decent about it, but rarely that in-depth and has a horrible habit of leaving out sources). I like Kyle Kallgreen as well and **Lindsay Ellis**. They're by no means perfect, but have some interesting views on film and often bring up some points I've never given much thought myself.
 
 Also a huge fan of Cinefix's lists. They're short, entertaining, and not your typical lists and take a lot of different perspectives into account while making them.
 
@@ -616,15 +626,15 @@ Also a huge fan of Cinefix's lists. They're short, entertaining, and not your ty
 
 12: *Channel Criswell* is the best video essayist on YouTube in my opinion, you should definitely check him out.
 
-11: I sort of hate video essays. There are some gems out there, but most of them are filled with pretty superficial observations and pale in comparison to a good, written essay. Others function more as a mini-documentary than an essay. Meaning, they present information, but are not argumentative. <u>KaptainKristain</u> in particular is lot of production value to present hardly a single original thought. His videos are usually a collection of ideas that have been explored ad nauseam beforehand (e.g. his Jurassic Park video), and in one of the examples where he actually does attempt to make an argument (color theory and X-Men), it's just shit.
+11: I sort of hate video essays. There are some gems out there, but most of them are filled with pretty superficial observations and pale in comparison to a good, written essay. Others function more as a mini-documentary than an essay. Meaning, they present information, but are not argumentative. ~~KaptainKristain~~ in particular is lot of production value to present hardly a single original thought. His videos are usually a collection of ideas that have been explored ad nauseam beforehand (e.g. his Jurassic Park video), and in one of the examples where he actually does attempt to make an argument (color theory and X-Men), it's just shit.
 
 It's a shame, because the visual aspect should allow for greater specificity when discussing a film.
 
-That all being said, I really enjoy some of Sidway's videos, such as [The Superhero Theme](https://www.youtube.com/watch?v=m-2qHoEcQx0) and The Unintentional Fallacy's [Watchmaker - How Dr Manhattan Sees Through Time](https://www.youtube.com/watch?v=dm_D5TUpCVw). And while this doesn't count, Slavoj Žižek's documentaries are awesome for so many reasons.
+That all being said, I really enjoy some of <u>Sidway's</u> videos, such as [The Superhero Theme](https://www.youtube.com/watch?v=m-2qHoEcQx0) and <u>The Unintentional Fallacy's</u> [Watchmaker - How Dr Manhattan Sees Through Time](https://www.youtube.com/watch?v=dm_D5TUpCVw). And while this doesn't count, Slavoj Žižek's documentaries are awesome for so many reasons.
 
 Edit: Spelling
 
-8: KaptainKristain will remain one of my favorites. His videos always flow incredibly well and are super interesting. He mostly does essays on animated shows or films but his video on the world building in Spike Jonze's Her is such a classic.
+8: ~~KaptainKristain~~ will remain one of my favorites. His videos always flow incredibly well and are super interesting. He mostly does essays on animated shows or films but his video on the world building in Spike Jonze's Her is such a classic.
 
 9: Renegade Cut, hands down
 
@@ -632,7 +642,7 @@ He knows technical stuff but his focus is philosophy, theming, writing, etc
 
 4: Like Stories of Old is probably my favorite. Especially love his videos on the Before Trilogy, Okja, Moonlight and Malick's films.
 
-5: Alltimemovies, Art Regard, *Channel Criswell*, Cinema Tyler, Entertain the Elk, Essential Films, Eyes on Cinema, Fandor, *Filmmaker IQ*, Kaptainkristian, Now You See It, Raging Cinema, RocketJump Film School, ScreenPrism, Storytellers, and The Royal Ocean Film Society are all great channels you should check out. Some aren't strictly video essays, such as *Filmmaker IQ* being more like crash courses on film theory, production, and history.
+5: Alltimemovies, Art Regard, *Channel Criswell*, Cinema Tyler, Entertain the Elk, Essential Films, Eyes on Cinema, Fandor, *Filmmaker IQ*, ~~Kaptainkristian~~, Now You See It, Raging Cinema, RocketJump Film School, ScreenPrism, Storytellers, and The Royal Ocean Film Society are all great channels you should check out. Some aren't strictly video essays, such as *Filmmaker IQ* being more like crash courses on film theory, production, and history.
 
 3: Innuendo Studios, Movies with Mikey, The Royal Ocean Film Society, **Lindsay Ellis**
 
@@ -640,13 +650,13 @@ He knows technical stuff but his focus is philosophy, theming, writing, etc
 
 3: I like a lot of [Kyle Kallgreen](https://www.youtube.com/user/oancitizen)'s stuff.
 
-2: There is a newly building channel called [Take Me to Your Cinema](https://www.youtube.com/channel/UCeaHmTFPsutUSz1aOM2fd7A) . I think after Every Frame a Painting, he does the best film analysis videos. Too many people focus on philosophical,show off their video editing skills and just pick popular uninteresting stuff for views.
+2: There is a newly building channel called [Take Me to Your Cinema](https://www.youtube.com/channel/UCeaHmTFPsutUSz1aOM2fd7A). I think after **Every Frame a Painting**, he does the best film analysis videos. Too many people focus on philosophical,show off their video editing skills and just pick popular uninteresting stuff for views.
 
 2: Channel Criswell. His video essay on Come and See is brilliantly crafted:
 
 https://youtu.be/BQEv3PzuO2c
 
-3: Are you only looking for film analysis specifically? EFAP was one of the best unfortunately, RIP. Most of the people I watch are multimedia (a la nerdwriter) that occasionally talk about film. I’ll separate them accordingly:
+3: Are you only looking for film analysis specifically? EFAP was one of the best unfortunately, RIP. Most of the people I watch are multimedia (a la ~~Nerdwriter~~) that occasionally talk about film. I’ll separate them accordingly:
 
 Film essayists:
 
@@ -660,7 +670,7 @@ Super Eyepatch Wolf
 
 hbomberguy (favorites are videos on bloodborne, fallout, and halcyon dreams)
 
-Kaptainkristian (check this guy out if you like nerdwriter, extremely talented writer and editor)
+~~Kaptainkristian~~ (check this guy out if you like ~~Nerdwriter~~, extremely talented writer and editor)
 
 Video games:
 
@@ -688,17 +698,19 @@ Btw these are all youtube channels.
 
 > Best YouTube channels for learning/studying film
 
-4: Filmriot, DSLRGuide, and RocketJumpFilmSchool are a few that come to mind
+4: *Film Riot*, DSLRGuide, and RocketJumpFilmSchool are a few that come to mind
 
 3: there's no one channel that will cover everything, but I have a couple of faves (from the perspective of a student) [I love **Every frame a painting**](https://vimeo.com/tonyzhou) because there is always a little technique I can use in my next project, whether that be an editing style or a narrative technique, there's always something for me to try out.
 
-For more practical stuff I love [Filmriot](https://www.youtube.com/user/filmriot) because it's consistently showing me affordable practical effects and techniques that I can change to fit my production.
+For more practical stuff I love [*Film Riot*](https://www.youtube.com/user/filmriot) because it's consistently showing me affordable practical effects and techniques that I can change to fit my production.
 
 1: [r/videoessay](https://www.reddit.com/r/videoessay/)
 
 2: go and watch Films! All you want to learn is in there. go and watch just one scene. How does the scene starts, end. look at the lighning, acting, cuts. its all there.
 
 2: *Channel Criswell* is a good channel about the art of cinema and **Lessons From The Screenplay** is excellent analysis of how certain scripts became great movies.
+
+
 
 ---
 
@@ -714,11 +726,11 @@ The Closer Look
 
 > 5: Don't forget the royal ocean film society! He actually MAKES the best content in my opinion. I like the writing from **every frame a painting** more, but god the cuts and rhythm of royals really sucks me into what he's saying.
 
-33: Film Riot
+33: *Film Riot*
 
-Peter McKinnon
+~~Peter McKinnon~~
 
-> I can't take anyone that says Peter McKinnon or Matti 
+> I can't take anyone that says ~~Peter McKinnon~~ or ~~Matti~~ 
 
 Cinematography Database
 
@@ -728,11 +740,11 @@ StudioBinder
 
 Film Courage
 
-> 15: For more practical advice, Grip Tips and Meet the Gaffer. Aputure also has a pretty good channel
+> 15: **For more practical advice, Grip Tips and Meet the Gaffer. Aputure also has a pretty good channel**
 
 > 3: As a dude in film school, I wholeheartedly agree.
 
-23: I can't take anyone that says Peter McKinnon or Matti Haapoja seriously.
+23: I can't take anyone that says ~~Peter McKinnon~~ or ~~Matti Haapoja~~ seriously.
 
 To OP i would check out Wolfcrow and Cinecom.net as well as Orange83
 
@@ -742,21 +754,21 @@ To OP i would check out Wolfcrow and Cinecom.net as well as Orange83
 > >
 > > Also, both of them have seemed to have had their "film-making" careers hit a peak by becoming a YouTuber. They don't really create anything.
 > >
-> > > 5: And it makes me sad cause Peter (Matti is basically the same thing with less personality) has genuine visual talent. But his more recent videos is just him screaming about coffee with a side of actuql information.
+> > > 5: And it makes me sad cause ~~Peter~~ (~~Matti~~ is basically the same thing with less personality) has genuine visual talent. But his more recent videos is just him screaming about coffee with a side of actuql information.
 >
-> > 3: Helpful tip: add -McKinnon to your YouTube searches to filter him from the search results. I don’t enjoy his content and especially hate his obnoxious YouTube greetings.
+> > 3: Helpful tip: add -~~McKinnon~~ to your YouTube searches to filter him from the search results. I don’t enjoy his content and especially hate his obnoxious YouTube greetings.
 
-17: Peter McKinnon
+17: ~~Peter McKinnon~~
 
-Matti Haapoja
+~~Matti Haapoja~~
 
 Potato Jet
 
-FilmRiot
+*Film Riot*
 
-Indy Mogul
+ *Indy Mogul*
 
-D4Darious
+*D4Darious*
 
 Parker Walbeck
 
@@ -786,19 +798,19 @@ RocketJump
 
 8: Also 16!
 
-For cinematography: I watch Indy Mogul, Cooke Optics TV, Spenser Sakurai, Cinematography Database Fan, Mark Bone, Aputure
+**For cinematography: I watch  *Indy Mogul*, Cooke Optics TV, Spenser Sakurai, Cinematography Database Fan, Mark Bone, Aputure**
 
-For general filmmaking: Film Riot of course, **Every Frame a Painting**, **Lessons From the Screenplay**, Studio Binder, The Art of Story, Screened, many more...
+For general filmmaking: *Film Riot* of course, **Every Frame a Painting**, **Lessons From the Screenplay**, Studio Binder, The Art of Story, Screened, many more...
 
 If you want a good website: [rogerdeakins.com](https://rogerdeakins.com/) is great, No Film School is alright.
 
-I wouldn’t go to Peter McKinnon or Matti Hapoja if you want actual industry knowledge.
+I wouldn’t go to ~~Peter McKinnon~~ or ~~Matti Hapoja~~ if you want actual industry knowledge.
 
-8: Try creative North. And for peter McKinnon and Matti, most of their good stuff is at least a year old, as they are more vloggers now and less about tutorials, but their early stuff was really good.
+8: Try creative North. And for peter ~~McKinnon~~ and ~~Matti~~, most of their good stuff is at least a year old, as they are more vloggers now and less about tutorials, but their early stuff was really good.
 
 3: Criterion.com has everything you need.
 
-4: D4darious
+4: *D4Darious*
 
 4: Corridor crew (corridor digitals behind the scenes channel)
 
@@ -808,7 +820,7 @@ I wouldn’t go to Peter McKinnon or Matti Hapoja if you want actual industry kn
 
 > 3: this
 
-2: I’m not sure if you’d consider it good or not, but I’m working on doing more filmmaking videos on my channel https://www.youtube.com/user/CorbanLaFon. Also check out peter McKinnon, matti happoja (can’t remember how it’s spelled.) Enjoy!
+2: I’m not sure if you’d consider it good or not, but I’m working on doing more filmmaking videos on my channel https://www.youtube.com/user/CorbanLaFon. Also check out ~~peter McKinnon~~, ~~matti happoja~~ (can’t remember how it’s spelled.) Enjoy!
 
 2: [studiobinder](https://youtu.be/Cz0byBTjtEU)
 
@@ -816,7 +828,7 @@ I wouldn’t go to Peter McKinnon or Matti Hapoja if you want actual industry kn
 
 2: The Closer Look is awesome. Definitely gotten some of the best insight from him. He really makes things click too that may seem obvious at first but are often overlooked.
 
-2: D4darious
+2: *D4Darious*
 
 0: Corridor Digital
 
@@ -824,7 +836,7 @@ I wouldn’t go to Peter McKinnon or Matti Hapoja if you want actual industry kn
 
 > 3: And Corridor Crew
 
-1: D4darious is the best for no budget level filmmaking
+1: *D4Darious* is the best for no budget level filmmaking
 
 1: For <u>Cinematography</u>, [Kinetek](https://www.youtube.com/channel/UCNCiCp3PHpy_Jo-STmker-Q/featured) has really good content. From fundamentals to the practical application of lights on set and even some DIY tips. Highly recommended!
 
@@ -843,9 +855,9 @@ Amazing youtube channel.
 
 7: (u/FilmmakerAndGamer): DSLRGuide
 
-D4Darious
+*D4Darious*
 
-Film Riot
+*Film Riot*
 
 **Every Frame a Painting**
 
@@ -859,11 +871,11 @@ RocketJump Film School
 
 Cinema Tyler
 
-Nerdwriter (occasionally, not all his videos are film related)
+~~Nerdwriter~~ (occasionally, not all his videos are film related)
 
 Your Movies Suck Too and Red Letter Media (for the not so serious yet not so stupid material)
 
-2: Filmmaker IQ
+2: *Filmmaker IQ*
 
 These are fairly long videos, can get very technical, and are splendidly researched. Most people working in features camera departments will know less than you if you suggest these.
 
@@ -873,9 +885,9 @@ These are fairly long videos, can get very technical, and are splendidly researc
 
 > What are some good youtube channels that teach filmmaking
 
-3: D4Darious has some really good tips, especially for beginners. We’ve watched some of his videos in class before.
+3: *D4Darious* has some really good tips, especially for beginners. We’ve watched some of his videos in class before.
 
-2: I've been watching film riot for at least a year (finished my final year of high school this year) and I find they have some really awesome videos to offer people with filmmaking, check them out! Also agree with everyone else's suggestions.
+2: I've been watching *Film Riot* for at least a year (finished my final year of high school this year) and I find they have some really awesome videos to offer people with filmmaking, check them out! Also agree with everyone else's suggestions.
 
 1: I like this guy, but his posting is irregular.
 
@@ -885,19 +897,19 @@ https://www.youtube.com/user/DSLRguide/videos
 
 > What are your favorite filmmaking YouTube channels
 
-4: Lessons From The Screenplay
+4: **Lessons From The Screenplay**
 
 Film Courage
 
-Film Riot
+*Film Riot*
 
 DSLR Video Shooter
 
-Indy Mogul
+ *Indy Mogul*
 
 Indie Film Hustle
 
-D4Darious
+*D4Darious*
 
 Tom Antos
 
@@ -909,9 +921,9 @@ Cinematography Database
 
 Rocket Jump Film School
 
-Filmmaker IQ
+*Filmmaker IQ*
 
-Every Frame A Painting
+**Every Frame A Painting**
 
 No Film School
 
@@ -919,7 +931,7 @@ Sonduck Film
 
 Film Editing Pro and some others.
 
-> 1: D4Darious is my filmmaking father
+> 1: *D4Darious* is my filmmaking father
 >
 > > 1: I saw few of his vids years ago before finally now coming to the decision to get into filmmaking.
 
@@ -927,9 +939,9 @@ Film Editing Pro and some others.
 
 1: Film Learnin’ has terrific premiere tutorials
 
-1: Film Riot ! They pretty much cover every basic of filmmaking
+1: *Film Riot* ! They pretty much cover every basic of filmmaking
 
-And for essays , kaptainkristian
+And for essays , ~~kaptainkristian~~
 
 1: Like Stories of Old.
 
@@ -943,12 +955,10 @@ He does an excellent job of analyzing films and possible hidden meanings. Highly
 
 EDIT: If you have any suggestions include YT links!
 
-------
-
 I created it for a comment on [r/movies](https://www.reddit.com/r/movies/) but I think you guys will appreciate it too.
 
 - [Channel Awesome](https://www.youtube.com/channel/UCiH828EtgQjTyNIMH6YiOSw) The guys who make Nostalgia Critic and a lot of other cool stuff. Their Vlogs are the best and Nostalgia Critic is hilarious.
-- [*Channel Criswell*](https://www.youtube.com/channel/UCL5kBJmBUVFLYBDiSiK1VDw) He and Every Frame a Painting share the first place. Period. Long, in depth analysis on film movements, films, directors and filmmaking techniques. His "___ in Storytelling" is a great place to start when you want to learn more about film. "Composition in Storytelling" is a personal favorite.
+- [*Channel Criswell*](https://www.youtube.com/channel/UCL5kBJmBUVFLYBDiSiK1VDw) He and **Every Frame a Painting** share the first place. Period. Long, in depth analysis on film movements, films, directors and filmmaking techniques. His "___ in Storytelling" is a great place to start when you want to learn more about film. "Composition in Storytelling" is a personal favorite.
 - [Chris Hartwell / The Hart Beat](https://www.youtube.com/channel/UCV6KHgcVc4ykDo7QUhdbpcg) Haven't seen many of his reviews but I liked what I saw.
 - [Chris Stuckmann](https://www.youtube.com/channel/UCCqEeDAUf4Mg0GgEN658tkA) The [r/movies](https://www.reddit.com/r/movies/) among the YT critics. I think that's all I need to say. He is competent but concentrates on mainstream movies. Nothing wrong with that but maybe not what you are looking for if you want to get away from the mainstream.
 - [CineFix](https://www.youtube.com/channel/UCVtL1edhT8qqY-j2JIndMzg) Best top lists on YT. They know their stuff. Their roundtable discussions are quite interesting and they have alot of other random formats. Not exactly a channel that teaches you a lot of stuff but it's a great part of the conversations around film.
@@ -959,11 +969,11 @@ I created it for a comment on [r/movies](https://www.reddit.com/r/movies/) but I
 - [Filmmaker IQ](https://www.youtube.com/channel/UCSFAYalJ2Q7Tm_WmLgetmeg) A lot of technical stuff and film history. His movies on the history of cutting ([part 1](https://www.youtube.com/watch?v=6uahjH2cspk), [part 2](https://www.youtube.com/watch?v=JYedfenQ_Mw)) are essentials.
 - [GeekyGlassesTV](https://www.youtube.com/channel/UCxgtOj0couWnSNb7_IlVGYw) Best reviewer on YouTube. No matter if he has the same opinon as I do I will understand his opinon and will know whether or not I will enjoy a movie or not. You can learn a lot about film discussion by watching his reviews.
 - [Jack's Movie Reviews](https://www.youtube.com/channel/UCzpVBvuIfhncmI7JDwBCOyg) Even though it's in his name he doesn't make reviews. He takes a look at one film a week and analyses it. If you watch a film and want to learn more about it his channel is one of the first places to start.
-- [kaptainkristian](https://www.youtube.com/channel/UCuPgdqQKpq4T4zeqmTelnFg) Pop culture essays on mass. Pokémon, Watchmen, South Park, Alien, Futurama, he has everything...
+- [~~kaptainkristian~~](https://www.youtube.com/channel/UCuPgdqQKpq4T4zeqmTelnFg) Pop culture essays on mass. Pokémon, Watchmen, South Park, Alien, Futurama, he has everything...
 - [**Lessons from the Screenplay**](https://www.youtube.com/channel/UCErSSa3CaP_GJxmFpdjG9Jw) If Every Frame a Painting made videos about screenplays it would be this channel!
 - [Luke Valadie](https://www.youtube.com/user/Kingfish212/featured) He literally started a series called "Introductory Film Studies" a few weeks ago.
 - [Movies I Love (and so can you)](https://www.youtube.com/channel/UCfPni-XauIF97mSckAxYL_w) The title gives the content away. Plus minus some other topics he wants to discuss.
-- [The Nerdwriter](https://www.youtube.com/channel/UCJkMlOu7faDgqh4PfzbpLdg) He makes essays on everything. His Understanding Art series also tackles some movies.
+- [The ~~Nerdwriter~~](https://www.youtube.com/channel/UCJkMlOu7faDgqh4PfzbpLdg) He makes essays on everything. His Understanding Art series also tackles some movies.
 - [No Film School](https://www.youtube.com/channel/UCM2FoYtC-2PQzMr_gDfQnHg) It's no film school but... just kidding. His essays are great!
 - [100 Years of Cinema](https://www.youtube.com/channel/UCbM9iT_PqBCUOQdaREDAP3g) This is a great place to start learning about film history. He takes one or two movies per year and present something new it brought to cinema as an art form. Just like the development of film his videos will propably get more complex as the series goes on. He is currently in 1928.
 - [Renegade Cut](https://www.youtube.com/channel/UC9infsKo33_2LUoiqXGgQWg) Already mentioned him. He makes very in depth videos.
@@ -1038,7 +1048,7 @@ Your Movie Sucks is one guy but I love his analytical opinions. He actually insp
 
 > 1: I love the premise, but I feel like Movie Fights focus too much on superhero movies. I havent watched the show in about a year though, so they might have cut down on the superhero related questions.
 
-6: Wow. Thanks for the links! I was previously subbed to Every Frame a Painting, but thanks to you, am now subbed to Channel Criswell, Luke Valadie, and One Hundred Years of Cinema (which will definitely come in handy as I continue my struggle through the 1001 Movies You Must See Before You Die list).
+6: Wow. Thanks for the links! I was previously subbed to **Every Frame a Painting**, but thanks to you, am now subbed to *Channel Criswell*, Luke Valadie, and One Hundred Years of Cinema (which will definitely come in handy as I continue my struggle through the 1001 Movies You Must See Before You Die list).
 
 I don't see any mention of [Film Radar](https://www.youtube.com/channel/UCMplSrEvn9JTCHrz58Le2ww) on your list. Are you familiar with it, and if so, is there any reason you didn't include it?
 
@@ -2495,10 +2505,42 @@ Best essayists: **Lindsey Ellis**, **Every Frame a Painting**, **Lessons from th
 
 Best film essayists:
 
-- General Film Critique Channel: **Lindsey Ellis**, *Channel Criswell (The Cinema Cartography)*.
-- Film Theory/History/Advice: *Filmmaker IQ* (he does fantastic videos on the history of film ranging from lenses to aspect ratios to sound design, If you ever want to expand your knowledge on film history this is the place to go), Film Riot, D4Darious, DSLRGuide (this guy has amazing tutorials), ponysmasher ( David F. Sandberg, director of Shazam!, Lights Out and Annabelle Creation; directed short films with Lotta Losten, videos about filmmaking, animation and other random things).
+- General Film Critique Channel: **Every Frame a Painting**, **Lindsey Ellis**, *Channel Criswell (The Cinema Cartography)*, Renegade Cut (film techniques and philosophies espoused by individual films), Studio Binder.
+- Film Theory/History/Advice: 
+  - *Filmmaker IQ*. He does fantastic videos on the history of film ranging from lenses to aspect ratios to sound design, If you ever want to expand your knowledge on film history this is the place to go)
+  - *Film Riot* for more practical stuff. It's consistently showing us affordable practical effects and techniques.
+  - *D4Darious* for good tips, especially for beginners. They are watched in classes.
+  - DSLRGuide. This guy has amazing tutorials.
+  - RocketJump Film School. FreddieW created a ‘Film School’ YouTube channel, whilst most of the videos are about the filmmaking process. There are some useful video essays buried in between.
+  - ponysmasher. David F. Sandberg, director of Shazam!, Lights Out and Annabelle Creation. He directed short films with Lotta Losten, videos about filmmaking, animation and other random things.
+  - Film Courage sharing stories, experiences, & wisdom from the world of film and television.
+  - One Hundred Years of Cinema. 100 Years of Cinema is taking a look at one film a year, to try and discover how we got from the simple films of the early 1900's to the complex block busters of today. Plus, they do some stories and essays.
+- Cinematography: *Indy Mogul*, Aputure, Cinematography Database (+ Cinematography Database Fan), Wolfcrow, Cooke Optics TV.
 - Editing: **Every Frame a Painting**.
 - Screenplay: **Lessons from the Screenplay**.
+- It's unexplored, but it looks interesting: video essay channels on Vimeo: 
+  - [Jacob T. Swinney](https://vimeo.com/jacobtswinney/videos). Whilst this channel consists only of visual video essays (no narratation), it's quite interesting to see the certain visual obsessions of certain directors or the influences notable directors have on filmmaking at large.
+  - [Between Frames](https://vimeo.com/watchbetweenframes/videos). Similar to Jacob T. Swinney this channel consists only of visual video essays on the visual obsessions of certain directors.
+  - [Filmumentaries](https://vimeo.com/user5888890/videos). Jamie Benning’s channel is one of the best the internet has to offer. Each "Filmumentary" is made with a mixture of commentaries from the filmmakers collected from dozens of different sources, all of which is played along side the actual film (i.e. a visual version of a director's commentary). Currently there are ‘filmumentaries’ for movies such as ‘Jaws’, ‘Indiana Jones’, and ‘Star Wars’.
+  - [Kevin B. Lee](https://vimeo.com/kevinblee/videos). This guy is the ‘original’ video essayist. He’s been in the game for +5 years and has produced some fantastic videos over the years. However, his style is less flashy than others and can be dry at times.
+  - [Fandor Keyframe](https://vimeo.com/fandor/videos). A channel devoted to helping fellow film enthusiasts discover amazing, hard-to-find films from all over the world. Note: This is Fandor’s Vimeo channel; it’s the same as their YouTube expect that it has a larger backlog and is mostly immune to Copyright Strikes.
+  - [Kogonada](https://vimeo.com/kogonada/videos). This channel has a variety of videos from visual video essays to traditional spoken video essays. Kogonada currently works for the Criterion Collection to create video essays.
+  - [The Director Series](https://vimeo.com/cameronbeyl)  A great video essay series that explores the work and careers of great directors (Season 1 - Kubrick, Season 2 - Fincher, and Season 3 - Paul Thomas Anderson). Personally, it's one of my favourite video series on the internet. 
+  - [MUST SEE FILMS](https://vimeo.com/user15233185/videos). MUST SEE FILMS does analysis/breakdown videos on films, although the editing and appearence of the videos are somewhat low quality the content is great.
+  - [Max Tohline](https://vimeo.com/maxtohline/videos). Max’s video essays solely focus on the use of editing in films.
+  - [Scout Tafoya](https://vimeo.com/honorszombiefilms/videos/). Tafoya's main essay series titled "The Unloved" focuses on bringing 'love' back to films that were critically panned or forgotten over time (this series in created for the RogerEbert.com, more of his videos can be found on their vimeo channel).
+  - [Rishi Kaneria](https://vimeo.com/rishikaneria/videos). This channel mainly consists of 'supercuts' exploring sound or visual motifs of filmmakers.
+  - [De Filmkrant](https://vimeo.com/filmkrant). De Filmkrant is a independent film magazine in the Netherlands that also happens to make the occasional video essay.
+  - [Framing the Picture](https://vimeo.com/user37502809/videos). Home of the film analysis series Framing the Picture. Each episode is dedicated to a per specific film.
+  - [Press Play Video Blog](https://vimeo.com/user6994428/videos). The Vimeo Channel for indieWIRE’s Pree Play blog (a blog devoted to original video essays).
+  - [David Bordwell](https://vimeo.com/user14337401/videos). The vimeo channel of David Bordwell a lecturer at the University of Wisonsin.
+  - [Hello Wizard](https://vimeo.com/hellowizard). Relatively new to video essays, he has started a video series on Steven Soderbergh the first of which is on 'Sex, Lies and Videotape'.
+  - [Nelson Carvajal](https://vimeo.com/nelsoncarvajal/videos). A video essayist that has contributed to AV Club, indieWIRE, Vulture, RogerEbert.com, Fandor & Press Play.
+  - [Michael Mirasol](https://vimeo.com/user10918748). Mirasol's video essays explore various subjects from film.
+  - [Plot Point Productions](https://vimeo.com/plotpointproductions). This channel contains supercuts and montages that all explore different visual elements of movies/directors/cinematographers.
+  - [Jim Emerson](https://vimeo.com/user2222857/videos). This channel has been abandoned by the video essays within are an interesting watch; the main focus on the channel seems to be ways editing has been used to tell the narrative/action). 
+  - [Ali Shirazi](https://vimeo.com/alishirazi).
+  - [Vashi Nedomansky](https://vimeo.com/vashi/videos). A film editor that creates small video essays mostly focusing on editing; he has assisted multiple Hollywood productions such as Deadpool and Gone Girl.
 
 Best video game essayists:
 
