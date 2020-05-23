@@ -65,7 +65,7 @@ Not all Vox is good, but these are.
 
 [Vox - Pop](https://www.youtube.com/playlist?list=PLJ8cMiYb3G5dOiUTzcsHU5ahmgcqjdIJx)
 
-7: All of the people already posted, but I also thoroughly enjoy [Like Stories of Old](https://www.youtube.com/watch?v=O4etinsAy34)
+7: All of the people already posted, but I also thoroughly enjoy [*Like Stories Of Old*](https://www.youtube.com/watch?v=O4etinsAy34).
 
 4: Came here to second anything Vox does, second ~~Nerdwriter~~, and to offer the channel [Trekspertise](https://youtu.be/Hziy8HcZAFE)
 
@@ -120,7 +120,7 @@ Also **Lessons From The Screenplay**.
 
 15: **Lindsay Ellis** is probably my favorite youtuber when it comes to video essays and similar content
 
-9: [Like Stories of Old](https://www.youtube.com/channel/UCs7nPQIEba0T3tGOWWsZpJQ)
+9: [*Like Stories Of Old*](https://www.youtube.com/channel/UCs7nPQIEba0T3tGOWWsZpJQ)
 
 > 4: The Blade Runner video he just released was fantastic. Even featured an original score. I think his analysis and production are both top notch.
 
@@ -216,7 +216,7 @@ Video Essay Channels on Vimeo
 |    [Filmumentaries](https://vimeo.com/user5888890/videos)    | Jamie Benning’s channel is one of the best the internet has to offer. Each "Filmumentary" is made with a mixture of commentaries from the filmmakers collected from dozens of different sources, all of which is played along side the actual film (i.e. a visual version of a director's commentary). Currently there are ‘filmumentaries’ for movies such as ‘Jaws’, ‘Indiana Jones’, and ‘Star Wars’. | [Blast it Biggs! Where are you?! - Star Wars Mini-Filmumentary](https://vimeo.com/126754777) |
 |      [Kevin B. Lee](https://vimeo.com/kevinblee/videos)      | This guy is the ‘original’ video essayist. He’s been in the game for +5 years and has produced some fantastic videos over the years. However, his style is less flashy than others and can be dry at times. | [Who Deserves the 2015 Oscar for Best Director?](https://vimeo.com/118550917) |
 |      [Fandor Keyframe](https://vimeo.com/fandor/videos)      | A channel devoted to helping fellow film enthusiasts discover amazing, hard-to-find films from all over the world. Note: This is Fandor’s Vimeo channel; it’s the same as their YouTube expect that it has a larger backlog and is mostly immune to Copyright Strikes. | [A side-by-side comparison of the THE GIRL WITH THE DRAGON TATTOO (2009 and 2011)](https://vimeo.com/156260650) |
-|        [Kogonada](https://vimeo.com/kogonada/videos)         | This channel has a variety of videos from visual video essays to traditional spoken video essays. Kogonada currently works for the Criterion Collection to create video essays. |      [What is Neorealism?](https://vimeo.com/68514760)       |
+|       [*Kogonada*](https://vimeo.com/kogonada/videos)        | This channel has a variety of videos from visual video essays to traditional spoken video essays. *Kogonada* currently works for the Criterion Collection to create video essays. |      [What is Neorealism?](https://vimeo.com/68514760)       |
 |     [The Director Series](https://vimeo.com/cameronbeyl)     | A great video essay series that explores the work and careers of great directors (Season 1 - Kubrick, Season 2 - Fincher, and Season 3 - Paul Thomas Anderson). Personally, it's one of my favourite video series on the internet. | [The Directors Series- Stanley Kubrick [1.1\]](https://vimeo.com/111020652) |
 |   [MUST SEE FILMS](https://vimeo.com/user15233185/videos)    | MUST SEE FILMS does analysis/breakdown videos on films, although the editing and appearence of the videos are somewhat low quality the content is great. | [‘Reaction Shot’ - The Economy of Storytelling](https://vimeo.com/135785606) |
 |      [Max Tohline](https://vimeo.com/maxtohline/videos)      | Max’s video essays solely focus on the use of editing in films. | [The Art of Editing in The Good, the Bad, and the Ugly](https://vimeo.com/86125935) |
@@ -418,7 +418,7 @@ Comments from r/movies:
 
 7: You should add Chez Lindsay and Screenprism
 
-6: [Like Stories of Old](https://www.youtube.com/channel/UCs7nPQIEba0T3tGOWWsZpJQ) is a relatively new channel which focuses on a more philosophical discussion of a films themes or motives etc. Very well put together videos though so far there are only a handful made.
+6: [*Like Stories Of Old*](https://www.youtube.com/channel/UCs7nPQIEba0T3tGOWWsZpJQ) is a relatively new channel which focuses on a more philosophical discussion of a films themes or motives etc. Very well put together videos though so far there are only a handful made.
 
 6: He doesn't exclusively do film essays, but [Folding Ideas](https://www.youtube.com/channel/UCyNtlmLB73-7gtlBz00XOQQ) does great film-related content and has been doing some great videos on the problems with content hosts the past few weeks.
 
@@ -464,7 +464,7 @@ Comments from r/videoessay:
 
 [Alpha-Alpaca-Pack](https://www.youtube.com/user/alphaalpacapack?&ab_channel=Alpha-Alpaca-Pack)
 
-[Like Stories Of Old](https://www.youtube.com/channel/UCs7nPQIEba0T3tGOWWsZpJQ?&ab_channel=LikeStoriesofOld)
+[*Like Stories Of Old*](https://www.youtube.com/channel/UCs7nPQIEba0T3tGOWWsZpJQ?&ab_channel=LikeStoriesofOld)
 
 [Storytellers](https://www.youtube.com/channel/UCbphDfwSJmxk1Ny_3Oicrng?&ab_channel=Storytellers)
 
@@ -490,7 +490,7 @@ Comments from r/videoessay:
 
 37: I'm actually not a very big fan of film video essays. You have to be very careful and cross-check information presented in those essays. Lots of times, essayists seem to be pulling stuff straight out of their butts, using fancy rhetoric and language (and careful editing) to cover the fact that they have no idea what they're talking about.
 
-> 15: I'll have to agree with gospeljohn. I have found most film video essayists to ride the hype around these essays created by kogonada and **every frame a painting**. Only those two have created interesting essays. People like ~~Nerdwriter~~ however....
+> 15: I'll have to agree with gospeljohn. I have found most film video essayists to ride the hype around these essays created by *kogonada* and **every frame a painting**. Only those two have created interesting essays. People like ~~Nerdwriter~~ however....
 >
 > > 16: ~~Nerdwriter~~ is a damn hack and i'm endlessly getting sent his sloppy videos by relatives..
 > >
@@ -610,7 +610,7 @@ His videos can be a bit much, if it's your first film channel though
 
 2: Go watch ~~Kaptain Kristian~~, his editing is par to none and he really makes you feel what he feels for all of the shows movies and comics that he loves. Sadly he hasn’t posted anything in months, a common problem with video essayists, but each upload is incredible!
 
-2: I’ll recommend a bit of a smaller channel, Like Stories of Old. His video on Arrival was absolutely incredible, I would suggest anyone who liked the film to check it out.
+2: I’ll recommend a bit of a smaller channel, *Like Stories Of Old*. His video on Arrival was absolutely incredible, I would suggest anyone who liked the film to check it out.
 
 [here it is](https://youtu.be/2ZpPMuvoaok)
 
@@ -640,7 +640,7 @@ Edit: Spelling
 
 He knows technical stuff but his focus is philosophy, theming, writing, etc
 
-4: Like Stories of Old is probably my favorite. Especially love his videos on the Before Trilogy, Okja, Moonlight and Malick's films.
+4: *Like Stories Of Old* is probably my favorite. Especially love his videos on the Before Trilogy, Okja, Moonlight and Malick's films.
 
 5: Alltimemovies, Art Regard, *Channel Criswell*, Cinema Tyler, Entertain the Elk, Essential Films, Eyes on Cinema, Fandor, *Filmmaker IQ*, ~~Kaptainkristian~~, Now You See It, Raging Cinema, RocketJump Film School, ScreenPrism, Storytellers, and The Royal Ocean Film Society are all great channels you should check out. Some aren't strictly video essays, such as *Filmmaker IQ* being more like crash courses on film theory, production, and history.
 
@@ -943,7 +943,7 @@ Film Editing Pro and some others.
 
 And for essays , ~~kaptainkristian~~
 
-1: Like Stories of Old.
+1: *Like Stories Of Old*.
 
 He does an excellent job of analyzing films and possible hidden meanings. Highly underrated.
 
@@ -1081,6 +1081,60 @@ I hear that guy Glowing Screens makes pretty interesting essays about film!
 2: I have been loving the hell out of [History Buffs](https://www.youtube.com/channel/UCggHoXaj8BQHIiPmOxezeWA) and [The Cynical Historian](https://www.youtube.com/channel/UCN5mhhJYPcNUKBMZkR5Nfzg). They give these great breakdowns of historical films and how they differ from the actual facts. They usually also discuss why these changes were probably made for the sake of the story.
 
 1: **Lessons from the Screenplay** is probably my favorite YouTube channel right now, they're doing amazing analysis and discussions and I hope they really take off. The quality of the topics is stellar yet accessible.
+
+---
+
+Recommended sources from this [source](https://old.reddit.com/r/TrueFilm/comments/b3s25y/does_anyone_else_feel_as_though_we_are_becoming/?sort=top&limit=500):
+
+17: Here's some of what I consider the top tier stuff:
+
+**Lessons from a Screenplay**
+
+**Every Frame a Painting**
+
+Wisecrack
+
+NandovMovies
+
+*Like Stories of Old*
+
+Collative Learning
+
+Redlettermedia
+
+mikehill.design
+
+Just Write
+
+Middle Tier
+
+Rossatron
+
+Screened
+
+Oliver Harper
+
+Beyond Ghibli
+
+Aporia
+
+Douchebag Cinema
+
+Now You See it
+
+>Now You See it +-
+
+Redditor suggestions:
+
+**Lindsay Ellis**
+
+~~KaptainKristian~~
+
+CINEFIX
+
+Keep in mind, these are just my opinion and are also dependent on the entertainment I get from these essays as well as their "educational" content.
+
+Edit: added more suggestions
 
 ## Video game analysis
 
@@ -2505,7 +2559,7 @@ Best essayists: **Lindsey Ellis**, **Every Frame a Painting**, **Lessons from th
 
 Best film essayists:
 
-- General Film Critique Channel: **Every Frame a Painting**, **Lindsey Ellis**, *Channel Criswell (The Cinema Cartography)*, Renegade Cut (film techniques and philosophies espoused by individual films), Studio Binder.
+- General Film Critique Channel: **Every Frame a Painting**, **Lindsey Ellis**, *Channel Criswell (The Cinema Cartography)*, Renegade Cut (film techniques and philosophies espoused by individual films), *Like Stories Of Old*, Studio Binder.
 - Film Theory/History/Advice: 
   - *Filmmaker IQ*. He does fantastic videos on the history of film ranging from lenses to aspect ratios to sound design, If you ever want to expand your knowledge on film history this is the place to go)
   - *Film Riot* for more practical stuff. It's consistently showing us affordable practical effects and techniques.
@@ -2517,14 +2571,14 @@ Best film essayists:
   - One Hundred Years of Cinema. 100 Years of Cinema is taking a look at one film a year, to try and discover how we got from the simple films of the early 1900's to the complex block busters of today. Plus, they do some stories and essays.
 - Cinematography: *Indy Mogul*, Aputure, Cinematography Database (+ Cinematography Database Fan), Wolfcrow, Cooke Optics TV.
 - Editing: **Every Frame a Painting**.
-- Screenplay: **Lessons from the Screenplay**.
-- It's unexplored, but it looks interesting: video essay channels on Vimeo: 
+- Screenplay: **Lessons from the Screenplay** (he consistently quotes from from this [list](https://www.lessonsfromthescreenplay.com/reading-list) of books).
+- It's unexplored, but it looks interesting: video essay channels on Vimeo:
   - [Jacob T. Swinney](https://vimeo.com/jacobtswinney/videos). Whilst this channel consists only of visual video essays (no narratation), it's quite interesting to see the certain visual obsessions of certain directors or the influences notable directors have on filmmaking at large.
   - [Between Frames](https://vimeo.com/watchbetweenframes/videos). Similar to Jacob T. Swinney this channel consists only of visual video essays on the visual obsessions of certain directors.
   - [Filmumentaries](https://vimeo.com/user5888890/videos). Jamie Benning’s channel is one of the best the internet has to offer. Each "Filmumentary" is made with a mixture of commentaries from the filmmakers collected from dozens of different sources, all of which is played along side the actual film (i.e. a visual version of a director's commentary). Currently there are ‘filmumentaries’ for movies such as ‘Jaws’, ‘Indiana Jones’, and ‘Star Wars’.
   - [Kevin B. Lee](https://vimeo.com/kevinblee/videos). This guy is the ‘original’ video essayist. He’s been in the game for +5 years and has produced some fantastic videos over the years. However, his style is less flashy than others and can be dry at times.
   - [Fandor Keyframe](https://vimeo.com/fandor/videos). A channel devoted to helping fellow film enthusiasts discover amazing, hard-to-find films from all over the world. Note: This is Fandor’s Vimeo channel; it’s the same as their YouTube expect that it has a larger backlog and is mostly immune to Copyright Strikes.
-  - [Kogonada](https://vimeo.com/kogonada/videos). This channel has a variety of videos from visual video essays to traditional spoken video essays. Kogonada currently works for the Criterion Collection to create video essays.
+  - [*Kogonada*](https://vimeo.com/kogonada/videos). This channel has a variety of videos from visual video essays to traditional spoken video essays. *Kogonada* currently works for the Criterion Collection to create video essays.
   - [The Director Series](https://vimeo.com/cameronbeyl)  A great video essay series that explores the work and careers of great directors (Season 1 - Kubrick, Season 2 - Fincher, and Season 3 - Paul Thomas Anderson). Personally, it's one of my favourite video series on the internet. 
   - [MUST SEE FILMS](https://vimeo.com/user15233185/videos). MUST SEE FILMS does analysis/breakdown videos on films, although the editing and appearence of the videos are somewhat low quality the content is great.
   - [Max Tohline](https://vimeo.com/maxtohline/videos). Max’s video essays solely focus on the use of editing in films.
