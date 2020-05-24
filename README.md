@@ -8,6 +8,10 @@ This is where I store bookmarks from my browser (mostly from Brave) and subscrip
 
 This folder primarily contains all my notes collected while reading various books and comics.
 
+## cinema
+
+Notes on the process of filmmaking, video essays, etc. There is also my own rating system here, which I use to rank movies on IMDb.
+
 ## computer-science
 
 This folder contains primarily all my notes collected during my university studies in Computer Science and courses on [coursera.org](coursera.org).
@@ -54,10 +58,6 @@ Subfolders:
 - **simple-math**: arithmetic, linear algebra, geometry, etc.
 
 TODO: add **theory-of-probabilities** folder after studying the combinatorics.
-
-## movies
-
-Notes on the process of filmmaking. There is also my own rating system here, which I use to rank movies.
 
 ## office
 
