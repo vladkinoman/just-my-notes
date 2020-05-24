@@ -87,6 +87,8 @@ Contrapoints - https://www.youtube.com/user/ContraPoints
 
 Some folks might take issue with me saying ContraPoints is a video essayist, as she doesn't really analyze texts so much as movements, especially political movements. That being said, her style of video is much more visual and symbolic than a mere blog, and I think she qualifies because she uses textual evidence in her analysis.
 
+4: On the terrifying nature of existence: https://www.youtube.com/user/willunicycleforfood/videos
+
 ---
 
 ## Film analysis
@@ -218,7 +220,7 @@ Video Essay Channels on Vimeo
 |      [Fandor Keyframe](https://vimeo.com/fandor/videos)      | A channel devoted to helping fellow film enthusiasts discover amazing, hard-to-find films from all over the world. Note: This is Fandor’s Vimeo channel; it’s the same as their YouTube expect that it has a larger backlog and is mostly immune to Copyright Strikes. | [A side-by-side comparison of the THE GIRL WITH THE DRAGON TATTOO (2009 and 2011)](https://vimeo.com/156260650) |
 |       [*Kogonada*](https://vimeo.com/kogonada/videos)        | This channel has a variety of videos from visual video essays to traditional spoken video essays. *Kogonada* currently works for the Criterion Collection to create video essays. |      [What is Neorealism?](https://vimeo.com/68514760)       |
 |     [The Director Series](https://vimeo.com/cameronbeyl)     | A great video essay series that explores the work and careers of great directors (Season 1 - Kubrick, Season 2 - Fincher, and Season 3 - Paul Thomas Anderson). Personally, it's one of my favourite video series on the internet. | [The Directors Series- Stanley Kubrick [1.1\]](https://vimeo.com/111020652) |
-|   [MUST SEE FILMS](https://vimeo.com/user15233185/videos)    | MUST SEE FILMS does analysis/breakdown videos on films, although the editing and appearence of the videos are somewhat low quality the content is great. | [‘Reaction Shot’ - The Economy of Storytelling](https://vimeo.com/135785606) |
+|  [*MUST SEE FILMS*](https://vimeo.com/user15233185/videos)   | *MUST SEE FILMS* does analysis/breakdown videos on films, although the editing and appearence of the videos are somewhat low quality the content is great. | [‘Reaction Shot’ - The Economy of Storytelling](https://vimeo.com/135785606) |
 |      [Max Tohline](https://vimeo.com/maxtohline/videos)      | Max’s video essays solely focus on the use of editing in films. | [The Art of Editing in The Good, the Bad, and the Ugly](https://vimeo.com/86125935) |
 | [Scout Tafoya](https://vimeo.com/honorszombiefilms/videos/)  | Tafoya's main essay series titled "The Unloved" focuses on bringing 'love' back to films that were critically panned or forgotten over time (this series in created for the RogerEbert.com, more of his videos can be found on their vimeo channel). | [The Unloved - Public Enemies](https://vimeo.com/115105710)  |
 |    [Rishi Kaneria](https://vimeo.com/rishikaneria/videos)    | This channel mainly consists of 'supercuts' exploring sound or visual motifs of filmmakers. |   [ROYGBIV: A Pixar Supercut](https://vimeo.com/105089367)   |
@@ -355,7 +357,7 @@ Let me know if I've missed any.
 - [Cub3ulr](https://www.youtube.com/channel/UC7J5BjPuoGhHN-NDsV7HS0w)
 - [Chainsawsuit Original](https://www.youtube.com/user/chainsawsuitoriginal)
 - [Dan Golding - Video Essays](https://www.youtube.com/channel/UCqnos76uuqYRZ-zI2MRNGnA)
-- [Darren - MUST SEE FILMS](https://www.youtube.com/channel/UCRMr85edRMlWM_u50UGReSw)
+- [Darren - *MUST SEE FILMS*](https://www.youtube.com/channel/UCRMr85edRMlWM_u50UGReSw)
 - [Digging Deeper](https://www.youtube.com/channel/UCmuB730A5QO62AJp1sF1cgQ)
 - [Errant Signal](https://www.youtube.com/channel/UCm4JnxTxtvItQecKUc4zRhQ)
 - [exurb1a](https://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg)
@@ -963,7 +965,7 @@ I created it for a comment on [r/movies](https://www.reddit.com/r/movies/) but I
 - [Chris Stuckmann](https://www.youtube.com/channel/UCCqEeDAUf4Mg0GgEN658tkA) The [r/movies](https://www.reddit.com/r/movies/) among the YT critics. I think that's all I need to say. He is competent but concentrates on mainstream movies. Nothing wrong with that but maybe not what you are looking for if you want to get away from the mainstream.
 - [CineFix](https://www.youtube.com/channel/UCVtL1edhT8qqY-j2JIndMzg) Best top lists on YT. They know their stuff. Their roundtable discussions are quite interesting and they have alot of other random formats. Not exactly a channel that teaches you a lot of stuff but it's a great part of the conversations around film.
 - [CinemaTyler](https://www.youtube.com/channel/UC7GV-3hrA9kDKrren0QMKMg) I gotta confess that most of his movies haven't made a big expression on me. I don't remember watching most of them. His "What I Learned From..." series is great though. Absolutely check that out.
-- [Darren - MUST SEE FILMS](https://www.youtube.com/channel/UCRMr85edRMlWM_u50UGReSw) He makes a bunch of everything. His [love letter to cinema](https://www.youtube.com/watch?v=SJXts89AwHc) and [the video on his filmmaking journey](https://www.youtube.com/watch?v=hv5b-4nzE9M) are worth a look.
+- [Darren - *MUST SEE FILMS*](https://www.youtube.com/channel/UCRMr85edRMlWM_u50UGReSw) He makes a bunch of everything. His [love letter to cinema](https://www.youtube.com/watch?v=SJXts89AwHc) and [the video on his filmmaking journey](https://www.youtube.com/watch?v=hv5b-4nzE9M) are worth a look.
 - [**Every Frame a Painting**](https://www.youtube.com/channel/UCjFqcJQXGZ6T6sxyFB-5i6A) As already said he is one of my two favorites. He is a professional editor and it shows. CHECK HIS STUFF OUT!
 - [Film-Drunk Love](https://www.youtube.com/channel/UCHH1opUx5AW0QGJv9Usvbow/videos) Sadly an inactive channel with just 7 videos but every single one of them is worth chacking out. Especially his Goodfellas film breakdown.
 - [Filmmaker IQ](https://www.youtube.com/channel/UCSFAYalJ2Q7Tm_WmLgetmeg) A lot of technical stuff and film history. His movies on the history of cutting ([part 1](https://www.youtube.com/watch?v=6uahjH2cspk), [part 2](https://www.youtube.com/watch?v=JYedfenQ_Mw)) are essentials.
@@ -1030,7 +1032,7 @@ Additions from the comments:
 
 Additions I found recently:
 
-- [Bobby Burns](https://www.youtube.com/user/BobbyBurnsOfficial)
+- [~~Bobby Burns~~](https://www.youtube.com/user/BobbyBurnsOfficial)
 
 ------
 
@@ -1108,6 +1110,8 @@ Just Write
 
 Middle Tier
 
+> Is this a channel? Or it's subcategory)
+
 Rossatron
 
 Screened
@@ -1135,6 +1139,66 @@ CINEFIX
 Keep in mind, these are just my opinion and are also dependent on the entertainment I get from these essays as well as their "educational" content.
 
 Edit: added more suggestions
+
+13 (luis.ferreira.azevedo from Beyond the Frame): ...
+
+For me [Kyle Kalgren](https://www.youtube.com/channel/UC0KaZd_ki4l2EUc1GY9u5Ew) is the best video-essayist working, right now. I love the work from a lot of people, **Tony Zhou** is incredible, *Kogonada* is the best editor among them all, Kevin B. Lee is the perfect link between the academic and the "mainstream", etc. But Kyle has consistently made very well-researched, opinionated, and humorous criticism through not only his writing, but his editing and performance.
+
+His [video-essay on Holy Motors](https://www.youtube.com/watch?v=cYck3avMMDs) is my favourite video-essay. It is written with an excellent narrative arch, which is so well articulated. The theme is interesting, the analysis as well, and he comes to very poignant final considerations. I also like that he has a really small following, but is supported by a lot of people. That gives me hope for more obscure work to get supported by fans.
+
+Disclaimer: I make video-essays [here](https://www.youtube.com/channel/UCZ7g7HfH1gWmhgxW47IcW7Q) and I've just finished writting a master thesis about them. I couldn't really write very many opinions there, so it feels good to let out like 5% of them!
+
+> 3: Could you please name a few academics that make videos? I'm very interested in that content but don't know where to find it.
+>
+> > 7: Sure. A good place to start would be following [Catherine Grant](https://twitter.com/filmstudiesff) who, besides her work as an academic and video-essayist, has been doing a really great job curating video-essay work as well as other film resources on Film Studies for Free and [Audiovisualcy](https://twitter.com/audiovisualcy). You then have [[in\]Transition](http://mediacommons.futureofthebook.org/intransition/), a peer reviewed publication for video-essay work.
+> >
+> > You can also look for individual video-essayists: Adrian Martin, Cristina Alvarez López, Drew Morton, Pasquale Ianone, Christian Keithley, Miklos Kiss, Chiara Grizzaffi, etc. There are a ton more, but they don't make new work very consistently. In the middle between the academics and the rest, there's Kevin B. Lee, who might be a good gateway.
+>
+> > 2: I named two very interesting ones (easier to source and very approachable) elsewhere in this thread you might check out: Thom Andersen, who made Los Angeles Plays Itself and Get in the Car, and William E. Jones, who has done a lot more aesthetic experiments, such as his VHS series.
+> >
+> > > > 3: I highly recommend starting with LAPI. It's just brilliant.
+
+11: I'm personally very excited to see this genre of video grow and it'a apparent that many people enjoy this type of video. I see your concerns as valid but I think most film buffs will be able to sort the good from the bad and the average. For example, I'm not a huge fan of Nerdwriter1's videos- I find the analyses to be lacking depth and sometimes his assertions seem to be somewhat nonsensical.
+
+On the other hand, my favorite channels for these essays are
+
+[*Channel Criswell*](https://www.youtube.com/channel/UCL5kBJmBUVFLYBDiSiK1VDw)
+
+[**Every Frame A Painting**](https://www.youtube.com/user/everyframeapainting)
+
+[Darren- *Must See Films*](https://www.youtube.com/user/foleyd87/videos)
+
+[Renegade Cut](https://www.youtube.com/channel/UC9infsKo33_2LUoiqXGgQWg)
+
+And [LFTS, obviously](https://www.youtube.com/channel/UCErSSa3CaP_GJxmFpdjG9Jw)
+
+There are probably a lot of good smaller channels I haven't seen but I've been enjoying these so far.
+
+
+
+25: [KyleKalgrenBHH](https://www.youtube.com/user/oancitizen/videos) and [Lindsay Ellis](https://www.youtube.com/user/chezapoctube/videos) already does this. even before **every frame of painting** do it.. they even have their own researcher now.
+
+17: Every once in a while a thread like this will pop up in the sub and it never fails to be as shallow as the video essays it decries. I've read the majority of the comments and besides Grace Lee and Scout Tafoya, I've found no mention of a channel with less than 150.000 subscribers.
+
+... Just look at the current front page of [r/videoessay](https://www.reddit.com/r/videoessay/). There's at least 5 or 6 video essays worth your time. Thomas Flight's breakdown of the use of translation and importance of language in Isle of Dogs, Must See Films pointed analysis of character dynamic in Phantom Thread, Entertain the Elk's rundown of the way the Coens end their films, or the first part of a series breaking down the theories of humor by... well... me. Scratch that one. Besides being great examples of why video essays don't suck, the other thing they have in common is less than 5 upvotes - in the sub dedicated to the format.
+
+An interesting discussion would be how to separate the wheat from the gluten, instead of always going back to shitting on an entire format with just a handful of references and a disdain based on generalizations.
+
+
+
+433: Have you heard of our lord and savior **Lindsay Ellis**?
+
+> 115: Also, Kyle Kallgren, one of her collegues, is absolutely amazing, not only delving into film theory and history, but also the humanity of film. I think he doesn't get as much exposure because the movies he analyzes aren't as mainstream. I suggest his analysis of "This is Not a Film." For something a little more well-known, he also reviewed "Cloud Atlas."
+>
+> Edit: Grammer
+
+> 90: Also Folding Ideas, who also knows her.
+
+97: Yep. For every good one like ~~Kaptain Kristian~~ or **Lindsay Ellis** there are 10 shitty ones who drone on and on with vacuous word salads cough nerdwriter1 cough
+
+> 56: I disagree heavily on ~~kaptin Kristin~~. He possibly they least "evidence based" video essays of any of the popular essayist. He just seems to say "this popular thing is good" over and over in slightly different ways while showing clips until the video is over, unlike other essayists which actually go into film theory or get quotes from people involved.
+
+57: I agree. A lot of them come off as pretentious and “fake deep”. They just make some aesthetic thumbnail and then talk with a really calming and “intelligent” voice. When in reality what they’re talking about is pretty surface level. I stopped watching ~~Nerdwriter1~~ and ~~Bobby Burns~~ once I realized this.
 
 ## Video game analysis
 
@@ -2559,7 +2623,7 @@ Best essayists: **Lindsey Ellis**, **Every Frame a Painting**, **Lessons from th
 
 Best film essayists:
 
-- General Film Critique Channel: **Every Frame a Painting**, **Lindsey Ellis**, *Channel Criswell (The Cinema Cartography)*, Renegade Cut (film techniques and philosophies espoused by individual films), *Like Stories Of Old*, Studio Binder.
+- General Film Critique Channel: **Every Frame a Painting**, **Lindsey Ellis**, *Channel Criswell (The Cinema Cartography)*, Renegade Cut (film techniques and philosophies espoused by individual films), *Like Stories Of Old*, Studio Binder, Beyond the Frame  (Beyond the Frame is a literary and cinematic blog; it exists since the early 10's), KyleKallgrenBHH (was recommended by Beyond the Frame guy).
 - Film Theory/History/Advice: 
   - *Filmmaker IQ*. He does fantastic videos on the history of film ranging from lenses to aspect ratios to sound design, If you ever want to expand your knowledge on film history this is the place to go)
   - *Film Riot* for more practical stuff. It's consistently showing us affordable practical effects and techniques.
@@ -2572,15 +2636,15 @@ Best film essayists:
 - Cinematography: *Indy Mogul*, Aputure, Cinematography Database (+ Cinematography Database Fan), Wolfcrow, Cooke Optics TV.
 - Editing: **Every Frame a Painting**.
 - Screenplay: **Lessons from the Screenplay** (he consistently quotes from from this [list](https://www.lessonsfromthescreenplay.com/reading-list) of books).
-- It's unexplored, but it looks interesting: video essay channels on Vimeo:
+- It's unexplored, but it looks interesting: video essay channels on Vimeo and other resources:
   - [Jacob T. Swinney](https://vimeo.com/jacobtswinney/videos). Whilst this channel consists only of visual video essays (no narratation), it's quite interesting to see the certain visual obsessions of certain directors or the influences notable directors have on filmmaking at large.
   - [Between Frames](https://vimeo.com/watchbetweenframes/videos). Similar to Jacob T. Swinney this channel consists only of visual video essays on the visual obsessions of certain directors.
   - [Filmumentaries](https://vimeo.com/user5888890/videos). Jamie Benning’s channel is one of the best the internet has to offer. Each "Filmumentary" is made with a mixture of commentaries from the filmmakers collected from dozens of different sources, all of which is played along side the actual film (i.e. a visual version of a director's commentary). Currently there are ‘filmumentaries’ for movies such as ‘Jaws’, ‘Indiana Jones’, and ‘Star Wars’.
-  - [Kevin B. Lee](https://vimeo.com/kevinblee/videos). This guy is the ‘original’ video essayist. He’s been in the game for +5 years and has produced some fantastic videos over the years. However, his style is less flashy than others and can be dry at times.
+  - [Kevin B. Lee](https://vimeo.com/kevinblee/videos). This guy is the ‘original’ video essayist. He’s been in the game for +5 (more) years and has produced some fantastic videos over the years. However, his style is less flashy than others and can be dry at times. In the middle between the academics and the rest, there's Kevin B. Lee, who might be a good gateway.
   - [Fandor Keyframe](https://vimeo.com/fandor/videos). A channel devoted to helping fellow film enthusiasts discover amazing, hard-to-find films from all over the world. Note: This is Fandor’s Vimeo channel; it’s the same as their YouTube expect that it has a larger backlog and is mostly immune to Copyright Strikes.
   - [*Kogonada*](https://vimeo.com/kogonada/videos). This channel has a variety of videos from visual video essays to traditional spoken video essays. *Kogonada* currently works for the Criterion Collection to create video essays.
   - [The Director Series](https://vimeo.com/cameronbeyl)  A great video essay series that explores the work and careers of great directors (Season 1 - Kubrick, Season 2 - Fincher, and Season 3 - Paul Thomas Anderson). Personally, it's one of my favourite video series on the internet. 
-  - [MUST SEE FILMS](https://vimeo.com/user15233185/videos). MUST SEE FILMS does analysis/breakdown videos on films, although the editing and appearence of the videos are somewhat low quality the content is great.
+  - [*MUST SEE FILMS*](https://vimeo.com/user15233185/videos). *MUST SEE FILMS* does analysis/breakdown videos on films, although the editing and appearance of the videos are somewhat low quality the content is great. His [love letter to cinema](https://www.youtube.com/watch?v=SJXts89AwHc) and [the video on his filmmaking journey](https://www.youtube.com/watch?v=hv5b-4nzE9M) are worth a look.
   - [Max Tohline](https://vimeo.com/maxtohline/videos). Max’s video essays solely focus on the use of editing in films.
   - [Scout Tafoya](https://vimeo.com/honorszombiefilms/videos/). Tafoya's main essay series titled "The Unloved" focuses on bringing 'love' back to films that were critically panned or forgotten over time (this series in created for the RogerEbert.com, more of his videos can be found on their vimeo channel).
   - [Rishi Kaneria](https://vimeo.com/rishikaneria/videos). This channel mainly consists of 'supercuts' exploring sound or visual motifs of filmmakers.
@@ -2595,6 +2659,8 @@ Best film essayists:
   - [Jim Emerson](https://vimeo.com/user2222857/videos). This channel has been abandoned by the video essays within are an interesting watch; the main focus on the channel seems to be ways editing has been used to tell the narrative/action). 
   - [Ali Shirazi](https://vimeo.com/alishirazi).
   - [Vashi Nedomansky](https://vimeo.com/vashi/videos). A film editor that creates small video essays mostly focusing on editing; he has assisted multiple Hollywood productions such as Deadpool and Gone Girl.
+  - [**Every frame a painting**](https://vimeo.com/tonyzhou) - Tony Zhou.
+  - [Catherine Grant](https://twitter.com/filmstudiesff) who, besides her work as an academic and video-essayist, has been doing a really great job curating video-essay work as well as other film resources on Film Studies for Free and [Audiovisualcy](https://twitter.com/audiovisualcy).
 
 Best video game essayists:
 
@@ -2626,24 +2692,28 @@ Best video game essayists:
 13. https://www.reddit.com/r/Filmmakers/comments/a86dw2/what_are_some_good_youtube_channels_that_teach/?sort=top
 14. https://www.reddit.com/r/Filmmakers/comments/bcxzjy/what_are_your_favorite_filmmaking_youtube_channels/?sort=top
 15. https://www.reddit.com/r/flicks/comments/5kqc6w/i_created_a_list_of_youtube_channels_about_films/?sort=top
-16. https://www.reddit.com/r/VideoGameAnalysis/comments/9cr4dw/does_anyone_have_a_list_of_video_game_analysis/?sort=top
-17. https://www.reddit.com/r/gamedev/comments/5y8kgl/have_you_seen_youtube_channels_doing_deep/
-18. https://www.reddit.com/r/truegaming/comments/8nsfog/what_are_some_great_true_gaming_youtube_channels/?sort=top
-19. https://www.reddit.com/r/Cynicalbrit/comments/9g4wf4/reviewers_on_youtube_similar_to_jim_totalbiscut/?sort=top
-20. https://www.reddit.com/r/Games/comments/dnyqs9/who_is_your_most_trusted_source_of_game_reviews/?sort=top
-21. https://www.reddit.com/r/truegaming/comments/cza544/recommendations_for_youtube_news_review_and/?sort=top
-22. https://www.reddit.com/r/Gaming4Gamers/comments/9e0lgp/youtube_game_reviewers_worth_checking_out/?sort=top
-23. https://www.reddit.com/r/gaming/comments/ay78vw/best_youtube_video_game_reviewer/?sort=top
-24. https://www.reddit.com/r/pcgaming/comments/bdkbx5/who_are_some_youtubers_that_make_content_on/?sort=top
-25. https://www.reddit.com/r/speedrun/comments/67yeid/any_youtube_channel_about_speedrunning/
-26. https://www.reddit.com/r/speedrun/comments/atwbmd/youtube_channels_that_talk_about_speedruns_like/?sort=top
-27. https://www.reddit.com/r/speedrun/comments/9y6ra6/are_there_any_good_youtube_channels_that_explains/?sort=top
-28. https://www.reddit.com/r/speedrun/comments/9arw0e/looking_for_speedrun_youtube_channels/?sort=top
-29. https://www.reddit.com/r/retrogaming/comments/8irxip/what_are_your_favorite_retro_gaming_youtube/?sort=top
-30. https://www.reddit.com/r/retrogaming/comments/ah0run/favorite_retro_gaming_youtube_channels/?sort=top
-31. https://www.reddit.com/r/retrogaming/comments/30lbfj/what_are_your_favourite_youtube_channels_about/?sort=top
-32. https://www.reddit.com/r/retrogaming/comments/an5nui/recommending_some_retro_gaming_youtube_channels/?sort=top
-33. https://www.reddit.com/r/retrogaming/comments/7s2yqo/anyone_wanna_recommend_retro_gaming_youtube/?sort=top
-34. https://www.reddit.com/r/gamecollecting/comments/80hkeh/what_retro_gaming_youtube_channels_do_you_watch/
-35. https://www.reddit.com/r/boardgames/comments/92w412/whos_your_favorite_board_game_reviewer_and_why/?sort=top
-36. https://www.reddit.com/r/boardgames/comments/6x2rmi/who_are_your_favorite_board_game_reviewers/?sort=top
+16. https://old.reddit.com/r/TrueFilm/comments/b3s25y/does_anyone_else_feel_as_though_we_are_becoming/?sort=top&limit=500
+17. https://www.reddit.com/r/TrueFilm/comments/5g49e0/problematic_trends_in_the_current_video_essayist/?sort=top
+18. https://www.reddit.com/r/TrueFilm/comments/992qcc/what_do_you_think_is_missing_from_most_film/
+19. https://www.reddit.com/r/movies/comments/8974y6/anyone_else_getting_tired_of_amateur_video_essays/
+20. https://www.reddit.com/r/VideoGameAnalysis/comments/9cr4dw/does_anyone_have_a_list_of_video_game_analysis/?sort=top
+21. https://www.reddit.com/r/gamedev/comments/5y8kgl/have_you_seen_youtube_channels_doing_deep/
+22. https://www.reddit.com/r/truegaming/comments/8nsfog/what_are_some_great_true_gaming_youtube_channels/?sort=top
+23. https://www.reddit.com/r/Cynicalbrit/comments/9g4wf4/reviewers_on_youtube_similar_to_jim_totalbiscut/?sort=top
+24. https://www.reddit.com/r/Games/comments/dnyqs9/who_is_your_most_trusted_source_of_game_reviews/?sort=top
+25. https://www.reddit.com/r/truegaming/comments/cza544/recommendations_for_youtube_news_review_and/?sort=top
+26. https://www.reddit.com/r/Gaming4Gamers/comments/9e0lgp/youtube_game_reviewers_worth_checking_out/?sort=top
+27. https://www.reddit.com/r/gaming/comments/ay78vw/best_youtube_video_game_reviewer/?sort=top
+28. https://www.reddit.com/r/pcgaming/comments/bdkbx5/who_are_some_youtubers_that_make_content_on/?sort=top
+29. https://www.reddit.com/r/speedrun/comments/67yeid/any_youtube_channel_about_speedrunning/
+30. https://www.reddit.com/r/speedrun/comments/atwbmd/youtube_channels_that_talk_about_speedruns_like/?sort=top
+31. https://www.reddit.com/r/speedrun/comments/9y6ra6/are_there_any_good_youtube_channels_that_explains/?sort=top
+32. https://www.reddit.com/r/speedrun/comments/9arw0e/looking_for_speedrun_youtube_channels/?sort=top
+33. https://www.reddit.com/r/retrogaming/comments/8irxip/what_are_your_favorite_retro_gaming_youtube/?sort=top
+34. https://www.reddit.com/r/retrogaming/comments/ah0run/favorite_retro_gaming_youtube_channels/?sort=top
+35. https://www.reddit.com/r/retrogaming/comments/30lbfj/what_are_your_favourite_youtube_channels_about/?sort=top
+36. https://www.reddit.com/r/retrogaming/comments/an5nui/recommending_some_retro_gaming_youtube_channels/?sort=top
+37. https://www.reddit.com/r/retrogaming/comments/7s2yqo/anyone_wanna_recommend_retro_gaming_youtube/?sort=top
+38. https://www.reddit.com/r/gamecollecting/comments/80hkeh/what_retro_gaming_youtube_channels_do_you_watch/
+39. https://www.reddit.com/r/boardgames/comments/92w412/whos_your_favorite_board_game_reviewer_and_why/?sort=top
+40. https://www.reddit.com/r/boardgames/comments/6x2rmi/who_are_your_favorite_board_game_reviewers/?sort=top
