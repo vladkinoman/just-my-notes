@@ -2,8 +2,6 @@
 
 ## Does anyone else feel as though we are becoming oversaturated with sub-par, uninteresting, almost pointless video essays?
 
-https://old.reddit.com/r/TrueFilm/comments/b3s25y/does_anyone_else_feel_as_though_we_are_becoming/?sort=top&limit=500
-
 1324 (OP): I remember in late 2014/early 2015 when **EveryFrameAPaiting** was just starting to have huge success in the youtube space. It was when I first discovered the idea of a "video essay".
 
 I remember soon after they started popping up everywhere, and before you knew it, there were 10-15 quality video essay channels that covered a multitude of topics, but most of them were film-based. The content was varied and had stylistic nuances from creator to creator.
@@ -148,8 +146,6 @@ Edit: added more suggestions
 
 ## Problematic trends in the current video essayist boom?
 
-https://www.reddit.com/r/TrueFilm/comments/5g49e0/problematic_trends_in_the_current_video_essayist/?sort=top
-
 190: 
 
 **EDIT:** Several folks have said that they were interested in specific channels, or have been creating their own video essays. Please do link these channels/videos for others to subscribe to! I know I'm always looking for new content--particularly from fellow [r/TrueFilm](https://www.reddit.com/r/TrueFilm/) posters!
@@ -228,3 +224,174 @@ Edit: OP asked us to link to our channels, so here's a [link to mine.](https://w
 > - A fast-paced visual presentation and a good tempo of speech with enough pauses to breathe.
 >
 > No Small Parts is close to **Every Frame a Painting** in all those things, so his videos are almost as popular, although the actual insight of them trail miles behind Tony's. Nerdwriter and kaptainkristian have their strengths in the regularity of uploads, a wide array of popular topics and going just deep enough. Channel Criswell lacks the mass appeal in those attributes and makes longer videos, so he doesn't reach the view numbers of the aforementioned.
+
+13: As someone currently in film school, and doing a video essay as a project, it's understandable the things you mentioned.
+
+At the same time, the word essay is defined as "an attempt to try". So while some video essays are better than others, it is an individual interpretation, and not set it stone. Also, with comment sections and places like this, it allows for discourse and further understanding. The video essay is merely a stepping stone to help those interested in the subject matter to further their own synopsis and interpretation. The only people who truly understand everything about the films we talk about are the filmmakers themselves.
+
+13 (luis.ferreira.azevedo from Beyond the Frame): Great! I really wanted to discuss this as well!
+
+I understand your concerns for the quality of content negatively influencing an audience. I believe one of the good things about video-essays is that, not only at its best, but at its median, they promote visual literacy. They're a call to look a little closer, to understand how you're being "manipulated" (maybe not the right word). If you watch a video by Jack Nugent, you'll probably pay more attention to something he mentioned in one video and either agree or disagree. I think teaching people to look closer at movies is an overall positive consequence of video-essays, even if less-than perfect.
+
+The quality of the criticism could hardly be at the level of a professional critic or an academic. Video-essayists are in average very young and don't have the benifit of an editorial team that polishes their work. That's a very different job description than a film critic's. They have a place to grow online and I'm pretty confident you'll see a few creators developing their chops as they go, in part because of an ongoing conversation with the people who follow them.
+
+Then on the other spectrum you have academics making video-essays, which could be (and sometimes is) incredibly rich in content, but which suffer in style. I think if academics turned more towards the general public, and considered strategies to engage a more varied audience, they could improve the level of this movement. I don't think that's what they're interested in, which is a loss for cinephilia.
+
+More than subpar quality, I worry more about your second issue: standardization. A lot of creators simply see the model of the more successful video-essayists and do a close approximation. The field is so vast and open to experimentation, that it is a shame that watched people who scratched the surface of what the video-essay can be, and and feel compelled to do the same.
+
+> So, I was hoping people who have been participating in the video essay community might want to use this space to talk about what they like
+
+For me [Kyle Kalgren](https://www.youtube.com/channel/UC0KaZd_ki4l2EUc1GY9u5Ew) is the best video-essayist working, right now. I love the work from a lot of people, Tony Zhou is incredible, Kogonada is the best editor among them all, Kevin B. Lee is the perfect link between the academic and the "mainstream", etc. But Kyle has consistently made very well-researched, opinionated, and humorous criticism through not only his writing, but his editing and performance.
+
+His [video-essay on Holy Motors](https://www.youtube.com/watch?v=cYck3avMMDs) is my favourite video-essay. It is written with an excellent narrative arch, which is so well articulated. The theme is interesting, the analysis as well, and he comes to very poignant final considerations. I also like that he has a really small following, but is supported by a lot of people. That gives me hope for more obscure work to get supported by fans.
+
+Disclaimer: I make video-essays [here](https://www.youtube.com/channel/UCZ7g7HfH1gWmhgxW47IcW7Q) and I've just finished writting a master thesis about them. I couldn't really write very many opinions there, so it feels good to let out like 5% of them!
+
+> 3: Could you please name a few academics that make videos? I'm very interested in that content but don't know where to find it.
+>
+> > 7: Sure. A good place to start would be following [Catherine Grant](https://twitter.com/filmstudiesff) who, besides her work as an academic and video-essayist, has been doing a really great job curating video-essay work as well as other film resources on *Film Studies for Free* and [*Audiovisualcy*](https://twitter.com/audiovisualcy). You then have [[in\]Transition](http://mediacommons.futureofthebook.org/intransition/), a peer reviewed publication for video-essay work.
+> >
+> > You can also look for individual video-essayists: Adrian Martin, Cristina Alvarez López, Drew Morton, Pasquale Ianone, Christian Keithley, Miklos Kiss, Chiara Grizzaffi, etc. There are a ton more, but they don't make new work very consistently. In the middle between the academics and the rest, there's Kevin B. Lee, who might be a good gateway.
+>
+> > 2: I named two very interesting ones (easier to source and very approachable) elsewhere in this thread you might check out: Thom Andersen, who made Los Angeles Plays Itself and Get in the Car, and William E. Jones, who has done a lot more aesthetic experiments, such as his VHS series.
+> >
+> > > > 3: I highly recommend starting with LAPI. It's just brilliant.
+
+11: I'm personally very excited to see this genre of video grow and it'a apparent that many people enjoy this type of video. I see your concerns as valid but I think most film buffs will be able to sort the good from the bad and the average. For example, I'm not a huge fan of Nerdwriter1's videos- I find the analyses to be lacking depth and sometimes his assertions seem to be somewhat nonsensical.
+
+On the other hand, my favorite channels for these essays are
+
+[Channel Criswell](https://www.youtube.com/channel/UCL5kBJmBUVFLYBDiSiK1VDw)
+
+[Every Frame A Painting](https://www.youtube.com/user/everyframeapainting)
+
+[Darren- Must See Films](https://www.youtube.com/user/foleyd87/videos)
+
+[Renegade Cut](https://www.youtube.com/channel/UC9infsKo33_2LUoiqXGgQWg)
+
+And [**LFTS**, obviously](https://www.youtube.com/channel/UCErSSa3CaP_GJxmFpdjG9Jw)
+
+There are probably a lot of good smaller channels I haven't seen but I've been enjoying these so far.
+
+## What do you think is missing from most film analysis video essays today?
+
+(2018) 107: With the rise of countless video essayists on YouTube trying to analyze films and different aspects of film, I think video essays (particularly film analysis) has become just a fancy new category of videos that you could make on the internet and thus, we're not getting to see any truly intelligent and well-written analyses. There was Tony from **Every Frame A Painting** who really seemed to know what he was talking about with his essays, but ever since he killed the project, it has all been just mediocre stuff building upon more mediocre stuff day by day imo (apart from some other channels like **Lessons From The Screenplay** & Nerdwriter1 who still make good content). What do you think is the reason for this? What was Tony doing right that these new essayists are not? What do you think is missing from most film analysis videos essays today and how can they be fixed?
+
+
+
+106: Actual insight. Citations and references (!), comparable examples to other films in history, quotes from the filmmaker and film analysts, etc.
+
+Basically, they have to prove and support their thesis through valid and sound arguments. Just because it's about film and it's in video format doesn't mean they get off of the hook.
+
+> 54: yup, actual ideas and theses.
+> most video essaysts are basically really good editors, with a great soothing radio voice, expressing their opinion with some writing frosting
+
+> 25: [KyleKalgrenBHH](https://www.youtube.com/user/oancitizen/videos) and [Lindsay Ellis](https://www.youtube.com/user/chezapoctube/videos) already does this. even before **every frame of painting** do it.. they even have their own researcher now.
+
+91: I'm not a fan of the medium but I have seen few that managed to hold me. The one thing I don't like with the videos on YouTube is that they often time completely lack subjectivity. There is a lot of emphasis on being objective and "right" which makes the content predictable and less interesting if the viewer is familiar with the subject beforehand. I think that the good ones also manages to strike a fine balance between visual and auditory information, and they often use the strengths of showing clips without VO to show what they actually mean. I'm not big on Nerdwriter but I've got to give cred to how well edited his videos are. He also animates to illustrate his points.
+
+> 64: This really resonates with me; these video essayists all seem to use the same formula: focus on formal elements of the film and use them to present an objective “truth” about the film. This kind of formal analysis results in fairly dry and rather shallow exploration of the subject matter, albeit one that a lot of viewers derive some some small sense of satisfaction from knowing they now “understand” the film. It also feels like all these video essayists read the same articles from Wikipedia or Cracked, so there is a lot of repetition of the same limited material (try watching all the video essays on David Fincher to see a good example of how much regurgitation of the same material is out there).
+>
+> By contrast, I remember when I took a film class at university, one of the assigned reading materials was a Pauline Kael piece on Scorsese and Raging Bull. Kael’s reviews were always intensely personal and explored issues and emotions that existed outside the film but connected to it and created a critical context for what she was reviewing. In the review I read, there was a fascinating exploration of how Scorsese’s films seem chart a thematic orbit around his Catholic upbringing and the undercurrent of tension between trying to break free from that upbringing and the guilt he felt by turning his back on it.
+>
+> These video essayists really could learn a lot by reading Kael; I feel like the current glut of **Every Frame A Painting** copycats has reached a nadir. There is a space there for someone who can connect in video the way Kael could in prose; having said that, I doubt many of them could even if they tried.
+
+53: An understanding of film-form and film history that can't be gleaned from 15 minutes on Wikipedia is something that kills a lot of these channels for me. Many film channels have essentially a layman's understanding of the medium so they stoop to pointing out "plot holes" and pepper in jargon (cinematography is a popular go-to) to lend credence to the essay.
+
+Another thing that is also hurting the quality of critique is that many channels feel the need to maintain a consistent upload schedule. It's basically impossible to maintain quality and upload regularly. Nerdwriter1 suffers from this I think as he really feels like he's treading water in some videos but can't just shelve the project or he'd have nothing to upload.
+
+There isn't really a simple fix for this and tbh why would there need to be? So many film essays/reviews on YouTube are unimaginably vapid but do amazing numbers and are well-received because their audience don't know any better (I promise I'm not trying to be an elitist). The only way this gets fixed is by content creators themselves taking an effort to understand the medium.
+
+> 46: **Ellis** has a film academic background and it shows. She claims it's useless, but she clearly has a much better understanding of film history and entertainment criticism. Nobody else on YouTube has successfully pulled off a video about Marxism, and not even using one of the big guns in academia like Levi-Strauss or Durkheim.
+>
+> > 39: Yeah **Ellis**' videos are very good and 'The Whole Plate' series especially. Introducing her audience to 101 film theory with a series of videos on the Bayformers is both genius and hysterical.
+
+30: My problem with video essays is just the fact that vast majority of them seem to have been made by <u>people with very shallow knowledge of film history</u>.
+
+To put it bluntly, if you're not aware that there is more to cinema than just Fincher, Spielberg and PTA, then I'm simply not interested in your "analysis" regarding this art form.
+
+26: Too much focus on plot or what is mistaken for story, while trying to "solve" the movie's plot whether it's "What I would do" or "I figured out the meaning of the ambiguity."
+
+Movies are not a puzzles to be solved or plot=story. 
+
+- They don't take 1. 
+- The movies intent 2. 
+- The context of film which the director is trying to make 3. 
+- Actual dissection on the process of film making and why each shot is chosen 4. The emotions it's trying to convey and why it works/ doesn't work. 
+- 5.let us know who the reviewer is and a sense of their taste.
+
+It's irritating that a video says they are "objective" when they're really just a bunch of teenagers or teenagers in adult bodies trying to come off as smart.
+
+> Me: I don't understand this comment at all :/
+
+22: I think that, at least for me, what is missing from video essayists is a <u>strong sense of the theme of the film</u>. But another big note that seems to be missing for me is an awareness of the context to how much certain things they point out even matter. For instance I saw a video on Perfect Blue and there was a 5-10 minute part of how a conversation with her mother was in her head and then how scenes that are lit a certain way are of a certain state of mind. And while that's not useless information, the bigger picture of the film is the emotional core of the character, not simply that she is going through this mental breakdown but rather why she is and how she feels about it. I think there is a degree to which video essayists remain too "academic" and impractical. Sometimes an aspect of a film is simple supportive material and it's not worth poring over.
+
+17: Every once in a while a thread like this will pop up in the sub and it never fails to be as shallow as the video essays it decries. I've read the majority of the comments and besides Grace Lee and Scout Tafoya, I've found no mention of a channel with less than 150.000 subscribers.
+
+What's happening with video essays is that it's a format in expansion. This type of post would be the equivalent of wondering why film criticism became mediocre when blogs popped up and everyone got a platform. There's just a lot of crap out there. Most people watch a couple of newcomers and lose faith that new great voices are just around the corner, not giving them an opportunity to rise in the ranks as easily as someone like Tony Zhou did. Just look at the current front page of [r/videoessay](https://www.reddit.com/r/videoessay/). There's at least 5 or 6 video essays worth your time. Thomas Flight's breakdown of the use of translation and importance of language in Isle of Dogs, Must See Films pointed analysis of character dynamic in Phantom Thread, Entertain the Elk's rundown of the way the Coens end their films, or the first part of a series breaking down the theories of humor by... well... me. Scratch that one. Besides being great examples of why video essays don't suck, the other thing they have in common is less than 5 upvotes - in the sub dedicated to the format.
+
+An interesting discussion would be how to separate the wheat from the gluten, instead of always going back to shitting on an entire format with just a handful of references and a disdain based on generalizations.
+
+## Anyone else getting tired of amateur video essays?
+
+893 (u/Adhiboy): I've noticed a lot of amateur video essayists popping up that seem to want to lecture me about a topic. The issue here is the word "amateur"; these so-called analyses of movies and television are often just the speaker going off on tangents about how great something is without providing sufficient evidence that backs them up.
+
+I like YouTubers like **Every Frame A Painting** and KaptainKristian, who are a clear cut above the rest of the YouTubers I'm speaking about, but even their stuff comes off as "I'm right, just trust me" at times. Declarative statement upon declarative statement with evidence that doesn't always prove what's being said, yet people don't question it because it's presented nicely and their voices are soothing.
+
+It sucks because they used to be something I enjoyed watching. Now, I can't even watch the "good" ones because everything seems so pretentious.
+
+edit: here’s a good video that summarizes what I think:
+
+https://youtu.be/rm00tSDlCG0
+
+> Me: LOL, this video. Don't trust this guy's opinion
+
+433: Have you heard of our lord and savior **Lindsay Ellis**?
+
+> 115: Also, Kyle Kallgren, one of her collegues, is absolutely amazing, not only delving into film theory and history, but also the humanity of film. I think he doesn't get as much exposure because the movies he analyzes aren't as mainstream. I suggest his analysis of "This is Not a Film." For something a little more well-known, he also reviewed "Cloud Atlas."
+>
+> Edit: Grammer
+
+> 90: Also Folding Ideas, who also knows her.
+
+> 77: [YFW you find someone for your spinoff show making more money and better content than you while also trashing your entire business](https://mlpforums.com/uploads/post_images/img-2282329-1-nostalgia-critic-headbang-o.gif)
+>
+> > 65: Genuine question: Is she actually making more than the Nostalgia Critic at this point? I know she's got about 4K patreons, but I know that the Critic has sponsorship out the ass and a much larger platform.
+> >
+> > > 127: *TL;DR I don't think so, I think their sponsored content is out of desperation now that the Indiegogo funds ran out.*
+
+218: Yeah, I'm sick of word essays. Especially since most of them don't delve beyond "Blade Runner 2049 is really good and I like it." Theres so many interesting cinema topics to talk about, yet every video essay is about "Mad Max: Fury Road" or "John Wick"
+
+> 64: I agree, I really like video essays but a lot of them seem to cover the same topics. I would like to see more essays tackle classics or even just random movies. That's what I love about CineFix, they always get me wanting to see a movie I've never heard of. But I would also love to see more diverse in-depth analysis. There are a lot of movies worthy of one, but they came out before the video essay trend.
+>
+> > 140: I can promise you there's a very strong reason that essayists don't cover more classics or random films, *no one watches them*. It's already still an incredibly niche genre, the most successful of whom is Nerdwriter at what, 2.5 million? That's a fraction of the top gaming or beauty or vlog channels, and the competition is getting more and more fierce all the time. It almost seems like there are more people making these types of videos than watching them at this point.
+> >
+> > These videos take an insane amount of time to produce compared to the regular content people churn out on YouTube, and with ad revenue being abysmal, the only way to make any sort of real impact, or money for that matter, is to cover well known topics.
+> >
+> > For example, I made a video about Baby Driver, it's at almost 500k views. Eternal Sunshine, almost 100k. I talk about Kingdom of Heaven and its substantially better Director's Cut in a 17 minute in-depth examination of what's different about both films and why the DC is so much better, 12k.
+> >
+> > Or a buddy of mine Charlie runs a channel called 100 Years of Cinema, where he picks a different iconic film from each year of the last century and discusses different angles of how the influenced the industry or were landmarks of their time in general and he's lucky to break 10k with each video.
+> >
+> > So long story short, it's an incredibly competitive genre that still is incredibly obscure on the internet, is also in a total wave of critiques(like this OP and video linked and the dozen other carbon copies of the same exact complaints) with very little ad revenue, people shitting on you for taking sponsorships or linking to a Patreon page, all for videos that take dozens or hundreds of hours to produce. It's one of the more unforgiving genres to create within in an already crowded and unforgiving platform to begin with.
+
+97: Yep. For every good one like Kaptain Kristian or Lindsay Ellis there are 10 shitty ones who drone on and on with vacuous word salads cough nerdwriter1 cough
+
+> 56: I disagree heavily on kaptin Kristin. He possibly they least "evidence based" video essays of any of the popular essayist. He just seems to say "this popular thing is good" over and over in slightly different ways while showing clips until the video is over, unlike other essayists which actually go into film theory or get quotes from people involved.
+
+78: I'm gonna be honest, the video you posted that you say summarizes how you feel kind of gives off that "trust me, I'm right" vibe immediately with the little cutouts of a dude's avatar giving some cool guy poses.
+
+Is that the point of it? It's kind of hard to want to watch it, tbh.
+
+60: I'm not, I like hearing other people's opinions and think it's great that more and more people are expressing what they believe, and interpret in films.
+
+57: I agree. A lot of them come off as pretentious and “fake deep”. They just make some aesthetic thumbnail and then talk with a really calming and “intelligent” voice. When in reality what they’re talking about is pretty surface level. I stopped watching Nerdwriter1 and Bobby Burns once I realized this.
+
+51: My problem with most of these Nerdwriter knockoffs is that they are "analyzing" mediocre Marvel films and it just comes off incredibly pretentious to me
+
+## References
+
+1. https://old.reddit.com/r/TrueFilm/comments/b3s25y/does_anyone_else_feel_as_though_we_are_becoming/?sort=top&limit=500
+2. https://www.reddit.com/r/TrueFilm/comments/5g49e0/problematic_trends_in_the_current_video_essayist/?sort=top
+3. https://www.reddit.com/r/TrueFilm/comments/992qcc/what_do_you_think_is_missing_from_most_film/
+4. https://www.reddit.com/r/movies/comments/8974y6/anyone_else_getting_tired_of_amateur_video_essays/
+
