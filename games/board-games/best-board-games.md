@@ -2,7 +2,14 @@
 
 ## Table of Contents
 
-
+- [Top games on Reddit](#Top-games-on-Reddit)
+- [Great Games with Traditional Playing Cards](#Great-Games-with-Traditional-Playing-Cards)
+- [SUBREDDIT r/boardgames TOP 100 FOR JAN 2020](#SUBREDDIT-rboardgames-TOP-100-FOR-JAN-2020)
+- [What are your favorite 2 person games? Preferably card games](#What-are-your-favorite-2-person-games-Preferably-card-games)
+- [Best dice games](#Best-dice-games)
+- [Best deck building card games](#Best-deck-building-card-games)
+- [Conclusion](#Conclusion) - this your bro :)
+- [References](#References)
 
 ## Top games on Reddit
 
@@ -284,7 +291,7 @@ I was also glad to see that **Nertz** made this list. It's one of our favorites.
 
 4: Spades is all you need 👍
 
-## SUBREDDIT r/boardgames TOP 100 FOR JAN 2020!
+## SUBREDDIT r/boardgames TOP 100 FOR JAN 2020
 
 | Rank |                             Game                             | Sub Rating |   +/-   | # Ratings | BGG Rating | BGG Rank | BGG Weight |
 | :--: | :----------------------------------------------------------: | :--------: | :-----: | :-------: | :--------: | :------: | :--------: |
@@ -403,7 +410,7 @@ I was also glad to see that **Nertz** made this list. It's one of our favorites.
 |       **Biggest Loser:**       | [Mansions of Madness: Second Edition](http://www.boardgamegeek.com/boardgame/205059) (2016) (-9) |
 |         **Fell Off:**          | [Sekigahara: The Unification of Japan](http://www.boardgamegeek.com/boardgame/25021) (2011), [Millennium Blades](http://www.boardgamegeek.com/boardgame/151347) (2016) |
 
-## What are your favorite 2 person games? Preferably card games.
+## What are your favorite 2 person games? Preferably card games
 
 62: **Cribbage**. If you want to make it a more skill-based game, less luck-based, deal from the same deck for each hand until you run out of cards.
 
