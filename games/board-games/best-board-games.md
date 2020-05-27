@@ -19,7 +19,7 @@ Here are the top games that received 10 or more nominations:
 - *Twilight Imperium* - 16
 - Viticulture EE with Tuscany EE - 16
 - Cosmic Encounter - 15
-- Dominion - 15
+- **Dominion** - 15
 - *Race for the Galaxy* - 15
 - Pandemic - 14
 - Great Western Trail - 13
@@ -75,7 +75,7 @@ This also has me thinking I need to pick up *Scythe*...
 |     16      |      *Twilight Imperium*       | 1997 |
 |     16      | Viticulture EE with Tuscany EE | 2016 |
 |     15      |        Cosmic Encounter        | 1977 |
-|     15      |            Dominion            | 2008 |
+|     15      |          **Dominion**          | 2008 |
 |     15      |     *Race for the Galaxy*      | 2007 |
 |     14      |            Pandemic            | 2008 |
 |     13      |      Great Western Trail       | 2016 |
@@ -194,7 +194,7 @@ Unless there was an obvious change in game mechanisms, I used the earliest date 
 
 Honestly, Spirit Island and Terraforming Mars are the same to me. They seem overly fiddly but have done something well enough to get moving on the hype train. I've seen enough criticism of both of them to steer me away for very real issues.
 
-I wonder which of these games, hot this year, will still be talked about and played in a decade, the way Dominion, Twilight Struggle, etc, still live on.
+I wonder which of these games, hot this year, will still be talked about and played in a decade, the way **Dominion**, *Twilight Struggle*, etc, still live on.
 
 For reference, my top 5 would have been:
 
@@ -362,7 +362,7 @@ I was also glad to see that **Nertz** made this list. It's one of our favorites.
 |  72  | [Hansa Teutonica](http://www.boardgamegeek.com/boardgame/43015) (2009) |   7.572    |  *▼2*   |    553    |   7.644    |   123    |   3.125    |
 |  73  | [Ticket to Ride: 10th Anniversary](http://www.boardgamegeek.com/boardgame/160069) (2014) |   7.566    |  *▼2*   |    268    |   8.281    |    NA    |   1.913    |
 |  74  | [Forbidden Stars](http://www.boardgamegeek.com/boardgame/175155) (2015) |   7.558    |  *▼2*   |    374    |   7.962    |    96    |    3.81    |
-|  75  | [Aeon's End: War Eternal](http://www.boardgamegeek.com/boardgame/218417) (2017) |   7.558    | **▲7**  |    165    |    8.48    |   180    |   2.887    |
+|  75  | [*Aeon's End*: War Eternal](http://www.boardgamegeek.com/boardgame/218417) (2017) |   7.558    | **▲7**  |    165    |    8.48    |   180    |   2.887    |
 |  76  | [Sidereal Confluence: Trading and Negotiation in the Elysian Quadrant](http://www.boardgamegeek.com/boardgame/202426) (2017) |   7.557    | **▲1**  |    279    |   7.803    |   533    |   3.671    |
 |  77  | [Galaxy Trucker: Anniversary Edition](http://www.boardgamegeek.com/boardgame/140068) (2012) |   7.556    |  *▼3*   |    253    |   8.196    |    NA    |   2.809    |
 |  78  | [Battlestar Galactica: The Board Game](http://www.boardgamegeek.com/boardgame/37111) (2008) |   7.548    |   --    |   1612    |   7.741    |    66    |   3.236    |
@@ -370,8 +370,8 @@ I was also glad to see that **Nertz** made this list. It's one of our favorites.
 |  80  | [Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases](http://www.boardgamegeek.com/boardgame/2511) (1981) |   7.543    |   --    |   1033    |   7.772    |    77    |   2.701    |
 |  81  | [The Resistance: Avalon](http://www.boardgamegeek.com/boardgame/128882) (2012) |   7.542    |  *▼2*   |   1796    |   7.603    |   110    |   1.777    |
 |  82  | [Cosmic Encounter](http://www.boardgamegeek.com/boardgame/39463) (2008) |   7.537    | **▲2**  |   1946    |   7.543    |   130    |   2.571    |
-|  83  | [Aeon's End](http://www.boardgamegeek.com/boardgame/191189) (2016) |   7.536    | **▲4**  |    440    |   8.032    |    75    |   2.784    |
-|  84  | [Dominion: Intrigue](http://www.boardgamegeek.com/boardgame/40834) (2009) |   7.533    |  *▼1*   |   1481    |   7.733    |    65    |   2.431    |
+|  83  | [*Aeon's End*](http://www.boardgamegeek.com/boardgame/191189) (2016) |   7.536    | **▲4**  |    440    |   8.032    |    75    |   2.784    |
+|  84  | [**Dominion**: Intrigue](http://www.boardgamegeek.com/boardgame/40834) (2009) |   7.533    |  *▼1*   |   1481    |   7.733    |    65    |   2.431    |
 |  85  | [Mansions of Madness: Second Edition](http://www.boardgamegeek.com/boardgame/205059) (2016) |   7.527    |  *▼9*   |    772    |   8.112    |    30    |   2.674    |
 |  86  | [7 Wonders](http://www.boardgamegeek.com/boardgame/68448) (2010) |   7.524    |  *▼1*   |   3618    |   7.769    |    49    |   2.336    |
 |  87  | [Istanbul](http://www.boardgamegeek.com/boardgame/148949) (2014) |   7.509    |  *▼1*   |   1196    |   7.597    |   104    |   2.592    |
@@ -421,7 +421,7 @@ Codenames duet is the cooperative 2 player version of codenames.
 
 If you have some experience with boardgames or want something more challenging, check out 7 Wonders duel.
 
-Other suggestions: port royal, Forbidden island (cooperative but not a card game), star realms, and lost cities the card game.
+Other suggestions: port royal, Forbidden island (cooperative but not a card game), *star realms*, and lost cities the card game.
 
 If you want more in depth suggestions, there is a wiki and daily recommendations thread in [r/boardgames](https://www.reddit.com/r/boardgames/). To find out more about a specific game, check boardgamegeek and maybe watch some videos. The dice Tower usually has a good overview of the rules and game play.
 
@@ -699,17 +699,344 @@ Oh, there's also stuff like Bang! The Dice Game. I think a Lord of the Rings dic
 
 > 1: 10000 and Farkle are pretty much the same thing
 
+## Best deck building card games
+
+What are your top 5 deck building games? Deck/pool building
+
+18: ITT: People confusing <u>deck-building</u> with hand management.
+
+Concordia, Century: Spice Road, Food Chain Magnate and the like are hand management games because you have access to all of the cards you have acquired at the same time. Even Rococo is stretching the definition a bit.
+
+As for my choices:
+
+1. *Arctic Scavengers +HQ +Recon*
+2. Valley of the Kings
+3. *Star Realms*
+4. *Clank*
+5. Dale of Merchants
+
+> 4: How come artic is constantly ranked high. Asking because when I played it wasn't that fun.
+>
+> > 3: I think it depends on what you are looking for. If you are after optimizations and engine building, Arctic won't offer you as much as some of the other options. Its strength is the multi-use cards and the bluffing elements.
+> >
+> > I especially like it because it is not about playing the game but about playing the players.
+
+> 5: Awesome to see Dale of Merchants!
+>
+> Sami made an awesome game that i feel does not get enough recognition.
+
+17: 
+
+1. Paperback
+2. **Dominion**
+3. *Clank*
+4. *Harry Potter: Hogwarts battle*
+5. *Star Realms*
+
+10: 
+
+1. **Dominion**
+2. Valley of the Kings
+3. Eminent Domain
+4. *Clank*!
+5. Paperback
+
+**Dominion** is in first by a good amount, and there's a decent amount of separation between 3 and 4 as well. **Dominion** is just so damn good.
+
+7: **Dominion** with a couple expansions.
+
+.
+
+.
+
+.
+
+Vanilla **Dominion**
+
+8: 
+
+1. Tyrants of the Underdark
+2. Great Western Trail
+3. Rococco
+4. Super Motherload
+5. City of Iron
+
+While these are all hybrid games, which I prefer to pure deckbuilders, I didn't include 'bag builders' or Concordia, where deckbuilding seems a bit peripheral.
+
+> 3: 
+>
+> > Concordia, where deckbuilding seems a bit peripheral
+>
+> I think it is tough to make the argument that deckbuilding is peripheral in Concordia, but essential/core in Rococco
+
+6: **Dominion** (will always be #1)
+
+*Clank*
+
+Concordia
+
+Alien Legendary Encounters
+
+Hero/*Star Realms*
+
+If you are being strict and only allowing card based deck building, then the above is my list. But if pool or bag building is allowed, then Orleans would be tied with Concordia. Though I would rank both of these higher on general lists as I adore Concordia and Orleans.
+
+5: **Dominion**
+
+*Clank!*
+
+Concordia
+
+Alien Legendary Encounters
+
+*Aeons End*
+
+6: 
+
+1. DC Deck Building
+2. Hero Realms/Cthulhu Realms
+3. *Arctic Scavengers*
+4. Marvel Legendary
+5. **Dominion**
+
+6: Xenoshyft
+
+*Clank*
+
+*Aeons End*
+
+*Hogwarts battle*
+
+Paperback
+
+5: 
+
+1. *Aeon's End*
+2. *Harry Potter: Hogwart's Battle*
+3. Puzzle Strike
+4. Codex
+5. Paperback
+
+4:
+
+Marvel Legendary
+
+*Clank*
+
+Edit - Shadowrift
+
+DC Deck builder
+
+???
+
+3: **Dominion** Valley of the Kings Star/Hero Realms Dale of Merchants Clank
+
+Love Deck Builders, such great games in that genre
+
+3: **Dominion** (first game my wife and I really got into. Our gateway game.)
+
+*Star Realms*
+
+Great Western Trail
+
+Paperback
+
+*Harry Potter*
+
+---
+
+Best of Deck Building. What is your favorite deck building game? Looking to buy one for my friend.
+
+27: **Dominion**.
+
+> 8: The answer which is not necessarily exciting but not necessarily incorrect.
+>
+> > -8: Removing the double negative:
+> >
+> > "The correct answer."
+> >
+> > > 18: You can't remove a double negative when the word "necessarily" is present. Also, a double negative doesn't equal a positive. Consider:
+> > >
+> > > "You can't not breathe for 5 minutes; you will die."
+> > >
+> > > And
+> > >
+> > > "You can breathe for 5 minutes; you'll die."
+> > >
+> > > These sentences are totally different. In fact, whatever you learned about double negatives, just let it all go. Except for the algebra 1 rule of - - x = x when x is a real number. You can keep that one.
+
+13: DEEP BREATH...
+
+*Star Realms* is a fantastic two player deck builder with evocative sci fi art to go with the galactic war theme. No points in this one, just blow up your enemy.
+
+Eminent Domain shares the space theme with Star Realms but this one is about building an empire by conquering/colonizing planets. It features a "follow the leader" mechanism so if you watch what the other players are doing you can get more than one thing done in a round.
+
+*Aeon's End* is a post-apocalyptic fantasy cooperative game where you are fighting a horrifying monster that is sort of running on a script (their deck is kind of like an AI routine that gets randomized each game).
+
+Paperback is a word game where the letters you may use are the cards you've added to your deck. Buy a letter that is hard to use and it will have a better ability.
+
+*Arctic Scavengers* is a frozen wasteland apocalypse game where you must build the most populist colony by getting the best mercs and fighting the other players over rare items found in the wastes or just digging through trash and trying to find something valuable.
+
+All of the games I've mentioned are fantastic games. If the theme sounds good, I'd say it's a winner.
+
+11: Valley of the Kings
+
+[/u/r2d8](https://www.reddit.com/u/r2d8/) getinfo
+
+It has a couple standalone expansions. They are all about the same but most people that have played them all say Afterlife has their favorite cards. I find it to be much more accessible than **Dominion** or Ascension thanks to limited market where the players can buy cards from. Also the pyramid mechanic of falling cards is a bit silly but it works and it does support the theme more than you'd expect.
+
+8: *Aeon's End*
+
+[/u/r2d8](https://www.reddit.com/u/r2d8/) getinfo
+
+> 5: Yep. *Aeon's End* is currently at the top of the list for my wife and I. Played a game a night almost since we got it. So good.
+>
+> > 3: How well does it play to new deckbuilders?
+> >
+> > > 4: It's not the simplest deckbuilder, but it has an awesome tutorial. All your first game is 100% set up in the box when you open it. There is a special separate sheet and pre-sorted decks that it walks you through set up and such to make your first game easy to learn without having to worry about setting up the market or Nemesis or anything else.
+> > >
+> > > If they're experienced with board games in general, it'll be no problem at all. But it might be intimidating for newbies to the hobby with no one to walk them through it and explain certain things.
+
+6: I've not delved too deep into the genre but I've enjoyed the time I've spent with marvel legendary quite a bit.
+
+If you're open to bag building as well as deck building then maybe look at automobiles. It's a nifty design that i think adds a lot to the mechanic.
+
+> 5: I must second this. Legendary: Marvel is fantastic if they have an interest in the Marvel Universe.
+>
+> *Harry Potter Hogwarts Battle* is VERY friendly to beginners, and the theme is a big selling point to a lot of people.
+>
+> *Star Realms* is great if you want to get them a second deck building game for about $13. Also check out the rating on it [/u/r2d8](https://www.reddit.com/u/r2d8/) *getinfo Star Realms*
+
+5: I posted some of my favorites on someone else asking for a good coop version. Since I prefer coop deck building anyway, it was an easy response. I'll copy my response from the other post:
+
+I have been told that *Aeon's End* is supposed to be very good though. There are several cooperative deckbuilders I have played that I can recommend:
+
+- *Harry Potter: Hogwarts Battle* - This one took me a bit by surprise. It plays over 7 games (the years of the books) and adds mechanics, difficulty, and/or cards with each one. It's a game that seems very simple on the surface but really piles on some complexity and can end up being very compelling once you get into it. One downside as there's no "common" card that can be purchased if the row doesn't have good cards.
+- DC Deck Building Game + Crisis Expansions - This one may be a hard sell for you as DC Deckbuilding does not come with cooperative gameplay out of the box. You have to get at least one of the Crisis expansions to make it cooperative, but it's an interesting challenge once you put it together. It's not as highly recommended due to the theme being more window dressing than really part of the gameplay, but the mechanics are fairly solid.
+- Attack on Titan: Deck Building Game - This one is from Cryptozoic who made the DC Deck Building Game. It has nearly the same mechanics, but was made for Co-Op and is strongly tied to its theme. It adds a physical play component, where you have to move your character to one of the card locations to buy that card, if you can't move to it, you can't get it. Your goal is to defeat Titans who will try to break down your 5 wall tokens. Defeating Titans takes resources that you would also use to buy cards, so you have to balance your physical location, defeating Titans, as well as buying your cards.
+- Legendary Encounters - There's several versions of this one (Alien, Predator, and Firefly). Each is strongly tied to its theme and has 2 types of rows to deal with. One is for buying cards to put in your deck, the other is for obstacles that stand in your way and must be defeated. The obstacles can be villains to defeat or events that cause something to happen, really helping the theme. There is a Marvel version of this game, but I find its theme isn't as strong and the game not as cohesive.
+
+> 2: I second the Harry Potter game. It's great as a gateway game, too. I don't know how much experience your friend has with designer board games.
+
+3: Greatly enjoying Tyrants of the Underdark. Beyond deckbuilding there's a board with various locations you fight over. The deck will decide how you fight. Also the deck you buy from can be customized. You shuffle together 2 half decks of different themes. Worth a look to combine deck building and light strategy.
+
+4: *Arctic Scavengers* hands down.
+
+[/u/r2d8](https://www.reddit.com/u/r2d8/) getinfo
+
+4: Hero Realms is a fantastic choice. It's a new release that functions like *Star Realms* but uses a fantasy setting and adds custom classes with abilities. It's ridiculously good.
+
+3: Trains is great. Like **dominion** with route building
+
+---
+
+Best deckbuilding game? Thinking about getting into a deck builder, what's everyone's favorite? I've had some experience with Ascension and Smash Up (sort of similar), but there's just so many out there...
+
+Pros and cons would be wonderful.
+
+13: **Dominion** is the best one.
+
+> 4: I'll third. **Dominion** (base game) + Seaside + Prosperity has a huge amount of variety and replayability. Addition expansions add even more. Adventures, Empires and perhaps Intrigue seem to be the most popular ones after Seaside/Prosperity.
+
+> 3: I second this, **Dominion** is like the Original so it's a good starting point. Other deck builders tend to build off of dominion and either add their own twist or improve on **dominion**'s mechanics. If you're looking to get into deckbuilders...you really can't go wrong with **Dominion**.
+
+12: **Dominion** is best with a few caveats.
+
+It's dry and themeless. It's good if you like a very pure, mathematical experience.
+It's expensive. **Dominion** can be good, but the base game alone does not have much variety, and you will want expansions quickly. This makes for a high cost of ownership.
+**Dominion** is best with only 2 players. Many serious players strongly dislike it with more.
+
+On the opposite end, you have Ascension Apprentice Edition which is a super cheap, 2 player only version of Ascension. This is more thematic, and uses the random market style. If you're really unsure, this is the cheapest option.
+
+*Star Realms* and Hero Realms are the cheapest deckbuilding games out there (except Apprentice Edition). They're almost identical, aside from theme. Hero Realms is also 2-4p. These are solid, excellent games and very popular. Unlike most deckbuilding games, these are directly confrontational. You win by killing your opponent instead of just earning victory points.
+
+*Star Realms* has a FREE app. Start there.
+
+Valley of the Kings is a more advanced game. Play something else first and get a handle on deckbuilding. This is a game of limited time and very hard choices. You can do multiple things with each card... It's choosing which function to use, and mostly WHEN.
+
+*Arctic Scavengers* is an interesting twist on things. Cards can have multiple uses, you mix a static market with a special draw pile where an action let's you Draw X, Keep 1.
+
+Turns are on your own, but the end of the round has you fighting over a high powered card... Using any cards left in your hand. So every card, you can pick Action A, Action B (sometimes C and D), or NOT playing them to help earn the bonus card. There's bluffing too, because maybe the cards you kept are worthless in the fight, but it makes someone hold back more cards trying to beat you.
+
+Quarriors is like deckbuilding but with dice. You buy new, stronger dice into your bag and roll them to get creatures that attack other creatures. If yours live until your next turn, they earn you victory points. It's fairly simplistic, but the dice aspect adds another random level to it.
+
+There are a lot more deckbuilders out there, but these are common and popular, while also not being too similar to others. Like DC Comics Deckbuilding is a lot like Ascension, Cthulhu Realms is based on *Star Realms*, etc.
+
+> 4: I love **Dominion**, first and foremost. I think the "balancing" mechanic of victory points being bad and useless cards is smart. I love the emphasis on trashing. I love Cursing my opponents' decks into a bloated mess. I think most importantly the (initial) limit of 1 action 1 buy per turn makes for fun choices and interesting hand-management cardplay that almost every other deckbuilder doesn't bother with. I even love the theme, actually - have defended it vigorously and will again. It's abstract but it's there and often pretty clever.
+>
+> I just played Valley of the Kings for the first time last week. It *became* very interesting, but it can be hard at the outset to really tell what the game/puzzle actually *is* (I mean, entomb the most and best stuff obviously, but it's hard to tell when to start entombing on your first play), so neither of us really had a strong sense of purpose or strategy until toward the end. But I think it's got real potential, and it's sure cheap. Also as far as theme goes it makes **Dominion** look like Conan or something, just nothing there at all but the mechanics (which is fine!).
+>
+> Star Realms is pretty fun to pass the time. Even the physical version is really cheap, but the app is notably FREE and saves you from having to use the really horrible scoring cards that come with the deck. The game itself is pretty similar to Ascension: There's a central market row, you draw a 5 card hand and you get to play all of them, with each card giving you money to buy more cards, letting you draw or force discards or mess with the trade row, or just giving you points. The points are framed as damage you're doing to your opponent but it's the same thing, just a twist to make you *feel* like you're interacting with your opponent. There's more interaction happening in the market row, but you're going to be limited to a few choices based on money usually, and then you'll just go with the one that fits faction-wise so you can get those sweet perks. That's why I don't really like the deckbuilders with the limited market row - it throws a lot of long-term strategy out the window and makes your choices much much simpler, to the detriment of my enjoyment. I don't think strategy in Star Realms (Cthulhu Realms, whatever) goes much deeper than: 1. Pick one or two factions and focus on them, 2. As in all deckbuilders, trashing is good if you can get it, 3. Outposts are priority targets at the beginning unless you can get a full Blob rush going.
+>
+> I really really like *Arctic Scavengers*, and the expansion modules really turn it into something fun and interesting and *different*. I think the skirmishes are actually a much more interesting way to inject some interaction beyond just buying out the last X card that you knew your opponent wanted. There will never be as much variation game-to-game as **Dominion**, but the cards available from the base game and expansions provide you with a pretty deep and pretty well-balanced puzzle with multiple paths to victory, and lots of very specific counterplay that might not work with a larger cardpool. Probably my favorite theming on a deckbuilder as well.
+>
+> I'll just throw out on the side that Friday is a fun puzzle and perhaps just the *tightest* deckbuilder, although it's only for 1 player. It'll make you better at this kind of game, I think, just because doing well at it requires you to really understand the concept of a pared-down, efficient deck.
+
+9: **Dominion** is my favorite, but we've been playing a lot of Paperback lately since my husband is a big fan of word games.
+
+5: I just don't love pure deck building games but I do like the mechanic when it is well integrated into a board game as one of a number of mechanics.
+
+With that in mind I would suggest both Great Western Trail and Mombasa with a nod to Rococo as well. All great games that feature deck/hand building but incorporate many other interesting mechanics and elements with a bigger game wrapped around them.
+
+> 1: You should play *Clank*!
+>
+> > 1: THIS!
+
+5: Core Worlds is the best deck building game in my collection. **Dominion** may have started it all but it's kind of dull by comparison.
+
+Pros of Core Worlds:
+
+- More thematic and (especially with the expansions)
+- Far more depth of strategy and tactical play
+- Unlike games like Ascension or *Star Realms*, there is a progression of cards introduced into the game so you don't have uber-power cards sitting undrafted all game or until the first player gets a "lucky" draw
+- Variable setup and factions with different starting cards increases the replayability
+- You only see ~1/3 to 1/2 of the cards each game so no two games will play the same
+- They address the start player advantage (and in different ways depending on the number of players)
+
+Neutral:
+
+- Random card draw means that you might be going for one type of deck early on but then never see certain cards that help your early strategy. Part of the gameplay is planning around this eventuality.
+- Lots of table space is required, especially with the expansions.
+- Player interaction is limited to acquiring cards from the centre before your opponents can. Sometimes there will be heavy competition for cards, other times players may be going down different strategic paths and drafting will not be as competitive.
+
+Cons:
+
+- More depth means a longer game. Playing four players with expansions usually takes over an hour, maybe close to two hours. However, this is a meaty game and not filler. Base game can be pushed through in an hour or so.
+- Complex rules and, unlike **Dominion**, most cards stay in play and add rules and event triggers as the game goes on. Expansions add even more rules and event triggers as well as increase the options available from the start.
+
+4: My son loves to play *Star Realms*. cheap, simple and he can teach his friends and others to play quickly.
+
+> 2: Came to give +1 to *Star Realms* aswell. It wipes the floor with **Dominion** in my opinion.
+
+3: My personal favourite is *Aeon's End* at the moment. I also love the Ascension series (Dreamscape and Rise of Vigil being my favourites). Attack on Titan is also pretty good, but really, really difficult to win. I don't much care for **Dominion**, and I despise Marvel Legendary (Legendary Encounters: Alien is alright, but I sold my copy).
+
+3: Totally *Aeon's End*. It gives deck building a purpose. It's the best deck builder I've ever played. Exciting, thematic, easy to learn, but lots of replayability.
+
+3: *Arctic Scavengers*. Tight, combative, incorporates bluffing, constant knifefight.
+
+3: So, deckbuilding mechanics are my 2nd boardgame love (behind drafting and ahead of stock trading) but you have to separate these games into: pure and mechanical varities. The best pure deckbuilder is **Dominion** bitnit can be VERY dry. *Star Realms* is amazing and more interactive, but can get really brutal.
+
+Tyrants of the Underdark may be my favorite use of the mechanic of deck building. It's a mix of risk and **dominion** and it's so clever you wonder why it took WOTC to come up with it.
+
+There are some near misses with the genre too. *Arctic Scavengers* and Draconis try to add something to the mechanic, but neither capture the true beating heart of deckbuilding
+
+3: *Arctic Scavengers* with the Recon expansion is a favorite. Easy to learn, short playtime, but lots of good strategy and variety to it.
+
+I really enjoyed **Dominion**, but without expansions, you'll burn out fast
+
 ## Conclusion
 
-Best board games: **Gloomhaven** (1-4p, 3 is opt; 60-120 min), **Cribbage**, *Pandemic Legacy: Season 1* (2-4p, 4 is opt; 60 min), *Twilight Imperium* (Fourth Edition) (3-6p, 6 is opt; 240–480 min), *Twilight Struggle* (2p; 120-180 min), *Scythe* (1-5p, 4 is opt; 90–115 min), *Race for the Galaxy* (2-4p, 2 is opt; 30-60 min), *Android: Netrunner* (2p; 45 min), *Carcassonne* (2-5p, 2 is opt; 30-45 min), *Magic: The Gathering* (2p; 20 min), (+qwixx (2-5p, 4 is opt; 15 min) + poker dice (?)), Go (2p; 30-180 min), Secret Hitler (5-10p, 8 or 10 are opt; 45 min), Arkham Horror: The Card Game, Ascension: Deckbuilding Game.
+Best board games: **Gloomhaven** (1-4p, 3 is opt; 60-120 min), **Cribbage**, *Pandemic Legacy: Season 1* (2-4p, 4 is opt; 60 min), *Twilight Imperium* (Fourth Edition) (3-6p, 6 is opt; 240–480 min), *Twilight Struggle* (2p; 120-180 min), *Scythe* (1-5p, 4 is opt; 90–115 min), *Race for the Galaxy* (2-4p, 2 is opt; 30-60 min), *Android: Netrunner* (2p; 45 min), *Carcassonne* (2-5p, 2 is opt; 30-45 min), *Magic: The Gathering* (2p; 20 min), Go (2p; 30-180 min), Secret Hitler (5-10p, 8 or 10 are opt; 45 min).
 
 > Condottiere (2-6p, 4-5 is optimal; 45 min) and *Android: Netrunner* were sources of inspiration for the developers of Gwent for The Witcher 3.
 
-Best card games: **Cribbage** (2p, non trick-taking; 30 min), Bridge (4p, trick-taking; 60 min), Spades (4p, trick-taking; 60 min), Gin Rummy (2p, non trick-taking; 30 min),  Ninety-Nine (3p is optimal; one of the very best trick-taking games for exactly 3 players; trick-taking; 60 min), President (or Scum, or Asshole; large group, optimal is 5-8 group; non trick tacking, social and family game; 45 min), Le Truc (2p or 4p; fantastic for those who like bluffing; trick-taking; 20 min), Schnapsen (2p; it is worth the effort to learn if you enjoy skilful play; trick-taking; 20 min), Poker (2-10p; for those who enjoy bluffing; non trick-taking; 60 min), Preferans (3-4p, 3 is optimal; trick-taking; 120 min), Spit / Speed (2p; fast-paced; non trick-taking I guess; 5-15 min), Arkham Horror: The Card Game (1-2p, 2 is opt; 60-120 min), Ascension: Deckbuilding Game (1-4p, 2 is opt; 30 min).
+Best card games: **Cribbage** (2p, non trick-taking; 30 min), Bridge (4p, trick-taking; 60 min), Spades (4p, trick-taking; 60 min), Gin Rummy (2p, non trick-taking; 30 min),  Ninety-Nine (3p is optimal; one of the very best trick-taking games for exactly 3 players; trick-taking; 60 min), President (or Scum, or Asshole; large group, optimal is 5-8 group; non trick tacking, social and family game; 45 min), Le Truc (2p or 4p; fantastic for those who like bluffing; trick-taking; 20 min), Schnapsen (2p; it is worth the effort to learn if you enjoy skilful play; trick-taking; 20 min), Poker (2-10p; for those who enjoy bluffing; non trick-taking; 60 min), Preferans (3-4p, 3 is optimal; trick-taking; 120 min), Spit / Speed (2p; fast-paced; non trick-taking I guess; 5-15 min), Arkham Horror: The Card Game (1-2p, 2 is opt; 60-120 min; overall - 20, customizable - 1).
 
 Best dice games: **The Castles of Burgundy** (2-4p, 2 is opt; 30-90 min; might not be the real dice game; overall - 14; dice worker placement), *Roll for the Galaxy* (2-5p, 3-4 is opt; 45 min; overall - 80; nice adaption; dice rolling (I think)), *Grand Austria Hotel* (2-4p, 2 is opt; 60-120 min; overall - 90; dice drafting), Voyages of Marco Polo (2-4p, 4 is opt; 40-100 min; overall - 45; dice worker placement), Troyes (2-4p, 3 is opt; 90 min; overall - 73; dice drafting), Too Many Bones (1-4p, 3 is opt; 60-120 min; overall - 61; dice drafting), Champions of Midgard (2-4p, 4 is opt; 60-90 min; overall - 93; dice worker placement).
 
-Best head to head games: **Cribbage**, *Twilight Struggle*, *Carcassonne*, **Castles of Burgundy**, *Race for the Galaxy*, *Android: Netrunner*, *Magic: The Gathering*, Yahtzee, Gin Rummy, Arkham Horror: The Card Game, Ascension: Deckbuilding Game.
+Best deck building card games: **Dominion** (2-4p, 3 is opt; 30 min), *Clank!* (2-4p, 3 is opt; 30-60 min; for those who don't love pure deck building; gamesoverall - 59), *Star Realms* (2p; 20 min;  cheap, simple, and can be more interesting than Dominion; overall - 102 (+ Hero Realms)), *Aeon's End* (1-4p, 2 is opt; 60 min; gives deck building a purpose, exciting, thematic, easy (no easiest) to learn, lots of replayability; overall - 76), *Arctic Scavengers +HQ +Recon* (1-5p, 3-4 is opt; tight, combative, incorporates bluffing, constant knifefight), *Harry Potter: Hogwarts Battle* (2-4p, 4 is opt; 30-60 min; friendly to beginners; can be complex; overall - 280, thematic - 93), Legendary: A Marvel Deck Building Game (1-5p, 3 is opt; 30-60 min; fun, DC game is worse; overall - 155, thematic - 51), Core Worlds (2-5p, 3 is opt; just added this because of great comment;overall - 663), Ascension: Deckbuilding Game (1-4p, 2 is opt; 30 min).
+
+Best head to head games: **Cribbage**, *Twilight Struggle*, *Carcassonne*, **Castles of Burgundy**, *Race for the Galaxy*, *Star Realms*, *Android: Netrunner*, *Magic: The Gathering*, Yahtzee, Gin Rummy, Arkham Horror: The Card Game, Ascension: Deckbuilding Game.
 
 ## References
 
@@ -720,3 +1047,6 @@ Best head to head games: **Cribbage**, *Twilight Struggle*, *Carcassonne*, **Cas
 5. https://www.reddit.com/r/boardgames/comments/8t1fmu/favorite_dice_games_to_play/
 6. https://www.reddit.com/r/boardgames/comments/8m1jg7/what_are_your_top_5_dice_games/
 7. https://www.reddit.com/r/dice/comments/7n0uxu/what_are_some_good_dice_games/
+8. https://www.reddit.com/r/boardgames/comments/6t3f6a/what_are_your_top_5_deck_building_games/
+9. https://www.reddit.com/r/boardgames/comments/5mnzmh/best_of_deck_building/
+10. https://www.reddit.com/r/boardgames/comments/5z3lq0/best_deckbuilding_game/
