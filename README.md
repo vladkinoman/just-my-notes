@@ -27,6 +27,10 @@ Subfolders:
 - **operating-systems**: notes on Linux and Windows operating systems.
 - **theory-of-programming**: the science of programming, notes on programming paradigms, types in pl, simple programming language formalization, etc.
 
+## donations
+
+It contains notes on communities, people, software and other projects that I have to support with money. These people do a lot of good things for this world and they deserve any kind of reward, and since our world, as well as our motivation, so much depends on money, then support should be done in this way. Someday the world will give up money and have a happy life, but that will be later. Now I have to provide support to all such creative people.
+
 ## english
 
 This folder contains my notes I wrote while studying English.
