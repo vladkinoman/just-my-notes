@@ -1,5 +1,9 @@
 # Best board games
 
+## Table of Contents
+
+
+
 ## Top games on Reddit
 
 Here are the top games that received 10 or more nominations:
@@ -21,7 +25,7 @@ Here are the top games that received 10 or more nominations:
 - Great Western Trail - 13
 - *Pandemic Legacy* - 13
 - The Resistance/Avalon - 13
-- Castles of Burgundy - 12
+- **Castles of Burgundy** - 12
 - Keyflower - 11
 - Lords of Waterdeep - 11
 - Terra Mystica - 11
@@ -30,8 +34,8 @@ Here are the top games that received 10 or more nominations:
 - Blood Rage - 10
 - Five Tribes - 10
 - Mage Knight - 10
-- Magic: The Gathering - 10
-- Roll for the Galaxy - 10
+- *Magic: The Gathering* - 10
+- *Roll for the Galaxy*  - 10
 - Tigris and Euphrates - 10
 
 Note: If I had lumped Pandemic and Pandemic: Legacy together, it would have had 27 nominations.
@@ -77,7 +81,7 @@ This also has me thinking I need to pick up *Scythe*...
 |     13      |      Great Western Trail       | 2016 |
 |     13      |       *Pandemic Legacy*        | 2015 |
 |     13      |     The Resistance/Avalon      | 2009 |
-|     12      |      Castles of Burgundy       | 2011 |
+|     12      |    **Castles of Burgundy**     | 2011 |
 |     11      |           Keyflower            | 2012 |
 |     11      |       Lords of Waterdeep       | 2012 |
 |     11      |         Terra Mystica          | 2012 |
@@ -87,7 +91,7 @@ This also has me thinking I need to pick up *Scythe*...
 |     10      |          Five Tribes           | 2014 |
 |     10      |          Mage Knight           | 2011 |
 |     10      |     *Magic: The Gathering*     | 1993 |
-|     10      |      Roll for the Galaxy       | 2014 |
+|     10      |     *Roll for the Galaxy*      | 2014 |
 |     10      |      Tigris and Euphrates      | 1997 |
 
 NOTES:
@@ -210,7 +214,7 @@ Bora Bora Tzolk'in *Android: Netrunner* Castles of Mad King Ludwig Dominant Spec
 
 1: What's the best head to head games on here?
 
-> 3: I would say Twilight Struggle, *Carcassonne*, Castles of Burgundy, *Race for the Galaxy* are definitely worth it for head to head games. There are a few on the list I haven't played so I can't really speak for those.
+> 3: I would say *Twilight Struggle*, *Carcassonne*, **Castles of Burgundy**, *Race for the Galaxy* are definitely worth it for head to head games. There are a few on the list I haven't played so I can't really speak for those.
 
 ## Great Games with Traditional Playing Cards
 
@@ -296,7 +300,7 @@ I was also glad to see that **Nertz** made this list. It's one of our favorites.
 |  10  | [Great Western Trail](http://www.boardgamegeek.com/boardgame/193738) (2016) |   8.108    | **▲1**  |   1191    |   8.284    |    11    |   3.692    |
 |  11  | [Gaia Project](http://www.boardgamegeek.com/boardgame/220308) (2017) |   8.103    |  *▼2*   |    646    |   8.501    |    9     |    4.31    |
 |  12  | [Through the Ages: A New Story of Civilization](http://www.boardgamegeek.com/boardgame/182028) (2015) |   8.057    |   --    |    815    |    8.49    |    4     |   4.387    |
-|  13  | [The Castles of Burgundy](http://www.boardgamegeek.com/boardgame/84876) (2011) |    8.02    |   --    |   2579    |   8.128    |    15    |   3.002    |
+|  13  | [**The Castles of Burgundy**](http://www.boardgamegeek.com/boardgame/84876) (2011) |    8.02    |   --    |   2579    |   8.128    |    15    |   3.002    |
 |  14  | [A Feast for Odin](http://www.boardgamegeek.com/boardgame/177736) (2016) |   8.016    |   --    |    866    |   8.179    |    23    |   3.838    |
 |  15  | [Terra Mystica](http://www.boardgamegeek.com/boardgame/120677) (2012) |   8.009    |   --    |   1903    |   8.171    |    14    |   3.952    |
 |  16  | [Terraforming Mars](http://www.boardgamegeek.com/boardgame/167791) (2016) |   7.994    | **▲1**  |   1957    |   8.424    |    3     |   3.234    |
@@ -326,7 +330,7 @@ I was also glad to see that **Nertz** made this list. It's one of our favorites.
 |  40  | [Le Havre](http://www.boardgamegeek.com/boardgame/35677) (2008) |   7.734    |  *▼1*   |   1100    |   7.879    |    43    |   3.748    |
 |  41  | [Fields of Arle](http://www.boardgamegeek.com/boardgame/159675) (2014) |   7.728    |   --    |    354    |   8.104    |    53    |   3.893    |
 |  42  | [Power Grid](http://www.boardgamegeek.com/boardgame/2651) (2004) |   7.712    |   --    |   2410    |   7.878    |    34    |   3.275    |
-|  43  | [Roll for the Galaxy](http://www.boardgamegeek.com/boardgame/132531) (2014) |   7.709    | **▲1**  |   1688    |    7.7     |    76    |   2.771    |
+|  43  | [*Roll for the Galaxy*](http://www.boardgamegeek.com/boardgame/132531) (2014) |   7.709    | **▲1**  |   1688    |    7.7     |    76    |   2.771    |
 |  44  | [Tzolk'in: The Mayan Calendar](http://www.boardgamegeek.com/boardgame/126163) (2012) |   7.703    | **▲2**  |   1418    |   7.916    |    39    |   3.652    |
 |  45  | [Codenames](http://www.boardgamegeek.com/boardgame/178900) (2015) |    7.7     |  *▼2*   |   3308    |   7.665    |    68    |   1.306    |
 |  46  | [Dominant Species](http://www.boardgamegeek.com/boardgame/62219) (2010) |    7.7     | **▲1**  |    992    |    7.85    |    52    |   4.043    |
@@ -375,7 +379,7 @@ I was also glad to see that **Nertz** made this list. It's one of our favorites.
 |  89  | [Codenames: Duet](http://www.boardgamegeek.com/boardgame/224037) (2017) |   7.498    |  *▼1*   |    649    |   7.644    |   131    |   1.327    |
 |  90  | [BattleCON: Devastation of Indines](http://www.boardgamegeek.com/boardgame/123123) (2013) |   7.495    |  *▼1*   |    266    |   7.963    |   293    |   3.082    |
 |  91  | [Teotihuacan: City of Gods](http://www.boardgamegeek.com/boardgame/229853) (2018) |    7.49    |   --    |    460    |   7.963    |    69    |   3.716    |
-|  92  | [Grand Austria Hotel](http://www.boardgamegeek.com/boardgame/182874) (2015) |   7.488    | **▲3**  |    579    |   7.787    |    91    |   3.225    |
+|  92  | [*Grand Austria Hotel*](http://www.boardgamegeek.com/boardgame/182874) (2015) |   7.488    | **▲3**  |    579    |   7.787    |    91    |   3.225    |
 |  93  | [Mombasa](http://www.boardgamegeek.com/boardgame/172386) (2015) |   7.486    |  *▼1*   |    438    |   7.914    |    64    |   3.907    |
 |  94  | [Antiquity](http://www.boardgamegeek.com/boardgame/13122) (2004) |   7.476    |  *▼1*   |    227    |   7.904    |   208    |   4.314    |
 |  95  | [Captain Sonar](http://www.boardgamegeek.com/boardgame/171131) (2016) |   7.472    |  *▼1*   |   1019    |   7.602    |   133    |   2.123    |
@@ -463,6 +467,238 @@ https://en.m.wikipedia.org/wiki/Tiến_lên
 
 I also love to play poker - more than 2 players is nice, but I've played countless hours with just one other person. There is also chess, checkers , etc. In fact, a lot of places sell a 15 or 20 in one set with a decent variety of classic board games in one box.
 
+## Best dice games
+
+What's your favorite dice games? I've really like dice drafting games. I've played pioneer days, dice throne, tada (with the kids) and have roll player coming in. What are some other dice games you guys enjoy that I might be missing out on?
+
+14: 
+
+- *Grand Austria Hotel* 
+- *Roll for the Galaxy*
+- One Deck Dungeon / Forest of Shadows
+
+10: I still enjoy King of Tokyo, which is just Yahtzee with giant monsters.
+
+10:
+
+- *Grand Austria Hote*l (dice drafting)
+- Lorenzo il Magnifico (dice rolling; dice determines worker strength)
+- Troyes (dice drafting)
+- **The Castles of Burgundy** (dice worker placement)
+- The Voyages of Marco Polo (dice worker placement)
+- Star Wars: Rebellion (dice rolling; wargame)
+
+> Worker placement is a form of action drafting, by taking an action with a worker you should be diminishing the range of options for your opponents.
+>
+> Therefore, Roll for the Galaxy is not a worker placement game. Nations also has workers, that you put places, but it is isn't a worker placement game either. Just because it has workers doesn't make it worker placement.
+
+9: Dice Forge is fantastic - it's like deck building but with dice. You can upgrade your dice and such. I'm really looking forward to the expansion.
+
+6: Roll Player for me.
+
+7: Dicemasters is a great dice drafting game. I think it's biggest knock with a lot of people is the collectible aspect of it, but with the game's newest shift in direction toward a "living" dice game I am hoping it will pop up on more people's radar.
+
+8: I am surprised to not see Dice Throne mentioned yet. Its a fantastic dice chucker that plays out like an arcade fighting game. Plus really quick and is easy to learn.
+
+6: Hm, my group doesn't play a lot of dice games...
+
+King of Tokyo - Probably my favourite. It's not a perfect game, but it's pretty decent.
+
+Champions of Midgard - One of those things where I can accept it might be a good game, but I don't like it. I'm not a huge fan of worker placement games to begin with, and unbalanced character powers always irks me. This one honestly only uses dice for combat so I'm not sure how much it counts.
+
+Tiny Epic Galaxies - Decision paralysis: the game. I can totally believe that there are groups that enjoy figuring out the optimal move that everyone else can make with each face of each of your dice, but it was not the group I played with.
+
+So yeah, I think I'll keep an eye on this thread too. I don't dislike dice as a mechanic, but none of the games I've played with dice have been total hits.
+
+6: Too Many Bones blows every other dice-drafting/dice-building game I have away. It's very much on the premium side of things, financially speaking, but it is worth every penny and then some!
+
+5: Tiny Epic Galaxies with the Beyond the Black expansion. The expansion enhances an already neat little game.
+
+5: My favourite lately is Sagarada, which has lots of coloured dice. As well as Las Vegas, which a great area majority dice game!
+
+5: *Roll for the Galaxy*, Roll Player and Quantum are all excellent games.
+
+4: Age of War awesome little dice drafting game
+One Deck Dungeon small box 1-2 player dungeon crawl, tons of beautiful translucent colored dice
+
+---
+
+What are your top 5 dice games? And what makes something a dice game?
+
+> **Previous** [**r/boardgames**](https://www.reddit.com/r/boardgames) **top 5s**
+>
+> - [Top 5 Worker Placement Games](https://www.reddit.com/r/boardgames/comments/6q4hli/what_are_you_top_5_worker_placement_games/)
+> - [Top 5 Coop Games](https://www.reddit.com/r/boardgames/comments/6rrdat/what_are_your_top_5_coop_games/)
+> - [Top 5 Deck Building Games](https://www.reddit.com/r/boardgames/comments/6t3f6a/what_are_your_top_5_deck_building_games/)
+> - [Top 5 Economic Games](https://www.reddit.com/r/boardgames/comments/7webyi/what_are_your_top_5_economic_games/)
+> - [Top 5 Games to Play with Two](https://www.reddit.com/r/boardgames/comments/7xzjac/what_are_your_top_five_games_to_play_with_two/)
+> - [Top 5 Space Games](https://www.reddit.com/r/boardgames/comments/81ejix/what_are_you_top_5_space_games/)
+> - [Top 5 Long Games](https://www.reddit.com/r/boardgames/comments/84v9a7/top_5_long_games/)
+> - [Top 5 Abstract Games](https://www.reddit.com/r/boardgames/comments/86jwv0/what_are_your_top_5_abstract_games/)
+> - [Top 5 Kickstarter Games](https://www.reddit.com/r/boardgames/comments/88b7m3/what_are_your_top_5_games_from_kickstarter/)
+> - [Top 5 Most Overrated Games](https://www.reddit.com/r/boardgames/comments/8a9bdg/what_are_your_top_5_most_over_rated_games/)
+> - [Top 5 Game Designers](https://www.reddit.com/r/boardgames/comments/8bzojd/who_are_your_top_5_game_designers/)
+> - [Top 5 Asymmetric Games](https://www.reddit.com/r/boardgames/comments/8dp7ik/what_are_your_top_5_games_with_asymmetric_player/)
+> - [Top 5 Gateway Games](https://www.reddit.com/r/boardgames/comments/8fbcnu/what_are_your_top_5_gateway_games/)
+> - [Top 5 Games for 6+](https://www.reddit.com/r/boardgames/comments/8gyxgh/what_are_your_top_5_games_for_6_players/)
+> - [Top 5 Expansions](https://www.reddit.com/r/boardgames/comments/8iocqe/what_are_your_top_5_expansions/)
+> - [Top 5 Old Games](https://www.reddit.com/r/boardgames/comments/8kca4g/what_are_your_top_5_old_games/)
+
+17: 
+
+1. *Roll for the Galaxy*: Such a beautiful, well-put together adaptation of Race for the Galaxy to a different format. One great expansion already and another one on the way.
+2. Dice City: This game killed both Machi Koro and Kingsburg for me by combining the customization of the former with the structure of the latter, and being easier to teach and learn than both. Such a wonderful game.
+3. Blueprints: Not a dice game in the traditional sense, but this architecture game uses the dice it has in such an inventive and creative way. Excellent little filler game.
+4. King of Tokyo: Yahtzee with Kaiju, you can't beat it. This game is single-handedly responsible for getting an entire family of friends into board games through their children.
+5. Dice Town: Just a fun, dice-chucking Western game.
+
+I suppose, on reflection, I really don't have many dice games at all. In fact, these five, even with a couple of loose definitions, are pretty much the only games I have where dice feature prominently, with a couple of exceptions in other genres like Champions of Midgard and **Castles of Burgundy**. I'm looking forward to see what other dice games people bring up.
+
+13: 
+
+In rough order:
+
+- The Voyages of Marco Polo
+- Lorenzo Il Magnifico
+- Santa Maria
+- Pulsar 2849
+- *Grand Austria Hotel*
+- Rajas of the Ganges
+
+OK, that's 6 :)
+
+> 6: This guy euros. If you haven't, also check out La Granja.
+
+11: Tried limiting this list to the games where rolling and using dice is very prevalent in the way you play:
+
+1. Sagrada
+2. Seasons
+3. Masmorra
+4. Dice Throne
+5. Tiny Epic Galaxies
+
+9: I'm surprised Dice Forge hasn't landed on a single list here! Dice Forge is really an awesome game. While it may not have a huge amount of *depth* it does have a very *wide* pool of strategy. I've seen players win just by powering up the dice themselves and forgoing most card purchases/plays, and i've seen folks win through highly strategic card purchases, and a combination of both.
+
+It also has awesome production value. This game feels like the production value is over 50 or 60$ maybe, but [is often for sale under 40$](https://www.amazon.com/Asmodee-DIF01-Dice-Forge/dp/B06XVW4N17/ref=sr_1_2?ie=UTF8&qid=1527264849&sr=8-2&keywords=dice+forge&dpID=517Gdh%2ByWBL&preST=_SY300_QL70_&dpSrc=srch). The art is great, especially enjoyable if you like similar art styles, like the stuff that comes out of Iello. It's super, super easy to teach to newbies, even those that don't play games as a hobby and the replayability is sky high. Player engagement is also high, as all players roll on everyone's turn they remain engaged, and there's only a very small handful of "take that" mechanics at play. When those mechanics do emerge, i've never seen anyone get annoyed about it. The game has fast gameplay and it ends pretty quickly so it doesn't take too much time to get a game in, and scales from 2-4 players perfectly. I think Dice Forge goes underappreciated because lots of gamers see it as a shallow game because of its simple mechanics. If anyone is looking for an exciting dice game about out scoring opponents, Dice Forge is definitely worth checking out. Also, physically building a dice is super cool :)
+
+8:
+
+1. Troyes
+2. Quantum
+3. Dice Forge
+4. **Castles of Burgundy**
+5. Galaxy Trucker
+
+> 7: I'm shocked that no one else mentioned Quantum.
+
+> 3: Crazy I had to go this far down to find Troyes - one of my favorites.
+
+8: Zombie Dice - so quick and simple, and we have fun playing it with groups of all ages and sizes (but more than 8 players is a little much)
+Champions of Midgard - love the dice warrior recruitment and battle mechanics.
+Sagrada - really like to simple sudoku style puzzle you create from a pool of rolled dice!
+
+So far, these are the only 3 dice games that I play regularly, and my partner and I love them!
+
+I'll be watching this thread for more dice game ideas!
+We've been eyeing Dice Forge at half price books and were going to get it this weekend during their 20%-off sale. Does anyone here recommend it?
+
+7: The idea of what a dice game is will change from person to person. For me, I will consider games that use dice as the main gameplay element. As a result, the games I consider dice games are often simpler and shorter than most other games I play. For example, I would not consider **The Castles of Burgundy**. There are dice in the game, but the dice are a tool to set collection and tile-drafting mainly. **Also, the fact that The Castles of Burgundy: The Dice Game exists hints me that the original might not be considered a dice game.** Then again, it's a personal choice and I realize that some people will consider it.
+
+Qwixx - This one is just great. So simple, so fun, so replayable. I love how the game incentivize players to push their luck. You want to mark the most spots, but by going faster maybe you will be able to block your opponents before they can mark more than you.
+
+Can't Stop - Speaking of pushing your luck, this one is a classic for a reason. The simple idea of rolling four dice and placing them by pairs is what makes this game work. It's a probability marvel.
+
+King of Tokyo - This is another one that's popular for a reason. It's so fun to just barge in Tokyo and start attacking everyone so hard that they are too preoccupied by their wounds to attack you. I love the card synergies that let's you personalize your monster too. I wasn't too keen on King of New York. The game wasn't as streamlined and it made the game just a bit more complex, when what I loved about the first one was its casual appeal.
+
+Pickomino - Not a great game by itself, but I consider it for the appeal it had on my extended family. It's simple and quick enough for everyone to enjoy it and the push-your-luck aspect can give it an exciting aspect. I think I might prefer so other Knizia dice game designs, but this is the one I had most success with I think. The box says 2-7 players, it shouldn't be played by more than 5 in my opinion, the game really drags with too many players.
+
+Dungeon Roll - This one is a great solo experience. When I worked at a board game pub, I would often end my shift with a few rounds of this with a pint to cool off. It sounds stupid and uninteresting at first, but you always look forward to your next party, to your next treasure, to the next dungeon floor, etc. This game constantly makes you long for what's coming and that makes it addictive in a weird sort of way.
+
+Honorable mentions go to the following: Roll Through the Ages: The Iron Age, Strike!, POW!, **Bang! The Dice Game** and Star Trek: Five-Year Mission. I like each of these to some degree, but they wouldn't make the cut for a reason or another.
+
+7: 
+
+1. Voyages of Marco Polo
+2. John Company
+3. **Castles of Burgundy**
+4. *Roll for the Galaxy*
+5. *Grand Austria Hotel*
+
+8:
+
+- Lords of Vegas
+- Lords of Vegas
+- Lords of Vegas
+- Lords of Vegas
+- Lords of Vegas
+
+LoV is an outstanding match of theme and mechanics.
+
+Other dice games I've played are King of New York and **Castles of Burgundy** but I didn't like them.
+
+5: 
+
+Tough choice. I love games that use dice cleverly. To call it a dice game, dice would have to play a central role, IMO.
+
+- *Roll for the Galaxy* Aside from being a deep tableau building game that plays remarkably fast, I just love rolling a cupful of those magnificient tiny dice.
+- **Castles of Burgundy** Point Salad at its best. Though much depends on what you roll, there are so many ways to mitigate and plan for 'bad' rolls. I'm generally a fan of dice used as input luck. Also, it's great for 2p. It ain't pretty, but I don't think it's as bad people make it out to be.
+- *Grand Austria Hotel* A favorite of my wife's. Usually, every round presents tough choices on how to accomplish your plans with the available dice.
+- Claustrophobia Roll some dice and use them to either activate your unfortunate band of condemned adventureres or your infornal powers. Roll dice again when attacking. The mix of input luck and output luck makes for a tactical game with tense moments. Its wildly asymmetrical and huge amounts of fun for 2p.
+- Sagrada Its often good, but rarily great. Still, it has quickly become one of my most played games. Works with just about anyone.
+
+There are a lot of runner ups: Valeria: Card Kingdoms, Tiny Epic Galaxy, Liar's Dice, King of Tokyo, Bang: The Dice Game and CV to name a few.
+
+7: 
+
+1. Quarriors
+2. *Roll for the Galaxy*
+3. Dice Forge
+4. Pandemic: The Cure
+5. One Deck Dungeon
+
+5:
+
+1. **Castles of Burgundy** The greatest ugly game
+2. *Grand Austria Hotel* Fun at any player count as long as people don't have AP
+3. King of Tokyo Holds a nostalgic place in my mind and I enjoy more than it probably deserves.
+4. Roll Player
+
+Admittedly I haven't played a ton of dice chuckers, so the list is only four. I expect Troyes will be added in, hopefully soon.
+
+---
+
+What are some good dice games? I know Yahtzee, Meyer, Chicago, Shut the box, liar's dice.
+
+Also I wish I could post a collection pic here but most of my dice disappeared when I moved =(
+
+Edit: with "standard" d6 dice or DnD dice or others would be fine.
+
+4: Are you looking for games where you just use dice and nothing else or board games with dice?
+
+King of Tokyo and Dice Throne make good use of the Yahtzee style play but with unique dice and mechanics.
+
+> 3: Mostly something with dice and or cards that's easily portable. I'll look into those, thanks!
+
+3: My favorite is [10,000](https://en.m.wikipedia.org/wiki/Dice_10000). I've actually never played with the rule where you can pick up from someone else's score if they leave dice, because it seems broken. We also don't enforce a minimum score to keep points. It's easy to make house rules.
+
+My family loves playing it though. It's great with a large group, or 1 on 1. My mom last night beat me by 4,000 points, because it took me literally half the game to even get on the board. It was insane.
+
+3: There's a game that was invented for conventions called "Button Men" that I think would be right up your alley, exactly what you're looking for. You can find some of the pieces online for cheap, or even print and play. There's an app on iOS, or at least there was a few years ago. Very portable, cheap/free, and just a polyhedral set of dice needed.
+
+There's also casual, portable games like "Ninja Roll", and "Dungeon Roll", made in the last few years. Self-contained, fast, easy. They're both fun and fine.
+
+A more complex, specialized dice game that I like is called "Dragon Dice". Not for everyone, but I love it, even though it's hard to find people to play with. It's collectible, so not everyone likes that.
+
+My favorite dice game of all time is called "Dungeon Dice", it's been sold via Kickstarter the last few years, made by Pot Luck games. Soon it will be released to stores, or you can get it on their website. Phenomenally designed game, and a complete blast. Medium-hardness to teach, but fun to play, even for people who aren't usually gamers. The game is self-contained (not collectible). It is a bit expensive, but I love it so much I'm fine with that.
+
+There's also stuff like Star Wars Destiny (collectible) and Quarriors (self-contained), and Marvel Dice Masters (collectible). All good games.
+
+Oh, there's also stuff like Bang! The Dice Game. I think a Lord of the Rings dice game exists too, but I think it's out of print, I never played it.
+
+3: How is Farkle not up there
+
+> 1: 10000 and Farkle are pretty much the same thing
+
 ## Conclusion
 
 Best board games: **Gloomhaven** (1-4p, 3 is opt; 60-120 min), **Cribbage**, *Pandemic Legacy: Season 1* (2-4p, 4 is opt; 60 min), *Twilight Imperium* (Fourth Edition) (3-6p, 6 is opt; 240–480 min), *Twilight Struggle* (2p; 120-180 min), *Scythe* (1-5p, 4 is opt; 90–115 min), *Race for the Galaxy* (2-4p, 2 is opt; 30-60 min), *Android: Netrunner* (2p; 45 min), *Carcassonne* (2-5p, 2 is opt; 30-45 min), *Magic: The Gathering* (2p; 20 min), (+qwixx (2-5p, 4 is opt; 15 min) + poker dice (?)), Go (2p; 30-180 min), Secret Hitler (5-10p, 8 or 10 are opt; 45 min), Arkham Horror: The Card Game, Ascension: Deckbuilding Game.
@@ -471,7 +707,9 @@ Best board games: **Gloomhaven** (1-4p, 3 is opt; 60-120 min), **Cribbage**, *Pa
 
 Best card games: **Cribbage** (2p, non trick-taking; 30 min), Bridge (4p, trick-taking; 60 min), Spades (4p, trick-taking; 60 min), Gin Rummy (2p, non trick-taking; 30 min),  Ninety-Nine (3p is optimal; one of the very best trick-taking games for exactly 3 players; trick-taking; 60 min), President (or Scum, or Asshole; large group, optimal is 5-8 group; non trick tacking, social and family game; 45 min), Le Truc (2p or 4p; fantastic for those who like bluffing; trick-taking; 20 min), Schnapsen (2p; it is worth the effort to learn if you enjoy skilful play; trick-taking; 20 min), Poker (2-10p; for those who enjoy bluffing; non trick-taking; 60 min), Preferans (3-4p, 3 is optimal; trick-taking; 120 min), Spit / Speed (2p; fast-paced; non trick-taking I guess; 5-15 min), Arkham Horror: The Card Game (1-2p, 2 is opt; 60-120 min), Ascension: Deckbuilding Game (1-4p, 2 is opt; 30 min).
 
-Best head to head games: **Cribbage**, *Carcassonne*, *Race for the Galaxy*, *Twilight Struggle*, *Android: Netrunner*, *Magic: The Gathering*, Yahtzee, Gin Rummy, Arkham Horror: The Card Game, Ascension: Deckbuilding Game.
+Best dice games: **The Castles of Burgundy** (2-4p, 2 is opt; 30-90 min; might not be the real dice game; overall - 14; dice worker placement), *Roll for the Galaxy* (2-5p, 3-4 is opt; 45 min; overall - 80; nice adaption; dice rolling (I think)), *Grand Austria Hotel* (2-4p, 2 is opt; 60-120 min; overall - 90; dice drafting), Voyages of Marco Polo (2-4p, 4 is opt; 40-100 min; overall - 45; dice worker placement), Troyes (2-4p, 3 is opt; 90 min; overall - 73; dice drafting), Too Many Bones (1-4p, 3 is opt; 60-120 min; overall - 61; dice drafting), Champions of Midgard (2-4p, 4 is opt; 60-90 min; overall - 93; dice worker placement).
+
+Best head to head games: **Cribbage**, *Twilight Struggle*, *Carcassonne*, **Castles of Burgundy**, *Race for the Galaxy*, *Android: Netrunner*, *Magic: The Gathering*, Yahtzee, Gin Rummy, Arkham Horror: The Card Game, Ascension: Deckbuilding Game.
 
 ## References
 
@@ -479,3 +717,6 @@ Best head to head games: **Cribbage**, *Carcassonne*, *Race for the Galaxy*, *Tw
 2. https://www.reddit.com/r/boardgames/comments/b4e500/great_games_with_traditional_playing_cards_for/
 3. https://www.reddit.com//r/boardgames/wiki/top_100/jan-2020
 4. https://www.reddit.com/r/simpleliving/comments/7omi3z/what_are_your_favorite_2_person_games_preferably/
+5. https://www.reddit.com/r/boardgames/comments/8t1fmu/favorite_dice_games_to_play/
+6. https://www.reddit.com/r/boardgames/comments/8m1jg7/what_are_your_top_5_dice_games/
+7. https://www.reddit.com/r/dice/comments/7n0uxu/what_are_some_good_dice_games/
