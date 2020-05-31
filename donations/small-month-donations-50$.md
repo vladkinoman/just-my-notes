@@ -1,6 +1,6 @@
 # Small month donations 50$
 
-Sum: 50$ per month.
+Sum: 50$ per month (it's 3526RUB ~ 1339UAH).
 
 ## One-time donations
 
@@ -11,63 +11,126 @@ Sum: 50$ per month.
 
 ## Monthly donations
 
-### Twitch
+### Donation alerts / Site donations
 
-- RU: [KarmikCoala](https://www.twitch.tv/karmikkoala/), [WELOVEGAMES](https://www.twitch.tv/videos/623214958), [Wycc](https://www.twitch.tv/elwycco/), [Gleb](https://www.twitch.tv/chelovekgleb/) - 5$
-- EN: [Lirik](https://www.twitch.tv/lirik/), [HappyHob](https://www.twitch.tv/the_happy_hob/), [Elajjaz](https://www.twitch.tv/elajjaz/), [LegenVD](#https://www.twitch.tv/legenvd/) - 5$
+- StopGame - 8.5$ (600RUB ~ 228UAH)
+- DTF - 1$ per month
 
 > 35$
 
-### Software
-
-- [Go Snippet extension](https://gosnippet.com/) - 1$ per month
-
-> 34$
-
 ### Patreon
 
-- [Душевный подкаст](https://www.patreon.com/dushpod) - 1$ per month
-- [TVG](https://www.patreon.com/timevideogame) - 1$ per month
-- [Kinologi](https://www.patreon.com/kino_logi) - 1$ per month
-- [ANOIR](https://www.patreon.com/zhubanoir) - 1$ per creation
+#### Essays/tutorials/reviews
 
-> 30$
+##### Anime
 
-- [Коммандер](https://www.patreon.com/ilya_commander) - 3$ per month
+> nothing. Коммандер is doing some reviews on them.
 
-- [The Professor](https://www.patreon.com/tolariancommunitycollege) - 1$ per month
-- [Game Maker's Toolkit (GMTK)](https://www.patreon.com/GameMakersToolkit) - 3$ per month
+##### Cinema
 
-> 23$
+[ANOIR](https://www.patreon.com/zhubanoir) - 1$ per creation
 
-- [Completionist.me](https://www.patreon.com/completionist_me) - 1$ per month
-- [RetroAchievements](https://www.patreon.com/retroachievements) - 1$ per month
-- [RPCS3 ](https://www.patreon.com/Nekotekina) - 3$ per month
+[Lessons from the Screenplay](https://www.patreon.com/lftscreenplay) - 2$ per video
 
-> 18$
+##### Documentaries
 
-- [LegenVD](https://www.patreon.com/LegenVD) - 2$ per month
+> nothing.
 
-> 16$
+##### Gaming
 
-### Donation alerts / Site donations
+[TVG](https://www.patreon.com/timevideogame) - 1$ per month
 
-- StopGame - 10-15$ (1031RUB ~ 371UAH)
-- DTF - 1$ per month
+[The Professor](https://www.patreon.com/tolariancommunitycollege) - 1$ per month (MTG)
 
-> 0-5$ left
+##### COMBINED
+
+[Коммандер](https://www.patreon.com/ilya_commander) - 3$ per month
+
+#### Podcasts
+
+[Душевный подкаст](https://www.patreon.com/dushpod) - 1$ per month
+
+[Kinologi](https://www.patreon.com/kino_logi) - 1$ per month
+
+> 25$
+
+#### Software/Websites
+
+[Completionist.me](https://www.patreon.com/completionist_me) - 1$ per month
+
+[RetroAchievements](https://www.patreon.com/retroachievements) - 1$ per month
+
+[RPCS3 ](https://www.patreon.com/Nekotekina) - 3$ per month
+
+> 20$
+
+### Twitch
+
+RU: [KarmikCoala](https://www.twitch.tv/karmikkoala/), [WELOVEGAMES](https://www.twitch.tv/videos/623214958), [Wycc](https://www.twitch.tv/elwycco/), [Gleb](https://www.twitch.tv/chelovekgleb/) - 5$
+
+EN: [Lirik](https://www.twitch.tv/lirik/), [HappyHob](https://www.twitch.tv/the_happy_hob/), [CriticalRole](https://www.twitch.tv/criticalrole/), [LegenVD](#https://www.twitch.tv/legenvd/) - 5$
+
+> 10$
 
 ## Once per 4 month donations
 
-- Netflix - 10$ (10Euro)
+Netflix - 10$ (10Euro)
+
+Magic The Gathering - 5$-10$ donation
 
 ## I will consider these guys
+
+### Donation alerts / Site donations
+
+[Gaming on Linux](https://www.gamingonlinux.com/support-us/) - there are many ways to support.
+
+[Libretro/RetroArch](https://www.patreon.com/libretro) - 1$ per month.
+
+### Patreon
+
+#### Essays/tutorials/reviews
+
+##### Anime
+
+> nothing.
+
+##### Cinema
+
+> nothing.
+
+##### Documentaries
 
 [The Gaming Historian](https://www.patreon.com/gaminghistorian) - 3$ per month
 
 [Noclip](https://www.patreon.com/noclip) - 3$ per month
 
-[Lessons from the Screenplay](https://www.patreon.com/lftscreenplay) - 2$ per video
+##### Gaming
 
-[Now You See It](https://www.patreon.com/nowyouseeit) - 1$ per video
+[LegenVD](https://www.patreon.com/LegenVD) - 2$ per month (MTG)
+
+[Game Maker's Toolkit (GMTK)](https://www.patreon.com/GameMakersToolkit) - 3$ per month
+
+##### COMBINED
+
+> nothing.
+
+#### Podcasts
+
+> nothing.
+
+#### Software/Websites
+
+[GIMP](https://www.patreon.com/pippin) - 2$ per month
+
+### Twitch
+
+RU: [KarmikCoala](https://www.twitch.tv/karmikkoala/), [WELOVEGAMES](https://www.twitch.tv/videos/623214958), [Wycc](https://www.twitch.tv/elwycco/), [Gleb](https://www.twitch.tv/chelovekgleb/) - 5$
+
+EN: [Lirik](https://www.twitch.tv/lirik/), [HappyHob](https://www.twitch.tv/the_happy_hob/), [CriticalRole](https://www.twitch.tv/criticalrole/), [LegenVD](#https://www.twitch.tv/legenvd/) - 5$
+
+
+
+
+
+
 
