@@ -69,7 +69,7 @@ Notes on the use of various office software such as Microsoft Excel, Google Shee
 
 ## philosophy
 
-Notes on various philosophy subjects. My favorites are epistemology, metaphysics, philosophy of science. I take the books from this list: [link](https://www.reddit.com/r/AskPhilosophyFAQ/comments/4ifqi3/im_interested_in_philosophy_where_should_i_start/).
+Notes on various philosophy subjects. My favorites are epistemology, metaphysics, philosophy of science. I take the books from [this](https://www.reddit.com/r/philosophy/wiki/readinglist) and [this](https://www.reddit.com/r/AskPhilosophyFAQ/comments/4ifqi3/im_interested_in_philosophy_where_should_i_start/).
 
 ## physical-training
 
