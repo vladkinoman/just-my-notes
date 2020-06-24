@@ -4,10 +4,28 @@ Sum: 50$ per month (it's 3526RUB ~ 1339UAH).
 
 ## One-time donations
 
+## Micro-transactions / Software
+
 - [ ] [FrankerFaceZ Twitch extension](https://www.frankerfacez.com/donate) - 5$
 - [ ] Magic The Gathering: Arena - welcome bundle - 5$
 
 > 45$
+
+## Music
+
+- [ ] Jesper Kyd - Hitman Blood Money - 7$
+
+- [ ] Emil Rottmayer - Detached EP - 4$
+
+- [ ] Metropolis - Genesis - 7$
+
+- [ ] VHSTokyo 東京 - Just Because!
+
+- [ ] The Chalkeaters feat. Kyle Wright - It Just Works - 1$
+
+- [ ] Alina Gingertail - Patreon - 1$
+
+  > You can download all my old audio in mp3 and wav!
 
 ## Monthly donations
 
