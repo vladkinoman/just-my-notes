@@ -22,6 +22,8 @@ EDIT - Recompiling the list, this is awesome! I'll keep updating it as long as e
 
 **Patreons**
 
+- Lubuntu - https://www.patreon.com/lubuntu
+- Linux Mint - https://www.patreon.com/bePatron?u=13897391
 - Elementary - https://www.patreon.com/elementary
 - Solus - https://www.patreon.com/solus
 - FreeCAD - https://www.patreon.com/yorikvanhavre

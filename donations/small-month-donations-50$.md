@@ -132,6 +132,12 @@ Magic The Gathering - 5$-10$ donation
 
 > nothing.
 
+##### Open Source
+
+[Lubuntu](https://www.patreon.com/lubuntu) - 1$ per month
+
+[Linux Mint](https://www.patreon.com/bePatron?u=13897391) - 5$ per month
+
 #### Podcasts
 
 > nothing.
