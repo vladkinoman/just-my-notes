@@ -12,6 +12,9 @@ In fact, many people say that the best way to learn Linux is to use the "Trial a
 
 ### Distributions for beginners
 
+> - [ ] means I haven't tried this distribution.
+> - [x] means I have tried this distribution (>= 3 months). 
+
 - [x] Ubuntu: 
   - best Linux OS for beginners and personal machines, offers **ease of use** and a great user interface experience that has led to its wide adoption, based on Debian.
   - package manager - Debian package management tools (dpkg - low level tool, APT - high level tool).
@@ -25,9 +28,11 @@ In fact, many people say that the best way to learn Linux is to use the "Trial a
   Website: [ubuntu.com](https://ubuntu.com/). 
   Wiki: [help by the community](https://help.ubuntu.com/community/CommunityHelpWiki).
 
-- [ ] Lubuntu — Ubuntu's flavour for old PCs; desktop environment - LXDE/LXQT (lightweight and similar to Windows XP, Lubuntu 18.04 LTS is the last release with LXDE). I use it because it's fast.
+- [x] Lubuntu — Ubuntu's flavour for old PCs; desktop environment - LXDE/LXQT (lightweight and similar to Windows XP, Lubuntu 18.04 LTS is the last release with LXDE). I use it because it's fast.
   Website: [lubuntu.net](https://lubuntu.net/).
 
+  > I tried to install Lubuntu 20.04 LTS and encountered this [error](https://bugs.launchpad.net/ubuntu/+source/calamares/+bug/1851188). The problem is occur when I try to begin the installation after choosing the free partition (along with the 3 primary partitions already) for Lubuntu.
+  
 - [ ] Linux Mint:
 
   - based on Ubuntu. It uses Ubuntu’s software repositories so the same packages are available on both distributions. **Less bloated than Ubuntu**.
@@ -36,9 +41,8 @@ In fact, many people say that the best way to learn Linux is to use the "Trial a
   - great for desktop and laptop.
 
   <details><summary>Comments from Wiki.</summary> Linux Mint is a community-driven Linux distribution based on Ubuntu or Debian that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use." Linux Mint provides full out-of-the-box multimedia support by including some proprietary software, such as multimedia codecs, and comes bundled with a variety of free and open-source applications.</details>
-  <details><summary>Why not Mint for programming (from Quora)</summary> I would’ve recommended Mint first but I had a terrible experience where an update broke my wifi driver and through some stupidity on my part I have to admit, I broke my Mint partition on my home computer. Beyond my personal issue though, while a lot of docs for Ubuntu will work for Mint this isn’t 100% the case, and since support online is so important, I must recommend Ubuntu over Mint.</details>
-
-  Website: [linuxmint.com](https://www.linuxmint.com/).
+  
+Website: [linuxmint.com](https://www.linuxmint.com/).
 
 ### Distributions for medium level users
 
