@@ -67,6 +67,24 @@ The original purpose of source ports was cross-platform compatibility, but short
 |    [Mocha Doom](https://doom.fandom.com/wiki/Mocha_Doom)     | Yes  |   Yes   |    Yes    |                      Yes                       | Yes  |  Yes  |    Yes    |    Yes     | Yes  |
 |                           NetDoom                            |  No  |   Yes   |    No     |                       No                       |  No  |  No   |    No     |     No     | No   |
 
+> 7: ...
+> Some source ports that preserve the 'vanilla' qualities of the 1993 originals:
+>
+> Chocolate Doom: https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom
+>
+> Doom Retro: http://www.doomretro.com/ (an only slightly more 'enhanced' variant of Chocolate Doom)
+>
+> > 4: As source port I'd recommend the most popular one: GZdoom. Offers the most graphical enhancements and features and works best if you want to get into custom wads and mods
+> >
+> > > 1: I am a fan of chocolate doom. Its the way I remember playing it as a kid and really turns up the nostalgia factor.
+
+> 4: There's some explaining to do first OP. So technically Doom is free, but all it really is - is the engine plus the first chapter of the game. You have to buy it somewhere like GOG or Steam to get the full thing - but once you get it you will have a better expierience getting a <u>sourceport</u> to run the game instead of the default dosbox steam tries to have you use.
+>
+> What I did was I bought a bundle on Steam, installed the games, and copied the .WAD files in my steam directory the games were in. I pasted the wads somewhere else and installed chocolate doom to run the games. It was WAYY better than running it with steam - which uses dosbox.
+
+> 2: GOG. I'm hearing that version is better than Steam, something to with an updated DOSbox or something.
+
 ## References
 
 1. https://doom.fandom.com/wiki/Source_port
+2. https://www.reddit.com/r/Doom/comments/4ugb4e/where_can_i_get_the_original_doom/
