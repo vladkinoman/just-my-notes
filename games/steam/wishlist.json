@@ -1,0 +1,2592 @@
+{
+    "version": "03",
+    "data": [
+        {
+            "gameid": [
+                "steam",
+                "app/2270"
+            ],
+            "title": "Wolfenstein 3D",
+            "url": "https://store.steampowered.com/app/2270/",
+            "type": "Game",
+            "release_date": "4 Aug, 2007",
+            "note": null,
+            "price": 3900,
+            "discount": 70
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2600"
+            ],
+            "title": "Vampire: The Masquerade - Bloodlines",
+            "url": "https://store.steampowered.com/app/2600/",
+            "type": "Game",
+            "release_date": "22 Mar, 2007",
+            "note": null,
+            "price": 26800,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/2620"
+            ],
+            "title": "Call of Duty®",
+            "url": "https://store.steampowered.com/app/2620/",
+            "type": "Game",
+            "release_date": "14 Oct, 2006",
+            "note": null,
+            "price": 26800,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/3900"
+            ],
+            "title": "Sid Meier's Civilization® IV",
+            "url": "https://store.steampowered.com/app/3900/",
+            "type": "Game",
+            "release_date": "25 Oct, 2006",
+            "note": null,
+            "price": 28900,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/6300"
+            ],
+            "title": "Dreamfall: The Longest Journey",
+            "url": "https://store.steampowered.com/app/6300/",
+            "type": "Game",
+            "release_date": "12 Jan, 2007",
+            "note": null,
+            "price": 11100,
+            "discount": 60
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/8000"
+            ],
+            "title": "Tomb Raider: Anniversary",
+            "url": "https://store.steampowered.com/app/8000/",
+            "type": "Game",
+            "release_date": "5 Jun, 2007",
+            "note": null,
+            "price": 1700,
+            "discount": 89
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/9180"
+            ],
+            "title": "Commander Keen",
+            "url": "https://store.steampowered.com/app/9180/",
+            "type": "Game",
+            "release_date": "4 Aug, 2007",
+            "note": null,
+            "price": 3900,
+            "discount": 70
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/12200"
+            ],
+            "title": "Bully: Scholarship Edition",
+            "url": "https://store.steampowered.com/app/12200/",
+            "type": "Game",
+            "release_date": "22 Oct, 2008",
+            "note": null,
+            "price": 2200,
+            "discount": 66
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/17410"
+            ],
+            "title": "Mirror's Edge™",
+            "url": "https://store.steampowered.com/app/17410/",
+            "type": "Game",
+            "release_date": "14 Jan, 2009",
+            "note": null,
+            "price": 6900,
+            "discount": 90
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/17460"
+            ],
+            "title": "Mass Effect",
+            "url": "https://store.steampowered.com/app/17460/",
+            "type": "Game",
+            "release_date": "19 Dec, 2008",
+            "note": null,
+            "price": 17400,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/24980"
+            ],
+            "title": "Mass Effect 2",
+            "url": "https://store.steampowered.com/app/24980/",
+            "type": "Game",
+            "release_date": "29 Jan, 2010",
+            "note": null,
+            "price": 17400,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/26800"
+            ],
+            "title": "Braid",
+            "url": "https://store.steampowered.com/app/26800/",
+            "type": "Game",
+            "release_date": "11 Apr, 2009",
+            "note": null,
+            "price": 5200,
+            "discount": 77
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/26900"
+            ],
+            "title": "Crayon Physics Deluxe",
+            "url": "https://store.steampowered.com/app/26900/",
+            "type": "Game",
+            "release_date": "6 May, 2009",
+            "note": null,
+            "price": 4100,
+            "discount": 85
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/32370"
+            ],
+            "title": "STAR WARS™ - Knights of the Old Republic™",
+            "url": "https://store.steampowered.com/app/32370/",
+            "type": "Game",
+            "release_date": "5 Sep, 2009",
+            "note": null,
+            "price": 16900,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/34272"
+            ],
+            "title": "Comix Zone™",
+            "url": "https://store.steampowered.com/app/34272/",
+            "type": "Game",
+            "release_date": "1 Jun, 2010",
+            "note": null,
+            "price": 2100,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/40300"
+            ],
+            "title": "Risen",
+            "url": "https://store.steampowered.com/app/40300/",
+            "type": "Game",
+            "release_date": "2 Oct, 2009",
+            "note": null,
+            "price": 4200,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/40700"
+            ],
+            "title": "Machinarium",
+            "url": "https://store.steampowered.com/app/40700/",
+            "type": "Game",
+            "release_date": "16 Oct, 2009",
+            "note": null,
+            "price": 5300,
+            "discount": 70
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/40990"
+            ],
+            "title": "Mafia",
+            "url": "https://store.steampowered.com/app/40990/",
+            "type": "Game",
+            "release_date": "Coming soon",
+            "note": null,
+            "price": 17800,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/45760"
+            ],
+            "title": "Ultra Street Fighter® IV",
+            "url": "https://store.steampowered.com/app/45760/",
+            "type": "Game",
+            "release_date": "Coming soon",
+            "note": null,
+            "price": 17800,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/55150"
+            ],
+            "title": "Warhammer 40,000: Space Marine",
+            "url": "https://store.steampowered.com/app/55150/",
+            "type": "Game",
+            "release_date": "6 Sep, 2011",
+            "note": null,
+            "price": 9400,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/63710"
+            ],
+            "title": "BIT.TRIP RUNNER",
+            "url": "https://store.steampowered.com/app/63710/",
+            "type": "Game",
+            "release_date": "28 Feb, 2011",
+            "note": null,
+            "price": 6700,
+            "discount": 60
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/65300"
+            ],
+            "title": "Dustforce DX",
+            "url": "https://store.steampowered.com/app/65300/",
+            "type": "Game",
+            "release_date": "17 Jan, 2012",
+            "note": null,
+            "price": 8400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/67370"
+            ],
+            "title": "The Darkness II",
+            "url": "https://store.steampowered.com/app/67370/",
+            "type": "Game",
+            "release_date": "10 Feb, 2012",
+            "note": null,
+            "price": 7700,
+            "discount": 80
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/70300"
+            ],
+            "title": "VVVVVV",
+            "url": "https://store.steampowered.com/app/70300/",
+            "type": "Game",
+            "release_date": "8 Sep, 2010",
+            "note": null,
+            "price": 2400,
+            "discount": 76
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/98200"
+            ],
+            "title": "Frozen Synapse",
+            "url": "https://store.steampowered.com/app/98200/",
+            "type": "Game",
+            "release_date": "27 May, 2011",
+            "note": null,
+            "price": 23000,
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/108200"
+            ],
+            "title": "Ticket to Ride",
+            "url": "https://store.steampowered.com/app/108200/",
+            "type": "Game",
+            "release_date": "24 May, 2012",
+            "note": null,
+            "price": 6700,
+            "discount": 60
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/108600"
+            ],
+            "title": "Project Zomboid",
+            "url": "https://store.steampowered.com/app/108600/",
+            "type": "Game",
+            "release_date": "8 Nov, 2013",
+            "note": null,
+            "price": 13700,
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/200900"
+            ],
+            "title": "Cave Story+",
+            "url": "https://store.steampowered.com/app/200900/",
+            "type": "Game",
+            "release_date": "21 Nov, 2011",
+            "note": null,
+            "price": 7500,
+            "discount": 67
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/206440"
+            ],
+            "title": "To the Moon",
+            "url": "https://store.steampowered.com/app/206440/",
+            "type": "Game",
+            "release_date": "8 Sep, 2012",
+            "note": null,
+            "price": 4200,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/208580"
+            ],
+            "title": "STAR WARS™ Knights of the Old Republic™ II - The Sith Lords™",
+            "url": "https://store.steampowered.com/app/208580/",
+            "type": "Game",
+            "release_date": "23 Aug, 2012",
+            "note": null,
+            "price": 16900,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/209830"
+            ],
+            "title": "Lone Survivor: The Director's Cut",
+            "url": "https://store.steampowered.com/app/209830/",
+            "type": "Game",
+            "release_date": "23 Apr, 2012",
+            "note": null,
+            "price": 22900,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/212480"
+            ],
+            "title": "Sonic &amp; All-Stars Racing Transformed Collection",
+            "url": "https://store.steampowered.com/app/212480/",
+            "type": "Game",
+            "release_date": "31 Jan, 2013",
+            "note": null,
+            "price": 6900,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/214730"
+            ],
+            "title": "Space Rangers HD: A War Apart",
+            "url": "https://store.steampowered.com/app/214730/",
+            "type": "Game",
+            "release_date": "15 Mar, 2013",
+            "note": null,
+            "price": 5700,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/217980"
+            ],
+            "title": "Dishonored",
+            "url": "https://store.steampowered.com/app/217980/",
+            "type": "Game",
+            "release_date": "11 Oct, 2012",
+            "note": null,
+            "price": 7800,
+            "discount": 70
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/219890"
+            ],
+            "title": "Antichamber",
+            "url": "https://store.steampowered.com/app/219890/",
+            "type": "Game",
+            "release_date": "31 Jan, 2013",
+            "note": null,
+            "price": 6900,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/220200"
+            ],
+            "title": "Kerbal Space Program",
+            "url": "https://store.steampowered.com/app/220200/",
+            "type": "Game",
+            "release_date": "27 Apr, 2015",
+            "note": null,
+            "price": 4400,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/220240"
+            ],
+            "title": "Far Cry 3",
+            "url": "https://store.steampowered.com/app/220240/",
+            "type": "Game",
+            "release_date": "29 Nov, 2012",
+            "note": null,
+            "price": 16800,
+            "discount": 60
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/220780"
+            ],
+            "title": "Thomas Was Alone",
+            "url": "https://store.steampowered.com/app/220780/",
+            "type": "Game",
+            "release_date": "12 Nov, 2012",
+            "note": null,
+            "price": 8400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/221640"
+            ],
+            "title": "Super Hexagon",
+            "url": "https://store.steampowered.com/app/221640/",
+            "type": "Game",
+            "release_date": "27 Nov, 2012",
+            "note": null,
+            "price": 1400,
+            "discount": 76
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/227300"
+            ],
+            "title": "Euro Truck Simulator 2",
+            "url": "https://store.steampowered.com/app/227300/",
+            "type": "Game",
+            "release_date": "12 Oct, 2012",
+            "note": null,
+            "price": 9400,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/230270"
+            ],
+            "title": "N++ (NPLUSPLUS)",
+            "url": "https://store.steampowered.com/app/230270/",
+            "type": "Game",
+            "release_date": "25 Aug, 2016",
+            "note": null,
+            "price": 11400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/231160"
+            ],
+            "title": "The Swapper",
+            "url": "https://store.steampowered.com/app/231160/",
+            "type": "Game",
+            "release_date": "30 May, 2013",
+            "note": null,
+            "price": 3400,
+            "discount": 85
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/233450"
+            ],
+            "title": "Prison Architect",
+            "url": "https://store.steampowered.com/app/233450/",
+            "type": "Game",
+            "release_date": "6 Oct, 2015",
+            "note": null,
+            "price": 9400,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/235460"
+            ],
+            "title": "METAL GEAR RISING: REVENGEANCE",
+            "url": "https://store.steampowered.com/app/235460/",
+            "type": "Game",
+            "release_date": "9 Jan, 2014",
+            "note": null,
+            "price": 21500,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/239350"
+            ],
+            "title": "Spelunky",
+            "url": "https://store.steampowered.com/app/239350/",
+            "type": "Game",
+            "release_date": "8 Aug, 2013",
+            "note": null,
+            "price": 3400,
+            "discount": 85
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/241600"
+            ],
+            "title": "Rogue Legacy",
+            "url": "https://store.steampowered.com/app/241600/",
+            "type": "Game",
+            "release_date": "27 Jun, 2013",
+            "note": null,
+            "price": 5700,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/242640"
+            ],
+            "title": "Styx: Master of Shadows",
+            "url": "https://store.steampowered.com/app/242640/",
+            "type": "Game",
+            "release_date": "7 Oct, 2014",
+            "note": null,
+            "price": 8900,
+            "discount": 85
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/243970"
+            ],
+            "title": "Invisible, Inc.",
+            "url": "https://store.steampowered.com/app/243970/",
+            "type": "Game",
+            "release_date": "12 May, 2015",
+            "note": null,
+            "price": 6900,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/244870"
+            ],
+            "title": "Electronic Super Joy",
+            "url": "https://store.steampowered.com/app/244870/",
+            "type": "Game",
+            "release_date": "23 Aug, 2013",
+            "note": null,
+            "price": 2500,
+            "discount": 80
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/247080"
+            ],
+            "title": "Crypt of the NecroDancer",
+            "url": "https://store.steampowered.com/app/247080/",
+            "type": "Game",
+            "release_date": "23 Apr, 2015",
+            "note": null,
+            "price": 4500,
+            "discount": 80
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/248310"
+            ],
+            "title": "Freedom Planet",
+            "url": "https://store.steampowered.com/app/248310/",
+            "type": "Game",
+            "release_date": "22 Jul, 2014",
+            "note": null,
+            "price": 11400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/248820"
+            ],
+            "title": "Risk of Rain",
+            "url": "https://store.steampowered.com/app/248820/",
+            "type": "Game",
+            "release_date": "8 Nov, 2013",
+            "note": null,
+            "price": 4200,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/250260"
+            ],
+            "title": "Jazzpunk: Director's Cut",
+            "url": "https://store.steampowered.com/app/250260/",
+            "type": "Game",
+            "release_date": "7 Feb, 2014",
+            "note": null,
+            "price": 5700,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/250520"
+            ],
+            "title": "UnderRail",
+            "url": "https://store.steampowered.com/app/250520/",
+            "type": "Game",
+            "release_date": "18 Dec, 2015",
+            "note": null,
+            "price": 11400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/250760"
+            ],
+            "title": "Shovel Knight: Treasure Trove",
+            "url": "https://store.steampowered.com/app/250760/",
+            "type": "Game",
+            "release_date": "26 Jun, 2014",
+            "note": null,
+            "price": 33500,
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/250900"
+            ],
+            "title": "The Binding of Isaac: Rebirth",
+            "url": "https://store.steampowered.com/app/250900/",
+            "type": "Game",
+            "release_date": "4 Nov, 2014",
+            "note": null,
+            "price": 11400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/252110"
+            ],
+            "title": "Lovers in a Dangerous Spacetime",
+            "url": "https://store.steampowered.com/app/252110/",
+            "type": "Game",
+            "release_date": "9 Sep, 2015",
+            "note": null,
+            "price": 9100,
+            "discount": 60
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/252410"
+            ],
+            "title": "SteamWorld Dig",
+            "url": "https://store.steampowered.com/app/252410/",
+            "type": "Game",
+            "release_date": "5 Dec, 2013",
+            "note": null,
+            "price": 4200,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/252610"
+            ],
+            "title": "Death Road to Canada",
+            "url": "https://store.steampowered.com/app/252610/",
+            "type": "Game",
+            "release_date": "22 Jul, 2016",
+            "note": null,
+            "price": 10300,
+            "discount": 55
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/252950"
+            ],
+            "title": "Rocket League®",
+            "url": "https://store.steampowered.com/app/252950/",
+            "type": "Game",
+            "release_date": "7 Jul, 2015",
+            "note": null,
+            "price": 27900,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/253110"
+            ],
+            "title": "The Cat Lady",
+            "url": "https://store.steampowered.com/app/253110/",
+            "type": "Game",
+            "release_date": "4 Dec, 2013",
+            "note": null,
+            "price": 4200,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/253230"
+            ],
+            "title": "A Hat in Time",
+            "url": "https://store.steampowered.com/app/253230/",
+            "type": "Game",
+            "release_date": "6 Oct, 2017",
+            "note": null,
+            "price": 18900,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/253750"
+            ],
+            "title": "Ikaruga",
+            "url": "https://store.steampowered.com/app/253750/",
+            "type": "Game",
+            "release_date": "18 Feb, 2014",
+            "note": null,
+            "price": 8400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/257350"
+            ],
+            "title": "Baldur's Gate II: Enhanced Edition",
+            "url": "https://store.steampowered.com/app/257350/",
+            "type": "Game",
+            "release_date": "16 Nov, 2013",
+            "note": null,
+            "price": 13900,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/260230"
+            ],
+            "title": "Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™",
+            "url": "https://store.steampowered.com/app/260230/",
+            "type": "Game",
+            "release_date": "25 Jun, 2014",
+            "note": null,
+            "price": 10800,
+            "discount": 70
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/261550"
+            ],
+            "title": "Mount &amp; Blade II: Bannerlord",
+            "url": "https://store.steampowered.com/app/261550/",
+            "type": "Game",
+            "release_date": "30 Mar",
+            "note": null,
+            "price": 67900,
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/265950"
+            ],
+            "title": "Ether One",
+            "url": "https://store.steampowered.com/app/265950/",
+            "type": "Game",
+            "release_date": "25 Mar, 2014",
+            "note": null,
+            "price": 15300,
+            "discount": 45
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/268130"
+            ],
+            "title": "Heat Signature",
+            "url": "https://store.steampowered.com/app/268130/",
+            "type": "Game",
+            "release_date": "21 Sep, 2017",
+            "note": null,
+            "price": 7500,
+            "discount": 67
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/268910"
+            ],
+            "title": "Cuphead",
+            "url": "https://store.steampowered.com/app/268910/",
+            "type": "Game",
+            "release_date": "29 Sep, 2017",
+            "note": null,
+            "price": 20900,
+            "discount": 25
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/284390"
+            ],
+            "title": "The Last Door - Collector's Edition",
+            "url": "https://store.steampowered.com/app/284390/",
+            "type": "Game",
+            "release_date": "20 May, 2014",
+            "note": null,
+            "price": 4200,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/284460"
+            ],
+            "title": "DeadCore",
+            "url": "https://store.steampowered.com/app/284460/",
+            "type": "Game",
+            "release_date": "17 Oct, 2014",
+            "note": null,
+            "price": 4200,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/286160"
+            ],
+            "title": "Tabletop Simulator",
+            "url": "https://store.steampowered.com/app/286160/",
+            "type": "Game",
+            "release_date": "5 Jun, 2015",
+            "note": null,
+            "price": 13900,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/290770"
+            ],
+            "title": "The Fall",
+            "url": "https://store.steampowered.com/app/290770/",
+            "type": "Game",
+            "release_date": "30 May, 2014",
+            "note": null,
+            "price": 3300,
+            "discount": 80
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/291650"
+            ],
+            "title": "Pillars of Eternity",
+            "url": "https://store.steampowered.com/app/291650/",
+            "type": "Game",
+            "release_date": "26 Mar, 2015",
+            "note": null,
+            "price": 18900,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/294100"
+            ],
+            "title": "RimWorld",
+            "url": "https://store.steampowered.com/app/294100/",
+            "type": "Game",
+            "release_date": "17 Oct, 2018",
+            "note": null,
+            "price": 38600,
+            "discount": 10
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/296970"
+            ],
+            "title": "Renowned Explorers: International Society",
+            "url": "https://store.steampowered.com/app/296970/",
+            "type": "Game",
+            "release_date": "2 Sep, 2015",
+            "note": null,
+            "price": 6900,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/300340"
+            ],
+            "title": "Lemma",
+            "url": "https://store.steampowered.com/app/300340/",
+            "type": "Game",
+            "release_date": "12 May, 2015",
+            "note": null,
+            "price": 11400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/304240"
+            ],
+            "title": "Resident Evil",
+            "url": "https://store.steampowered.com/app/304240/",
+            "type": "Game",
+            "release_date": "20 Jan, 2015",
+            "note": null,
+            "price": 12400,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/307580"
+            ],
+            "title": "Technobabylon",
+            "url": "https://store.steampowered.com/app/307580/",
+            "type": "Game",
+            "release_date": "May 21, 2015",
+            "note": null,
+            "price": 6800,
+            "discount": 70
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/317040"
+            ],
+            "title": "The Original Strife: Veteran Edition",
+            "url": "https://store.steampowered.com/app/317040/",
+            "type": "Game",
+            "release_date": "12 Dec, 2014",
+            "note": null,
+            "price": 4200,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/322190"
+            ],
+            "title": "SteamWorld Heist",
+            "url": "https://store.steampowered.com/app/322190/",
+            "type": "Game",
+            "release_date": "7 Jun, 2016",
+            "note": null,
+            "price": 5700,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/323320"
+            ],
+            "title": "Grow Home",
+            "url": "https://store.steampowered.com/app/323320/",
+            "type": "Game",
+            "release_date": "4 Feb, 2015",
+            "note": null,
+            "price": 5200,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/332200"
+            ],
+            "title": "Axiom Verge",
+            "url": "https://store.steampowered.com/app/332200/",
+            "type": "Game",
+            "release_date": "14 May, 2015",
+            "note": null,
+            "price": 13900,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/335300"
+            ],
+            "title": "DARK SOULS™ II: Scholar of the First Sin",
+            "url": "https://store.steampowered.com/app/335300/",
+            "type": "Game",
+            "release_date": "2 Apr, 2015",
+            "note": null,
+            "price": 13500,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/335670"
+            ],
+            "title": "LISA: The Painful",
+            "url": "https://store.steampowered.com/app/335670/",
+            "type": "Game",
+            "release_date": "15 Dec, 2014",
+            "note": null,
+            "price": 8400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/346010"
+            ],
+            "title": "Besiege",
+            "url": "https://store.steampowered.com/app/346010/",
+            "type": "Game",
+            "release_date": "18 Feb",
+            "note": null,
+            "price": 11400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/356570"
+            ],
+            "title": "Party Hard",
+            "url": "https://store.steampowered.com/app/356570/",
+            "type": "Game",
+            "release_date": "25 Aug, 2015",
+            "note": null,
+            "price": 8400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/361990"
+            ],
+            "title": "Lakeview Cabin Collection",
+            "url": "https://store.steampowered.com/app/361990/",
+            "type": "Game",
+            "release_date": "10 Apr, 2015",
+            "note": null,
+            "price": 8400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/362490"
+            ],
+            "title": "Exanima",
+            "url": "https://store.steampowered.com/app/362490/",
+            "type": "Game",
+            "release_date": "29 Apr, 2015",
+            "note": null,
+            "price": 19900,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/362680"
+            ],
+            "title": "Fran Bow",
+            "url": "https://store.steampowered.com/app/362680/",
+            "type": "Game",
+            "release_date": "27 Aug, 2015",
+            "note": null,
+            "price": 6800,
+            "discount": 70
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/362890"
+            ],
+            "title": "Black Mesa",
+            "url": "https://store.steampowered.com/app/362890/",
+            "type": "Game",
+            "release_date": "6 Mar",
+            "note": null,
+            "price": 18100,
+            "discount": 35
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/366250"
+            ],
+            "title": "METAL SLUG",
+            "url": "https://store.steampowered.com/app/366250/",
+            "type": "Game",
+            "release_date": "25 Jun, 2015",
+            "note": null,
+            "price": 7400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/367500"
+            ],
+            "title": "Dragon's Dogma: Dark Arisen",
+            "url": "https://store.steampowered.com/app/367500/",
+            "type": "Game",
+            "release_date": "15 Jan, 2016",
+            "note": null,
+            "price": 23400,
+            "discount": 70
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/367520"
+            ],
+            "title": "Hollow Knight",
+            "url": "https://store.steampowered.com/app/367520/",
+            "type": "Game",
+            "release_date": "24 Feb, 2017",
+            "note": null,
+            "price": 11400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/375750"
+            ],
+            "title": "Invisigun Reloaded",
+            "url": "https://store.steampowered.com/app/375750/",
+            "type": "Game",
+            "release_date": "8 Feb, 2017",
+            "note": null,
+            "price": 27900,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/378610"
+            ],
+            "title": "Valley",
+            "url": "https://store.steampowered.com/app/378610/",
+            "type": "Game",
+            "release_date": "24 Aug, 2016",
+            "note": null,
+            "price": 4500,
+            "discount": 80
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/383870"
+            ],
+            "title": "Firewatch",
+            "url": "https://store.steampowered.com/app/383870/",
+            "type": "Game",
+            "release_date": "9 Feb, 2016",
+            "note": null,
+            "price": 6900,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/383980"
+            ],
+            "title": "Rivals of Aether",
+            "url": "https://store.steampowered.com/app/383980/",
+            "type": "Game",
+            "release_date": "28 Mar, 2017",
+            "note": null,
+            "price": 11400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/387290"
+            ],
+            "title": "Ori and the Blind Forest: Definitive Edition",
+            "url": "https://store.steampowered.com/app/387290/",
+            "type": "Game",
+            "release_date": "27 Apr, 2016",
+            "note": null,
+            "price": 6900,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/389730"
+            ],
+            "title": "TEKKEN 7",
+            "url": "https://store.steampowered.com/app/389730/",
+            "type": "Game",
+            "release_date": "2 Jun, 2017",
+            "note": null,
+            "price": 13500,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/391540"
+            ],
+            "title": "Undertale",
+            "url": "https://store.steampowered.com/app/391540/",
+            "type": "Game",
+            "release_date": "15 Sep, 2015",
+            "note": null,
+            "price": 5700,
+            "discount": 66
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/397950"
+            ],
+            "title": "Clustertruck",
+            "url": "https://store.steampowered.com/app/397950/",
+            "type": "Game",
+            "release_date": "27 Sep, 2016",
+            "note": null,
+            "price": 7500,
+            "discount": 67
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/400110"
+            ],
+            "title": "Else Heart.Break()",
+            "url": "https://store.steampowered.com/app/400110/",
+            "type": "Game",
+            "release_date": "24 Sep, 2015",
+            "note": null,
+            "price": 8200,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/405640"
+            ],
+            "title": "Pony Island",
+            "url": "https://store.steampowered.com/app/405640/",
+            "type": "Game",
+            "release_date": "4 Jan, 2016",
+            "note": null,
+            "price": 3200,
+            "discount": 68
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/406290"
+            ],
+            "title": "Twilight Struggle",
+            "url": "https://store.steampowered.com/app/406290/",
+            "type": "Game",
+            "release_date": "14 Apr, 2016",
+            "note": null,
+            "price": 16900,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/411960"
+            ],
+            "title": "TY the Tasmanian Tiger",
+            "url": "https://store.steampowered.com/app/411960/",
+            "type": "Game",
+            "release_date": "13 Dec, 2016",
+            "note": null,
+            "price": 15100,
+            "discount": 34
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/416680"
+            ],
+            "title": "Zombie Night Terror",
+            "url": "https://store.steampowered.com/app/416680/",
+            "type": "Game",
+            "release_date": "20 Jul, 2016",
+            "note": null,
+            "price": 2000,
+            "discount": 90
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/420530"
+            ],
+            "title": "OneShot",
+            "url": "https://store.steampowered.com/app/420530/",
+            "type": "Game",
+            "release_date": "9 Dec, 2016",
+            "note": null,
+            "price": 10100,
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/422970"
+            ],
+            "title": "Devil Daggers",
+            "url": "https://store.steampowered.com/app/422970/",
+            "type": "Game",
+            "release_date": "18 Feb, 2016",
+            "note": null,
+            "price": 3900,
+            "discount": 61
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/423230"
+            ],
+            "title": "Furi",
+            "url": "https://store.steampowered.com/app/423230/",
+            "type": "Game",
+            "release_date": "5 Jul, 2016",
+            "note": null,
+            "price": 11100,
+            "discount": 60
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/424840"
+            ],
+            "title": "Little Nightmares",
+            "url": "https://store.steampowered.com/app/424840/",
+            "type": "Game",
+            "release_date": "28 Apr, 2017",
+            "note": null,
+            "price": 6700,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/427520"
+            ],
+            "title": "Factorio",
+            "url": "https://store.steampowered.com/app/427520/",
+            "type": "Game",
+            "release_date": "25 Feb, 2016",
+            "note": null,
+            "price": 35000,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/431960"
+            ],
+            "title": "Wallpaper Engine",
+            "url": "https://store.steampowered.com/app/431960/",
+            "type": "Application",
+            "release_date": "16 Nov, 2018",
+            "note": null,
+            "price": 7900,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/434050"
+            ],
+            "title": "Duke Nukem 3D: 20th Anniversary World Tour",
+            "url": "https://store.steampowered.com/app/434050/",
+            "type": "Game",
+            "release_date": "12 Oct, 2016",
+            "note": null,
+            "price": 2700,
+            "discount": 90
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/434460"
+            ],
+            "title": "Rock of Ages 2: Bigger &amp; Boulder™",
+            "url": "https://store.steampowered.com/app/434460/",
+            "type": "Game",
+            "release_date": "28 Aug, 2017",
+            "note": null,
+            "price": 5700,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/435150"
+            ],
+            "title": "Divinity: Original Sin 2 - Definitive Edition",
+            "url": "https://store.steampowered.com/app/435150/",
+            "type": "Game",
+            "release_date": "14 Sep, 2017",
+            "note": null,
+            "price": 26400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/435530"
+            ],
+            "title": "The Final Station",
+            "url": "https://store.steampowered.com/app/435530/",
+            "type": "Game",
+            "release_date": "30 Aug, 2016",
+            "note": null,
+            "price": 6800,
+            "discount": 70
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/438140"
+            ],
+            "title": "Star Realms",
+            "url": "https://store.steampowered.com/app/438140/",
+            "type": "Game",
+            "release_date": "8 Mar, 2016",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/447530"
+            ],
+            "title": "VA-11 Hall-A: Cyberpunk Bartender Action",
+            "url": "https://store.steampowered.com/app/447530/",
+            "type": "Game",
+            "release_date": "21 Jun, 2016",
+            "note": null,
+            "price": 15100,
+            "discount": 34
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/454650"
+            ],
+            "title": "DRAGON BALL XENOVERSE 2",
+            "url": "https://store.steampowered.com/app/454650/",
+            "type": "Game",
+            "release_date": "28 Oct, 2016",
+            "note": null,
+            "price": 10800,
+            "discount": 80
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/457140"
+            ],
+            "title": "Oxygen Not Included",
+            "url": "https://store.steampowered.com/app/457140/",
+            "type": "Game",
+            "release_date": "30 Jul, 2019",
+            "note": null,
+            "price": 19700,
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/460790"
+            ],
+            "title": "Bayonetta",
+            "url": "https://store.steampowered.com/app/460790/",
+            "type": "Game",
+            "release_date": "11 Apr, 2017",
+            "note": null,
+            "price": 8200,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/460810"
+            ],
+            "title": "Vanquish",
+            "url": "https://store.steampowered.com/app/460810/",
+            "type": "Game",
+            "release_date": "25 May, 2017",
+            "note": null,
+            "price": 8200,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/462770"
+            ],
+            "title": "Pyre",
+            "url": "https://store.steampowered.com/app/462770/",
+            "type": "Game",
+            "release_date": "25 Jul, 2017",
+            "note": null,
+            "price": 8300,
+            "discount": 70
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/466300"
+            ],
+            "title": "Planescape: Torment: Enhanced Edition",
+            "url": "https://store.steampowered.com/app/466300/",
+            "type": "Game",
+            "release_date": "11 Apr, 2017",
+            "note": null,
+            "price": 13900,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/466630"
+            ],
+            "title": "The Pedestrian",
+            "url": "https://store.steampowered.com/app/466630/",
+            "type": "Game",
+            "release_date": "29 Jan",
+            "note": null,
+            "price": 19500,
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/470260"
+            ],
+            "title": "Event[0]",
+            "url": "https://store.steampowered.com/app/470260/",
+            "type": "Game",
+            "release_date": "14 Sep, 2016",
+            "note": null,
+            "price": 13900,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/477740"
+            ],
+            "title": "Zero Escape: The Nonary Games",
+            "url": "https://store.steampowered.com/app/477740/",
+            "type": "Game",
+            "release_date": "24 Mar, 2017",
+            "note": null,
+            "price": 15100,
+            "discount": 60
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/501590"
+            ],
+            "title": "Bulletstorm: Full Clip Edition",
+            "url": "https://store.steampowered.com/app/501590/",
+            "type": "Game",
+            "release_date": "7 Apr, 2017",
+            "note": null,
+            "price": 4700,
+            "discount": 90
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/505230"
+            ],
+            "title": "Pathologic 2",
+            "url": "https://store.steampowered.com/app/505230/",
+            "type": "Game",
+            "release_date": "May 23 2019",
+            "note": null,
+            "price": 18000,
+            "discount": 58
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/516750"
+            ],
+            "title": "My Summer Car",
+            "url": "https://store.steampowered.com/app/516750/",
+            "type": "Game",
+            "release_date": "24 Oct, 2016",
+            "note": null,
+            "price": 22900,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/552620"
+            ],
+            "title": "ATOM RPG: Post-apocalyptic indie game",
+            "url": "https://store.steampowered.com/app/552620/",
+            "type": "Game",
+            "release_date": "19 Dec, 2018",
+            "note": null,
+            "price": 16000,
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/553640"
+            ],
+            "title": "ICEY",
+            "url": "https://store.steampowered.com/app/553640/",
+            "type": "Game",
+            "release_date": "17 Nov, 2016",
+            "note": null,
+            "price": 17900,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/555220"
+            ],
+            "title": "Detention",
+            "url": "https://store.steampowered.com/app/555220/",
+            "type": "Game",
+            "release_date": "12 Jan, 2017",
+            "note": null,
+            "price": 5900,
+            "discount": 70
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/557340"
+            ],
+            "title": "My Friend Pedro",
+            "url": "https://store.steampowered.com/app/557340/",
+            "type": "Game",
+            "release_date": "20 Jun, 2019",
+            "note": null,
+            "price": 16700,
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/562860"
+            ],
+            "title": "Ion Fury",
+            "url": "https://store.steampowered.com/app/562860/",
+            "type": "Game",
+            "release_date": "15 Aug, 2019",
+            "note": null,
+            "price": 19700,
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/570940"
+            ],
+            "title": "DARK SOULS™: REMASTERED",
+            "url": "https://store.steampowered.com/app/570940/",
+            "type": "Game",
+            "release_date": "24 May, 2018",
+            "note": null,
+            "price": 27000,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/579940"
+            ],
+            "title": "Race for the Galaxy",
+            "url": "https://store.steampowered.com/app/579940/",
+            "type": "Game",
+            "release_date": "27 Jun, 2017",
+            "note": null,
+            "price": 9000,
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/587620"
+            ],
+            "title": "Okami HD",
+            "url": "https://store.steampowered.com/app/587620/",
+            "type": "Game",
+            "release_date": "12 Dec, 2017",
+            "note": null,
+            "price": 24900,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/588650"
+            ],
+            "title": "Dead Cells",
+            "url": "https://store.steampowered.com/app/588650/",
+            "type": "Game",
+            "release_date": "7 Aug, 2018",
+            "note": null,
+            "price": 19700,
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/593280"
+            ],
+            "title": "Cat Quest",
+            "url": "https://store.steampowered.com/app/593280/",
+            "type": "Game",
+            "release_date": "8 Aug, 2017",
+            "note": null,
+            "price": 6200,
+            "discount": 70
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/594570"
+            ],
+            "title": "Total War: WARHAMMER II",
+            "url": "https://store.steampowered.com/app/594570/",
+            "type": "Game",
+            "release_date": "28 Sep, 2017",
+            "note": null,
+            "price": 32200,
+            "discount": 66
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/601840"
+            ],
+            "title": "Griftlands",
+            "url": "https://store.steampowered.com/app/601840/",
+            "type": "Game",
+            "release_date": "14 Jun",
+            "note": null,
+            "price": 19400,
+            "discount": 15
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/610370"
+            ],
+            "title": "Desperados III",
+            "url": "https://store.steampowered.com/app/610370/",
+            "type": "Game",
+            "release_date": "16 Jun",
+            "note": null,
+            "price": 66200,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/612400"
+            ],
+            "title": "The Last Night",
+            "url": "https://store.steampowered.com/app/612400/",
+            "type": "Game",
+            "release_date": "TBA",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/613830"
+            ],
+            "title": "CHRONO TRIGGER®",
+            "url": "https://store.steampowered.com/app/613830/",
+            "type": "Game",
+            "release_date": "27 Feb, 2018",
+            "note": null,
+            "price": 11400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/619150"
+            ],
+            "title": "while True: learn()",
+            "url": "https://store.steampowered.com/app/619150/",
+            "type": "Game",
+            "release_date": "17 Jan, 2019",
+            "note": null,
+            "price": 15200,
+            "discount": 27
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/631510"
+            ],
+            "title": "Devil May Cry HD Collection",
+            "url": "https://store.steampowered.com/app/631510/",
+            "type": "Game",
+            "release_date": "13 Mar, 2018",
+            "note": null,
+            "price": 49400,
+            "discount": 34
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/632470"
+            ],
+            "title": "Disco Elysium",
+            "url": "https://store.steampowered.com/app/632470/",
+            "type": "Game",
+            "release_date": "15 Oct, 2019",
+            "note": null,
+            "price": 35900,
+            "discount": 25
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/640820"
+            ],
+            "title": "Pathfinder: Kingmaker - Enhanced Edition",
+            "url": "https://store.steampowered.com/app/640820/",
+            "type": "Game",
+            "release_date": "25 Sep, 2018",
+            "note": null,
+            "price": 15100,
+            "discount": 60
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/645630"
+            ],
+            "title": "Car Mechanic Simulator 2018",
+            "url": "https://store.steampowered.com/app/645630/",
+            "type": "Game",
+            "release_date": "28 Jul, 2017",
+            "note": null,
+            "price": 12500,
+            "discount": 55
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/646570"
+            ],
+            "title": "Slay the Spire",
+            "url": "https://store.steampowered.com/app/646570/",
+            "type": "Game",
+            "release_date": "23 Jan, 2019",
+            "note": null,
+            "price": 16400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/653530"
+            ],
+            "title": "Return of the Obra Dinn",
+            "url": "https://store.steampowered.com/app/653530/",
+            "type": "Game",
+            "release_date": "18 Oct, 2018",
+            "note": null,
+            "price": 20900,
+            "discount": 25
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/673130"
+            ],
+            "title": "AMID EVIL",
+            "url": "https://store.steampowered.com/app/673130/",
+            "type": "Game",
+            "release_date": "20 Jun, 2019",
+            "note": null,
+            "price": 16700,
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/678950"
+            ],
+            "title": "DRAGON BALL FighterZ",
+            "url": "https://store.steampowered.com/app/678950/",
+            "type": "Game",
+            "release_date": "26 Jan, 2018",
+            "note": null,
+            "price": 22500,
+            "discount": 75
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/678960"
+            ],
+            "title": "CODE VEIN",
+            "url": "https://store.steampowered.com/app/678960/",
+            "type": "Game",
+            "release_date": "27 Sep, 2019",
+            "note": null,
+            "price": 47900,
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/682990"
+            ],
+            "title": "Drug Dealer Simulator",
+            "url": "https://store.steampowered.com/app/682990/",
+            "type": "Game",
+            "release_date": "16 Apr",
+            "note": null,
+            "price": 22300,
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/683320"
+            ],
+            "title": "GRIS",
+            "url": "https://store.steampowered.com/app/683320/",
+            "type": "Game",
+            "release_date": "13 Dec, 2018",
+            "note": null,
+            "price": 9900,
+            "discount": 60
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/687440"
+            ],
+            "title": "In The Valley of Gods",
+            "url": "https://store.steampowered.com/app/687440/",
+            "type": "Game",
+            "release_date": "TBD",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/692850"
+            ],
+            "title": "Bloodstained: Ritual of the Night",
+            "url": "https://store.steampowered.com/app/692850/",
+            "type": "Game",
+            "release_date": "June 18, 2019",
+            "note": null,
+            "price": 28700,
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/699170"
+            ],
+            "title": "Fell Seal: Arbiter's Mark",
+            "url": "https://store.steampowered.com/app/699170/",
+            "type": "Game",
+            "release_date": "30 Apr, 2019",
+            "note": null,
+            "price": 12800,
+            "discount": 66
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/718560"
+            ],
+            "title": "Scythe: Digital Edition",
+            "url": "https://store.steampowered.com/app/718560/",
+            "type": "Game",
+            "release_date": "5 Sep, 2018",
+            "note": null,
+            "price": 13900,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/730820"
+            ],
+            "title": "The Curse of Monkey Island",
+            "url": "https://store.steampowered.com/app/730820/",
+            "type": "Game",
+            "release_date": "22 Mar, 2018",
+            "note": null,
+            "price": 12900,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/731490"
+            ],
+            "title": "Crash Bandicoot™ N. Sane Trilogy",
+            "url": "https://store.steampowered.com/app/731490/",
+            "type": "Game",
+            "release_date": "29 Jun, 2018",
+            "note": null,
+            "price": 57400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/736260"
+            ],
+            "title": "Baba Is You",
+            "url": "https://store.steampowered.com/app/736260/",
+            "type": "Game",
+            "release_date": "13 Mar, 2019",
+            "note": null,
+            "price": 18300,
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/753640"
+            ],
+            "title": "Outer Wilds",
+            "url": "https://store.steampowered.com/app/753640/",
+            "type": "Game",
+            "release_date": "18 Jun",
+            "note": null,
+            "price": 21900,
+            "discount": 33
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/758370"
+            ],
+            "title": "Through the Ages",
+            "url": "https://store.steampowered.com/app/758370/",
+            "type": "Game",
+            "release_date": "26 Mar, 2018",
+            "note": null,
+            "price": 23900,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/761600"
+            ],
+            "title": "Onimusha: Warlords",
+            "url": "https://store.steampowered.com/app/761600/",
+            "type": "Game",
+            "release_date": "15 Jan, 2019",
+            "note": null,
+            "price": 32400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/780290"
+            ],
+            "title": "Gloomhaven",
+            "url": "https://store.steampowered.com/app/780290/",
+            "type": "Game",
+            "release_date": "17 Jul, 2019",
+            "note": null,
+            "price": 24600,
+            "discount": 25
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/787480"
+            ],
+            "title": "Phoenix Wright: Ace Attorney Trilogy",
+            "url": "https://store.steampowered.com/app/787480/",
+            "type": "Game",
+            "release_date": "9 Apr, 2019",
+            "note": null,
+            "price": 37400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/798460"
+            ],
+            "title": "Ni no Kuni Wrath of the White Witch™ Remastered",
+            "url": "https://store.steampowered.com/app/798460/",
+            "type": "Game",
+            "release_date": "20 Sep, 2019",
+            "note": null,
+            "price": 47900,
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/800270"
+            ],
+            "title": "Terraforming Mars",
+            "url": "https://store.steampowered.com/app/800270/",
+            "type": "Game",
+            "release_date": "17 Oct, 2018",
+            "note": null,
+            "price": 13900,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/838310"
+            ],
+            "title": "Bloodstained: Curse of the Moon",
+            "url": "https://store.steampowered.com/app/838310/",
+            "type": "Game",
+            "release_date": "24 May, 2018",
+            "note": null,
+            "price": 9900,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/843260"
+            ],
+            "title": "The Bard's Tale Trilogy",
+            "url": "https://store.steampowered.com/app/843260/",
+            "type": "Game",
+            "release_date": "14 Aug, 2018",
+            "note": null,
+            "price": 11400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/847370"
+            ],
+            "title": "Sunset Overdrive",
+            "url": "https://store.steampowered.com/app/847370/",
+            "type": "Game",
+            "release_date": "16 Nov, 2018",
+            "note": null,
+            "price": 14000,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/851850"
+            ],
+            "title": "DRAGON BALL Z: KAKAROT",
+            "url": "https://store.steampowered.com/app/851850/",
+            "type": "Game",
+            "release_date": "17 Jan",
+            "note": null,
+            "price": 53900,
+            "discount": 40
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/860950"
+            ],
+            "title": "Mark of the Ninja: Remastered",
+            "url": "https://store.steampowered.com/app/860950/",
+            "type": "Game",
+            "release_date": "9 Oct, 2018",
+            "note": null,
+            "price": 12500,
+            "discount": 55
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/861540"
+            ],
+            "title": "Dicey Dungeons",
+            "url": "https://store.steampowered.com/app/861540/",
+            "type": "Game",
+            "release_date": "13 Aug, 2019",
+            "note": null,
+            "price": 11400,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/870780"
+            ],
+            "title": "Control",
+            "url": "https://store.steampowered.com/app/870780/",
+            "type": "Game",
+            "release_date": "Coming August 2020",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/881100"
+            ],
+            "title": "Noita",
+            "url": "https://store.steampowered.com/app/881100/",
+            "type": "Game",
+            "release_date": "24 Sep, 2019",
+            "note": null,
+            "price": 19400,
+            "discount": 25
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/883710"
+            ],
+            "title": "Resident Evil 2",
+            "url": "https://store.steampowered.com/app/883710/",
+            "type": "Game",
+            "release_date": "25 Jan, 2019",
+            "note": null,
+            "price": 59900,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/893850"
+            ],
+            "title": "THE LONGING",
+            "url": "https://store.steampowered.com/app/893850/",
+            "type": "Game",
+            "release_date": "5 Mar",
+            "note": null,
+            "price": 18300,
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/973760"
+            ],
+            "title": "Thronebreaker: The Witcher Tales",
+            "url": "https://store.steampowered.com/app/973760/",
+            "type": "Game",
+            "release_date": "9 Nov, 2018",
+            "note": null,
+            "price": 24900,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/975370"
+            ],
+            "title": "Dwarf Fortress",
+            "url": "https://store.steampowered.com/app/975370/",
+            "type": "Game",
+            "release_date": "time is subjective",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/976730"
+            ],
+            "title": "Halo: The Master Chief Collection",
+            "url": "https://store.steampowered.com/app/976730/",
+            "type": "Game",
+            "release_date": "3 Dec, 2019",
+            "note": null,
+            "price": 38300,
+            "discount": 20
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1010750"
+            ],
+            "title": "Blood: Fresh Supply™",
+            "url": "https://store.steampowered.com/app/1010750/",
+            "type": "Game",
+            "release_date": "9 May, 2019",
+            "note": null,
+            "price": 11300,
+            "discount": 33
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1086940"
+            ],
+            "title": "Baldur's Gate 3",
+            "url": "https://store.steampowered.com/app/1086940/",
+            "type": "Game",
+            "release_date": "To Be Announced",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1091500"
+            ],
+            "title": "Cyberpunk 2077",
+            "url": "https://store.steampowered.com/app/1091500/",
+            "type": "Game",
+            "release_date": "19 November",
+            "note": null,
+            "price": 89900,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1102190"
+            ],
+            "title": "Monster Train",
+            "url": "https://store.steampowered.com/app/1102190/",
+            "type": "Game",
+            "release_date": "21 May",
+            "note": null,
+            "price": 29600,
+            "discount": 10
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1113000"
+            ],
+            "title": "Persona 4 Golden",
+            "url": "https://store.steampowered.com/app/1113000/",
+            "type": "Game",
+            "release_date": "13 Jun",
+            "note": null,
+            "price": 39900,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1127610"
+            ],
+            "title": "Iris and the Giant",
+            "url": "https://store.steampowered.com/app/1127610/",
+            "type": "Game",
+            "release_date": "27 Feb",
+            "note": null,
+            "price": 18100,
+            "discount": 30
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1137350"
+            ],
+            "title": "Filament",
+            "url": "https://store.steampowered.com/app/1137350/",
+            "type": "Game",
+            "release_date": "23 Apr",
+            "note": null,
+            "price": 16600,
+            "discount": 33
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1151640"
+            ],
+            "title": "Horizon Zero Dawn™ Complete Edition",
+            "url": "https://store.steampowered.com/app/1151640/",
+            "type": "Game",
+            "release_date": "Summer 2020",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1167630"
+            ],
+            "title": "Teardown",
+            "url": "https://store.steampowered.com/app/1167630/",
+            "type": "Game",
+            "release_date": "2020",
+            "note": null,
+            "price": null,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1190460"
+            ],
+            "title": "DEATH STRANDING",
+            "url": "https://store.steampowered.com/app/1190460/",
+            "type": "Game",
+            "release_date": "14 July",
+            "note": null,
+            "price": 179900,
+            "discount": 0
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1216490"
+            ],
+            "title": "Knock Harder",
+            "url": "https://store.steampowered.com/app/1216490/",
+            "type": "Game",
+            "release_date": "27 Apr",
+            "note": null,
+            "price": 14300,
+            "discount": 15
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1225560"
+            ],
+            "title": "Unravel",
+            "url": "https://store.steampowered.com/app/1225560/",
+            "type": "Game",
+            "release_date": "4 Jun",
+            "note": null,
+            "price": 34900,
+            "discount": 50
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1236720"
+            ],
+            "title": "Spirit Island",
+            "url": "https://store.steampowered.com/app/1236720/",
+            "type": "Game",
+            "release_date": "16 Apr",
+            "note": null,
+            "price": 27900,
+            "discount": 15
+        },
+        {
+            "gameid": [
+                "steam",
+                "app/1303950"
+            ],
+            "title": "Toodee and Topdee",
+            "url": "https://store.steampowered.com/app/1303950/",
+            "type": "Game",
+            "release_date": "2020",
+            "note": null,
+            "price": null,
+            "discount": 0
+        }
+    ]
+}
