@@ -21,6 +21,7 @@
   - [The Flash](#The-Flash)
   - [Wonder Woman](#Wonder-Woman)
 - [Comic books of the most popular franchises - best books and where to start](#Comic-books-of-the-most-popular-franchises---best-books-and-where-to-start)
+  - [Alien](#Alien)
   - [Blade Runner](#Blade-Runner)
   - [Doctor Who](#Doctor-Who)
   - [Godzilla](#Godzilla)
@@ -1171,6 +1172,125 @@ TL;DR - Start with Rebirth. After that check out any of Rucka, Perez, Simone or 
 - [Wonder Woman: Rebirth](https://www.amazon.com/dp/1401267785) | Greg Rucka
 
 ## Comic books of the most popular franchises - best books and where to start
+
+### Alien
+
+10: Alien: The Illustrated Story | jun1979 | Goodwin
+
+**Outbreak** (Book One or Earth Hive) | jul1988 | Verheiden
+
+**Nightmare Asylum** (Book Two) | aug1989 | Verheiden
+
+*Aliens vs. Predator* | nov1989 | Stradley
+
+**Female War** | jun1990 | Verheiden
+
+Genocide | nov1991 | Richardson, Arcudi
+
+Newt's Tale | jun1992 | Richardson
+
+Colonial Marines | jan1993 | Wagner, Guinan, et al.
+
+Sacrifice | mar1993 | Miiligan
+
+Rogue | apr1993 | Edginton
+
+*Labyrinth* | aug1993 | Woodring
+
+Salvation | nov1993 | Gibbons
+
+*Music of the Spears* | jan1994 | Williamson
+
+Stronghold | may1994 | Arcudi
+
+Earth Angel | aug1994 | Byrne
+
+Frenzy (Berserker) | jan1995 | Wagner
+
+Harvest | aug1995 | Sheckley
+
+Havoc | jun1997 | Schultz
+
+Alchemy | sep1997 | Arcudi
+
+Survival | feb1998 | Vance
+
+Stalker | jun1998 | Wenzel
+
+Glass Corridor | jun1998 | Lloyd
+
+Wraith | jul1998 | Stephens
+
+Aliens vs. Predator: Eternal | jun1998 | Edginton
+
+Apocalypse (The Destroying Angels) | jan1999 | Schultz
+
+Green Lantern vs. Aliens | sep2000 | Marz
+
+Fire and Stone | sep2014 | DeConnick, Roberson, et al.
+
+Life and Death | mar2016 | Abnett
+
+> 6: Now I am impressed. I don't always agree with all your recommendations, and sometimes think you include some just because they are popular. But the fact you can throw a list like this together, over a property like Aliens, of all things, shows you are very well read across multiple publishers.
+
+3: The three original **Verheiden** series are pretty good. Of the ones that followed, I think *Labyrinth* and *Music of the Spears* were the best, but a lot of of the Aliens comics are surprisingly good.
+
+> 2: Agree, the first three stories are great (**Outbreak**, **Nightmare Asylum** and **Female War**) all three stories are included in the Volume 1 Omnibus, highly recommend.
+>
+> Omnibus may be the best way to read most of these stories. Finding and collecting single issues for Aliens can be difficult, you just can't find many of them in the wild.
+
+2: **Verheiden** is the OG and the best of the bunch, IMO. Buy the tasty [30th Anniversary edition](https://www.amazon.com/Aliens-30th-Anniversary-Original-Comics/dp/1506700780) of his first arc, Outbreak, and then the also tasty [hardcover collecting his other two stories](https://www.amazon.com/gp/aw/d/1506703569/ref=pd_aw_fbt_14_img_2?ie=UTF8&psc=1&refRID=B1Z1GQRH28GYH2G5XEET).
+
+I highly recommend those two specific versions mainly because, if you buy other editions, there's no guarantee that they won't be the nasty edited and recolored versions with all the character names changed (the story continues on from the second movie, and was written before Alien3 came out and killed off most of the characters, so Dark Horse rereleased it with the names changed to avoid confusion - never mind that they kept all of their back stories which were identical to the film versions, which was *more* confusing if anything...).
+
+2: I have Green Lantern vs. Aliens and its badass
+
+2: The first run of Aliens in color is amazing. Art by Denis Beauviex.
+
+---
+
+10: You should start with the main three book story arc that essentially started off the Alien comic book franchise. It originally follows Newt and Hicks after the events of the second movie, but the names were altered after the 3rd movie came out. Most of the comics in the Aliens universe are set after the events of these books, so some things might not make sense if you haven't read them. Also, the original Aliens vs Predator comics are absolutely one of my favorite comics.
+
+**Aliens: Outbreak**
+
+**Aliens: Nightmare Asylum**
+
+**Aliens: Female War**
+
+*Alien vs. Predator*
+
+edit: spelling
+
+6: Aliens 30th Anniversary: The Original Comic Series
+Aliens: The Original Comic Series - **Nightmare Asylum** and Earth War
+*Aliens: Defiance*
+Aliens: Dead Orbit
+
+> 4: Here is the right answer
+
+3: There's a really cool one in the Judge Dredd universe as well, where a hive is located in the under-ruins of MC-1. Otherwise, there's a few Omnibus collections of the old 90s comic books that collect every issue made back then. Same with Predator too, both published by Dark Horse. You can find those decently cheap too online
+
+2: You're going to get all sorts of answers. My recommendation is the Fire and Stone series followed by the Life and Death series. These series take place before and after the Prometheus timeline, extends through the Alien and Aliens franchise, and I think they add to the lore of the movies.
+
+[Here](https://en.wikipedia.org/wiki/Fire_and_Stone) is a link to wikipedia because I can't access comic sites at work.
+
+Have fun!
+
+2: Aliens: Countdown
+
+Part 1: http://www.comicextra.com/aliens-countdown/chapter-1/full
+
+Part 2: http://www.comicextra.com/aliens-countdown/chapter-2/full
+
+A cool little short Aliens comic with excellent artwork. Just scroll down a little past the silly ads to get to the comic book parts.
+
+1: Lots of great suggestions so far, you really can't go wrong where ever you start.
+
+Aliens: Salvation is my personal favourite, I believe it's part of the omnibus vol 3.
+
+It's drawn by Mike Mignola(Hellboy) and his art style really translates well to the IP. The story is very good too!
+
+Have fun, I really wish I could read them all again with a fresh start! I envy your journey!
 
 ### Blade Runner
 
@@ -2775,6 +2895,10 @@ Best The Flash books:
 
 Best Wonder Woman books: *Wonder Woman by George Perez Omnibus Vol. 1*, *Wonder Woman By George Perez Omnibus Vol. 2*, *Wonder Woman by George Perez Omnibus Vol. 3*, *Wonder Woman By Greg Rucka Vol. 1* (Rucka's first run), *Wonder Woman by Greg Rucka, Vol. 2* (Rucka's first run), *Wonder Woman Vol. 1: The Lies (Rebirth)* (Rucka is back, it's his second run, and it's good starting point).
 
+Best Alien books: **Aliens: Outbreak**, **Aliens: Nightmare Asylum**, **Aliens: Female War** (it is better to buy Aliens Omnibus Volume 1 to get all three of them), *Aliens Vs. Predator*, *Labyrinth*, *Music of the Spears*, *Aliens: Defiance*, Aliens: Dead Orbit, Salvation.
+
+> A lot of of the Aliens comics are surprisingly good.
+
 Best Blade Runner books: Blade Runner 2019 (it is a pretty fresh run).
 
 Best Doctor Who books:
@@ -2852,51 +2976,53 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 32. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
 33. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
 34. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
-35. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
-36. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
-37. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
-38. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
-39. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
-40. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
-41. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
-42. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
-43. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
-44. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
-45. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
-46. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
-47. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
-48. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
-49. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
-50. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
-51. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
-52. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
-53. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
-54. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
-55. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
-56. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
-57. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
-58. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
-59. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
-60. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
-61. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
-62. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
-63. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
-64. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
-65. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
-66. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
-67. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
-68. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
-69. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
-70. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
-71. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
-72. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
-73. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
-74. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
-75. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
-76. https://www.cbr.com/the-best-cyberpunk-comics-ever/
-77. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
-78. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
-79. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
-80. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
-81. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-82. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+35. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
+36. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
+37. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
+38. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
+39. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
+40. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
+41. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
+42. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
+43. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
+44. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
+45. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
+46. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
+47. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
+48. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
+49. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
+50. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
+51. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
+52. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
+53. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
+54. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
+55. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
+56. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
+57. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
+58. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
+59. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
+60. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
+61. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
+62. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
+63. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
+64. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
+65. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
+66. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
+67. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
+68. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
+69. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
+70. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
+71. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
+72. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
+73. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
+74. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
+75. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
+76. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
+77. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
+78. https://www.cbr.com/the-best-cyberpunk-comics-ever/
+79. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
+80. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
+81. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
+82. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
+83. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+84. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
