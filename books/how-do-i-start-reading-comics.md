@@ -17,6 +17,8 @@
     - [New 52](#New-52)
     - [DC Rebirth](#DC-Rebirth)
   - [Shops](#Shops)
+  - [Best Youtube channels about comics](#Best-Youtube-channels-about-comics)
+    - [Conclusion](#Conclusion)
 - [References](#References)
 
 ## Terminology
@@ -346,6 +348,112 @@ Ukraine:
 
 - [Comics page on Geekach.com.ua](https://geekach.com.ua/komiksy/), it feels like there is no Original - Kiev, Kharkiv
 
+## Best Youtube channels about comics
+
+10: *Nerdsync* and *comicstorian* is pretty good, although *comics explained* and **comic pop** are my favorites.
+
+10: **Strip Panel Naked** is amazing for analyzing various tropes and techniques in comics. Panel X Panel is a digital magazine edited by the same guy, and it's also great.
+
+8: **Comic Pop** is my favorite. Channel is very friendly and has great discussions about comics
+
+5: Gem Mint is great.
+
+5: Linkara-atopthefourthwall was my first comic channel and is still really good.
+
+**Comicpop** is one I have gotten into recently and pretty good.
+
+4: As others have said, **Comic Pop** is the best, with their show Back Issues being my favorite series of theirs.
+
+> 4 (OP): Yeah! I love finishing a comic and then hopping on their Back Issue video to hear their discussion on it
+
+3: Variant comics, *Comicstorian*, ComicDrake, and *ComicsExplained* are all great.
+
+---
+
+20: *Comic tropes* and cartoonist kayfabe are my two favorite
+
+4: **ComicPOP**
+
+5: The comic book palace
+
+6: Comic Book University does a review of loads of comics every week with explanations of the plot etc. Was my go-to during HOX/ POX
+
+5: **Comic Pop**
+
+*Comic Tropes*
+
+*Comicstorian*
+
+and *Comics Explained*.
+
+3: **Strip Panel Naked** has lots of brilliant in depth analysis of comic art
+
+> 3: It's the best comics channel on YouTube.
+
+---
+
+43: **ComicPop**!
+
+26: **Strip Panel Naked**. That channel is so good. https://www.youtube.com/channel/UCYJAToPH5GSGShP7Yoc3jsA/featured
+
+12: The weekly pull is for me, the best comic channel by a far margin.
+
+If you know Spanish, Baf comics is also really fun
+
+10: Professor Thorgi
+
+*Caped Joel*
+
+Everyone else has already listed the other ones I watch.
+
+5: *Capedjoel* and **ComicPop** are both great channels.
+
+6: *NerdSync* is my favorite
+
+4: Lesser known channels that I've enjoyed over the last year (all of them are pretty chill/comfy):
+
+[Nerdventures](https://www.youtube.com/channel/UCyAbg740zC1rZkdoZqaMrVA/videos)
+
+[earl grey](https://www.youtube.com/channel/UC1ZtauWih38Lr1aVEXuZybw/videos)
+
+[Walt's Comic Book Channel](https://www.youtube.com/channel/UCtZB7GGyYVrLnzXlooiS8mg/videos)
+
+[Gore Vidal](https://www.youtube.com/channel/UCohnKPl88GFUqX-t3ZLU6zg/videos)
+
+[sleepyreader666](https://www.youtube.com/user/sleepyreader666/videos)
+
+3: *Comics explained* is pretty good
+
+3: Atop the 4th Wall
+
+---
+
+12: **ComicPop** is my favorite!
+
+9: For me there's really only two that I love.
+
+**Strip Panel Naked** is a fantastic series that focuses on specific pages and panels from comics to analyze how writers, illustrators, inkers, colourists, and letterers tell stories. Really great exploration of comics as an art form and story telling medium. The creator (I think Hass?) is widely read and seriously knows comics.
+
+The other is earl grey's panellogy. He's a European comic enthusiast with a wonderfully diverse collection and gives a really nice overview of different comic series that you've probably never even heard of. I've discovered some absolute gems thanks to his videos. He really has impeccable taste and a casual, intimate vibe.
+
+Every other YouTube channel I've seen is usually just like **ComicPop** where it focuses nearly exclusively on Marvel and DC and has an artificial 'casual hang out' production style that is really offputting to me.
+
+6: Are you looking for reviews, story breakdowns, or a more nuanced breakdown?
+
+The best comic book youtuber is **Strip Panel Naked**, but they more cover the artistic side of how they are made, and less about current stories.
+
+For reviews and story breakdowns, I enjoy **ComicPop**!, *Caped Joel*, *Comicstorian*, and *Comics Explained*.
+
+5: **Strip panel naked** and *Nerdsync*
+
+3: Variant is pretty solid.
+
+4: I like *Comics Explained*, that's the main one for me, though looking around this thread I might start watching some other channels too.
+
+### Conclusion
+
+Best channels: **ComicPop** (with their show Back Issues), **Strip Panel Naked** (in-depth analysis of comic art), *Comicstorian*, *Caped Joel*, *Comic tropes*, *Comics Explained*(?), *Nerdsync*(?), Linkara-AtopTheFourthWall , Earl Grey's panellogy, Cartoonist Kayfabe.
+
 ## References
 
 1. https://www.reddit.com/r/NoStupidQuestions/comments/7gj5vy/how_do_i_start_reading_comics/
@@ -357,3 +465,7 @@ Ukraine:
 7. https://www.reddit.com/r/DCcomics/comments/6qf5xn/should_i_read_new_52_or_rebirth/
 8. https://www.reddit.com/r/DCcomics/comments/a0s2pa/new_52_or_rebirth/
 9. https://www.reddit.com/r/DCcomics/comments/6wyorv/where_i_should_start_to_read_new_52_or_rebirth/
+10. https://www.reddit.com/r/comicbooks/comments/96m1hb/what_are_some_good_comicbased_youtube_channels/
+11. https://www.reddit.com/r/comicbooks/comments/dieaqr/best_comic_book_youtube_channels/
+12. https://www.reddit.com/r/comicbooks/comments/6zcvt4/good_comic_related_youtube_channels/
+13. https://www.reddit.com/r/comicbooks/comments/71asej/what_are_the_best_youtube_channels_about_where/
