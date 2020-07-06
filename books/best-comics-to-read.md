@@ -56,6 +56,8 @@
 > **Bold** - means a name that people mention a lot.
 >
 > *Italic* - means a name that people mention a lot, but not as often as **Bold**.
+>
+> ~~Comic~~ - means I bought this comic strip.
 
 I'm not a fan of this sentiment at all, I don't think anyone gets to decide what makes someone a "true" fan of something and I especially wouldn't say someone wasn't a true fan for not having read books like Age of Ultron and Civil War, highly flawed as they are.
 
@@ -2869,15 +2871,15 @@ Jeff Smith - his characters, no matter how far fetched they are, seem real and r
 
 ## Conclusion
 
-Best comic books: **Watchmen**, **Kingdom Come**, **The Dark Knight Returns**, **Sandman**, **Maus**, **From Hell**, **Persepolis**, **Planetary**, **Bone**, **Saga**, **Green Lantern** by Geoff Johns (+**Green Lantern: Secret Origin**), **Saga of the Swamp Thing** (+ [Hellblazer (Constantine)](https://www.amazon.com/dp/1401230067) | Delano, Ennis, et al. is also good), *Starman*, *Fables*, *Preacher*, *Transmetropolitan*, *Daredevil Born Again*, *Judge Dredd: America*, *Enigma*.
+Best comic books: **Watchmen**, **Kingdom Come**, **The Dark Knight Returns**, **Sandman**, **Maus**, **From Hell**, **Persepolis**, **Planetary**, **Bone**, **Saga**, **Green Lantern** by Geoff Johns (+~~**Green Lantern: Secret Origin**~~), **Saga of the Swamp Thing** (+ [Hellblazer (Constantine)](https://www.amazon.com/dp/1401230067) | Delano, Ennis, et al. is also good), *Starman*, *Fables*, *Preacher*, *Transmetropolitan*, *Daredevil Born Again*, *Judge Dredd: America*, *Enigma*.
 
 Best Batman comic books: **Year One**, **The Long Halloween**, **Dark Victory**, **The Dark Knight Returns**, **Court of Owls**, *Arkham Asylum: A serious House on a Serious Earth*.
 
 Best Joker comic books: **The Man Who Laughs**, **The Killing Joke**, **Death *of* the Family**, **Joker**, **Endgame**.
 
-Best Harley Quinn books: **Batman: Mad Love**.
+Best Harley Quinn books: ~~**Batman: Mad Love**~~.
 
-Best Green Lantern books: **Green Lantern: Secret Origin**, **Green Lantern: Rebirth** and other books in Geoff Johns's Green Lantern Saga.
+Best Green Lantern books: ~~**Green Lantern: Secret Origin**~~, **Green Lantern: Rebirth** and other books in Geoff Johns's Green Lantern Saga.
 
 Best Hellboy books: nearly all of it is written by Mike Mignola and nearly all of it is worth reading. Just start at the beginning with [Hellboy, Volume 1: *Seed of Destruction*](https://www.amazon.com/dp/1593070942) and follow the rest in [suggested reading order](http://www.multiversitycomics.com/annotations/hellboy-reading-order-2019/) (*Conqueror Worm* is the best story arc among them). Although, the best option would be to buy omnibuses. *Plague of Frogs* BPRD run is also recommended by people. Besides this spin-off, people also recommend these books: *Frankenstein Underground*, *Lobster Johnson*.
 
@@ -2895,7 +2897,7 @@ Best The Flash books:
 
 Best Wonder Woman books: *Wonder Woman by George Perez Omnibus Vol. 1*, *Wonder Woman By George Perez Omnibus Vol. 2*, *Wonder Woman by George Perez Omnibus Vol. 3*, *Wonder Woman By Greg Rucka Vol. 1* (Rucka's first run), *Wonder Woman by Greg Rucka, Vol. 2* (Rucka's first run), *Wonder Woman Vol. 1: The Lies (Rebirth)* (Rucka is back, it's his second run, and it's good starting point).
 
-Best Alien books: **Aliens: Outbreak**, **Aliens: Nightmare Asylum**, **Aliens: Female War** (it is better to buy Aliens Omnibus Volume 1 to get all three of them), *Aliens Vs. Predator*, *Labyrinth*, *Music of the Spears*, *Aliens: Defiance*, Aliens: Dead Orbit, Salvation.
+Best Alien books: **Aliens: Outbreak**, **Aliens: Nightmare Asylum**, **Aliens: Female War** (it is better to buy Aliens Omnibus Volume 1 to get all three of them), *Aliens Vs. Predator*, *Labyrinth*, *Music of the Spears*, *Aliens: Defiance*, Aliens: Dead Orbit, ~~Aliens: Salvation~~.
 
 > A lot of of the Aliens comics are surprisingly good.
 
@@ -2930,7 +2932,7 @@ Best Star Wars comics:
 - Legends: *Knights of the Old Republic*.
 - Canon: *Darth Vader*, *Star Wars: Darth Vader - Dark Lord of the Sith* (it looks like it's the best SW comics).
 
-Best Teenage Mutant Ninja Turtles: *the current IDW* is the best starting point, *City at War* (Mirage v1 #50-62) is widely viewed as the best TMNT run, *City Fall* (IDW 21-28 - Teenage Mutant Ninja Turtles: The IDW Collection Volume 3 (TMNT IDW Collection) I guess) was incredibly good as well.
+Best Teenage Mutant Ninja Turtles: *the current IDW* is the best starting point (~~1st book~~), *City at War* (Mirage v1 #50-62) is widely viewed as the best TMNT run, *City Fall* (IDW 21-28 - Teenage Mutant Ninja Turtles: The IDW Collection Volume 3 (TMNT IDW Collection) I guess) was incredibly good as well.
 
 Best books by genre:
 
