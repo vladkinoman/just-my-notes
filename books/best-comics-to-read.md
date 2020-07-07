@@ -30,6 +30,7 @@
   - [Star Trek](#Star-Trek)
   - [Star Wars](#Star-Wars)
   - [Teenage Mutant Ninja Turtles](#Teenage-Mutant-Ninja-Turtles)
+  - [The Witcher](#The-Witcher)
 - [Best comics by literary genres](#Best-comics-by-literary-genres)
   - [Fantasy](#Fantasy)
   - [Sci-fi](#Sci-fi)
@@ -2143,6 +2144,115 @@ the new Eastman/Waltz run on IDW is okay, not great, though. The micro series an
 
 Also, Tales of the TMNT volume 2, published by Mirage by various writers and artists, is something any TMNT fan can greatly appreciate. [IDW is starting to publish them in collected but I don't know how far they'll go.](http://www.amazon.com/Teenage-Mutant-Ninja-Turtles-Tales-ebook/dp/B00HYIC9JQ/ref=sr_1_3?ie=UTF8&qid=1411233211&sr=8-3&keywords=tales+of+the+tmnt) Also, they've collected the volume 1 Tales which is cool, too. It's the first two volumes of the Tales trades.
 
+### The Witcher
+
+The quality of the comics issued by Dark Horse
+
+> So, it seems that I fell in love with this series. I started the GOTY edition last week on PS4 - since then, I put 35 hours in the game, read the two short story collections, pre-ordered Thronebreaker, purchased all the novels and the No Man's Land steelbook, and ordered the Ciri, Yennefer and Geralt figures and the World of the Witcher book. I noted that on top of the figures, Dark Horse also released some comics / graphic novels. I read that these are set on different periods in the overall Witcher timeline, but the stories in the comics are not fully canon as there are some differences compared to the source material. Are they still worth a read? There is a nice limited boxed set available in my country for 35 bucks that includes House of Glass, Fox Children and Curse of Crows, but if they are significantly inferior to the books / the game, then I'd skip those. Any recommendation? Many thanks.
+
+5: They're awful. You can find better fanfiction on the internet.
+
+4: Games aren't canon too, but they're of much higher quality than those God awful comic books.
+
+3: I've only read the one with covers by Mike Mignola (House of Glass) but that one was pretty fun and the interior art was rad.
+
+2: The graphic novels are okay, but far from essential reading. They have no narrative connections that expand or otherwise make it necessary to understand the plot of any of the games or the books. So unless you're a hardcore completionist who needs to peruse every piece of witcher fiction there is, they can be safely skipped. Yet I suppose I could think of worse ways to pass the time. Albeit better, too.
+
+2: I don't recommend Fox Children, because as an adaptation of a subplot from the books I think it misses some crucial... something, in translation. It's just not as good imo. I highly recommend Curse of Crows, though, because any comic about Ciri and Geralt on the Path together is great.
+
+---
+
+The Witcher comics
+
+> Hello fellow Witcher fans,
+>
+> I'm pretty new to this sub and I was wondering if anyone has read the comics and if they are worth reading. I started playing the games fairly recently (I have put in so many hours into each) and absolutely fell in love with them and the lore. I'm on my first NG+ and currently rereading the novels. I've watched the Polish show, which was barely tolerable (idk they made the story changes that they did). I also watch a ton of Witcher youtube videos, mostly lore videos and I seen some fan made videos.
+>
+> So, basically I'm looking for other Witcher material until Season of Storms comes out. Are the comics worth buying and reading? Any other suggestions for me?
+
+2: The comics are definitely worth it. Very dark and true to the world of the Witcher. I recommend them. My only complaint is that in the last volume the art was a bit different from the last two volumes and I didn’t like it as much but I still say you should read it.
+
+2: I wouldn't say the comics are as good as the books or the games. And the art gets dodgy in places. But they're not terrible either. I'd say they're about the quality comic book tie-in products for movies or video games usually are in terms of writing.
+
+Definitely better than the Polish series though.
+
+---
+
+Comic Books Reading Order (with books and games)?
+
+> So I'm starting to read through the books and comics. I found this guide here about the books:
+>
+> https://www.reddit.com/r/witcher/comments/3qm8p9/so_you_want_to_read_the_witcher_books_guide/
+>
+> But what about the Comics? Do the comics that came with the games come before the Dark Horse series? I'm also guessing that since the comics are related to the games, that I should read the books first, then the comics. Is this the correct order for everything?:
+>
+> **Books First:**
+>
+> - The Last Wish
+> - Sword of Destiny
+> - Blood of Elves
+> - Time of Contempt
+> - Baptism of Fire
+> - The Tower of Swallows
+> - Lady of the Lake
+>
+> Then:
+>
+> - Witcher 1 (Game)
+> - Reasons of State (Comic)
+> - Witcher 2 (Game)
+> - Matters of Conscience (Comic)
+> - Witcher 3 (Game)
+> - House of Glass (Comic)
+> - Fox Children (Comic)
+> - Witcher 3 DLC (Game)
+> - Killing Monsters (Comic)
+> - Curse of Crows (Comic)
+>
+> Thanks!
+
+3: Are we talking about chronology? Then...
+
+"Reasons of State" takes place between the *Sword of Destiny* and *Something More* short stories.
+
+"Matters of Conscience" takes place after *The Witcher 2 - Assassins of Kings*, following an ending where Geralt chose Iorveth's path and let the dragon live.
+
+"Killing Monsters" takes place shortly before the beginning of *The Witcher 3 - Wild Hunt*.
+
+"Curse of Crows" takes place after *The Witcher 3 - Wild Hunt*. It follows an ending state where Ciri became a witcher and Geralt romanced Yennefer.
+
+"House of Glass" takes place at an unknown time. But most likely it's before the five novels, at the same time as the short stories.
+
+"Fox Children" is an adaptation of two chapters in *Season of Storms*. It is technically non-canon since it's not a 1:1 adaptation (with some pretty notable changes to boot) and the games follow the books.
+
+So, for the complete experience:
+
+- *The Road of No Return* (short story, no official translation, fan translation available)
+- *Season of Storms* (novel)
+- *The Last Wish* (short story collection)
+- *House of Glass* (comic, somewhere hereabouts)
+- *Sword of Destiny* (short story collection, up to *The Sword of Destiny* short story within it)
+- *Reasons of State* (comic)
+- *Something More* (the final story in the *Sword of Destiny* collection)
+- *Blood of Elves* (novel)
+- *Time of Contempt* (novel)
+- *Baptism of Fire* (novel)
+- *The Tower of the Swallow* (novel)
+- *The Lady of the Lake* (novel)
+- *The Witcher* (video game)
+- *The Witcher 2 - Assassins of Kings* (video game)
+- *Matters of Conscience* (comic, only if you picked the Iorveth path and spared the dragon)
+- *Killing Monsters* (comic)
+- *Killing Monsters* (cinematic trailer/short film - yes, this is part of the game canon too)
+- *The Witcher 3 - Wild Hunt* (video game, with the *Hearts of Stone* expansion either within the main story or post-game)
+- *Curse of Crows* (comic, only if Ciri became a witcher and Yennefer was romanced)
+- *Blood and Wine* (video game expansion)
+- *A Night to Remember* (cinematic trailer/short film)
+
+Whew.
+
+Clarification: The books are still the only "hard" canon. But this list shows where the expanded stories take place around them.
+
 ## Best comics by literary genres
 
 ### Fantasy
@@ -2932,7 +3042,9 @@ Best Star Wars comics:
 - Legends: *Knights of the Old Republic*.
 - Canon: *Darth Vader*, *Star Wars: Darth Vader - Dark Lord of the Sith* (it looks like it's the best SW comics).
 
-Best Teenage Mutant Ninja Turtles: *the current IDW* is the best starting point (~~1st book~~), *City at War* (Mirage v1 #50-62) is widely viewed as the best TMNT run, *City Fall* (IDW 21-28 - Teenage Mutant Ninja Turtles: The IDW Collection Volume 3 (TMNT IDW Collection) I guess) was incredibly good as well.
+Best Teenage Mutant Ninja Turtles comics: *the current IDW* is the best starting point (~~1st book~~), *City at War* (Mirage v1 #50-62) is widely viewed as the best TMNT run, *City Fall* (IDW 21-28 - Teenage Mutant Ninja Turtles: The IDW Collection Volume 3 (TMNT IDW Collection) I guess) was incredibly good as well.
+
+Best The Witcher comics: they're awful (stories give nothing to the universe, art could be ugly), but if you still want to read them, then The Witcher, Vol. 1: House of Glass is the best according to Goodreads (3.87 for 2,888 ratings). The next comic books are equal in terms of quality: The Witcher, Vol. 2: Fox Children (story is better than the third one) and The Witcher, Vol. 3: Curse of Crows (story is worse but it has Ciri). Notice, that the third volume has a different art style.
 
 Best books by genre:
 
@@ -3013,18 +3125,21 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 67. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
 68. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
 69. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
-70. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
-71. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
-72. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
-73. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
-74. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
-75. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
-76. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
-77. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
-78. https://www.cbr.com/the-best-cyberpunk-comics-ever/
-79. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
-80. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
-81. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
-82. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
-83. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-84. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+70. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
+71. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
+72. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
+73. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
+74. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
+75. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
+76. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
+77. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
+78. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
+79. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
+80. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
+81. https://www.cbr.com/the-best-cyberpunk-comics-ever/
+82. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
+83. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
+84. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
+85. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
+86. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+87. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
