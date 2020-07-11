@@ -18,7 +18,7 @@
   - [Green Lantern](#Green-Lantern)
   - [Hellboy](#Hellboy)
   - [Hulk](#Hulk)
-  - [Spider-man](#Spider-man)
+  - [Spider-Man](#Spider-Man)
   - [Swamp Thing](#Swamp-Thing)
   - [The Flash](#The-Flash)
   - [Wolverine](#Wolverine)
@@ -890,9 +890,308 @@ The BPRD stuff is mostly good and the minis of the side characters tend to vary 
 
 
 
-### Spider-man
+### Spider-Man
 
+What's the absolute best Spider-Man series?
 
+76: **Ultimate Spider-Man**. You get to see Peter right from when he gets his powers. Start with Ultimate Spider-Man (2000) #1 and read from there. The whole thing's on Marvel Unlimited.
+
+29: I have to go with **Ultimate Spider Man**. It's got everything you want from a Spider Man book: Cool villains, snappy repartees, good characterization of Peter, and MJ. Plus, the quality is very consistent. Even the Ultimatum tie-in wasn't terrible, and that's saying a lot when comparing it with the rest of the event.
+
+20: I mean it can only really be *Amazing*. It's the one that built all the mythos that makes Spidey what he is. It also has the benefit of being told from many different creative teams.
+
+> 17: Yup, Ultimate has a more modern surface so I can see why people might prefer that, but the first 200 issues of *ASM* are really the "bible" of Spider-Man
+>
+> > 18: And much like the Bible it can be a dry, stolid, boring slog for people who weren't around when it was written or don't spend all their time around people who champion it.
+> >
+> > See also: most classic literature as it is taught in US English classes.
+> >
+> > > 14: I don't know. I think it's pretty readable, especially after the first 30-40 issues pass and you get used to the Woody Allen jokes and other 1960s references. The plots are tight and Peter shines.
+
+16: This is kind of a loaded question because of how long *ASM* had been around.
+
+My honest opinion, Marv Wolfman's year and a half run on *Amazing* is one of the best I've ever seen. It started at 184 and ran up to 200. The stories and plots all tied in together with the anniversary 200th issue culminating in Spider-Man's confrontation with the burglar that killer Uncle Ben.
+
+The title came full circle at that point and considered by many as the end of that first era of Spider-Man (Silver Age).
+
+Other notables are Roger Stern, Peter David and David Michelinie's runs.
+
+16: Spider-Man blue. Short, limited run, but it's fantastic.
+
+9: **Ultimate Spider-Man** is going to be the most accessible by a wide margin.
+
+*Amazing Spider-Man* from the beginning is the founder, and it *is* good, but its influence may exceed its readability to you.
+
+Everything else is secondary. Seriously, *everything*.
+
+---
+
+Best Spider-Man comics?
+
+18: **Ultimate Spider-Man** is superb pretty much from the get-go.
+
+*Kraven's Last Hunt* and *The Death of Gwen Stacey* are the two most popular stories from the "classic" era.
+
+Spider-Man Blue by Jeph Loeb is brilliant.
+
+Dan Slott's run on *Amazing Spider-Man* is very hit-and-miss for me but a lot of people like it, I'd give it a look especially if you enjoyed his work on Superior. He starts with "Brand New Day" which you can get in TBPs right now.
+
+EDIT: words
+
+9: 
+
+- The Death of Jean DeWolff
+- *Kraven's Last Hunt*
+- Stan Lee/Steve Ditko's run (the original run)
+- David Michelinie/Todd McFarlane's run (a great run that introduced Venom)
+- Pretty much anything Roger Stern wrote
+- Return of the Burglar
+- Nothing Can Stop the Juggernaut
+- *Death of Gwen Stacy*
+- **Ultimate Spider-Man** (alternate universe)
+
+4: Kraven's Last Hunt, Spider-Man Blue, Nothing Can Stop the Juggernaut
+
+3: No one recommending Spider-Island? I thought it was great.
+
+2: 
+
+- *Death of Gwen Stacy*
+- Wolverine and Spider-Man (mini) series
+- Back In Black
+- Most **Ultimate Spider-Man**
+
+> 3: Wolverine/Spider-Man was so great. There was a really good dynamic between the two of them.
+>
+> Wolverine and Spider-Man get lost in the timestream, and have to find their way back to their time. It's pretty outlandish but still pretty good.
+>
+> edit: [Link to the Wikipedia article](http://en.wikipedia.org/wiki/Astonishing_Spider-Man_%26_Wolverine). Full title is Astonishing Spider-Man and Wolverine.
+
+2: *Kraven's Last Hunt*, Spider-Man Blue, *Death of the Gwen Stacey*, Nothing can stop the Juggernaut, Birth of Venom, Torment, The Other, Back in Black, Flowers for Rhino.
+
+Brand New Day (3 trades), New Ways to Die, Big Time, Spider-Island, Ends of the Earth
+
+Marvel Knights Spiderman (Mark Millar 12 issue run), Ultimate Spider-Man (all of it has been stellar), Astonishing Spider-Man and Wolverine (mini-series), etc. :)
+
+---
+
+In your opinion, what is the best Spider-Man's comics?
+
+I'm not a comic old reader, so I'm searching for the best comics and sagas of my favorite superhero.
+
+I liked so much "*Kraven's Last Hunt*", "The Kid Who Collected Spider-Man", "**Ultimate Spider-Man: Power and Responsibility**", "*The Amazing Spider-Man: Coming Home*" and "*The Death of Gwen Stacy*".
+
+6: Grim hunt and spider-island are very good. Also the entire superior spider-man run is just brilliant.
+
+3: A lot of Marvel's old characters don't hit their strides until the 70s or 80s but *Amazing Spider-Man* is one of those titles that hits its stride immediately and keeps it up for a very long time. I'd honestly recommend just plowing through the first 150 or so issues, the stuff written by Stan Lee and Gerry Conway. I got the Essentials volumes that collect them and love them.
+
+3: Death of Jean Dewolff
+
+If This Be My Destiny
+
+New Ways to Die
+
+Character Assassination
+
+Dying Wish
+
+Death of Spider-Man(Ultimate)
+
+Alien Symbiote "saga"
+
+2: Well, the original Stan Lee/Steve Ditko run is legendary. Roger Stern did fantastic with the character in the 80s. In addition to "The Kid Who Collected Spider-Man", he also put Spidey up against an unstoppable force in "Nothing Can Stop the Juggernaut!" His original Hobgoblin arc is great, too.
+
+"The Death of Jean DeWolff", "One Small Break", are both very good "dark" stories.
+
+As for something more modern and light-hearted, I'd recommend "Snow Day" and "The Rules of the Game". As well as "Spider-Man/Human Torch" and "The Commuter Cometh".
+
+2: The original Spidey 2099 and the current one, it's too easy to pick out good Peter stuff but Miguel is so fuckin awesome.
+
+---
+
+#### Miles Morales
+
+Need Help Finding Best Miles Morales Origin Comic
+
+3: His origin starts in All-New Ultimate Comics Spider-Man #1.
+
+If you want a collection, the Miles Morales: Ultimate Spider-Man Omnibus collects the whole Ultimate run.
+
+1: Pick up Miles Morales: Ultimate Spider-Man Ultimate Collection 1! Should have all you need!
+
+---
+
+Where to start reading Miles Morales Spider-Man?
+
+5: Ultimate Comics: Spider-Man relaunch from 2011.
+
+[http://en.wikipedia.org/wiki/Spider-Man_%28Miles_Morales%29#Ultimate_Comics:_Spider-Man](http://en.wikipedia.org/wiki/Spider-Man_(Miles_Morales)#Ultimate_Comics:_Spider-Man)
+
+> 2 (OP): Thank you! I googled and found his first appearance but didn't know if that's where I was supposed to start.
+>
+> > 2: The first appearance was Ultimate Fallout which was a six issue mini after Peter died, but it was more of a compilation book and was only very tangentally about Miles. The Ult Spidey book itself is all you really need. Although saying this, the supporting cast (MJ, Gwen, May, Jessica etc) might be a bit confusing if you've not been reading the whole thing but I think it'll be perfectly easy to follow. I gave vol 1 of Miles to a 10 year old and he got it just fine (I think because ten year olds are less hung up on needing to understand everything).
+
+3: If you want to start with Miles:
+
+- Ultimate Comics: Fallout #4
+- Ultimate Comics: Spider-Man #1-28 (includes issue 16.1)
+- Spider-Men 1-5 (you can read this after issue 12 of the Miles run)
+- Cataclysm: Ultimate Spider-Man #1-3 (you can skip the other Cataclysm stuff; it's awful)
+- Ultimate Spider-Man #200 (the only 10/10 review I've given; perfect love letter to the series/character)
+- Miles Morales: The Ultimate Spider-Man #1-12
+
+If you want to start with Peter, here's the reading order: http://en.wikipedia.org/wiki/List_of_Ultimate_Spider-Man_story_arcs#Collected_editions
+
+Most of Miles and all of Peter is on Marvel Unlimited.
+
+Also [this just came out yesterday for only $1] (http://i.imgur.com/zoXEnne.jpg)
+
+And shameless plug - if you're interested, I started a Miles Morales podcast with some fellow Redditors that had kicked off with this last run. You can read along with us at [http://www.ultimatespinpodcast.com](http://www.ultimatespinpodcast.com/).
+
+---
+
+Best miles Morales storyline
+
+5: His original run "Ultimate Comics: Spider-Man" (second volume) is really strong
+
+3: His first one with prowler imo
+
+2: I really like the run where he was a S.H.I.E.L.D Agent
+
+-2: None of them are very good. He’s just a tool to get even more money, without putting forth any original ideas. Same thing with all of the other spider-verse characters and spin-offs in the last 10 years. Remember, this IS from the same people who went through with OMD.
+
+> 7: Interesting. I've only heard good things about Morales. What don't you like about his books?
+>
+> > 1: I think it's fair to say that when the character has the mask on and is doing the super hero thing he behaves just like regular Spider-Man, right down to the quips. Additionally he's got extra powers for some reason, the ability to turn invisible and an electric shock. These are often used as pretty glaring examples of deus ex machina. In my opinion that's pretty damn lazy. And it's absolutely true that he's part of the "you like Spider-Man man? How about TWO Spider-Men? Now how about THREE?" attitude that Marvel has had about all of its characters for the last several years.
+> >
+> > On the plus side his relationships outside of the mask are pretty interesting and different from Peter's and I enjoy his supporting cast tremendously. All of my previous criticisms aside the initial Bendis run is great and I just ended up falling for the character. There is zero reason not to at least check out that run.
+> >
+> > > 2: This is pretty spot on, but the thing that frustrates me most is how Marvel won’t just create a new superhero. It’s, here’s another Captain America, here’s another Iron Man, here’s another Spider-Man. It would be so much better if they created new, unique characters, or at the very least, gave them different names.
+> > >
+> > > Also, the morales storylines are just not-as-good remakes of previous Spider-Man stories. I know that new readers don’t always see that, but they are. Quesada’s Marvel is solely focused on increasing profits, and it’s so annoying to fans who remember when comics were just comics.
+> > >
+> > > > 1: I used to agree with the sentiment about not creating "new" characters but I've come around. I dressed up as Spider-Man as a kid for Halloween. Seeing the mountains of pictures of kids of different races and genders that feel like dressing up like these characters now is really great. I just wish Marvel would do a better job of having characters like Miles be a bit more different than the source material when they're doing the super hero thing.
+
+#### Spider-Gwen
+
+Is Spider-Gwen any good?
+
+38: Spider-Gwen is strange, funny, unpredictable (!), and is doing really interesting things with the whole "great power great responsibility" theme, powered by incredible art and intense colors. Currently my favorite.
+
+The current run of Spider-Gwen started including extensive bios for each character with a ton of backstory that hasn't been addressed in the series itself. Basically Jason Latour gives you a few issues' worth of story in each one. Gwen's full origin (including how she got her costume and webshooters) is explained in Radioactive Spider-Gwen #1.
+
+And hey, come read along with us! :-)
+
+http://ultimatespinpodcast.com/
+
+I've even done interviews with the creative team - all very cool people:
+
+http://ultimatespinpodcast.com/category/interviews/
+
+18: Yes. It's got a great twist on characters like Daredevil and Reed Richards and has a certain individual unique quality to it you can't find in a lot of other comics.
+
+14: Admittedly I haven't read the most recent issues so maybe it's gotten better. But I gave up on it after the first run and a few issues into the second run. I love the setting, backstory and alternate characters but it takes too much time for anything to happen and I got annoyed when they started doing more and more crossover stuff that I couldn't follow.
+
+The art is also hit or miss. Sometimes it has a nice "grungy" look, other times it just looks kind of ugly.
+
+12: I was enjoying it until they kept tying it into the regular Marvel universe. I like inter-universe stories but let your new characters live in their world for a bit Marvel. Spider-Person stories need to stay somewhat grounded. And hopping realities every few issues is not very grounded.
+
+10: The costume is really good. Aside from that, no, not really. The art is muddy and the story muddier.
+
+4: I've only read the first trade but I found it decent but unremarkable. Basically the Spidey origin for the x-th time, it didn't feel that different to me just because Gwen is in it. But I had only read Ultimate Spidey half a year before, so maybe it was just too soon for yet another take at the same origin story for me.
+
+3: I'd say it's not as good as it could be.
+
+I like the concept, the world which Jason Latour has created is really interesting and twists concepts in original ways, and I do enjoy the grungy artwork; it fits with how Gwen would view her world.
+
+But the dialogue is often really peculiar, especially in the earlier series (I will readily admit that it has gotten better recently), and it seems to take a long time to get to things, and throws in concepts really quickly only to forget about them, like Gwen's world's version of Green Goblin and Captain America.
+
+I much prefer Silk, and Spider-Woman if we're talking about Spider-Women titles.
+
+3: Its a lot weaker (especially writing wise) than Spiderwoman or Silk, but its generally good.
+
+---
+
+Is the Spidergwen series any good?
+
+8: It depends. I'd say its best when it focuses on Gwen and her world (so basically everything not a crossover as those are usually heavily ooc)
+
+That said I'd preface my recommendation in that Spidergwen is a very dreary series. It's comic about a very depressed, down on herself, heavily self questioning hero.
+
+It's a series where the protagonist isn't in any way far from your standard superhero fair, but heavily tinged in nihilism and regret. Like many comics have that arc where the hero questions their role as a hero due to an event. Spider-Gwen's entirety is that arc.
+
+That preface exists cause its a tone that can wear on a reader especially compared to all the much more upbeat comics around it.
+
+8: I read it for about a year and dropped it, the story just got really dull for me.
+
+6: Grab a Marvel Unlimited subscription and you can read all the back issues with that! It's $10/month or $70/year.
+
+6: I like it. The SpiederGwen universe is a nice twist on the Marvel universe, but the twists are interesting and suitable not just a way to desperately reinvent every character in a deterministic fashion.
+
+5: not really at all
+
+3: It's got its ups and downs.
+
+I think the first two volumes worth (Vol. 0 and Vol. 1) are really great. Together they work really well, enough that I'd wholeheartedly recommend the hard cover that collects the both of them. After that it can be hit and miss.
+
+Just going by the collections that come after: Spider-Women is a very mixed cross-over. Got its good parts. Got its good parts. The development for Gwen frustrated me because of how out of nowhere it is, and how much impact it has on the character. Weapon of Choice (Vol. 2) does work with the hand its dealt well enough though. Those issues are fine, if a bit uneven. Almost all of the stuff in Long Distance (Vol. 3), is completely pointless. To be fair, it's just a few issues as well as an annual and a short crossover, but it barely inches the plot forward. Sitting in a Tree feels equally pointless, but some of the banter between Gwen and Miles is fun, and the romance plot isn't near as much of a focus as the name would imply. I've poked into the issues that Predators (Vol. 4) will contain, and they look to be at least decent, and a return to actual plot advancement. I'm pretty excited and hopeful for the Gwenom stuff, because I'd love to see what they do with the symbiote and what that sort of darkness could do to Gwen's head, especially with how much the world seems to keep spitting on her.
+
+Overall I genuinely love the character. It's nice to have someone who exists within her own continuity without having to deal with all of the baggage that comes with residing in Earth-616. Plus the basis for her origin is such an amazing re-imagining of Peter's origin story. Much as I have qualms with the middle of her current run, I do still very much like the character and only hope that she keeps on keeping on, but with *her* plot allowed to focus on *her*.
+
+A few stories that are more lighter in tone would do some good though. It's worth noting just that, like I said, the story seems to be about Gwen just constantly taking metaphorical (and literal) hits, with very few straight forward victories.
+
+2: I don't normally read Spider-Gwen but her arc with Miles was amazing. If that's any indication of her solo series than I'd pick it up
+
+---
+
+Help with Spider Gwen Comics?
+
+Trying to get my girlfriend more involved in my love of comics and she has expressed interest in Spider Gwen. Told her I would pick her some stuff up. Should I just start her off with the first TPB? Anything to avoid? Easy to pick up and read without much knowledge on the Marvel universe? More of a DC guy myself so unfortunately I won't have many answers for her if she has a lot of questions.
+
+Thanks guys!
+
+7: It's almost entirely standalone. She's basically relegated to her own universe aside from one or two crossovers, one of which isn't even really related to her!
+
+Volume 0: Most Wanted? is the place to start, featuring her introduction story from the Edge of Spider-verse miniseries, and then her own five-issue mini from before a big reboot.
+
+From there you can just start off collecting the trades for her series!
+
+A full reading order:
+
+- Spider-Gwen 0: Most Wanted?
+- Spider-Man: Spiderverse (optional, but does feature more of the character)
+- Spider-Gwen 1: Greater Power
+- Spider Women (crossover with Silk and Spider-Woman)
+- Spider-Gwen 2: Weapon of Choice
+- Spider-Gwen 3: Long Distance (crossover with Miles Morales Spider-Man)
+- Spider-Gwen 4: Predators
+- Spider-Gwen 5: Gwenom
+
+She was also in the Web Warriors series, but that didn't really effect her character much. I haven't read it and don't feel like I'm missing anything.
+
+> 4: Web Warriors does play one major role. It's how she got the dimensional travel device that is used in the Spider-Women, Miles Morales, and Gwenom arcs.
+
+4: 
+
+> Easy to pick up and read without much knowledge on the Marvel universe?
+
+I'm not caught up on it so I can't give specific recommendations, but it's perfectly understandable without outside Marvel knowledge. It's set in an alternate universe outside the main 616 one so you can just pick it up and start reading from the first trade.
+
+3: I think it stands alone without previous knowledge, though as an old fart who read the Death of Gwen Stacy as a kid, one of my greatest pleasures in the comic is seeing its alternate take on the history and how it upends Matt Murdock and Frank Castle's characters. If your GF is passingly familiar with the Marvel Netflix shows, that will help.
+
+---
+
+Where to start in comics for spider Gwen?
+
+7: The first few years of comics are in nice paperback collections. Start with [Vol 0](https://www.amazon.com/Spider-Gwen-Vol-Most-Wanted-ebook/dp/B017JHJHJ6/ref=sr_1_7?ie=UTF8&qid=1545938603&sr=8-7&keywords=spider-gwen+vol) and work your way up. There are other side stories that involve her as a character, and while they're generally still considered cannon, they're not written or drawn by the same team so the tone is quite different. These would be the several Spider-verse runs and the Web Warriors runs, but neither are really required reading.
+
+5: Really depends if you wanna go really hard into it or not. Personally I would start with the collection of the original Spider-verse and volume 1 of Spider-Gwen (if you think you’re gonna dive right in, go for the hard cover one, it collects more issues).
+
+If you’re looking for the most efficient collection of required reading for Spider-Gwen, you’re gonna want Spider-verse, Spider-Gwen volumes 1-3 (the hard cover versions, there are only 3 out atm), the trade paper backs of volume 4 and 5 of Spider-Gwen, and the trade paper back of Spider-Women, the cross over event between Gwen, Spider Woman, and Silk. You don’t need the Miles/Gwen crossover (the name of the cross over event escapes me atm), it’s covered in hard cover volume 3 I believe.
+
+Gwen also has an ongoing title right now titled Ghost-Spider, but it’s only 3 issues in and doesn’t have a trade out yet.
+
+Edit: I haven’t read web warriors, but she hasn’t really referenced her experiences with the warriors so I assume it’s probably skippable. She’s also present in Spider-geddon but just for the 1st issue or 2 I believe.
 
 ### Swamp Thing
 
@@ -3169,10 +3468,18 @@ Best Hellboy books: nearly all of it is written by Mike Mignola and nearly all o
 
 Best Hulk books:
 
-Best Spider-man books:
+Best Spider-man books: **Ultimate Spider-Man** by Brian Bendis, *Kraven's Last Hunt* and *The Death of Gwen Stacey* are the best comics of classic era (*Amazing Spider-Man*, the Bible of the Spider-Man universe),Origin of the Hobgoblin+Nothing Can Stop the Juggernaut+The Kid Who Collected Spider-Man by Roger Stern, Spider-Man: Birth of Venom, Spider-Man Blue, Spider-Man: Spider-Island, The Death of Jean DeWolff and One Small Break are both very good "dark" stories, Spider-Man/Human Torch (modern and light-hearted story).
 
-- Peter Parker:
-- Miles Morales:
+> **Ultimate Spider-Man** is going to be the most accessible by a wide margin.
+>
+> *Amazing Spider-Man* from the beginning is the founder, and it *is* good, but its influence may exceed its readability to you.
+>
+> Everything else is secondary. Seriously, *everything*.
+
+- Miles Morales: origin starts in All-New Ultimate Comics Spider-Man #1 (Miles Morales: Ultimate Spider-Man Omnibus collects the whole Ultimate run), his original run Ultimate Comics: Spider-Man (second volume) is really strong.
+- Spider-Gwen: the first two volumes worth (Vol. 0 and Vol. 1) are really great (after reading the comments, I would say it's not worth it to read it - it is hit or miss).
+
+> Actually, people write that they're not worth reading: "None of them are very good. He’s just a tool to get even more money, without putting forth any original ideas. Same thing with all of the other spider-verse characters and spin-offs in the last 10 years. Remember, this IS from the same people who went through with OMD." - this was written about Morales. I guess same can be applied to Spider-Gwen.
 
 Best Swamp Thing books: **Saga of the Swamp Thing** by Alan Moore, *New 52 Swamp Thing* by *Scott Snyder*.
 
@@ -3270,70 +3577,80 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 21. https://www.reddit.com/r/comicbooks/comments/8breze/wow_the_hellboy_comics_are_actually_really_really/
 22. https://www.reddit.com/r/HellBoy/comments/b9rnbd/essentialbest_hellboy_comics/
 23. https://www.reddit.com/r/comicbooks/comments/as5j2l/favorite_hellboy_comics/
-24. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
-25. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
-26. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
-27. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
-28. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
-29. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
-30. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
-31. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
-32. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
-33. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
-34. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
-35. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
-36. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
-37. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
-38. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
-39. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
-40. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
-41. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
-42. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
-43. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
-44. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
-45. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
-46. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
-47. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
-48. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
-49. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
-50. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
-51. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
-52. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
-53. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
-54. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
-55. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
-56. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
-57. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
-58. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
-59. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
-60. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
-61. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
-62. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
-63. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
-64. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
-65. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
-66. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
-67. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
-68. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
-69. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
-70. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
-71. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
-72. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
-73. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
-74. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
-75. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
-76. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
-77. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
-78. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
-79. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
-80. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
-81. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
-82. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
-83. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
-84. https://www.cbr.com/the-best-cyberpunk-comics-ever/
-85. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
-86. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
-87. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
-88. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
-89. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-90. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+24. https://www.reddit.com/r/comicbooks/comments/6dtvwq/whats_the_absolute_best_spiderman_series/
+25. https://www.reddit.com/r/comicbooks/comments/2g6j0e/best_spiderman_comics/
+26. https://www.reddit.com/r/Spiderman/comments/2g8n8f/in_your_opinion_what_is_the_best_spidermans_comics/
+27. https://www.reddit.com/r/Marvel/comments/azusxm/need_help_finding_best_miles_morales_origin_comic/
+28. https://www.reddit.com/r/comicbooks/comments/34dtld/where_to_start_reading_miles_morales_spiderman/
+29. https://www.reddit.com/r/Marvel/comments/7jvyda/best_miles_morales_storyline/
+30. https://www.reddit.com/r/comicbooks/comments/54gc95/is_spidergwen_any_good/
+31. https://www.reddit.com/r/Marvel/comments/76n0h1/is_the_spidergwen_series_any_good/
+32. https://www.reddit.com/r/comicbooks/comments/85gqbl/help_with_spider_gwen_comics/
+33. https://www.reddit.com/r/SpiderGwen/comments/aa19ov/where_to_start_in_comics_for_spider_gwen/
+34. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
+35. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
+36. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
+37. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
+38. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
+39. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
+40. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
+41. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
+42. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
+43. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
+44. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
+45. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
+46. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
+47. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
+48. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
+49. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
+50. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
+51. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
+52. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
+53. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
+54. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
+55. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
+56. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
+57. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
+58. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
+59. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
+60. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
+61. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
+62. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
+63. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
+64. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
+65. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
+66. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
+67. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
+68. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
+69. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
+70. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
+71. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
+72. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
+73. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
+74. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
+75. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
+76. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
+77. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
+78. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
+79. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
+80. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
+81. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
+82. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
+83. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
+84. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
+85. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
+86. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
+87. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
+88. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
+89. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
+90. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
+91. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
+92. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
+93. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
+94. https://www.cbr.com/the-best-cyberpunk-comics-ever/
+95. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
+96. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
+97. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
+98. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
+99. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+100. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
