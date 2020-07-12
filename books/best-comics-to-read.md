@@ -12,15 +12,15 @@
   - [Conclusion on New 52 and Rebirth](#Conclusion-on-New-52-and-Rebirth)
 - [Superhero comic books - best books and where to start](#Superhero-comic-books---best-books-and-where-to-start)
   - [Batman](#Batman)
-    - [The Joker](#The-Joker)
     - [Batman and Joker](#Batman-and-Joker)
+    - [Joker](#Joker)
     - [Harley Quinn](#Harley-Quinn)
+  - [The Flash](#The-Flash)
   - [Green Lantern](#Green-Lantern)
   - [Hellboy](#Hellboy)
   - [Hulk](#Hulk)
   - [Spider-Man](#Spider-Man)
   - [Swamp Thing](#Swamp-Thing)
-  - [The Flash](#The-Flash)
   - [Wolverine](#Wolverine)
   - [Wonder Woman](#Wonder-Woman)
 - [Comic books of the most popular franchises - best books and where to start](#Comic-books-of-the-most-popular-franchises---best-books-and-where-to-start)
@@ -627,9 +627,7 @@ In general, it is was a step in right direction. DC continued New 52, but they r
 
 Story wise New 52 was much better. A lot of the writing in the Rebirth has been completely lazy. They put a lazy storyline and then give a “throw back to the roots” moment and every one - old fans - think it’s the best thing. **Rebirth gets the readers by nostalgia**. New 52 had more GREAT books, but Rebirth is more consistent. Overall there isn't a huge difference between the 2. Rebirth seems to have gone back to a more light hearted "that's the bad guy lets punch him in the face!" style of story and some people actually like that which I don't like.
 
----
-
-So, I will definitely read the best runs and stories from the New 52, but I don't think I will like Rebirth. According to the words, it sounds like a fan service.
+> So, I will definitely read the best runs and stories from the New 52, but I don't think I will like Rebirth. According to the words, it sounds like a fan service.
 
 ## Superhero comic books - best books and where to start
 
@@ -685,7 +683,44 @@ You are going to get a lot of recommendations for **Year One** and **The Dark Kn
 
 > EDIT: also Batman Earth One by Geoff Johns and Gary Frank.
 
-#### The Joker
+#### Batman and Joker
+
+**What are the best Batman tpbs with the Joker?**
+
+> I think tpbs means Thought Provoking Bible Studies.
+
+11: I know there are mixed feelings on the arc in this sub, but Snyder’s **Death of the Family** (New 52 Batman Vol. 3) got some pretty stellar reviews and is my personal favorite Joker storyline.
+
+10: **Batman: The Man Who Laughs**, Batman and Joker’s first meeting.
+
+6: **Death of the Family** and Endgame. **The Man who Laughs**.
+
+---
+
+**Comics that dive into Batman and Joker’s relationship/psychology**
+
+**Well known:**
+
+- **The Killing Joke**
+
+- *Arkham Asylum: A serious House on a Serious Earth*
+
+  > In other thread: *Arkham Asylum: A serious House on a Serious Earth* is probably the darkest. Dark Knight Returns, Shaman, The Cult, and Gothic are also really good dark ones.
+
+- **A Death in the Family**
+
+- **The Man Who Laughs**
+
+**Underrated:**
+
+- Gotham Central: Soft Targets (Frankly, all of Gotham Central is amazing and you should read it)
+- Fool's Errand (Detective Comics #726)
+- Joker: Devil's Advocate
+- Batman and Robin: Batman & Robin Must Die (big bonus points because it's not actually Bruce and the Joker...but *Dick!Bats* and the Joker), though I'd recommend reading the previous volumes of the run first
+
+**Other:** Scott Snyder's run on Batman, particularly Death of the Family and Endgame. I'm not going to comment either way on Snyder's Joker stories; I think they're worth reading and well-written, and there's some quite interesting and worthwhile commentary on the Batman-Joker relationship in them, but I wouldn't go out of my way to say they're "underrated" or the best Batman-Joker stories of all time.
+
+#### Joker
 
 *Comics:*
 
@@ -720,7 +755,9 @@ I loved Batman: White Knight personally - definitely recommend you read it. You 
 
 > The New 52 is Death **of** the Family, which I agree is really good. A Death **in** the Family is the post-crisis story, that I find terrible. Just wanted to clear it up for OP.
 
-##### What is your favorite joker story?
+---
+
+**What is your favorite joker story?**
 
 You should probably add '*besides the Killing Joke*' because well obviously.
 
@@ -732,7 +769,7 @@ If I were to choose something besides **The Killing Joke** or "The Laughing Fish
 
 After **The Killing Joke**, **The Man Who Laughs**.
 
-##### What is the DARKEST Joker story in the Batman comics?
+**What is the DARKEST Joker story in the Batman comics?**
 
 20: If you don't think the Joker from Snyder and Capullo's New 52 run is dark and twisted enough, then I don't know what's wrong with you. That's the most sadistic version I've seen yet.
 
@@ -746,7 +783,9 @@ After **The Killing Joke**, **The Man Who Laughs**.
 
 > Joker by Brian Azzerello is fantastic.
 
-##### Joker Comic Reading List
+---
+
+**Joker Comic Reading List**
 
 My number 1 personal recommendation is **The Killing Joke** its widely considered to be one of the best joker stories out there and in my opinion is the best. It was the first comic book I read and what hooked me on the character so I may be biased in this regard but I really can't think of a better jumping off point for a new comic book reader in general or a new batman reader or just a new reader to the Joker. Writer Alan Moore gives a gripping and terrifying story focusing more on the Joker then Batman while also exploring one of the possible origin stories for the character all in all it's one of the best characterizations out there along with Brian Bollands beautiful artwork it becomes a must-read for Joker fans.( just make sure to get the deluxe edition which was published years later and includes updated coloring that improves the quality of the whole book even more most comic book shops will exclusively sell the deluxe edition so it shouldn't be a problem but just in case I should mention it if you're not experience with comics)
 
@@ -762,41 +801,6 @@ Lastly is "**The Man Who Laughs** written as a follow up to a year one which was
 
 Side note please keep in mind that this is a character with a 75 year lineage and that his character has been told many times by many different authors so there are hundreds of storylines graphic novels and trade paperbacks that feature him as the main character that I am probably leaving out these are only the ones that I have read and enjoyed this being my favorite character. So I encourage you if there's a comic book store near you to go and just check out the rack of Joker comics there and see if any of them strike your fancy but this list should be more than enough to get you started.
 
-#### Batman and Joker
-
-###### First answer - What are the best Batman tpbs with the Joker?
-
-> I think tpbs means Thought Provoking Bible Studies.
-
-11: I know there are mixed feelings on the arc in this sub, but Snyder’s **Death of the Family** (New 52 Batman Vol. 3) got some pretty stellar reviews and is my personal favorite Joker storyline.
-
-10: **Batman: The Man Who Laughs**, Batman and Joker’s first meeting.
-
-6: **Death of the Family** and Endgame. **The Man who Laughs**.
-
-###### Second answer - Comics that dive into Batman and Joker’s relationship/psychology
-
-**Well known:**
-
-- **The Killing Joke**
-
-- *Arkham Asylum: A serious House on a Serious Earth*
-
-  > In other thread: *Arkham Asylum: A serious House on a Serious Earth* is probably the darkest. Dark Knight Returns, Shaman, The Cult, and Gothic are also really good dark ones.
-
-- **A Death in the Family**
-
-- **The Man Who Laughs**
-
-**Underrated:**
-
-- Gotham Central: Soft Targets (Frankly, all of Gotham Central is amazing and you should read it)
-- Fool's Errand (Detective Comics #726)
-- Joker: Devil's Advocate
-- Batman and Robin: Batman & Robin Must Die (big bonus points because it's not actually Bruce and the Joker...but *Dick!Bats* and the Joker), though I'd recommend reading the previous volumes of the run first
-
-**Other:** Scott Snyder's run on Batman, particularly Death of the Family and Endgame. I'm not going to comment either way on Snyder's Joker stories; I think they're worth reading and well-written, and there's some quite interesting and worthwhile commentary on the Batman-Joker relationship in them, but I wouldn't go out of my way to say they're "underrated" or the best Batman-Joker stories of all time.
-
 #### Harley Quinn
 
 **Batman: Mad Love**. I feel like it's the only good Harley comic. I personally think she hasn't been that great since B:TAS, but that's just me. Batman Adventures: My Boyfriend's Back and A Wedding to Die For are also gems.
@@ -804,607 +808,6 @@ Side note please keep in mind that this is a character with a 75 year lineage an
 Harley and Ivy is also a lot of fun but it's nothing serious. Her Pre New 52 solo run was okay until the team changed and then it became unbearable.
 
 In the New 52 she has gone through so many changes, in one issue she was killing 20 kids with bombs, in another she was shown with puppies and being a sweetheart. The New 52 Suicide Squad run was atrocious imo, and Palmiotti and Conner write her as Deadpool basically with same randomness and insanity.
-
-### Green Lantern
-
-Most people would tell you to start with **Green Lantern: Rebirth**, but I think that story is a bit confusing for a new reader. So here is a list of the events that take place before that story in chronological order. The **bold** ones are a part of Geoff John's run while the *italic* ones are from the 90's:
-
-**Green Lantern: Secret Origin**
-
-*Green Lantern: Emerald Twilight/New Dawn*
-
-*Zero Hour: Crisis in Time*
-
-*The Final Night*
-
-*Day of Judgment*
-
-**Green Lantern: Rebirth**
-
-### Hellboy
-
-25: Hellboy isn't like most superhero comics where there's multiple "runs" to keep track of. Nearly all of it is written by Mike Mignola and nearly all of it is worth reading. Just start at the beginning with [Hellboy, Volume 1: *Seed of Destruction*](https://www.amazon.com/dp/1593070942) and follow the rest in [suggested reading order](http://www.multiversitycomics.com/annotations/hellboy-reading-order-2017/).
-
-> Updated version of the reading order: [link](http://www.multiversitycomics.com/annotations/hellboy-reading-order-2019/).
-
-9: Mignola writes all of Hellboy and co-writes most of the tie-ins if not all, the universe is pretty amazing just in itself, can't go wrong with Mignola.
-
-7: There is only one Hellboy run, and that's the Mike Mignola one that begins with *Seed of Destruction*. It is available in regular trades that collect roughly four to six issues each, or the oversized Library Edition hardcovers which collect twice that much. This is also due to be released Omnibus form starting this year.
-
-There's one main BPRD run split into three cycles, *Plague of Frogs*, Hell on Earth and The Devil You Know. I would recommend starting *Plague of Frogs* once you've reached at least volume 4 of Hellboy, Conqueror Worm (this is fifth), which is what Plague of Frogs follows directly on from. There are some lovely paperback and hardcover collections of PoF available for reasonable prices, and HoE is also due to have some released soon. TDYK has only just started so is currently only available in single issues, but give it time.
-
-There are also the prequel miniseries Hellboy & The BPRD, and BPRD 1946, 1947 and 1948. These are prequels and as such don't have to be read at any particular point, but I'd at least recommend reading BPRD 1947 before starting BPRD: Hell On Earth as a character is introduced in 1947 who comes back and has a large part to play in HoE.
-
-There is also the Abe Sapien solo series, which happens mostly alongside BPRD: Hell on Earth. Abe runs away from the BPRD during this period, so if you want to know what he's up to, read the Abe Sapien solo series. Otherwise it is not necessary to the main BPRD plot.
-
-> 5: I would add a few things to this.
->
-> The sapien series will likely be more important to the overall plot in the next cycle of bprd. And Hellboy and the BPRD is a full ongoing series but likely not important to the future and mignola wrote or was heavily involved in at least half of it as of now so it's still one run basically.
-
----
-
-16: The spin-offs are just as good. I recommend *Frankenstein Underground*, I'm a sucker for the Frankenstein myth and the series does not disappoint.
-
-12: Comic Hellboy is just a lot more fun than the movie version. The del Toro movies are totally fine, but Hellboy always sort of annoyed me in them. He's sort of a whiney teen in them. I much prefer him as a grouchy old man.
-
-I think BPRD is one of the best long form comics we have as well. They do a great job of creating a lot of finality. When people fuck up, there are lasting consequences. You get to also see this crew develop from being a regular team to these hardened war vets.
-
-9: They absolutely are; those and especially BPRD are among the best that comics have to offer
-
-8: Abe has his own set of comics as well. I think his are set while Hellboy is in hell.
-
----
-
-> Essential/Best Hellboy Comics?
-
-5: I may missing some, but here is what I think
-
-- Seed of Destruction (Hellboy – Volume 1: Seed of Destruction, <u>Omnibus: Hellboy – Volume 1: Seed of Destruction</u>)
-- Wake the Devil (Hellboy – Volume 2: Wake the Devil, <u>Omnibus: Hellboy – Volume 1: Seed of Destruction</u>)
-- The Nature of the Beast (Hellboy – Volume 4: The Right Hand of Doom, Omnibus: Hellboy: The Complete Short Stories – Volume 1)
-- The Corpse (Hellboy – Volume 3: The Chained Coffin and Others, Omnibus: Hellboy: The Complete Short Stories – Volume 1)
-- Almost Colossus (Hellboy – Volume 3: The Chained Coffin and Others, <u>Omnibus: Hellboy – Volume 1: Seed of Destruction</u>)
-- *Conqueror Worm* - here is where he leaves the BPRD (Hellboy – Volume 5: Conqueror Worm, <u>Omnibus: Hellboy – Volume 2: Strange Places</u>)
-- Darkness Calls (Hellboy – Volume 8: Darkness Calls, <u>Omnibus: Hellboy – Volume 3: The Wild Hunt</u>)
-- The Wild Hunt (Hellboy – Volume 9: The Wild Hunt, <u>Omnibus: Hellboy – Volume 3: The Wild Hunt</u>)
-- Storm & Fury (Hellboy – Volume 12: The Storm and the Fury, <u>Omnibus: Hellboy – Volume 3: The Wild Hunt</u>, Hellboy – Volume 12: The Storm and the Fury, <u>Omnibus: Hellboy – Volume 3: The Wild Hunt</u>)
-- Hellboy in Hell - end of series (everything in <u>Hellboy Omnibus – Volume 4: Hellboy in Hell</u>)
-
-There's much more, but I would consider those to be the most essential for understanding the whole story without being too confused.
-
-> Conqueror worm is my favourite of the comics and is really a defining point in hellboy’s character.
-
----
-
-5: Main Hellboy: The Troll Witch, *Conquerer Worm*, The Third Wish, The Crooked Man, The Wild Hunt
-
-Spin-offs: BPRD - The Long Death
-
-3: Anything written and drawn by Mignola is great. Anything by him and Fegredo or Corben is also great.
-
-The BPRD stuff is mostly good and the minis of the side characters tend to vary in quality.
-
-> +People say that *Lobster Johnson* is also good series.
-
-### Hulk
-
-I want to get into the hulk. Where should I start?
-
-7: Along with the modern essentials like **Planet Hulk** and **World War Hulk**, I've heard good things about Peter David's run on the Hulk.
-
-> 4: As well you should have. David's run really explored the duality and personality struggles between Banner and Hulk. More people need to read this. **Planet Hulk** and **WWH** felt like all Hulk all the time to me. And I felt lost a bit of the characters core.
-
-4: **Modern Essentials**
-
-- [**Incredible Hulk Visionaries**](https://www.amazon.com/dp/0785115412) | [#331-457](http://marvel.com/comics/issue/9142/incredible_hulk_1962_331) | 1987-1998 | David
-- [Return of the Monster](https://www.amazon.com/dp/0785153462) | [Incredible Hulk #34-39](http://marvel.com/comics/issue/14434/incredible_hulk_1999_34), [Startling Stories: Banner #1-4](http://marvel.com/comics/issue/18798/startling_stories_banner_2001_1) | 2001-2002 | Jones, Azzarello
-- [Hulk: Gray](https://www.amazon.com/Hulk-Gray-Jeph-Loeb/dp/0785113460) | [#1-6](http://marvel.com/comics/issue/365/hulk_gray_2003_1) | 2003-2004 | Loeb
-- [Tempest Fugit](https://www.amazon.com/dp/0785115439) | [Incredible Hulk #77-82](http://marvel.com/comics/issue/1555/incredible_hulk_1999_77) | 2005 | David
-- [**Planet Hulk**](https://www.amazon.com/dp/0785120122) | [Incredible Hulk #92-105](http://marvel.com/comics/issue/3530/incredible_hulk_1999_92) | 2006-2007 | Greg Pack
-
-3: I'd say go back and start with **Peter David's run on Incredible Hulk**, is the absolute best run of books with Hulk and you wouldn't get Planet Hulk and World War Hulk without it.
-
----
-
-Where to start reading Hulk?
-
-3: I'm a big Hulk fan, and my favorite comic of all time is actually a Hulk story (And the first one I owned). I think Hulk is one of the few characters where you can just pick a story and start reading. He doesn't have a lot of crucial backstory so long as you know the whole "Banner got gamma'd now he's sometimes big and green" stuff. The way Hulk and Banner interact are almost always up to the writer, so whatever story you jump in will let you know how they'll be interacting for that particular story.
-
-For stories I'd say read/watch **Planet Hulk**. It's a bit long, but I loved every page of it. General plot: Hulk forced into gladiatorial combat on an alien world.
-
-After that the follow up comic is **World War Hulk**, which was a huge event but the main story stands perfectly well on it's own. General plot: Hulk's back. He's pissed.
-
-If you want a continuing story that's fairly recent, Indestructible Hulk is your man. General plot: He works for shield as a scientist/weapon. Banner builds, Hulk destroys.
-
-Like I said, you can just sort of jump headfirst into any Hulk stories you want. If you ever see a picture of Hulk and you think, "Man, I want to read that. I wonder what it's from." Just find out the source of it and start reading! Hope you enjoy em, man!
-
-2: Indestructible Hulk (2012) is, I would say, the best most recent jumping on point. If you've read that and Hulk (2014), then the next most recent point would be the **Planet Hulk** + **World War Hulk** arc that leads into Hulk (2008) and Incredible Hulks (2009).
-
-2: For me personally I loved hulk for years, when they killed betty banner, I was done. I tried **planet hulk** but I couldn't get into it.
-
-Grey Hulk, Mr.Fixit was probably my favorite time.
-
-Future Imperfect story of the future was great, but that's like 2 comics.
-
-Hulk is actually a really hard character to write IMO.
-
-> 2: Did you ever check out Betty as Red She-Hulk? I really enjoyed her character development.
->
-> > 1: No I didn't I would read a few issues if you can recommend. Thanks.
-> >
-> > > 2: I would just jump in with Jeff Parker's Red She-Hulk series. The story that led up to it was kind of dumb, but Parker takes the premise and does fun stuff with it.
-
----
-
-Best Hulk Comics?
-
-11: **Peter David’s run**, hands down.
-
-*Al Ewing’s IMMORTAL HULK*, which is ongoing now, is also good.
-
-> 3: Agreed. PAD's 12-year run was amazing.
->
-> > 2 (OP): What is it about **David’s run** that makes the Hulk better? Eg. In **Planet Hulk, Pak** does a great job of developing the character and the team into very relatable and likeable people and really shows the whole thing as an epic adventure 
-> >
-> > > 3: There's adventure during PAD's run, especially when he's affiliated with the Pantheon. But, there's also a lot of character development, especially in the relationship between Bruce and Betty. And his Rick Jones, as the man who's seen it all, is hilarious. The book under his writing can alternate between incredibly dark and rip-roaringly funny, but never jarringly so.
-> > >
-> > > And he works with some of the top artists, including Todd McFarlane, Dale Keown, and Gary Frank. So it's not just fun to read, but gorgeous to look at as well, for the most part.
-
-4: Check out Incredible Hulk Epic Collection: The Hulk Must Die, the first eight issues (Tales to Astonish #60 - 67) are drawn by Steve Ditko and he did a great job with the character, it's a shame it's so overlooked because Ditko is synonymous with Spider-Man and Doc Strange (and rightfully so, of course) but his Hulk work is great and good, classic Silver Age fun.
-
-> 1 (OP): Do I need knowledge of the Hulk before reading this? I’ve never read the epic collections because they don’t seem to collect the comics the best way, or I feel there may be things left out. I’ve only ever read Planet Hulk and WW Hulk, so I really know nothing about the character except he’s Bruce banner and extreme emotions turn him into a big green monster.
->
-> > 2: It's pretty early on in the character's publication history so you don't need to know too much, and also the Epic Collections are perhaps the best way to collect comics, they are very comprehensive and cover a lot of material that has yet to be reprinted, it's one of the best reprint programs right now.
-
-5: **Peter David's run** in the 80s and 90s.
-
-2: The current series is only about four issues deep and it's great.
-
-I really liked Jeph Loeb's run which introduced the Red Hulk.
-
-Pick up Punisher: Confederacy of Dunces. I don't wanna spoil why, but you'll see. It also has Spider-Man, Wolverine and Daredevil in it.
-
-2: I’ve always liked Bruce Jones’ run the most.
-
----
-
-Best Hulk runs?
-
-I’ve been reading *Immortal Hulk* on Marvel Unlimited and it has really piqued my interest in the big green guy. I’d really only seen him in movies and animation before so I was surprised to see that he has a larger vocabulary than what I’m used to.
-
-I’ve heard **Peter David’s run** is the gold standard. Is it okay to jump right in there? Should I read some of Mantlo’s run that came before? Is there any more modern stuff that’s notable besides Planet Hulk and Immortal?
-
-15: Read Mantlo’s run for the sake of completion if you want to, as a Hulk Fan I’m sure you will Like it.
-
-**David’s Run** is definitive Hulk, and yeah you can jump right in, it will probably be eye opening for you, a lot of the big moments in Hulk’s life happened during this run.
-
-Pak’s Run is pretty good, **Planet Hulk** being the best part of it.
-
-> 6: **Planet Hulk** is very good, but I feel like the later parts of Pak's run are really underrated.
->
-> > 3: Especially when it was rebranded as Incredible Hercules. Great run.
-
-8: **Planet Hulk**>**World War Hulk** is fantastic. **Peter David's run** has ups and downs but went to places the series had never been before. You may enjoy the first half-dozen issues (by Lee, Kirby and Ditko) from the early '60s--they're very much of their time, but Immortal Hulk has been drawing on them extensively.
-
-6: Have to recommend Bruce Jones run. The Norton Hulk movie pulled from this material. Even though it petered out towards the end, the first 2/3 or so was a much needed jolt at the time for a character that had been stuck in mediocrity for years
-
-> -1: Eh.
->
-> That run is pretty forgettable. It had its fans at the time, and publications like Wizard gushed about it, but it was really boring, in hindsight. Nothing much happened. It was more mood and mystery than anything else. Which is fine if you like that sort of thing, but for Hulk it felt like a long denouenent. And the ending was bad. Which for a run that built itself up so much on the final reveals, needed to stick the landing.
->
-> Yeah, you could say the movie pulled from the run. But the run was being nostalgic fan service to the 1970s tv show. Which also was boring. The show was restricted to a moody drama because there was no way to afford a super villain battle each week.
->
-> And mediocre for years? Yeah, Joe Casey's run was pointless and so was John Byrne's return. But David's last few years of his run, while meandering because of Heroes Reborn, was still very good. And Paul Jenkins's run was good as well.
->
-> But, Hulk was not selling well, which Jones run was able to fix at the time. But reading it now, I think it is completely skippable, and not just for the reason that a lot was retconned away.
->
-> >  4: Still think it's noteworthy despite its flaws. I was trying to recommend something that wasn't already brought up, and considering Hulk's publishing history, I'm comfortable putting that in a hypothetical top 10 on the merits you mentioned alone
-
-4: **Greg Pak's Hulk** is my favorite comic ever. Can't recommend it enough.
-
-4: **Peter David** is the definitive run. Early to first half of **Bruce Jones’ run** is good. **Greg Pak’s Planet Hulk** is good. A lot of people will hate on it, but I think Jeph Loeb’s Hulk run was a lot of fun. Al Ewing’s current Hulk run is good.
-
-2: John Byrne's run is good. Especially the Mr. Fixit stuff.
-
-> 3: Mr Fixit is **Peter David’s run**. I thought Byrne was only like 5-6 issues? He did the wedding issue.
->
-> > 1: Eep. Don't know what I was thinking, you're right it was Peter David.
-
-2: There’s some really good recommendations in here. Especially the **Greg Pak** and **Peter David stuff**. For a good recap of his origin, check out Hulk: Grey by Jeph Loeb and Tim Sale
-
----
-
-Best hulk stories to read?
-
-Preferably your top 3 or 5? I've only read **WW HULK** and I was very young.
-
-6: **Peter David is to Hulk** as Frank Miller is to Daredevil, Alan Moore is to Swamp Thing and Chris Claremont is to the X-Men. Nobody really comes close, I recommend his entire run.
-
-5: I think **world war hulk** is the best, but **planet hulk** arc is the lead into **world war hulk** so it's also a good one. I also like hulk future imperfect because of maestro
-
-5: I really love Duggan’s short Hulk run. The Hulk becomes super smart and attempts to cure other Gamma guys. https://www.amazon.com/gp/aw/d/0785190686/ref=mp_s_a_1_1?ie=UTF8&qid=1521940772&sr=8-1&pi=AC_SX236_SY340_QL65&keywords=gerry+duggan+hulk&dpPl=1&dpID=51R3HVMKHuL&ref=plSrch
-
-**Peter David’s Hulk run** is the gold standard and holds up well.
-
-3: Al Ewing’s upcoming Hulk series sounds kind of amazing. He’s been posting interesting early Hulk panels at alewing.tumblr.com —his hashtags are pretty wonderful...
-
-3: I think the best hulk story is **planet hulk+world war hulk**. With **planet hulk** diving more to the character of the hulk and **world war** is one of the best "hulk smash" reads.
-
-Aside from that some recommendations:
-
-- Future Imperfect (from the 80's, not secret wars)
-- Hulk the end
-- 'Indistructible hulk' is a fun series but it ends with a cliffhanger that leads to the doc green run which I found a lot less enjoyable.
-- Incredible Hulk by jason aaron from 2012 is great.
-
-2: **Planet Hulk**, Old Man Logan, & Future Imperfect.
-
-I recently picked up some collections with early 80s Mantlo/Buscema Hulk- good stuff & highly recommended- Hulk # 269-313.
-
-Early Kirby/Lee Hulk is weird because Hulk acts more like the Thing than what we know today, but still interesting for the genesis of the character.
-
-A story that recently came out about Maestro I recommend is 'Old Man Logan- Days of Anger.'
-
-2: Ultimate Hulk Vs Wolverine.
-
-Short, Sweet, and oh so brutal.
-
----
-
-What are some good hulk comics besides Planet Hulk and World War Hulk?
-
-20: *The Immortal Hulk* is widely considered the best comic Marvel's putting out right now.
-
-17: **Peter David's run** from the 90s.
-
-> 7: 80s and 90s, actually.
->
-> And you can go back to Mantlo's Smart Hulk run as well. TPBs start at issue 269, so that's as good a place to start as any, and Mantlo runs through 313, Byrne from 314-319, Milgrom 320-330, and PAD is 331-467.
-
-8: *Hulk the End* one shot was so good!
-
-> 3: Depressing af though
-
-5: Future Imperfect
-
-Hulk: Gray
-
-### Spider-Man
-
-What's the absolute best Spider-Man series?
-
-76: **Ultimate Spider-Man**. You get to see Peter right from when he gets his powers. Start with Ultimate Spider-Man (2000) #1 and read from there. The whole thing's on Marvel Unlimited.
-
-29: I have to go with **Ultimate Spider Man**. It's got everything you want from a Spider Man book: Cool villains, snappy repartees, good characterization of Peter, and MJ. Plus, the quality is very consistent. Even the Ultimatum tie-in wasn't terrible, and that's saying a lot when comparing it with the rest of the event.
-
-20: I mean it can only really be *Amazing*. It's the one that built all the mythos that makes Spidey what he is. It also has the benefit of being told from many different creative teams.
-
-> 17: Yup, Ultimate has a more modern surface so I can see why people might prefer that, but the first 200 issues of *ASM* are really the "bible" of Spider-Man
->
-> > 18: And much like the Bible it can be a dry, stolid, boring slog for people who weren't around when it was written or don't spend all their time around people who champion it.
-> >
-> > See also: most classic literature as it is taught in US English classes.
-> >
-> > > 14: I don't know. I think it's pretty readable, especially after the first 30-40 issues pass and you get used to the Woody Allen jokes and other 1960s references. The plots are tight and Peter shines.
-
-16: This is kind of a loaded question because of how long *ASM* had been around.
-
-My honest opinion, Marv Wolfman's year and a half run on *Amazing* is one of the best I've ever seen. It started at 184 and ran up to 200. The stories and plots all tied in together with the anniversary 200th issue culminating in Spider-Man's confrontation with the burglar that killer Uncle Ben.
-
-The title came full circle at that point and considered by many as the end of that first era of Spider-Man (Silver Age).
-
-Other notables are Roger Stern, Peter David and David Michelinie's runs.
-
-16: Spider-Man blue. Short, limited run, but it's fantastic.
-
-9: **Ultimate Spider-Man** is going to be the most accessible by a wide margin.
-
-*Amazing Spider-Man* from the beginning is the founder, and it *is* good, but its influence may exceed its readability to you.
-
-Everything else is secondary. Seriously, *everything*.
-
----
-
-Best Spider-Man comics?
-
-18: **Ultimate Spider-Man** is superb pretty much from the get-go.
-
-*Kraven's Last Hunt* and *The Death of Gwen Stacey* are the two most popular stories from the "classic" era.
-
-Spider-Man Blue by Jeph Loeb is brilliant.
-
-Dan Slott's run on *Amazing Spider-Man* is very hit-and-miss for me but a lot of people like it, I'd give it a look especially if you enjoyed his work on Superior. He starts with "Brand New Day" which you can get in TBPs right now.
-
-EDIT: words
-
-9: 
-
-- The Death of Jean DeWolff
-- *Kraven's Last Hunt*
-- Stan Lee/Steve Ditko's run (the original run)
-- David Michelinie/Todd McFarlane's run (a great run that introduced Venom)
-- Pretty much anything Roger Stern wrote
-- Return of the Burglar
-- Nothing Can Stop the Juggernaut
-- *Death of Gwen Stacy*
-- **Ultimate Spider-Man** (alternate universe)
-
-4: Kraven's Last Hunt, Spider-Man Blue, Nothing Can Stop the Juggernaut
-
-3: No one recommending Spider-Island? I thought it was great.
-
-2: 
-
-- *Death of Gwen Stacy*
-- Wolverine and Spider-Man (mini) series
-- Back In Black
-- Most **Ultimate Spider-Man**
-
-> 3: Wolverine/Spider-Man was so great. There was a really good dynamic between the two of them.
->
-> Wolverine and Spider-Man get lost in the timestream, and have to find their way back to their time. It's pretty outlandish but still pretty good.
->
-> edit: [Link to the Wikipedia article](http://en.wikipedia.org/wiki/Astonishing_Spider-Man_%26_Wolverine). Full title is Astonishing Spider-Man and Wolverine.
-
-2: *Kraven's Last Hunt*, Spider-Man Blue, *Death of the Gwen Stacey*, Nothing can stop the Juggernaut, Birth of Venom, Torment, The Other, Back in Black, Flowers for Rhino.
-
-Brand New Day (3 trades), New Ways to Die, Big Time, Spider-Island, Ends of the Earth
-
-Marvel Knights Spiderman (Mark Millar 12 issue run), Ultimate Spider-Man (all of it has been stellar), Astonishing Spider-Man and Wolverine (mini-series), etc. :)
-
----
-
-In your opinion, what is the best Spider-Man's comics?
-
-I'm not a comic old reader, so I'm searching for the best comics and sagas of my favorite superhero.
-
-I liked so much "*Kraven's Last Hunt*", "The Kid Who Collected Spider-Man", "**Ultimate Spider-Man: Power and Responsibility**", "*The Amazing Spider-Man: Coming Home*" and "*The Death of Gwen Stacy*".
-
-6: Grim hunt and spider-island are very good. Also the entire superior spider-man run is just brilliant.
-
-3: A lot of Marvel's old characters don't hit their strides until the 70s or 80s but *Amazing Spider-Man* is one of those titles that hits its stride immediately and keeps it up for a very long time. I'd honestly recommend just plowing through the first 150 or so issues, the stuff written by Stan Lee and Gerry Conway. I got the Essentials volumes that collect them and love them.
-
-3: Death of Jean Dewolff
-
-If This Be My Destiny
-
-New Ways to Die
-
-Character Assassination
-
-Dying Wish
-
-Death of Spider-Man(Ultimate)
-
-Alien Symbiote "saga"
-
-2: Well, the original Stan Lee/Steve Ditko run is legendary. Roger Stern did fantastic with the character in the 80s. In addition to "The Kid Who Collected Spider-Man", he also put Spidey up against an unstoppable force in "Nothing Can Stop the Juggernaut!" His original Hobgoblin arc is great, too.
-
-"The Death of Jean DeWolff", "One Small Break", are both very good "dark" stories.
-
-As for something more modern and light-hearted, I'd recommend "Snow Day" and "The Rules of the Game". As well as "Spider-Man/Human Torch" and "The Commuter Cometh".
-
-2: The original Spidey 2099 and the current one, it's too easy to pick out good Peter stuff but Miguel is so fuckin awesome.
-
----
-
-#### Miles Morales
-
-Need Help Finding Best Miles Morales Origin Comic
-
-3: His origin starts in All-New Ultimate Comics Spider-Man #1.
-
-If you want a collection, the Miles Morales: Ultimate Spider-Man Omnibus collects the whole Ultimate run.
-
-1: Pick up Miles Morales: Ultimate Spider-Man Ultimate Collection 1! Should have all you need!
-
----
-
-Where to start reading Miles Morales Spider-Man?
-
-5: Ultimate Comics: Spider-Man relaunch from 2011.
-
-[http://en.wikipedia.org/wiki/Spider-Man_%28Miles_Morales%29#Ultimate_Comics:_Spider-Man](http://en.wikipedia.org/wiki/Spider-Man_(Miles_Morales)#Ultimate_Comics:_Spider-Man)
-
-> 2 (OP): Thank you! I googled and found his first appearance but didn't know if that's where I was supposed to start.
->
-> > 2: The first appearance was Ultimate Fallout which was a six issue mini after Peter died, but it was more of a compilation book and was only very tangentally about Miles. The Ult Spidey book itself is all you really need. Although saying this, the supporting cast (MJ, Gwen, May, Jessica etc) might be a bit confusing if you've not been reading the whole thing but I think it'll be perfectly easy to follow. I gave vol 1 of Miles to a 10 year old and he got it just fine (I think because ten year olds are less hung up on needing to understand everything).
-
-3: If you want to start with Miles:
-
-- Ultimate Comics: Fallout #4
-- Ultimate Comics: Spider-Man #1-28 (includes issue 16.1)
-- Spider-Men 1-5 (you can read this after issue 12 of the Miles run)
-- Cataclysm: Ultimate Spider-Man #1-3 (you can skip the other Cataclysm stuff; it's awful)
-- Ultimate Spider-Man #200 (the only 10/10 review I've given; perfect love letter to the series/character)
-- Miles Morales: The Ultimate Spider-Man #1-12
-
-If you want to start with Peter, here's the reading order: http://en.wikipedia.org/wiki/List_of_Ultimate_Spider-Man_story_arcs#Collected_editions
-
-Most of Miles and all of Peter is on Marvel Unlimited.
-
-Also [this just came out yesterday for only $1] (http://i.imgur.com/zoXEnne.jpg)
-
-And shameless plug - if you're interested, I started a Miles Morales podcast with some fellow Redditors that had kicked off with this last run. You can read along with us at [http://www.ultimatespinpodcast.com](http://www.ultimatespinpodcast.com/).
-
----
-
-Best miles Morales storyline
-
-5: His original run "Ultimate Comics: Spider-Man" (second volume) is really strong
-
-3: His first one with prowler imo
-
-2: I really like the run where he was a S.H.I.E.L.D Agent
-
--2: None of them are very good. He’s just a tool to get even more money, without putting forth any original ideas. Same thing with all of the other spider-verse characters and spin-offs in the last 10 years. Remember, this IS from the same people who went through with OMD.
-
-> 7: Interesting. I've only heard good things about Morales. What don't you like about his books?
->
-> > 1: I think it's fair to say that when the character has the mask on and is doing the super hero thing he behaves just like regular Spider-Man, right down to the quips. Additionally he's got extra powers for some reason, the ability to turn invisible and an electric shock. These are often used as pretty glaring examples of deus ex machina. In my opinion that's pretty damn lazy. And it's absolutely true that he's part of the "you like Spider-Man man? How about TWO Spider-Men? Now how about THREE?" attitude that Marvel has had about all of its characters for the last several years.
-> >
-> > On the plus side his relationships outside of the mask are pretty interesting and different from Peter's and I enjoy his supporting cast tremendously. All of my previous criticisms aside the initial Bendis run is great and I just ended up falling for the character. There is zero reason not to at least check out that run.
-> >
-> > > 2: This is pretty spot on, but the thing that frustrates me most is how Marvel won’t just create a new superhero. It’s, here’s another Captain America, here’s another Iron Man, here’s another Spider-Man. It would be so much better if they created new, unique characters, or at the very least, gave them different names.
-> > >
-> > > Also, the morales storylines are just not-as-good remakes of previous Spider-Man stories. I know that new readers don’t always see that, but they are. Quesada’s Marvel is solely focused on increasing profits, and it’s so annoying to fans who remember when comics were just comics.
-> > >
-> > > > 1: I used to agree with the sentiment about not creating "new" characters but I've come around. I dressed up as Spider-Man as a kid for Halloween. Seeing the mountains of pictures of kids of different races and genders that feel like dressing up like these characters now is really great. I just wish Marvel would do a better job of having characters like Miles be a bit more different than the source material when they're doing the super hero thing.
-
-#### Spider-Gwen
-
-Is Spider-Gwen any good?
-
-38: Spider-Gwen is strange, funny, unpredictable (!), and is doing really interesting things with the whole "great power great responsibility" theme, powered by incredible art and intense colors. Currently my favorite.
-
-The current run of Spider-Gwen started including extensive bios for each character with a ton of backstory that hasn't been addressed in the series itself. Basically Jason Latour gives you a few issues' worth of story in each one. Gwen's full origin (including how she got her costume and webshooters) is explained in Radioactive Spider-Gwen #1.
-
-And hey, come read along with us! :-)
-
-http://ultimatespinpodcast.com/
-
-I've even done interviews with the creative team - all very cool people:
-
-http://ultimatespinpodcast.com/category/interviews/
-
-18: Yes. It's got a great twist on characters like Daredevil and Reed Richards and has a certain individual unique quality to it you can't find in a lot of other comics.
-
-14: Admittedly I haven't read the most recent issues so maybe it's gotten better. But I gave up on it after the first run and a few issues into the second run. I love the setting, backstory and alternate characters but it takes too much time for anything to happen and I got annoyed when they started doing more and more crossover stuff that I couldn't follow.
-
-The art is also hit or miss. Sometimes it has a nice "grungy" look, other times it just looks kind of ugly.
-
-12: I was enjoying it until they kept tying it into the regular Marvel universe. I like inter-universe stories but let your new characters live in their world for a bit Marvel. Spider-Person stories need to stay somewhat grounded. And hopping realities every few issues is not very grounded.
-
-10: The costume is really good. Aside from that, no, not really. The art is muddy and the story muddier.
-
-4: I've only read the first trade but I found it decent but unremarkable. Basically the Spidey origin for the x-th time, it didn't feel that different to me just because Gwen is in it. But I had only read Ultimate Spidey half a year before, so maybe it was just too soon for yet another take at the same origin story for me.
-
-3: I'd say it's not as good as it could be.
-
-I like the concept, the world which Jason Latour has created is really interesting and twists concepts in original ways, and I do enjoy the grungy artwork; it fits with how Gwen would view her world.
-
-But the dialogue is often really peculiar, especially in the earlier series (I will readily admit that it has gotten better recently), and it seems to take a long time to get to things, and throws in concepts really quickly only to forget about them, like Gwen's world's version of Green Goblin and Captain America.
-
-I much prefer Silk, and Spider-Woman if we're talking about Spider-Women titles.
-
-3: Its a lot weaker (especially writing wise) than Spiderwoman or Silk, but its generally good.
-
----
-
-Is the Spidergwen series any good?
-
-8: It depends. I'd say its best when it focuses on Gwen and her world (so basically everything not a crossover as those are usually heavily ooc)
-
-That said I'd preface my recommendation in that Spidergwen is a very dreary series. It's comic about a very depressed, down on herself, heavily self questioning hero.
-
-It's a series where the protagonist isn't in any way far from your standard superhero fair, but heavily tinged in nihilism and regret. Like many comics have that arc where the hero questions their role as a hero due to an event. Spider-Gwen's entirety is that arc.
-
-That preface exists cause its a tone that can wear on a reader especially compared to all the much more upbeat comics around it.
-
-8: I read it for about a year and dropped it, the story just got really dull for me.
-
-6: Grab a Marvel Unlimited subscription and you can read all the back issues with that! It's $10/month or $70/year.
-
-6: I like it. The SpiederGwen universe is a nice twist on the Marvel universe, but the twists are interesting and suitable not just a way to desperately reinvent every character in a deterministic fashion.
-
-5: not really at all
-
-3: It's got its ups and downs.
-
-I think the first two volumes worth (Vol. 0 and Vol. 1) are really great. Together they work really well, enough that I'd wholeheartedly recommend the hard cover that collects the both of them. After that it can be hit and miss.
-
-Just going by the collections that come after: Spider-Women is a very mixed cross-over. Got its good parts. Got its good parts. The development for Gwen frustrated me because of how out of nowhere it is, and how much impact it has on the character. Weapon of Choice (Vol. 2) does work with the hand its dealt well enough though. Those issues are fine, if a bit uneven. Almost all of the stuff in Long Distance (Vol. 3), is completely pointless. To be fair, it's just a few issues as well as an annual and a short crossover, but it barely inches the plot forward. Sitting in a Tree feels equally pointless, but some of the banter between Gwen and Miles is fun, and the romance plot isn't near as much of a focus as the name would imply. I've poked into the issues that Predators (Vol. 4) will contain, and they look to be at least decent, and a return to actual plot advancement. I'm pretty excited and hopeful for the Gwenom stuff, because I'd love to see what they do with the symbiote and what that sort of darkness could do to Gwen's head, especially with how much the world seems to keep spitting on her.
-
-Overall I genuinely love the character. It's nice to have someone who exists within her own continuity without having to deal with all of the baggage that comes with residing in Earth-616. Plus the basis for her origin is such an amazing re-imagining of Peter's origin story. Much as I have qualms with the middle of her current run, I do still very much like the character and only hope that she keeps on keeping on, but with *her* plot allowed to focus on *her*.
-
-A few stories that are more lighter in tone would do some good though. It's worth noting just that, like I said, the story seems to be about Gwen just constantly taking metaphorical (and literal) hits, with very few straight forward victories.
-
-2: I don't normally read Spider-Gwen but her arc with Miles was amazing. If that's any indication of her solo series than I'd pick it up
-
----
-
-Help with Spider Gwen Comics?
-
-Trying to get my girlfriend more involved in my love of comics and she has expressed interest in Spider Gwen. Told her I would pick her some stuff up. Should I just start her off with the first TPB? Anything to avoid? Easy to pick up and read without much knowledge on the Marvel universe? More of a DC guy myself so unfortunately I won't have many answers for her if she has a lot of questions.
-
-Thanks guys!
-
-7: It's almost entirely standalone. She's basically relegated to her own universe aside from one or two crossovers, one of which isn't even really related to her!
-
-Volume 0: Most Wanted? is the place to start, featuring her introduction story from the Edge of Spider-verse miniseries, and then her own five-issue mini from before a big reboot.
-
-From there you can just start off collecting the trades for her series!
-
-A full reading order:
-
-- Spider-Gwen 0: Most Wanted?
-- Spider-Man: Spiderverse (optional, but does feature more of the character)
-- Spider-Gwen 1: Greater Power
-- Spider Women (crossover with Silk and Spider-Woman)
-- Spider-Gwen 2: Weapon of Choice
-- Spider-Gwen 3: Long Distance (crossover with Miles Morales Spider-Man)
-- Spider-Gwen 4: Predators
-- Spider-Gwen 5: Gwenom
-
-She was also in the Web Warriors series, but that didn't really effect her character much. I haven't read it and don't feel like I'm missing anything.
-
-> 4: Web Warriors does play one major role. It's how she got the dimensional travel device that is used in the Spider-Women, Miles Morales, and Gwenom arcs.
-
-4: 
-
-> Easy to pick up and read without much knowledge on the Marvel universe?
-
-I'm not caught up on it so I can't give specific recommendations, but it's perfectly understandable without outside Marvel knowledge. It's set in an alternate universe outside the main 616 one so you can just pick it up and start reading from the first trade.
-
-3: I think it stands alone without previous knowledge, though as an old fart who read the Death of Gwen Stacy as a kid, one of my greatest pleasures in the comic is seeing its alternate take on the history and how it upends Matt Murdock and Frank Castle's characters. If your GF is passingly familiar with the Marvel Netflix shows, that will help.
-
----
-
-Where to start in comics for spider Gwen?
-
-7: The first few years of comics are in nice paperback collections. Start with [Vol 0](https://www.amazon.com/Spider-Gwen-Vol-Most-Wanted-ebook/dp/B017JHJHJ6/ref=sr_1_7?ie=UTF8&qid=1545938603&sr=8-7&keywords=spider-gwen+vol) and work your way up. There are other side stories that involve her as a character, and while they're generally still considered cannon, they're not written or drawn by the same team so the tone is quite different. These would be the several Spider-verse runs and the Web Warriors runs, but neither are really required reading.
-
-5: Really depends if you wanna go really hard into it or not. Personally I would start with the collection of the original Spider-verse and volume 1 of Spider-Gwen (if you think you’re gonna dive right in, go for the hard cover one, it collects more issues).
-
-If you’re looking for the most efficient collection of required reading for Spider-Gwen, you’re gonna want Spider-verse, Spider-Gwen volumes 1-3 (the hard cover versions, there are only 3 out atm), the trade paper backs of volume 4 and 5 of Spider-Gwen, and the trade paper back of Spider-Women, the cross over event between Gwen, Spider Woman, and Silk. You don’t need the Miles/Gwen crossover (the name of the cross over event escapes me atm), it’s covered in hard cover volume 3 I believe.
-
-Gwen also has an ongoing title right now titled Ghost-Spider, but it’s only 3 issues in and doesn’t have a trade out yet.
-
-Edit: I haven’t read web warriors, but she hasn’t really referenced her experiences with the warriors so I assume it’s probably skippable. She’s also present in Spider-geddon but just for the 1st issue or 2 I believe.
-
-### Swamp Thing
-
-7: Len Wein's *Roots of the Swamp Thing* collects the first appearances of Swampy and establishes some of the main characters that would be used later. Then, move on to the first volume of Alane Moore's **Saga of the Swamp Thing** and work your way up to the sixth volume.
-
-10: *New 52's* (I think he means Swamp Thing by Snyder) not a bad place to start, although Alan Moore's run is a better place to start (and also just better in general).
-
----
-
-16: Moore's run redefined the character and is held up as the gold-standard.
-
-Other than that, the recent series by Snyder and then Soule was pretty good.
-
-I also think Nancy Collins run is underrated.
-
-7: Moore's run is not only the best Swap Thing run but also one of the best comic book series ever. Some issues read similar to a prose novel. I honestly don't think there's anything quite like it.
-
-5: Besides the obvious, I would recommend the original Len Wein run, collected in *Roots of the Swamp Thing* and if you want that plus all of pre-Moore Bronze Age Swamp Thing material (besides crossovers) it's all been collected in one of those [new monster omnibuses.](https://www.amazon.com/Swamp-Thing-Bronze-Omnibus-Vol/dp/1401273785) The run preceding Moore's does have plot elements that Moore follows on, so it might give you more of an appreciation for his stuff.
-
-1: I feel the Moore run doesn't really have as much weight behind it without having read any of the previous stuff. At the very least read either the "Dark Genesis" or "Roots of the Swamp Thing" trade first so you can get context for his relationships with Abby and Anton, along with Matthew Cable. After that, you can probably jump to the first Saga of the Swamp Thing trade without missing much.
-
-> Both have the 1st appearance of ST, along with the first 10 or 13 issues respectively.
->
-> Apparently there's also a collection called Swamp Thing - Bronze Age and the first volume has the same material of "Roots", but it has a different title.
->
-> Boy, I wonder why people have problems getting into comic books.
-
----
-
-16: Start with Book One and read the subsequent trades. Alan Moore started writing the series at #20 and <u>wrapped up the previous writer’s storyline</u>. #21 (The Anatomy Lesson) is where the series starts to become an all-time great.
-
-Don’t get thrown off too much by the numbering. I’ve never read #1-19 and it’s never affected my enjoyment of the series.
-
-> It's all confusing, I know, but that's why most new reader advice avoids talking about all of this. I usually just say "Here, read this" instead of info-dumping about how the entire industry works. That's another reason publisher's label comics as "Book One". There should be no confusion about which book to buy first—it's book 1. Only the more inquisitive readers like yourself notice the comic numbering and think "Am I buying the right thing?" At that point, the publisher is thinking "Ugh, the Book One thing wasn't clear enough. Maybe we should just get rid of the comic numbering altogether to make it more obvious for the newbies." But then consumers would outcry "Now we can't see which issues are collected in this book! CROOKERY!" Again, more confusing meta-info a new reader doesn't need to worry about.
 
 ### The Flash
 
@@ -1575,9 +978,610 @@ The Flash | #1-29 | 2011-2014 | Manapul, Buccellato
 
 1: Everyone will rightfully tell you about *Waid’s* run being the best but if you can find the single issues, it’s worth it to check out Mike Baron and William Messner-Loebs runs since you see the full extent of Wally’s character development.
 
+### Green Lantern
+
+Most people would tell you to start with **Green Lantern: Rebirth**, but I think that story is a bit confusing for a new reader. So here is a list of the events that take place before that story in chronological order. The **bold** ones are a part of Geoff John's run while the *italic* ones are from the 90's:
+
+**Green Lantern: Secret Origin**
+
+*Green Lantern: Emerald Twilight/New Dawn*
+
+*Zero Hour: Crisis in Time*
+
+*The Final Night*
+
+*Day of Judgment*
+
+**Green Lantern: Rebirth**
+
+### Hellboy
+
+25: Hellboy isn't like most superhero comics where there's multiple "runs" to keep track of. Nearly all of it is written by Mike Mignola and nearly all of it is worth reading. Just start at the beginning with [Hellboy, Volume 1: *Seed of Destruction*](https://www.amazon.com/dp/1593070942) and follow the rest in [suggested reading order](http://www.multiversitycomics.com/annotations/hellboy-reading-order-2017/).
+
+> Updated version of the reading order: [link](http://www.multiversitycomics.com/annotations/hellboy-reading-order-2019/).
+
+9: Mignola writes all of Hellboy and co-writes most of the tie-ins if not all, the universe is pretty amazing just in itself, can't go wrong with Mignola.
+
+7: There is only one Hellboy run, and that's the Mike Mignola one that begins with *Seed of Destruction*. It is available in regular trades that collect roughly four to six issues each, or the oversized Library Edition hardcovers which collect twice that much. This is also due to be released Omnibus form starting this year.
+
+There's one main BPRD run split into three cycles, *Plague of Frogs*, Hell on Earth and The Devil You Know. I would recommend starting *Plague of Frogs* once you've reached at least volume 4 of Hellboy, Conqueror Worm (this is fifth), which is what Plague of Frogs follows directly on from. There are some lovely paperback and hardcover collections of PoF available for reasonable prices, and HoE is also due to have some released soon. TDYK has only just started so is currently only available in single issues, but give it time.
+
+There are also the prequel miniseries Hellboy & The BPRD, and BPRD 1946, 1947 and 1948. These are prequels and as such don't have to be read at any particular point, but I'd at least recommend reading BPRD 1947 before starting BPRD: Hell On Earth as a character is introduced in 1947 who comes back and has a large part to play in HoE.
+
+There is also the Abe Sapien solo series, which happens mostly alongside BPRD: Hell on Earth. Abe runs away from the BPRD during this period, so if you want to know what he's up to, read the Abe Sapien solo series. Otherwise it is not necessary to the main BPRD plot.
+
+> 5: I would add a few things to this.
+>
+> The sapien series will likely be more important to the overall plot in the next cycle of bprd. And Hellboy and the BPRD is a full ongoing series but likely not important to the future and mignola wrote or was heavily involved in at least half of it as of now so it's still one run basically.
+
+---
+
+16: The spin-offs are just as good. I recommend *Frankenstein Underground*, I'm a sucker for the Frankenstein myth and the series does not disappoint.
+
+12: Comic Hellboy is just a lot more fun than the movie version. The del Toro movies are totally fine, but Hellboy always sort of annoyed me in them. He's sort of a whiney teen in them. I much prefer him as a grouchy old man.
+
+I think BPRD is one of the best long form comics we have as well. They do a great job of creating a lot of finality. When people fuck up, there are lasting consequences. You get to also see this crew develop from being a regular team to these hardened war vets.
+
+9: They absolutely are; those and especially BPRD are among the best that comics have to offer
+
+8: Abe has his own set of comics as well. I think his are set while Hellboy is in hell.
+
+---
+
+**Essential/Best Hellboy Comics?**
+
+5: I may missing some, but here is what I think
+
+- Seed of Destruction (Hellboy – Volume 1: Seed of Destruction, <u>Omnibus: Hellboy – Volume 1: Seed of Destruction</u>)
+- Wake the Devil (Hellboy – Volume 2: Wake the Devil, <u>Omnibus: Hellboy – Volume 1: Seed of Destruction</u>)
+- The Nature of the Beast (Hellboy – Volume 4: The Right Hand of Doom, Omnibus: Hellboy: The Complete Short Stories – Volume 1)
+- The Corpse (Hellboy – Volume 3: The Chained Coffin and Others, Omnibus: Hellboy: The Complete Short Stories – Volume 1)
+- Almost Colossus (Hellboy – Volume 3: The Chained Coffin and Others, <u>Omnibus: Hellboy – Volume 1: Seed of Destruction</u>)
+- *Conqueror Worm* - here is where he leaves the BPRD (Hellboy – Volume 5: Conqueror Worm, <u>Omnibus: Hellboy – Volume 2: Strange Places</u>)
+- Darkness Calls (Hellboy – Volume 8: Darkness Calls, <u>Omnibus: Hellboy – Volume 3: The Wild Hunt</u>)
+- The Wild Hunt (Hellboy – Volume 9: The Wild Hunt, <u>Omnibus: Hellboy – Volume 3: The Wild Hunt</u>)
+- Storm & Fury (Hellboy – Volume 12: The Storm and the Fury, <u>Omnibus: Hellboy – Volume 3: The Wild Hunt</u>, Hellboy – Volume 12: The Storm and the Fury, <u>Omnibus: Hellboy – Volume 3: The Wild Hunt</u>)
+- Hellboy in Hell - end of series (everything in <u>Hellboy Omnibus – Volume 4: Hellboy in Hell</u>)
+
+There's much more, but I would consider those to be the most essential for understanding the whole story without being too confused.
+
+> Conqueror worm is my favourite of the comics and is really a defining point in hellboy’s character.
+
+---
+
+5: Main Hellboy: The Troll Witch, *Conquerer Worm*, The Third Wish, The Crooked Man, The Wild Hunt
+
+Spin-offs: BPRD - The Long Death
+
+3: Anything written and drawn by Mignola is great. Anything by him and Fegredo or Corben is also great.
+
+The BPRD stuff is mostly good and the minis of the side characters tend to vary in quality.
+
+> +People say that *Lobster Johnson* is also good series.
+
+### Hulk
+
+**I want to get into the hulk. Where should I start?**
+
+7: Along with the modern essentials like **Planet Hulk** and **World War Hulk**, I've heard good things about Peter David's run on the Hulk.
+
+> 4: As well you should have. David's run really explored the duality and personality struggles between Banner and Hulk. More people need to read this. **Planet Hulk** and **WWH** felt like all Hulk all the time to me. And I felt lost a bit of the characters core.
+
+4: Modern Essentials
+
+- [**Incredible Hulk Visionaries**](https://www.amazon.com/dp/0785115412) | [#331-457](http://marvel.com/comics/issue/9142/incredible_hulk_1962_331) | 1987-1998 | David
+- [Return of the Monster](https://www.amazon.com/dp/0785153462) | [Incredible Hulk #34-39](http://marvel.com/comics/issue/14434/incredible_hulk_1999_34), [Startling Stories: Banner #1-4](http://marvel.com/comics/issue/18798/startling_stories_banner_2001_1) | 2001-2002 | Jones, Azzarello
+- [Hulk: Gray](https://www.amazon.com/Hulk-Gray-Jeph-Loeb/dp/0785113460) | [#1-6](http://marvel.com/comics/issue/365/hulk_gray_2003_1) | 2003-2004 | Loeb
+- [Tempest Fugit](https://www.amazon.com/dp/0785115439) | [Incredible Hulk #77-82](http://marvel.com/comics/issue/1555/incredible_hulk_1999_77) | 2005 | David
+- [**Planet Hulk**](https://www.amazon.com/dp/0785120122) | [Incredible Hulk #92-105](http://marvel.com/comics/issue/3530/incredible_hulk_1999_92) | 2006-2007 | Greg Pack
+
+3: I'd say go back and start with **Peter David's run on Incredible Hulk**, is the absolute best run of books with Hulk and you wouldn't get Planet Hulk and World War Hulk without it.
+
+---
+
+**Where to start reading Hulk?**
+
+3: I'm a big Hulk fan, and my favorite comic of all time is actually a Hulk story (And the first one I owned). I think Hulk is one of the few characters where you can just pick a story and start reading. He doesn't have a lot of crucial backstory so long as you know the whole "Banner got gamma'd now he's sometimes big and green" stuff. The way Hulk and Banner interact are almost always up to the writer, so whatever story you jump in will let you know how they'll be interacting for that particular story.
+
+For stories I'd say read/watch **Planet Hulk**. It's a bit long, but I loved every page of it. General plot: Hulk forced into gladiatorial combat on an alien world.
+
+After that the follow up comic is **World War Hulk**, which was a huge event but the main story stands perfectly well on it's own. General plot: Hulk's back. He's pissed.
+
+If you want a continuing story that's fairly recent, Indestructible Hulk is your man. General plot: He works for shield as a scientist/weapon. Banner builds, Hulk destroys.
+
+Like I said, you can just sort of jump headfirst into any Hulk stories you want. If you ever see a picture of Hulk and you think, "Man, I want to read that. I wonder what it's from." Just find out the source of it and start reading! Hope you enjoy em, man!
+
+2: Indestructible Hulk (2012) is, I would say, the best most recent jumping on point. If you've read that and Hulk (2014), then the next most recent point would be the **Planet Hulk** + **World War Hulk** arc that leads into Hulk (2008) and Incredible Hulks (2009).
+
+2: For me personally I loved hulk for years, when they killed betty banner, I was done. I tried **planet hulk** but I couldn't get into it.
+
+Grey Hulk, Mr.Fixit was probably my favorite time.
+
+Future Imperfect story of the future was great, but that's like 2 comics.
+
+Hulk is actually a really hard character to write IMO.
+
+> 2: Did you ever check out Betty as Red She-Hulk? I really enjoyed her character development.
+>
+> > 1: No I didn't I would read a few issues if you can recommend. Thanks.
+> >
+> > > 2: I would just jump in with Jeff Parker's Red She-Hulk series. The story that led up to it was kind of dumb, but Parker takes the premise and does fun stuff with it.
+
+---
+
+**Best Hulk Comics?**
+
+11: **Peter David’s run**, hands down.
+
+*Al Ewing’s IMMORTAL HULK*, which is ongoing now, is also good.
+
+> 3: Agreed. PAD's 12-year run was amazing.
+>
+> > 2 (OP): What is it about **David’s run** that makes the Hulk better? Eg. In **Planet Hulk, Pak** does a great job of developing the character and the team into very relatable and likeable people and really shows the whole thing as an epic adventure 
+> >
+> > > 3: There's adventure during PAD's run, especially when he's affiliated with the Pantheon. But, there's also a lot of character development, especially in the relationship between Bruce and Betty. And his Rick Jones, as the man who's seen it all, is hilarious. The book under his writing can alternate between incredibly dark and rip-roaringly funny, but never jarringly so.
+> > >
+> > > And he works with some of the top artists, including Todd McFarlane, Dale Keown, and Gary Frank. So it's not just fun to read, but gorgeous to look at as well, for the most part.
+
+4: Check out Incredible Hulk Epic Collection: The Hulk Must Die, the first eight issues (Tales to Astonish #60 - 67) are drawn by Steve Ditko and he did a great job with the character, it's a shame it's so overlooked because Ditko is synonymous with Spider-Man and Doc Strange (and rightfully so, of course) but his Hulk work is great and good, classic Silver Age fun.
+
+> 1 (OP): Do I need knowledge of the Hulk before reading this? I’ve never read the epic collections because they don’t seem to collect the comics the best way, or I feel there may be things left out. I’ve only ever read Planet Hulk and WW Hulk, so I really know nothing about the character except he’s Bruce banner and extreme emotions turn him into a big green monster.
+>
+> > 2: It's pretty early on in the character's publication history so you don't need to know too much, and also the Epic Collections are perhaps the best way to collect comics, they are very comprehensive and cover a lot of material that has yet to be reprinted, it's one of the best reprint programs right now.
+
+5: **Peter David's run** in the 80s and 90s.
+
+2: The current series is only about four issues deep and it's great.
+
+I really liked Jeph Loeb's run which introduced the Red Hulk.
+
+Pick up Punisher: Confederacy of Dunces. I don't wanna spoil why, but you'll see. It also has Spider-Man, Wolverine and Daredevil in it.
+
+2: I’ve always liked Bruce Jones’ run the most.
+
+---
+
+**Best Hulk runs?**
+
+I’ve been reading *Immortal Hulk* on Marvel Unlimited and it has really piqued my interest in the big green guy. I’d really only seen him in movies and animation before so I was surprised to see that he has a larger vocabulary than what I’m used to.
+
+I’ve heard **Peter David’s run** is the gold standard. Is it okay to jump right in there? Should I read some of Mantlo’s run that came before? Is there any more modern stuff that’s notable besides Planet Hulk and Immortal?
+
+15: Read Mantlo’s run for the sake of completion if you want to, as a Hulk Fan I’m sure you will Like it.
+
+**David’s Run** is definitive Hulk, and yeah you can jump right in, it will probably be eye opening for you, a lot of the big moments in Hulk’s life happened during this run.
+
+Pak’s Run is pretty good, **Planet Hulk** being the best part of it.
+
+> 6: **Planet Hulk** is very good, but I feel like the later parts of Pak's run are really underrated.
+>
+> > 3: Especially when it was rebranded as Incredible Hercules. Great run.
+
+8: **Planet Hulk**>**World War Hulk** is fantastic. **Peter David's run** has ups and downs but went to places the series had never been before. You may enjoy the first half-dozen issues (by Lee, Kirby and Ditko) from the early '60s--they're very much of their time, but Immortal Hulk has been drawing on them extensively.
+
+6: Have to recommend Bruce Jones run. The Norton Hulk movie pulled from this material. Even though it petered out towards the end, the first 2/3 or so was a much needed jolt at the time for a character that had been stuck in mediocrity for years
+
+> -1: Eh.
+>
+> That run is pretty forgettable. It had its fans at the time, and publications like Wizard gushed about it, but it was really boring, in hindsight. Nothing much happened. It was more mood and mystery than anything else. Which is fine if you like that sort of thing, but for Hulk it felt like a long denouenent. And the ending was bad. Which for a run that built itself up so much on the final reveals, needed to stick the landing.
+>
+> Yeah, you could say the movie pulled from the run. But the run was being nostalgic fan service to the 1970s tv show. Which also was boring. The show was restricted to a moody drama because there was no way to afford a super villain battle each week.
+>
+> And mediocre for years? Yeah, Joe Casey's run was pointless and so was John Byrne's return. But David's last few years of his run, while meandering because of Heroes Reborn, was still very good. And Paul Jenkins's run was good as well.
+>
+> But, Hulk was not selling well, which Jones run was able to fix at the time. But reading it now, I think it is completely skippable, and not just for the reason that a lot was retconned away.
+>
+> >  4: Still think it's noteworthy despite its flaws. I was trying to recommend something that wasn't already brought up, and considering Hulk's publishing history, I'm comfortable putting that in a hypothetical top 10 on the merits you mentioned alone
+
+4: **Greg Pak's Hulk** is my favorite comic ever. Can't recommend it enough.
+
+4: **Peter David** is the definitive run. Early to first half of **Bruce Jones’ run** is good. **Greg Pak’s Planet Hulk** is good. A lot of people will hate on it, but I think Jeph Loeb’s Hulk run was a lot of fun. Al Ewing’s current Hulk run is good.
+
+2: John Byrne's run is good. Especially the Mr. Fixit stuff.
+
+> 3: Mr Fixit is **Peter David’s run**. I thought Byrne was only like 5-6 issues? He did the wedding issue.
+>
+> > 1: Eep. Don't know what I was thinking, you're right it was Peter David.
+
+2: There’s some really good recommendations in here. Especially the **Greg Pak** and **Peter David stuff**. For a good recap of his origin, check out Hulk: Grey by Jeph Loeb and Tim Sale
+
+---
+
+**Best hulk stories to read?**
+
+Preferably your top 3 or 5? I've only read **WW HULK** and I was very young.
+
+6: **Peter David is to Hulk** as Frank Miller is to Daredevil, Alan Moore is to Swamp Thing and Chris Claremont is to the X-Men. Nobody really comes close, I recommend his entire run.
+
+5: I think **world war hulk** is the best, but **planet hulk** arc is the lead into **world war hulk** so it's also a good one. I also like hulk future imperfect because of maestro
+
+5: I really love Duggan’s short Hulk run. The Hulk becomes super smart and attempts to cure other Gamma guys. https://www.amazon.com/gp/aw/d/0785190686/ref=mp_s_a_1_1?ie=UTF8&qid=1521940772&sr=8-1&pi=AC_SX236_SY340_QL65&keywords=gerry+duggan+hulk&dpPl=1&dpID=51R3HVMKHuL&ref=plSrch
+
+**Peter David’s Hulk run** is the gold standard and holds up well.
+
+3: Al Ewing’s upcoming Hulk series sounds kind of amazing. He’s been posting interesting early Hulk panels at alewing.tumblr.com —his hashtags are pretty wonderful...
+
+3: I think the best hulk story is **planet hulk+world war hulk**. With **planet hulk** diving more to the character of the hulk and **world war** is one of the best "hulk smash" reads.
+
+Aside from that some recommendations:
+
+- Future Imperfect (from the 80's, not secret wars)
+- Hulk the end
+- 'Indistructible hulk' is a fun series but it ends with a cliffhanger that leads to the doc green run which I found a lot less enjoyable.
+- Incredible Hulk by jason aaron from 2012 is great.
+
+2: **Planet Hulk**, Old Man Logan, & Future Imperfect.
+
+I recently picked up some collections with early 80s Mantlo/Buscema Hulk- good stuff & highly recommended- Hulk # 269-313.
+
+Early Kirby/Lee Hulk is weird because Hulk acts more like the Thing than what we know today, but still interesting for the genesis of the character.
+
+A story that recently came out about Maestro I recommend is 'Old Man Logan- Days of Anger.'
+
+2: Ultimate Hulk Vs Wolverine.
+
+Short, Sweet, and oh so brutal.
+
+---
+
+**What are some good hulk comics besides Planet Hulk and World War Hulk?**
+
+20: *The Immortal Hulk* is widely considered the best comic Marvel's putting out right now.
+
+17: **Peter David's run** from the 90s.
+
+> 7: 80s and 90s, actually.
+>
+> And you can go back to Mantlo's Smart Hulk run as well. TPBs start at issue 269, so that's as good a place to start as any, and Mantlo runs through 313, Byrne from 314-319, Milgrom 320-330, and PAD is 331-467.
+
+8: *Hulk the End* one shot was so good!
+
+> 3: Depressing af though
+
+5: Future Imperfect
+
+Hulk: Gray
+
+### Spider-Man
+
+**What's the absolute best Spider-Man series?**
+
+76: **Ultimate Spider-Man**. You get to see Peter right from when he gets his powers. Start with Ultimate Spider-Man (2000) #1 and read from there. The whole thing's on Marvel Unlimited.
+
+29: I have to go with **Ultimate Spider Man**. It's got everything you want from a Spider Man book: Cool villains, snappy repartees, good characterization of Peter, and MJ. Plus, the quality is very consistent. Even the Ultimatum tie-in wasn't terrible, and that's saying a lot when comparing it with the rest of the event.
+
+20: I mean it can only really be *Amazing*. It's the one that built all the mythos that makes Spidey what he is. It also has the benefit of being told from many different creative teams.
+
+> 17: Yup, Ultimate has a more modern surface so I can see why people might prefer that, but the first 200 issues of *ASM* are really the "bible" of Spider-Man
+>
+> > 18: And much like the Bible it can be a dry, stolid, boring slog for people who weren't around when it was written or don't spend all their time around people who champion it.
+> >
+> > See also: most classic literature as it is taught in US English classes.
+> >
+> > > 14: I don't know. I think it's pretty readable, especially after the first 30-40 issues pass and you get used to the Woody Allen jokes and other 1960s references. The plots are tight and Peter shines.
+
+16: This is kind of a loaded question because of how long *ASM* had been around.
+
+My honest opinion, Marv Wolfman's year and a half run on *Amazing* is one of the best I've ever seen. It started at 184 and ran up to 200. The stories and plots all tied in together with the anniversary 200th issue culminating in Spider-Man's confrontation with the burglar that killer Uncle Ben.
+
+The title came full circle at that point and considered by many as the end of that first era of Spider-Man (Silver Age).
+
+Other notables are Roger Stern, Peter David and David Michelinie's runs.
+
+16: Spider-Man blue. Short, limited run, but it's fantastic.
+
+9: **Ultimate Spider-Man** is going to be the most accessible by a wide margin.
+
+*Amazing Spider-Man* from the beginning is the founder, and it *is* good, but its influence may exceed its readability to you.
+
+Everything else is secondary. Seriously, *everything*.
+
+---
+
+**Best Spider-Man comics?**
+
+18: **Ultimate Spider-Man** is superb pretty much from the get-go.
+
+*Kraven's Last Hunt* and *The Death of Gwen Stacey* are the two most popular stories from the "classic" era.
+
+Spider-Man Blue by Jeph Loeb is brilliant.
+
+Dan Slott's run on *Amazing Spider-Man* is very hit-and-miss for me but a lot of people like it, I'd give it a look especially if you enjoyed his work on Superior. He starts with "Brand New Day" which you can get in TBPs right now.
+
+EDIT: words
+
+9: 
+
+- The Death of Jean DeWolff
+- *Kraven's Last Hunt*
+- Stan Lee/Steve Ditko's run (the original run)
+- David Michelinie/Todd McFarlane's run (a great run that introduced Venom)
+- Pretty much anything Roger Stern wrote
+- Return of the Burglar
+- Nothing Can Stop the Juggernaut
+- *Death of Gwen Stacy*
+- **Ultimate Spider-Man** (alternate universe)
+
+4: Kraven's Last Hunt, Spider-Man Blue, Nothing Can Stop the Juggernaut
+
+3: No one recommending Spider-Island? I thought it was great.
+
+2: 
+
+- *Death of Gwen Stacy*
+- Wolverine and Spider-Man (mini) series
+- Back In Black
+- Most **Ultimate Spider-Man**
+
+> 3: Wolverine/Spider-Man was so great. There was a really good dynamic between the two of them.
+>
+> Wolverine and Spider-Man get lost in the timestream, and have to find their way back to their time. It's pretty outlandish but still pretty good.
+>
+> edit: [Link to the Wikipedia article](http://en.wikipedia.org/wiki/Astonishing_Spider-Man_%26_Wolverine). Full title is Astonishing Spider-Man and Wolverine.
+
+2: *Kraven's Last Hunt*, Spider-Man Blue, *Death of the Gwen Stacey*, Nothing can stop the Juggernaut, Birth of Venom, Torment, The Other, Back in Black, Flowers for Rhino.
+
+Brand New Day (3 trades), New Ways to Die, Big Time, Spider-Island, Ends of the Earth
+
+Marvel Knights Spiderman (Mark Millar 12 issue run), Ultimate Spider-Man (all of it has been stellar), Astonishing Spider-Man and Wolverine (mini-series), etc. :)
+
+---
+
+**In your opinion, what is the best Spider-Man's comics?**
+
+I'm not a comic old reader, so I'm searching for the best comics and sagas of my favorite superhero.
+
+I liked so much "*Kraven's Last Hunt*", "The Kid Who Collected Spider-Man", "**Ultimate Spider-Man: Power and Responsibility**", "*The Amazing Spider-Man: Coming Home*" and "*The Death of Gwen Stacy*".
+
+6: Grim hunt and spider-island are very good. Also the entire superior spider-man run is just brilliant.
+
+3: A lot of Marvel's old characters don't hit their strides until the 70s or 80s but *Amazing Spider-Man* is one of those titles that hits its stride immediately and keeps it up for a very long time. I'd honestly recommend just plowing through the first 150 or so issues, the stuff written by Stan Lee and Gerry Conway. I got the Essentials volumes that collect them and love them.
+
+3: Death of Jean Dewolff
+
+If This Be My Destiny
+
+New Ways to Die
+
+Character Assassination
+
+Dying Wish
+
+Death of Spider-Man(Ultimate)
+
+Alien Symbiote "saga"
+
+2: Well, the original Stan Lee/Steve Ditko run is legendary. Roger Stern did fantastic with the character in the 80s. In addition to "The Kid Who Collected Spider-Man", he also put Spidey up against an unstoppable force in "Nothing Can Stop the Juggernaut!" His original Hobgoblin arc is great, too.
+
+"The Death of Jean DeWolff", "One Small Break", are both very good "dark" stories.
+
+As for something more modern and light-hearted, I'd recommend "Snow Day" and "The Rules of the Game". As well as "Spider-Man/Human Torch" and "The Commuter Cometh".
+
+2: The original Spidey 2099 and the current one, it's too easy to pick out good Peter stuff but Miguel is so fuckin awesome.
+
+---
+
+#### Miles Morales
+
+**Need Help Finding Best Miles Morales Origin Comic**
+
+3: His origin starts in All-New Ultimate Comics Spider-Man #1.
+
+If you want a collection, the Miles Morales: Ultimate Spider-Man Omnibus collects the whole Ultimate run.
+
+1: Pick up Miles Morales: Ultimate Spider-Man Ultimate Collection 1! Should have all you need!
+
+---
+
+**Where to start reading Miles Morales Spider-Man?**
+
+5: Ultimate Comics: Spider-Man relaunch from 2011.
+
+[http://en.wikipedia.org/wiki/Spider-Man_%28Miles_Morales%29#Ultimate_Comics:_Spider-Man](http://en.wikipedia.org/wiki/Spider-Man_(Miles_Morales)#Ultimate_Comics:_Spider-Man)
+
+> 2 (OP): Thank you! I googled and found his first appearance but didn't know if that's where I was supposed to start.
+>
+> > 2: The first appearance was Ultimate Fallout which was a six issue mini after Peter died, but it was more of a compilation book and was only very tangentally about Miles. The Ult Spidey book itself is all you really need. Although saying this, the supporting cast (MJ, Gwen, May, Jessica etc) might be a bit confusing if you've not been reading the whole thing but I think it'll be perfectly easy to follow. I gave vol 1 of Miles to a 10 year old and he got it just fine (I think because ten year olds are less hung up on needing to understand everything).
+
+3: If you want to start with Miles:
+
+- Ultimate Comics: Fallout #4
+- Ultimate Comics: Spider-Man #1-28 (includes issue 16.1)
+- Spider-Men 1-5 (you can read this after issue 12 of the Miles run)
+- Cataclysm: Ultimate Spider-Man #1-3 (you can skip the other Cataclysm stuff; it's awful)
+- Ultimate Spider-Man #200 (the only 10/10 review I've given; perfect love letter to the series/character)
+- Miles Morales: The Ultimate Spider-Man #1-12
+
+If you want to start with Peter, here's the reading order: http://en.wikipedia.org/wiki/List_of_Ultimate_Spider-Man_story_arcs#Collected_editions
+
+Most of Miles and all of Peter is on Marvel Unlimited.
+
+Also [this just came out yesterday for only $1] (http://i.imgur.com/zoXEnne.jpg)
+
+And shameless plug - if you're interested, I started a Miles Morales podcast with some fellow Redditors that had kicked off with this last run. You can read along with us at [http://www.ultimatespinpodcast.com](http://www.ultimatespinpodcast.com/).
+
+---
+
+**Best miles Morales storyline**
+
+5: His original run "Ultimate Comics: Spider-Man" (second volume) is really strong
+
+3: His first one with prowler imo
+
+2: I really like the run where he was a S.H.I.E.L.D Agent
+
+-2: None of them are very good. He’s just a tool to get even more money, without putting forth any original ideas. Same thing with all of the other spider-verse characters and spin-offs in the last 10 years. Remember, this IS from the same people who went through with OMD.
+
+> 7: Interesting. I've only heard good things about Morales. What don't you like about his books?
+>
+> > 1: I think it's fair to say that when the character has the mask on and is doing the super hero thing he behaves just like regular Spider-Man, right down to the quips. Additionally he's got extra powers for some reason, the ability to turn invisible and an electric shock. These are often used as pretty glaring examples of deus ex machina. In my opinion that's pretty damn lazy. And it's absolutely true that he's part of the "you like Spider-Man man? How about TWO Spider-Men? Now how about THREE?" attitude that Marvel has had about all of its characters for the last several years.
+> >
+> > On the plus side his relationships outside of the mask are pretty interesting and different from Peter's and I enjoy his supporting cast tremendously. All of my previous criticisms aside the initial Bendis run is great and I just ended up falling for the character. There is zero reason not to at least check out that run.
+> >
+> > > 2: This is pretty spot on, but the thing that frustrates me most is how Marvel won’t just create a new superhero. It’s, here’s another Captain America, here’s another Iron Man, here’s another Spider-Man. It would be so much better if they created new, unique characters, or at the very least, gave them different names.
+> > >
+> > > Also, the morales storylines are just not-as-good remakes of previous Spider-Man stories. I know that new readers don’t always see that, but they are. Quesada’s Marvel is solely focused on increasing profits, and it’s so annoying to fans who remember when comics were just comics.
+> > >
+> > > > 1: I used to agree with the sentiment about not creating "new" characters but I've come around. I dressed up as Spider-Man as a kid for Halloween. Seeing the mountains of pictures of kids of different races and genders that feel like dressing up like these characters now is really great. I just wish Marvel would do a better job of having characters like Miles be a bit more different than the source material when they're doing the super hero thing.
+
+#### Spider-Gwen
+
+**Is Spider-Gwen any good?**
+
+38: Spider-Gwen is strange, funny, unpredictable (!), and is doing really interesting things with the whole "great power great responsibility" theme, powered by incredible art and intense colors. Currently my favorite.
+
+The current run of Spider-Gwen started including extensive bios for each character with a ton of backstory that hasn't been addressed in the series itself. Basically Jason Latour gives you a few issues' worth of story in each one. Gwen's full origin (including how she got her costume and webshooters) is explained in Radioactive Spider-Gwen #1.
+
+And hey, come read along with us! :-)
+
+http://ultimatespinpodcast.com/
+
+I've even done interviews with the creative team - all very cool people:
+
+http://ultimatespinpodcast.com/category/interviews/
+
+18: Yes. It's got a great twist on characters like Daredevil and Reed Richards and has a certain individual unique quality to it you can't find in a lot of other comics.
+
+14: Admittedly I haven't read the most recent issues so maybe it's gotten better. But I gave up on it after the first run and a few issues into the second run. I love the setting, backstory and alternate characters but it takes too much time for anything to happen and I got annoyed when they started doing more and more crossover stuff that I couldn't follow.
+
+The art is also hit or miss. Sometimes it has a nice "grungy" look, other times it just looks kind of ugly.
+
+12: I was enjoying it until they kept tying it into the regular Marvel universe. I like inter-universe stories but let your new characters live in their world for a bit Marvel. Spider-Person stories need to stay somewhat grounded. And hopping realities every few issues is not very grounded.
+
+10: The costume is really good. Aside from that, no, not really. The art is muddy and the story muddier.
+
+4: I've only read the first trade but I found it decent but unremarkable. Basically the Spidey origin for the x-th time, it didn't feel that different to me just because Gwen is in it. But I had only read Ultimate Spidey half a year before, so maybe it was just too soon for yet another take at the same origin story for me.
+
+3: I'd say it's not as good as it could be.
+
+I like the concept, the world which Jason Latour has created is really interesting and twists concepts in original ways, and I do enjoy the grungy artwork; it fits with how Gwen would view her world.
+
+But the dialogue is often really peculiar, especially in the earlier series (I will readily admit that it has gotten better recently), and it seems to take a long time to get to things, and throws in concepts really quickly only to forget about them, like Gwen's world's version of Green Goblin and Captain America.
+
+I much prefer Silk, and Spider-Woman if we're talking about Spider-Women titles.
+
+3: Its a lot weaker (especially writing wise) than Spiderwoman or Silk, but its generally good.
+
+---
+
+**Is the Spidergwen series any good?**
+
+8: It depends. I'd say its best when it focuses on Gwen and her world (so basically everything not a crossover as those are usually heavily ooc)
+
+That said I'd preface my recommendation in that Spidergwen is a very dreary series. It's comic about a very depressed, down on herself, heavily self questioning hero.
+
+It's a series where the protagonist isn't in any way far from your standard superhero fair, but heavily tinged in nihilism and regret. Like many comics have that arc where the hero questions their role as a hero due to an event. Spider-Gwen's entirety is that arc.
+
+That preface exists cause its a tone that can wear on a reader especially compared to all the much more upbeat comics around it.
+
+8: I read it for about a year and dropped it, the story just got really dull for me.
+
+6: Grab a Marvel Unlimited subscription and you can read all the back issues with that! It's $10/month or $70/year.
+
+6: I like it. The SpiederGwen universe is a nice twist on the Marvel universe, but the twists are interesting and suitable not just a way to desperately reinvent every character in a deterministic fashion.
+
+5: not really at all
+
+3: It's got its ups and downs.
+
+I think the first two volumes worth (Vol. 0 and Vol. 1) are really great. Together they work really well, enough that I'd wholeheartedly recommend the hard cover that collects the both of them. After that it can be hit and miss.
+
+Just going by the collections that come after: Spider-Women is a very mixed cross-over. Got its good parts. Got its good parts. The development for Gwen frustrated me because of how out of nowhere it is, and how much impact it has on the character. Weapon of Choice (Vol. 2) does work with the hand its dealt well enough though. Those issues are fine, if a bit uneven. Almost all of the stuff in Long Distance (Vol. 3), is completely pointless. To be fair, it's just a few issues as well as an annual and a short crossover, but it barely inches the plot forward. Sitting in a Tree feels equally pointless, but some of the banter between Gwen and Miles is fun, and the romance plot isn't near as much of a focus as the name would imply. I've poked into the issues that Predators (Vol. 4) will contain, and they look to be at least decent, and a return to actual plot advancement. I'm pretty excited and hopeful for the Gwenom stuff, because I'd love to see what they do with the symbiote and what that sort of darkness could do to Gwen's head, especially with how much the world seems to keep spitting on her.
+
+Overall I genuinely love the character. It's nice to have someone who exists within her own continuity without having to deal with all of the baggage that comes with residing in Earth-616. Plus the basis for her origin is such an amazing re-imagining of Peter's origin story. Much as I have qualms with the middle of her current run, I do still very much like the character and only hope that she keeps on keeping on, but with *her* plot allowed to focus on *her*.
+
+A few stories that are more lighter in tone would do some good though. It's worth noting just that, like I said, the story seems to be about Gwen just constantly taking metaphorical (and literal) hits, with very few straight forward victories.
+
+2: I don't normally read Spider-Gwen but her arc with Miles was amazing. If that's any indication of her solo series than I'd pick it up
+
+---
+
+**Help with Spider Gwen Comics?**
+
+Trying to get my girlfriend more involved in my love of comics and she has expressed interest in Spider Gwen. Told her I would pick her some stuff up. Should I just start her off with the first TPB? Anything to avoid? Easy to pick up and read without much knowledge on the Marvel universe? More of a DC guy myself so unfortunately I won't have many answers for her if she has a lot of questions.
+
+Thanks guys!
+
+7: It's almost entirely standalone. She's basically relegated to her own universe aside from one or two crossovers, one of which isn't even really related to her!
+
+Volume 0: Most Wanted? is the place to start, featuring her introduction story from the Edge of Spider-verse miniseries, and then her own five-issue mini from before a big reboot.
+
+From there you can just start off collecting the trades for her series!
+
+A full reading order:
+
+- Spider-Gwen 0: Most Wanted?
+- Spider-Man: Spiderverse (optional, but does feature more of the character)
+- Spider-Gwen 1: Greater Power
+- Spider Women (crossover with Silk and Spider-Woman)
+- Spider-Gwen 2: Weapon of Choice
+- Spider-Gwen 3: Long Distance (crossover with Miles Morales Spider-Man)
+- Spider-Gwen 4: Predators
+- Spider-Gwen 5: Gwenom
+
+She was also in the Web Warriors series, but that didn't really effect her character much. I haven't read it and don't feel like I'm missing anything.
+
+> 4: Web Warriors does play one major role. It's how she got the dimensional travel device that is used in the Spider-Women, Miles Morales, and Gwenom arcs.
+
+4: 
+
+> Easy to pick up and read without much knowledge on the Marvel universe?
+
+I'm not caught up on it so I can't give specific recommendations, but it's perfectly understandable without outside Marvel knowledge. It's set in an alternate universe outside the main 616 one so you can just pick it up and start reading from the first trade.
+
+3: I think it stands alone without previous knowledge, though as an old fart who read the Death of Gwen Stacy as a kid, one of my greatest pleasures in the comic is seeing its alternate take on the history and how it upends Matt Murdock and Frank Castle's characters. If your GF is passingly familiar with the Marvel Netflix shows, that will help.
+
+---
+
+**Where to start in comics for spider Gwen?**
+
+7: The first few years of comics are in nice paperback collections. Start with [Vol 0](https://www.amazon.com/Spider-Gwen-Vol-Most-Wanted-ebook/dp/B017JHJHJ6/ref=sr_1_7?ie=UTF8&qid=1545938603&sr=8-7&keywords=spider-gwen+vol) and work your way up. There are other side stories that involve her as a character, and while they're generally still considered cannon, they're not written or drawn by the same team so the tone is quite different. These would be the several Spider-verse runs and the Web Warriors runs, but neither are really required reading.
+
+5: Really depends if you wanna go really hard into it or not. Personally I would start with the collection of the original Spider-verse and volume 1 of Spider-Gwen (if you think you’re gonna dive right in, go for the hard cover one, it collects more issues).
+
+If you’re looking for the most efficient collection of required reading for Spider-Gwen, you’re gonna want Spider-verse, Spider-Gwen volumes 1-3 (the hard cover versions, there are only 3 out atm), the trade paper backs of volume 4 and 5 of Spider-Gwen, and the trade paper back of Spider-Women, the cross over event between Gwen, Spider Woman, and Silk. You don’t need the Miles/Gwen crossover (the name of the cross over event escapes me atm), it’s covered in hard cover volume 3 I believe.
+
+Gwen also has an ongoing title right now titled Ghost-Spider, but it’s only 3 issues in and doesn’t have a trade out yet.
+
+Edit: I haven’t read web warriors, but she hasn’t really referenced her experiences with the warriors so I assume it’s probably skippable. She’s also present in Spider-geddon but just for the 1st issue or 2 I believe.
+
+### Swamp Thing
+
+7: Len Wein's *Roots of the Swamp Thing* collects the first appearances of Swampy and establishes some of the main characters that would be used later. Then, move on to the first volume of Alane Moore's **Saga of the Swamp Thing** and work your way up to the sixth volume.
+
+10: *New 52's* (I think he means Swamp Thing by Snyder) not a bad place to start, although Alan Moore's run is a better place to start (and also just better in general).
+
+---
+
+16: Moore's run redefined the character and is held up as the gold-standard.
+
+Other than that, the recent series by Snyder and then Soule was pretty good.
+
+I also think Nancy Collins run is underrated.
+
+7: Moore's run is not only the best Swap Thing run but also one of the best comic book series ever. Some issues read similar to a prose novel. I honestly don't think there's anything quite like it.
+
+5: Besides the obvious, I would recommend the original Len Wein run, collected in *Roots of the Swamp Thing* and if you want that plus all of pre-Moore Bronze Age Swamp Thing material (besides crossovers) it's all been collected in one of those [new monster omnibuses.](https://www.amazon.com/Swamp-Thing-Bronze-Omnibus-Vol/dp/1401273785) The run preceding Moore's does have plot elements that Moore follows on, so it might give you more of an appreciation for his stuff.
+
+1: I feel the Moore run doesn't really have as much weight behind it without having read any of the previous stuff. At the very least read either the "Dark Genesis" or "Roots of the Swamp Thing" trade first so you can get context for his relationships with Abby and Anton, along with Matthew Cable. After that, you can probably jump to the first Saga of the Swamp Thing trade without missing much.
+
+> Both have the 1st appearance of ST, along with the first 10 or 13 issues respectively.
+>
+> Apparently there's also a collection called Swamp Thing - Bronze Age and the first volume has the same material of "Roots", but it has a different title.
+>
+> Boy, I wonder why people have problems getting into comic books.
+
+---
+
+16: Start with Book One and read the subsequent trades. Alan Moore started writing the series at #20 and <u>wrapped up the previous writer’s storyline</u>. #21 (The Anatomy Lesson) is where the series starts to become an all-time great.
+
+Don’t get thrown off too much by the numbering. I’ve never read #1-19 and it’s never affected my enjoyment of the series.
+
+> It's all confusing, I know, but that's why most new reader advice avoids talking about all of this. I usually just say "Here, read this" instead of info-dumping about how the entire industry works. That's another reason publisher's label comics as "Book One". There should be no confusion about which book to buy first—it's book 1. Only the more inquisitive readers like yourself notice the comic numbering and think "Am I buying the right thing?" At that point, the publisher is thinking "Ugh, the Book One thing wasn't clear enough. Maybe we should just get rid of the comic numbering altogether to make it more obvious for the newbies." But then consumers would outcry "Now we can't see which issues are collected in this book! CROOKERY!" Again, more confusing meta-info a new reader doesn't need to worry about.
+
 ### Wolverine
 
-Best Wolverine story to start with?
+**Best Wolverine story to start with?**
 
 9 (u/Tigertemprr): 
 
@@ -1610,7 +1614,7 @@ The only REAL suggestion I'll make is that after you read the BWS Weapon X, read
 
 ---
 
-Best Wolverine Comics?
+**Best Wolverine Comics?**
 
 2: **Wolverine** by Chris Claremont and Frank Miller is a classic, also I really dug Mark Millar's Wolverine stuff (i.e. **Enemy of the State**).
 
@@ -1628,7 +1632,7 @@ I think the general consensus of Wolverine: Origins (not to be confused with Ori
 
 ---
 
-Best Wolverine Comics?
+**Best Wolverine Comics?**
 
 7: My Recommended Wolverine Reading:
 
@@ -1716,7 +1720,7 @@ BONUS: X-23 Ultimate Collection Vol. 1
 
 Wolverine’s daughter X-23 looks like she could be the break out star of the movie. This collection looks at the origin of X-23! Cloned from Wolverine’s cells and raised to be the perfect killer, young Laura Kinney never knew a life free from the harsh masters at The Facility. But now she has broken loose at last, and must forge her own path in the world! Free of her chains and determined to live, Laura will write the next chapter of her story herself. But can X-23 escape her training and her instincts, or will the gallons of blood spilled in her violent past drag her down? A massive trade paperback collection with over 450 pages of X-23 comics!
 
-**comments on Reddit;** 
+**Comments on Reddit:**
 
 8: This list doesn't have any *Jason Aaron Wolverine* stories and is therefore worthless.
 
@@ -1951,9 +1955,9 @@ Among the comics on Blader Runner official is only [Blade Runner 2019](https://w
 
 ### Doctor Who
 
-Q: I wanna start reading doctor who comics But I don't know where should I start I mean what's the right order of the comics And where can I find it? 
+**I wanna start reading doctor who comics But I don't know where should I start I mean what's the right order of the comics And where can I find it?** 
 
-A (by [LegoK9](https://www.reddit.com/user/LegoK9/)):
+Answer (by [LegoK9](https://www.reddit.com/user/LegoK9/)):
 
 > I mean what's the right order of the comics
 
@@ -3641,6 +3645,16 @@ Best Joker comic books: **The Man Who Laughs**, **The Killing Joke**, **Death *o
 
 Best Harley Quinn books: ~~**Batman: Mad Love**~~.
 
+Best The Flash books: 
+
+- Wally West: *The Flash by Mark Waid* - best run!
+
+- Barry Allen: *The Flash (2010-2011) Vol. 1: The Dastardly Death of the Rogues (The Flash: Rebirth series)*, *The Flash (2010-2011): The Road To Flashpoint (The Flash: Rebirth series Book 2)*, *Flashpoint*, New52 Flash, (DC Rebirth #1), Flash: Rebirth (2016) (*The Flash (2016-) Vol. 1: Lightning Strikes Twice*), and so forth. 
+
+  > Flash: Rebirth (2009) <- *Don't Start With Barry Here. (It'll confuse you)*
+  >
+  > New 52 The Flash volumes 1-5. Written and with art by the same artists of Dastardly Death of the Rogues, like much of the new 52 reboot it was a jumping on point. The art is beautiful and the writing is solid and fun. However pretty much all Flash lore was scrapped which is disappointing, more so if you read the previous recommendations.
+
 Best Green Lantern books: ~~**Green Lantern: Secret Origin**~~, **Green Lantern: Rebirth** and other books in Geoff Johns's Green Lantern Saga.
 
 Best Hellboy books: nearly all of it is written by Mike Mignola and nearly all of it is worth reading. Just start at the beginning with [Hellboy, Volume 1: *Seed of Destruction*](https://www.amazon.com/dp/1593070942) and follow the rest in [suggested reading order](http://www.multiversitycomics.com/annotations/hellboy-reading-order-2019/) (*Conqueror Worm* is the best story arc among them). Although, the best option would be to buy omnibuses. *Plague of Frogs* BPRD run is also recommended by people. Besides this spin-off, people also recommend these books: *Frankenstein Underground*, *Lobster Johnson*.
@@ -3661,16 +3675,6 @@ Best Spider-man books: **Ultimate Spider-Man** by Brian Bendis, *Kraven's Last H
 > Actually, people write that they're not worth reading: "None of them are very good. He’s just a tool to get even more money, without putting forth any original ideas. Same thing with all of the other spider-verse characters and spin-offs in the last 10 years. Remember, this IS from the same people who went through with OMD." - this was written about Morales. I guess same can be applied to Spider-Gwen.
 
 Best Swamp Thing books: **Saga of the Swamp Thing** by Alan Moore, *New 52 Swamp Thing* by *Scott Snyder*.
-
-Best The Flash books: 
-
-- Wally West: *The Flash by Mark Waid* - best run!
-
-- Barry Allen: *The Flash (2010-2011) Vol. 1: The Dastardly Death of the Rogues (The Flash: Rebirth series)*, *The Flash (2010-2011): The Road To Flashpoint (The Flash: Rebirth series Book 2)*, *Flashpoint*, New52 Flash, (DC Rebirth #1), Flash: Rebirth (2016) (*The Flash (2016-) Vol. 1: Lightning Strikes Twice*), and so forth. 
-
-  > Flash: Rebirth (2009) <- *Don't Start With Barry Here. (It'll confuse you)*
-  >
-  > New 52 The Flash volumes 1-5. Written and with art by the same artists of Dastardly Death of the Rogues, like much of the new 52 reboot it was a jumping on point. The art is beautiful and the writing is solid and fun. However pretty much all Flash lore was scrapped which is disappointing, more so if you read the previous recommendations.
 
 Best Wolverine books: **Wolverine (1982)** by Chris Claremont and Frank Miller, **Weapon X - Marvel Comics Presents (1988)** by Barry Windsor-Smith, **Enemy of the State - Wolverine (2003)** by Mark Millar, *Wolverine: Get Mystique* by Jason Aaron, *Adamantium Men - Wolverine Weapon X (2009)* by Jason Aaron (the entire Wolverine Weapon X by Jason Aaron isn't bad), *Wolverine Goes to Hell - Wolverine (2010)* by Jason Aaron (the whole Wolverine (2010-2012) run isn't bad, but GtH is the best comic in it), *Wolverine: Old Man Logan (2008-2009)* by Mark Millar (someone says that Lemire's run is better), Wolverine Epic Collection: Madripoor Nights, Wolverine by Greg Rucka Ultimate Collection (+Uncanny X-Force by Rick Remender, All-New Wolverine, **X-Men: Dark Phoenix Saga Complete Collection**).
 
@@ -3741,51 +3745,51 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 6. https://www.reddit.com/r/comicbooks/comments/93rs61/what_are_your_favorite_comics_to_recommend_to/
 7. https://www.reddit.com/r/DCcomics/comments/8x9fsa/new_reader_looking_for_the_best_batman_comics_to/?sort=top
 8. https://www.reddit.com/r/DCcomics/comments/8ids63/what_are_the_best_batmancomics/
-9. https://www.reddit.com/r/DCcomics/comments/b90j5w/best_comics_about_the_joker/
-10. https://www.reddit.com/r/batman/comments/9otdcq/best_comics_featuring_joker/
-11. https://www.reddit.com/r/DCcomics/comments/9eeug2/question_what_is_your_favorite_joker_story/?sort=top
-12. https://www.reddit.com/r/batman/comments/4g815r/what_is_the_darkest_joker_story_in_the_batman/?sort=top
-13. https://www.reddit.com/r/joker/comments/3ehq8y/joker_comic_reading_list/?sort=top
-14. https://www.reddit.com/r/DCcomics/comments/8mmkhh/what_are_the_best_batman_tpbs_with_the_joker/?sort=top
-15. https://www.reddit.com/r/DCcomics/comments/a85kcz/comics_that_dive_into_batman_and_jokers/?sort=top
-16. https://www.reddit.com/r/DCcomics/comments/7i1eo7/suggest_me_some_really_dark_comics_especially/?sort=top
-17. https://www.reddit.com/r/DCcomics/comments/24uca6/what_is_the_darkest_batman_comic_out_there/?sort=top
-18. https://www.reddit.com/r/DCcomics/comments/4urjkb/what_are_some_of_the_darkest_batman_stories_other/?sort=top
-19. https://www.reddit.com/r/DCcomics/comments/7791f6/where_to_start_with_green_lantern/
-20. https://www.reddit.com/r/comicbooks/comments/7008wz/best_runs_of_hellboy_to_check_out/
-21. https://www.reddit.com/r/comicbooks/comments/8breze/wow_the_hellboy_comics_are_actually_really_really/
-22. https://www.reddit.com/r/HellBoy/comments/b9rnbd/essentialbest_hellboy_comics/
-23. https://www.reddit.com/r/comicbooks/comments/as5j2l/favorite_hellboy_comics/
-24. https://www.reddit.com/r/comicbooks/comments/8gm5hy/i_want_to_get_into_the_hulk_where_should_i_start/
-25. https://www.reddit.com/r/Marvel/comments/371ee2/where_to_start_reading_hulk/
-26. https://www.reddit.com/r/comicbooks/comments/94pbm3/best_hulk_comics/
-27. https://www.reddit.com/r/comicbooks/comments/appqgd/best_hulk_runs/
-28. https://www.reddit.com/r/Marvel/comments/86x9op/best_hulk_stories_to_read/
-29. https://www.reddit.com/r/comicbooks/comments/b55b4l/what_are_some_good_hulk_comics_besides_planet/
-30. https://www.reddit.com/r/comicbooks/comments/6dtvwq/whats_the_absolute_best_spiderman_series/
-31. https://www.reddit.com/r/comicbooks/comments/2g6j0e/best_spiderman_comics/
-32. https://www.reddit.com/r/Spiderman/comments/2g8n8f/in_your_opinion_what_is_the_best_spidermans_comics/
-33. https://www.reddit.com/r/Marvel/comments/azusxm/need_help_finding_best_miles_morales_origin_comic/
-34. https://www.reddit.com/r/comicbooks/comments/34dtld/where_to_start_reading_miles_morales_spiderman/
-35. https://www.reddit.com/r/Marvel/comments/7jvyda/best_miles_morales_storyline/
-36. https://www.reddit.com/r/comicbooks/comments/54gc95/is_spidergwen_any_good/
-37. https://www.reddit.com/r/Marvel/comments/76n0h1/is_the_spidergwen_series_any_good/
-38. https://www.reddit.com/r/comicbooks/comments/85gqbl/help_with_spider_gwen_comics/
-39. https://www.reddit.com/r/SpiderGwen/comments/aa19ov/where_to_start_in_comics_for_spider_gwen/
-40. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
-41. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
-42. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
-43. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
-44. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
-45. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
-46. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
-47. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
-48. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
-49. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
-50. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
-51. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
-52. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
-53. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
+9. https://www.reddit.com/r/DCcomics/comments/8mmkhh/what_are_the_best_batman_tpbs_with_the_joker/?sort=top
+10. https://www.reddit.com/r/DCcomics/comments/a85kcz/comics_that_dive_into_batman_and_jokers/?sort=top
+11. https://www.reddit.com/r/DCcomics/comments/7i1eo7/suggest_me_some_really_dark_comics_especially/?sort=top
+12. https://www.reddit.com/r/DCcomics/comments/24uca6/what_is_the_darkest_batman_comic_out_there/?sort=top
+13. https://www.reddit.com/r/DCcomics/comments/4urjkb/what_are_some_of_the_darkest_batman_stories_other/?sort=top
+14. https://www.reddit.com/r/batman/comments/4g815r/what_is_the_darkest_joker_story_in_the_batman/?sort=top
+15. https://www.reddit.com/r/DCcomics/comments/9eeug2/question_what_is_your_favorite_joker_story/?sort=top
+16. https://www.reddit.com/r/DCcomics/comments/b90j5w/best_comics_about_the_joker/
+17. https://www.reddit.com/r/batman/comments/9otdcq/best_comics_featuring_joker/
+18. https://www.reddit.com/r/joker/comments/3ehq8y/joker_comic_reading_list/?sort=top
+19. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
+20. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
+21. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
+22. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
+23. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
+24. https://www.reddit.com/r/DCcomics/comments/7791f6/where_to_start_with_green_lantern/
+25. https://www.reddit.com/r/comicbooks/comments/7008wz/best_runs_of_hellboy_to_check_out/
+26. https://www.reddit.com/r/comicbooks/comments/8breze/wow_the_hellboy_comics_are_actually_really_really/
+27. https://www.reddit.com/r/HellBoy/comments/b9rnbd/essentialbest_hellboy_comics/
+28. https://www.reddit.com/r/comicbooks/comments/as5j2l/favorite_hellboy_comics/
+29. https://www.reddit.com/r/comicbooks/comments/8gm5hy/i_want_to_get_into_the_hulk_where_should_i_start/
+30. https://www.reddit.com/r/Marvel/comments/371ee2/where_to_start_reading_hulk/
+31. https://www.reddit.com/r/comicbooks/comments/94pbm3/best_hulk_comics/
+32. https://www.reddit.com/r/comicbooks/comments/appqgd/best_hulk_runs/
+33. https://www.reddit.com/r/Marvel/comments/86x9op/best_hulk_stories_to_read/
+34. https://www.reddit.com/r/comicbooks/comments/b55b4l/what_are_some_good_hulk_comics_besides_planet/
+35. https://www.reddit.com/r/comicbooks/comments/6dtvwq/whats_the_absolute_best_spiderman_series/
+36. https://www.reddit.com/r/comicbooks/comments/2g6j0e/best_spiderman_comics/
+37. https://www.reddit.com/r/Spiderman/comments/2g8n8f/in_your_opinion_what_is_the_best_spidermans_comics/
+38. https://www.reddit.com/r/Marvel/comments/azusxm/need_help_finding_best_miles_morales_origin_comic/
+39. https://www.reddit.com/r/comicbooks/comments/34dtld/where_to_start_reading_miles_morales_spiderman/
+40. https://www.reddit.com/r/Marvel/comments/7jvyda/best_miles_morales_storyline/
+41. https://www.reddit.com/r/comicbooks/comments/54gc95/is_spidergwen_any_good/
+42. https://www.reddit.com/r/Marvel/comments/76n0h1/is_the_spidergwen_series_any_good/
+43. https://www.reddit.com/r/comicbooks/comments/85gqbl/help_with_spider_gwen_comics/
+44. https://www.reddit.com/r/SpiderGwen/comments/aa19ov/where_to_start_in_comics_for_spider_gwen/
+45. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
+46. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
+47. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
+48. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
+49. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
+50. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
+51. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
+52. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
+53. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
 54. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
 55. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
 56. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
