@@ -888,7 +888,186 @@ The BPRD stuff is mostly good and the minis of the side characters tend to vary 
 
 ### Hulk
 
+I want to get into the hulk. Where should I start?
 
+7: Along with the modern essentials like **Planet Hulk** and **World War Hulk**, I've heard good things about Peter David's run on the Hulk.
+
+> 4: As well you should have. David's run really explored the duality and personality struggles between Banner and Hulk. More people need to read this. **Planet Hulk** and **WWH** felt like all Hulk all the time to me. And I felt lost a bit of the characters core.
+
+4: **Modern Essentials**
+
+- [**Incredible Hulk Visionaries**](https://www.amazon.com/dp/0785115412) | [#331-457](http://marvel.com/comics/issue/9142/incredible_hulk_1962_331) | 1987-1998 | David
+- [Return of the Monster](https://www.amazon.com/dp/0785153462) | [Incredible Hulk #34-39](http://marvel.com/comics/issue/14434/incredible_hulk_1999_34), [Startling Stories: Banner #1-4](http://marvel.com/comics/issue/18798/startling_stories_banner_2001_1) | 2001-2002 | Jones, Azzarello
+- [Hulk: Gray](https://www.amazon.com/Hulk-Gray-Jeph-Loeb/dp/0785113460) | [#1-6](http://marvel.com/comics/issue/365/hulk_gray_2003_1) | 2003-2004 | Loeb
+- [Tempest Fugit](https://www.amazon.com/dp/0785115439) | [Incredible Hulk #77-82](http://marvel.com/comics/issue/1555/incredible_hulk_1999_77) | 2005 | David
+- [**Planet Hulk**](https://www.amazon.com/dp/0785120122) | [Incredible Hulk #92-105](http://marvel.com/comics/issue/3530/incredible_hulk_1999_92) | 2006-2007 | Greg Pack
+
+3: I'd say go back and start with **Peter David's run on Incredible Hulk**, is the absolute best run of books with Hulk and you wouldn't get Planet Hulk and World War Hulk without it.
+
+---
+
+Where to start reading Hulk?
+
+3: I'm a big Hulk fan, and my favorite comic of all time is actually a Hulk story (And the first one I owned). I think Hulk is one of the few characters where you can just pick a story and start reading. He doesn't have a lot of crucial backstory so long as you know the whole "Banner got gamma'd now he's sometimes big and green" stuff. The way Hulk and Banner interact are almost always up to the writer, so whatever story you jump in will let you know how they'll be interacting for that particular story.
+
+For stories I'd say read/watch **Planet Hulk**. It's a bit long, but I loved every page of it. General plot: Hulk forced into gladiatorial combat on an alien world.
+
+After that the follow up comic is **World War Hulk**, which was a huge event but the main story stands perfectly well on it's own. General plot: Hulk's back. He's pissed.
+
+If you want a continuing story that's fairly recent, Indestructible Hulk is your man. General plot: He works for shield as a scientist/weapon. Banner builds, Hulk destroys.
+
+Like I said, you can just sort of jump headfirst into any Hulk stories you want. If you ever see a picture of Hulk and you think, "Man, I want to read that. I wonder what it's from." Just find out the source of it and start reading! Hope you enjoy em, man!
+
+2: Indestructible Hulk (2012) is, I would say, the best most recent jumping on point. If you've read that and Hulk (2014), then the next most recent point would be the **Planet Hulk** + **World War Hulk** arc that leads into Hulk (2008) and Incredible Hulks (2009).
+
+2: For me personally I loved hulk for years, when they killed betty banner, I was done. I tried **planet hulk** but I couldn't get into it.
+
+Grey Hulk, Mr.Fixit was probably my favorite time.
+
+Future Imperfect story of the future was great, but that's like 2 comics.
+
+Hulk is actually a really hard character to write IMO.
+
+> 2: Did you ever check out Betty as Red She-Hulk? I really enjoyed her character development.
+>
+> > 1: No I didn't I would read a few issues if you can recommend. Thanks.
+> >
+> > > 2: I would just jump in with Jeff Parker's Red She-Hulk series. The story that led up to it was kind of dumb, but Parker takes the premise and does fun stuff with it.
+
+---
+
+Best Hulk Comics?
+
+11: **Peter David’s run**, hands down.
+
+*Al Ewing’s IMMORTAL HULK*, which is ongoing now, is also good.
+
+> 3: Agreed. PAD's 12-year run was amazing.
+>
+> > 2 (OP): What is it about **David’s run** that makes the Hulk better? Eg. In **Planet Hulk, Pak** does a great job of developing the character and the team into very relatable and likeable people and really shows the whole thing as an epic adventure 
+> >
+> > > 3: There's adventure during PAD's run, especially when he's affiliated with the Pantheon. But, there's also a lot of character development, especially in the relationship between Bruce and Betty. And his Rick Jones, as the man who's seen it all, is hilarious. The book under his writing can alternate between incredibly dark and rip-roaringly funny, but never jarringly so.
+> > >
+> > > And he works with some of the top artists, including Todd McFarlane, Dale Keown, and Gary Frank. So it's not just fun to read, but gorgeous to look at as well, for the most part.
+
+4: Check out Incredible Hulk Epic Collection: The Hulk Must Die, the first eight issues (Tales to Astonish #60 - 67) are drawn by Steve Ditko and he did a great job with the character, it's a shame it's so overlooked because Ditko is synonymous with Spider-Man and Doc Strange (and rightfully so, of course) but his Hulk work is great and good, classic Silver Age fun.
+
+> 1 (OP): Do I need knowledge of the Hulk before reading this? I’ve never read the epic collections because they don’t seem to collect the comics the best way, or I feel there may be things left out. I’ve only ever read Planet Hulk and WW Hulk, so I really know nothing about the character except he’s Bruce banner and extreme emotions turn him into a big green monster.
+>
+> > 2: It's pretty early on in the character's publication history so you don't need to know too much, and also the Epic Collections are perhaps the best way to collect comics, they are very comprehensive and cover a lot of material that has yet to be reprinted, it's one of the best reprint programs right now.
+
+5: **Peter David's run** in the 80s and 90s.
+
+2: The current series is only about four issues deep and it's great.
+
+I really liked Jeph Loeb's run which introduced the Red Hulk.
+
+Pick up Punisher: Confederacy of Dunces. I don't wanna spoil why, but you'll see. It also has Spider-Man, Wolverine and Daredevil in it.
+
+2: I’ve always liked Bruce Jones’ run the most.
+
+---
+
+Best Hulk runs?
+
+I’ve been reading *Immortal Hulk* on Marvel Unlimited and it has really piqued my interest in the big green guy. I’d really only seen him in movies and animation before so I was surprised to see that he has a larger vocabulary than what I’m used to.
+
+I’ve heard **Peter David’s run** is the gold standard. Is it okay to jump right in there? Should I read some of Mantlo’s run that came before? Is there any more modern stuff that’s notable besides Planet Hulk and Immortal?
+
+15: Read Mantlo’s run for the sake of completion if you want to, as a Hulk Fan I’m sure you will Like it.
+
+**David’s Run** is definitive Hulk, and yeah you can jump right in, it will probably be eye opening for you, a lot of the big moments in Hulk’s life happened during this run.
+
+Pak’s Run is pretty good, **Planet Hulk** being the best part of it.
+
+> 6: **Planet Hulk** is very good, but I feel like the later parts of Pak's run are really underrated.
+>
+> > 3: Especially when it was rebranded as Incredible Hercules. Great run.
+
+8: **Planet Hulk**>**World War Hulk** is fantastic. **Peter David's run** has ups and downs but went to places the series had never been before. You may enjoy the first half-dozen issues (by Lee, Kirby and Ditko) from the early '60s--they're very much of their time, but Immortal Hulk has been drawing on them extensively.
+
+6: Have to recommend Bruce Jones run. The Norton Hulk movie pulled from this material. Even though it petered out towards the end, the first 2/3 or so was a much needed jolt at the time for a character that had been stuck in mediocrity for years
+
+> -1: Eh.
+>
+> That run is pretty forgettable. It had its fans at the time, and publications like Wizard gushed about it, but it was really boring, in hindsight. Nothing much happened. It was more mood and mystery than anything else. Which is fine if you like that sort of thing, but for Hulk it felt like a long denouenent. And the ending was bad. Which for a run that built itself up so much on the final reveals, needed to stick the landing.
+>
+> Yeah, you could say the movie pulled from the run. But the run was being nostalgic fan service to the 1970s tv show. Which also was boring. The show was restricted to a moody drama because there was no way to afford a super villain battle each week.
+>
+> And mediocre for years? Yeah, Joe Casey's run was pointless and so was John Byrne's return. But David's last few years of his run, while meandering because of Heroes Reborn, was still very good. And Paul Jenkins's run was good as well.
+>
+> But, Hulk was not selling well, which Jones run was able to fix at the time. But reading it now, I think it is completely skippable, and not just for the reason that a lot was retconned away.
+>
+> >  4: Still think it's noteworthy despite its flaws. I was trying to recommend something that wasn't already brought up, and considering Hulk's publishing history, I'm comfortable putting that in a hypothetical top 10 on the merits you mentioned alone
+
+4: **Greg Pak's Hulk** is my favorite comic ever. Can't recommend it enough.
+
+4: **Peter David** is the definitive run. Early to first half of **Bruce Jones’ run** is good. **Greg Pak’s Planet Hulk** is good. A lot of people will hate on it, but I think Jeph Loeb’s Hulk run was a lot of fun. Al Ewing’s current Hulk run is good.
+
+2: John Byrne's run is good. Especially the Mr. Fixit stuff.
+
+> 3: Mr Fixit is **Peter David’s run**. I thought Byrne was only like 5-6 issues? He did the wedding issue.
+>
+> > 1: Eep. Don't know what I was thinking, you're right it was Peter David.
+
+2: There’s some really good recommendations in here. Especially the **Greg Pak** and **Peter David stuff**. For a good recap of his origin, check out Hulk: Grey by Jeph Loeb and Tim Sale
+
+---
+
+Best hulk stories to read?
+
+Preferably your top 3 or 5? I've only read **WW HULK** and I was very young.
+
+6: **Peter David is to Hulk** as Frank Miller is to Daredevil, Alan Moore is to Swamp Thing and Chris Claremont is to the X-Men. Nobody really comes close, I recommend his entire run.
+
+5: I think **world war hulk** is the best, but **planet hulk** arc is the lead into **world war hulk** so it's also a good one. I also like hulk future imperfect because of maestro
+
+5: I really love Duggan’s short Hulk run. The Hulk becomes super smart and attempts to cure other Gamma guys. https://www.amazon.com/gp/aw/d/0785190686/ref=mp_s_a_1_1?ie=UTF8&qid=1521940772&sr=8-1&pi=AC_SX236_SY340_QL65&keywords=gerry+duggan+hulk&dpPl=1&dpID=51R3HVMKHuL&ref=plSrch
+
+**Peter David’s Hulk run** is the gold standard and holds up well.
+
+3: Al Ewing’s upcoming Hulk series sounds kind of amazing. He’s been posting interesting early Hulk panels at alewing.tumblr.com —his hashtags are pretty wonderful...
+
+3: I think the best hulk story is **planet hulk+world war hulk**. With **planet hulk** diving more to the character of the hulk and **world war** is one of the best "hulk smash" reads.
+
+Aside from that some recommendations:
+
+- Future Imperfect (from the 80's, not secret wars)
+- Hulk the end
+- 'Indistructible hulk' is a fun series but it ends with a cliffhanger that leads to the doc green run which I found a lot less enjoyable.
+- Incredible Hulk by jason aaron from 2012 is great.
+
+2: **Planet Hulk**, Old Man Logan, & Future Imperfect.
+
+I recently picked up some collections with early 80s Mantlo/Buscema Hulk- good stuff & highly recommended- Hulk # 269-313.
+
+Early Kirby/Lee Hulk is weird because Hulk acts more like the Thing than what we know today, but still interesting for the genesis of the character.
+
+A story that recently came out about Maestro I recommend is 'Old Man Logan- Days of Anger.'
+
+2: Ultimate Hulk Vs Wolverine.
+
+Short, Sweet, and oh so brutal.
+
+---
+
+What are some good hulk comics besides Planet Hulk and World War Hulk?
+
+20: *The Immortal Hulk* is widely considered the best comic Marvel's putting out right now.
+
+17: **Peter David's run** from the 90s.
+
+> 7: 80s and 90s, actually.
+>
+> And you can go back to Mantlo's Smart Hulk run as well. TPBs start at issue 269, so that's as good a place to start as any, and Mantlo runs through 313, Byrne from 314-319, Milgrom 320-330, and PAD is 331-467.
+
+8: *Hulk the End* one shot was so good!
+
+> 3: Depressing af though
+
+5: Future Imperfect
+
+Hulk: Gray
 
 ### Spider-Man
 
@@ -3466,7 +3645,7 @@ Best Green Lantern books: ~~**Green Lantern: Secret Origin**~~, **Green Lantern:
 
 Best Hellboy books: nearly all of it is written by Mike Mignola and nearly all of it is worth reading. Just start at the beginning with [Hellboy, Volume 1: *Seed of Destruction*](https://www.amazon.com/dp/1593070942) and follow the rest in [suggested reading order](http://www.multiversitycomics.com/annotations/hellboy-reading-order-2019/) (*Conqueror Worm* is the best story arc among them). Although, the best option would be to buy omnibuses. *Plague of Frogs* BPRD run is also recommended by people. Besides this spin-off, people also recommend these books: *Frankenstein Underground*, *Lobster Johnson*.
 
-Best Hulk books:
+Best Hulk books: **Incredible Hulk Visionaries** (80s-90s) by Peter Devid (the best run), **Planet Hulk** and **World War Hulk** by Greg Pak, *Hulk the End* by Peter David (depressing af though), *Immortal Hulk* by Al Ewing, Incredible Hulk (1999-2007) by Bruce Jones, Hulk: Gray by Jeph Loeb, Ultimate Hulk Vs Wolverine by Damon Lindelof.
 
 Best Spider-man books: **Ultimate Spider-Man** by Brian Bendis, *Kraven's Last Hunt* and *The Death of Gwen Stacey* are the best comics of classic era (*Amazing Spider-Man*, the Bible of the Spider-Man universe),Origin of the Hobgoblin+Nothing Can Stop the Juggernaut+The Kid Who Collected Spider-Man by Roger Stern, Spider-Man: Birth of Venom, Spider-Man Blue, Spider-Man: Spider-Island, The Death of Jean DeWolff and One Small Break are both very good "dark" stories, Spider-Man/Human Torch (modern and light-hearted story).
 
@@ -3577,80 +3756,86 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 21. https://www.reddit.com/r/comicbooks/comments/8breze/wow_the_hellboy_comics_are_actually_really_really/
 22. https://www.reddit.com/r/HellBoy/comments/b9rnbd/essentialbest_hellboy_comics/
 23. https://www.reddit.com/r/comicbooks/comments/as5j2l/favorite_hellboy_comics/
-24. https://www.reddit.com/r/comicbooks/comments/6dtvwq/whats_the_absolute_best_spiderman_series/
-25. https://www.reddit.com/r/comicbooks/comments/2g6j0e/best_spiderman_comics/
-26. https://www.reddit.com/r/Spiderman/comments/2g8n8f/in_your_opinion_what_is_the_best_spidermans_comics/
-27. https://www.reddit.com/r/Marvel/comments/azusxm/need_help_finding_best_miles_morales_origin_comic/
-28. https://www.reddit.com/r/comicbooks/comments/34dtld/where_to_start_reading_miles_morales_spiderman/
-29. https://www.reddit.com/r/Marvel/comments/7jvyda/best_miles_morales_storyline/
-30. https://www.reddit.com/r/comicbooks/comments/54gc95/is_spidergwen_any_good/
-31. https://www.reddit.com/r/Marvel/comments/76n0h1/is_the_spidergwen_series_any_good/
-32. https://www.reddit.com/r/comicbooks/comments/85gqbl/help_with_spider_gwen_comics/
-33. https://www.reddit.com/r/SpiderGwen/comments/aa19ov/where_to_start_in_comics_for_spider_gwen/
-34. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
-35. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
-36. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
-37. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
-38. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
-39. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
-40. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
-41. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
-42. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
-43. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
-44. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
-45. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
-46. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
-47. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
-48. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
-49. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
-50. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
-51. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
-52. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
-53. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
-54. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
-55. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
-56. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
-57. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
-58. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
-59. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
-60. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
-61. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
-62. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
-63. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
-64. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
-65. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
-66. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
-67. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
-68. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
-69. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
-70. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
-71. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
-72. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
-73. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
-74. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
-75. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
-76. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
-77. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
-78. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
-79. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
-80. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
-81. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
-82. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
-83. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
-84. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
-85. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
-86. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
-87. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
-88. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
-89. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
-90. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
-91. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
-92. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
-93. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
-94. https://www.cbr.com/the-best-cyberpunk-comics-ever/
-95. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
-96. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
-97. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
-98. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
-99. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-100. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+24. https://www.reddit.com/r/comicbooks/comments/8gm5hy/i_want_to_get_into_the_hulk_where_should_i_start/
+25. https://www.reddit.com/r/Marvel/comments/371ee2/where_to_start_reading_hulk/
+26. https://www.reddit.com/r/comicbooks/comments/94pbm3/best_hulk_comics/
+27. https://www.reddit.com/r/comicbooks/comments/appqgd/best_hulk_runs/
+28. https://www.reddit.com/r/Marvel/comments/86x9op/best_hulk_stories_to_read/
+29. https://www.reddit.com/r/comicbooks/comments/b55b4l/what_are_some_good_hulk_comics_besides_planet/
+30. https://www.reddit.com/r/comicbooks/comments/6dtvwq/whats_the_absolute_best_spiderman_series/
+31. https://www.reddit.com/r/comicbooks/comments/2g6j0e/best_spiderman_comics/
+32. https://www.reddit.com/r/Spiderman/comments/2g8n8f/in_your_opinion_what_is_the_best_spidermans_comics/
+33. https://www.reddit.com/r/Marvel/comments/azusxm/need_help_finding_best_miles_morales_origin_comic/
+34. https://www.reddit.com/r/comicbooks/comments/34dtld/where_to_start_reading_miles_morales_spiderman/
+35. https://www.reddit.com/r/Marvel/comments/7jvyda/best_miles_morales_storyline/
+36. https://www.reddit.com/r/comicbooks/comments/54gc95/is_spidergwen_any_good/
+37. https://www.reddit.com/r/Marvel/comments/76n0h1/is_the_spidergwen_series_any_good/
+38. https://www.reddit.com/r/comicbooks/comments/85gqbl/help_with_spider_gwen_comics/
+39. https://www.reddit.com/r/SpiderGwen/comments/aa19ov/where_to_start_in_comics_for_spider_gwen/
+40. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
+41. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
+42. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
+43. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
+44. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
+45. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
+46. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
+47. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
+48. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
+49. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
+50. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
+51. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
+52. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
+53. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
+54. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
+55. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
+56. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
+57. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
+58. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
+59. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
+60. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
+61. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
+62. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
+63. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
+64. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
+65. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
+66. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
+67. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
+68. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
+69. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
+70. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
+71. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
+72. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
+73. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
+74. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
+75. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
+76. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
+77. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
+78. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
+79. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
+80. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
+81. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
+82. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
+83. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
+84. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
+85. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
+86. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
+87. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
+88. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
+89. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
+90. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
+91. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
+92. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
+93. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
+94. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
+95. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
+96. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
+97. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
+98. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
+99. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
+100. https://www.cbr.com/the-best-cyberpunk-comics-ever/
+101. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
+102. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
+103. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
+104. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
+105. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+106. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
