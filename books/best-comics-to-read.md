@@ -21,8 +21,11 @@
   - [Hulk](#Hulk)
   - [Spider-Man](#Spider-Man)
   - [Swamp Thing](#Swamp-Thing)
-  - [Wolverine](#Wolverine)
   - [Wonder Woman](#Wonder-Woman)
+  - [X-Men](#X-Men)
+    - [Cyclops](#Cyclops)
+    - [Gambit](#Gambit)
+    - [Wolverine](#Wolverine)
 - [Comic books of the most popular franchises - best books and where to start](#Comic-books-of-the-most-popular-franchises---best-books-and-where-to-start)
   - [Alien](#Alien)
   - [Blade Runner](#Blade-Runner)
@@ -1579,167 +1582,6 @@ Don’t get thrown off too much by the numbering. I’ve never read #1-19 and it
 
 > It's all confusing, I know, but that's why most new reader advice avoids talking about all of this. I usually just say "Here, read this" instead of info-dumping about how the entire industry works. That's another reason publisher's label comics as "Book One". There should be no confusion about which book to buy first—it's book 1. Only the more inquisitive readers like yourself notice the comic numbering and think "Am I buying the right thing?" At that point, the publisher is thinking "Ugh, the Book One thing wasn't clear enough. Maybe we should just get rid of the comic numbering altogether to make it more obvious for the newbies." But then consumers would outcry "Now we can't see which issues are collected in this book! CROOKERY!" Again, more confusing meta-info a new reader doesn't need to worry about.
 
-### Wolverine
-
-**Best Wolverine story to start with?**
-
-9 (u/Tigertemprr): 
-
-- [**Wolverine**](https://www.amazon.com/dp/0785137246) | [#1-4](http://marvel.com/comics/issue/12168/wolverine_1982_1) | 1982 | Chris Claremont | Not "modern" but short/good
-- [**Weapon X**](https://www.amazon.com/dp/0785137262) | [Marvel Comics Presents #72-84](http://marvel.com/comics/issue/10155/marvel_comics_presents_1988_72) | 1991 | Barry Windsor-Smith, Campanella, Cockrum, et al.
-- [Origin](https://www.amazon.com/dp/0785137270) | [#1-6](http://marvel.com/comics/issue/10574/origin_2001_1) | 2001-2002 | Jenkins, Quesada, Jemas
-- [**Wolverine: Enemy of the State**](https://www.amazon.com/dp/0785133011) | [#20-32](http://marvel.com/comics/issue/860/wolverine_2003_20) | 2004-2005 | Millar
-- [*Wolverine, Wolverine Weapon X*](https://www.amazon.com/dp/0785185410) | [#56, 62-65, 73-74](http://marvel.com/comics/issue/16112/wolverine_2003_56), #[1-16](http://marvel.com/comics/issue/24027/wolverine_weapon_x_2009_1) | 2007-2010 | Aaron
-- [*Wolverine: Old Man Logan*](https://www.amazon.com/dp/0785131728) | [#66-72](http://marvel.com/comics/issue/21330/wolverine_2003_66), Giant-size #1 | 2008-2009 | Millar
-- [*Wolverine*](https://www.amazon.com/dp/0785189084) | [#1-19, 300-304](http://marvel.com/comics/issue/30224/wolverine_2010_1) | 2010-2012 | Aaron
-- [Uncanny X-Force](https://www.amazon.com/dp/0785188231) | [#1-35](http://marvel.com/comics/issue/32573/uncanny_x-force_2010_1) | 2010-2012 | Remender
-- [Wolverine & the X-Men](https://www.amazon.com/dp/0785156801) | [#1-42](http://marvel.com/comics/issue/38586/wolverine_the_x-men_2011_1) | 2011-2014 | Aaron
-- [Death of Wolverine](https://www.amazon.com/dp/0785191631) | [#1-4](http://marvel.com/comics/issue/50946/death_of_wolverine_2014_1) | 2014 | Soule
-- [Old Man Logan](https://www.amazon.com/dp/078519620X) | [#1-24](http://marvel.com/comics/issue/56148/old_man_logan_2016_1) | 2016-2017 | Lemire
-
-> +from the different [thread](https://www.reddit.com/r/Marvel/comments/728v4c/best_wolverine_runs/): **Laura Kiney (X-23)**
->
-> - [All-New Wolverine](https://www.amazon.com/dp/0785196528) | [#1-ongoing](http://marvel.com/comics/issue/56424/all-new_wolverine_2015_1) | 2015-2017 | Tom Taylor
-> - All-New X-Men
-
-3: The suggestions here are good. I'm not sure it matters what you read first off that list, although **Enemy of the State** is a pretty great "generic Wolverine" story, in that it doesn't CHANGE EVERYTHING FOREVER as much as present a very strong take on the character.
-
-More than most characters, <u>Wolverine is one where you should just read the good stuff</u>. It's not a character that necessarily rewards deep continuity dives, in my opinion--by virtue of being very old in continuity, very popular irl, and having canonical memory loss, they've just crammed in a LOT of backstory over the years that doesn't all fit together very well (...like, depending on who you ask, him and Sabertooth may be descendants of a race of cat-people?)
-
-In addition to what Tigertemprr suggested, the original **Dark Phoenix Saga** has cool wolverine moments, and I think the "Madripoor Nights" arc of the Claremont miniseries is a boatload of fun. I've also always been partial to Greg Rucka's solid (if not spectacular) run on the character before Millar's, although I acknowledge it's nothing must-read.
-
-> the next paragraph is really hard:
-
-The only REAL suggestion I'll make is that after you read the BWS Weapon X, read the original Kyle/Yost X-23 books if you have any interest ("Innocence Lost" and "Target X"). They're very good, and a very direct callback/homage to the original Weapon X, so reading them one after the other is rewarding.
-
----
-
-**Best Wolverine Comics?**
-
-2: **Wolverine** by Chris Claremont and Frank Miller is a classic, also I really dug Mark Millar's Wolverine stuff (i.e. **Enemy of the State**).
-
-2: Wolverine (1988) #1-57 is probably the best of his original ongoing series. Features lots of Madripoor and **Weapon X** goodness. Issues written by Chris Claremont, Peter David, and Larry Hama. Some great art by John Buscema and Mark Silvestri.
-
-NOTE: You can just read #1-57, but I'd recommend reading Marvel Comics Presents #1-10 first, and then reading Weapon X by Barry Windsor Smith in-between issues #46 and #47.
-
-1: Please check out *Wolverine by Jason Aaron*. I think he's one of the better writers that did something new with the character! Also it's bloody as hell!!
-
-1: Jason Aaron's *Wolverine: Weapon X* is great (I didn't think his later run on the following *Wolverine* series [The "*Wolverine in Hell*" storyarc] was as good).
-
-Wolverine Epic Collection: Madripoor Nights is also pretty good. It's not typical super-hero stuff, and Logan rarely appears in costume. Since you liked Rucka's run, I think you'll like this as well.
-
-I think the general consensus of Wolverine: Origins (not to be confused with Origin) is to avoid it, but I really liked #16-20 (volume 4). After the death of Captain America Wolverine remembers a mission he shared with him and Bucky during WWII.
-
----
-
-**Best Wolverine Comics?**
-
-7: My Recommended Wolverine Reading:
-
-- **Wolverine (1982)**
-- **"Weapon X" Marvel Comics Presents (1988)** #72-84
-- **"Enemy of the State" Wolverine (2003)** #20-31
-- *"Get Mystique" Wolverine (2003)* #62-65
-- "A Day in the Life" Wolverine (2003) #73-74
-- *"Adamantium Men" Wolverine Weapon X (2009)* #1-5
-- "Tomorrow Dies Today" Wolverine Weapon X (2009) #11-15
-- Wolverine: Manifest Destiny (2008)
-- *"Wolverine Goes to Hell" Wolverine (2010)* #1-16
-- Astonishing Spider-Man/Wolverine (2010)
-- Death of Wolverine (2014)
-
-> 1 (OP): You are a scholar and a gentleman and I hope a magician one day.
->
-> > 3: Honestly, you can read the whole 2003 run of Wolverine, starting with the Greg Rucka run from issues #1-19 and continue to the amazing **Enemy of the State**/Agent of Shield run by the man Mark Millar all the way to Old Man Logan.
-
-3: Wolverine taking on the Hellfire Club in '**the Dark Phoenix Saga**' is great; but also Mark Millar's other Wolverine story '**Enemy of the State**' is good, Wolverine against everyone pretty much
-
-3: I'd say the **Weapon X run in Marvel Comics Presents**.
-
-2: The current Wolverine series All-New Wolverine really is amazing. It's not Logan but Laura is a worthy successor in all the best ways!
-
-1: I recommend Chris Claremont's Wolverine.
-
----
-
-Plus, [The 10 best Wolverine comics ever](https://www.reddit.com/r/comicbooks/comments/5ptfo2/the_10_best_wolverine_comics_ever/):
-
-![Death-of-Wolverine-comic-cover-best-wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Death-of-Wolverine-comic-cover-best-wolverine-comics.png)
-
-10. Death of Wolverine
-Wolverine has lost his healing factor. Not even Marvel’s smartest minds can help him. Over the years, Logan has been a warrior, a hero, a renegade, a savage, a samurai, a teacher – and so much more. Logan has spent decades being the best there is at what he does…but even the best fade away eventually. And now, the greatest X-Men hero will play a role he’s never played before. While not a perfect story this is a lean tale by Charles Soule with some amazing artwork by Steve McNiven that could give us some hints on how Logan could die in the upcoming film.
-
-![Wolverine-Madripoor-Nights-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Wolverine-Madripoor-Nights-comic-cover-best-Wolverine-comics.png)
-
-9. Wolverine Epic Collection: Madripoor Nights
-This massive collection gives us a great Wolverine adventure story. Feeling the urge to cut loose, Wolverine travels to Madripoor, an East Indian island full of pirates, cut-throats and smugglers…just the way Logan likes it! There, he’ll take on ruthless crimelord Roche, meet the cunning Tyger Tiger, wield the mystical Black Blade, battle superhuman enforcers Roughouse and Bloodsport, and contend with drug kingpin Nguyen Ngoc Coy and his niece…the former New Mutant known as Karma! This trade paperback collects one of the most acclaimed runs in Wolverine’s solo series with writers Chris Claremont and Peter David and pencils by John Buscema and Gene Colan.
-
-![Wolverine-Logan-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Wolverine-Logan-comic-cover-best-Wolverine-comics.png)
-
-8. Wolverine: Logan
-In Logan, writer Brian K. Vaughan takes this Wolverine back to Japan to confront old demons from his past. We see a series of flashbacks that expand upon Logan’s time in Japan during WWII. This tale goes a long way towards presenting Wolverine’s life as a piece of human tragedy, rather than a colorful superhero. This series quickly shifts between an intimate character piece and an absurd superhero tale that sees the atomic bomb at Hiroshima dropped on top of Wolverine, but Vaughan manages to balance it all out quite well. While short Vaughan’s deft character development and Eduardo Risso’s heavily inked art make this story stand out.
-
-![Astonishing-X-Men-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Astonishing-X-Men-comic-cover-best-Wolverine-comics.png)
-
-7. Astonishing X-Men
-This is cheating as this is not a stand alone Wolverine story but an X-Men tale. However it’s so well executed and the characterisation of Wolverine so spot on that it needs to be included here. The creator of Buffy, Joss Whedon joins John Cassaday to create a modern Marvel classic. Cyclops and Emma Frost re-form the X-Men with the express purpose of “astonishing” the world. But when breaking news regarding the mutant gene unexpectedly hits the airwaves, will it derail their new plans before they even get started?
-
-![Wolverine-by-Greg-Rucka-Ultimate-Collection-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Wolverine-by-Greg-Rucka-Ultimate-Collection-best-Wolverine-comics.png)
-
-6. Wolverine by Greg Rucka Ultimate Collection
-Acclaimed novelist and comic writer Greg Rucka’s 19 issue run on Wolverine is a forgotten gem. Joined by artists Darrick Robertson and Leandro Fernandez this trade paperback collects the three volumes of the run. We begin with Wolverine using all of his abilities to deal with some tough human enemies including waitresses, arms dealers, human traffickers, pregnant crime lords, bad dreams and feral female fighters! The second story arc which deals with human trafficking on both sides of the Mexican-American border – delivers on the feral nobility and sense of unflinching justice that really tethers even the most wildly outlandish Wolverine story.
-
-![Wolverine-Enemy-of-the-State-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Wolverine-Enemy-of-the-State-comic-cover-best-Wolverine-comics.png)
-
-**5. Wolverine: Enemy of the State**
-Kick-Ass co-creators Mark Millar and John Romita Jr. had a classic 12 issue run on Wolverine that felt like a blockbuster beat-em up movie. Brainwashed by the ninjas of the Hand, Wolverine slices and dices his way through foes and friends alike, ultimately resulting in the death of an X-Man. Captured and reprogrammed, Wolverine is sent against his former masters – but amid an orgy of death and destruction, is even the fiercest mutant alive a match for the deadly stare of the Gorgon. It’s a hard-hitting epic with countless jaw dropping fight scenes, thanks to the symbiotic relationship between Millar’s scripts and John Romita, Jr.’s art.
-
-![Wolverine-Origin-Complete-Collection-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Wolverine-Origin-Complete-Collection-comic-cover-best-Wolverine-comics.png)
-
-4. Wolverine: Origin
-After decades of fan speculation, Marvel gave readers all of the answers to Wolverine’s complete origin in two best selling miniseries. Long before he became an X-Man, before he was transformed by Weapon X, Wolverine was a boy named James Howlett. But what tragedy could strike that would set him on the path to becoming the ferocious Wolverine? Follow young James from a life of privilege and that fateful first “snikt,” through the devastating events that rip him from his family and ultimately drive him into the wilderness. There, in the snowy wilds of Canada, the feral young man now known as Logan will encounter another mutant very much like him, also torn between man and animal. One who could be his greatest ally – or his fiercest foe. This is a story that fundamentally changed the way people look at Wolverine forever.
-
-![Wolverine-Old-Man-Logan-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Wolverine-Old-Man-Logan-comic-cover-best-Wolverine-comics.png)
-
-3. *Old Man Logan*
-Old Man Logan is on the most satisfying superhero comics of the new century. Revolving around a twisted future where America has been seized and divided up amongst the world’s most powerful super villains, this storyline is a bleak look at a war-torn dystopia that only Wolverine could hope to put an end to. Squaring off against the Red Skull, who has made himself the new President, Wolverine also comes face-to-face with a horde of inbred Hulk monsters, a T-Rex that bonded with the Venom symbiote, and his own haunted past. Mark Millar write a bombastic script and the art by Steve McNiven is stellar. This comic was so successful it looks like Logan the movie is using many of themes and the Old Man Logan character was bought into the current Marvel Universe!
-
-![Wolverine-Weapon-X-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Wolverine-Weapon-X-comic-cover-best-Wolverine-comics.png)
-
-2. **Wolverine: Weapon X**
-Wolverine’s a lot of things to a lot of people, but to one infamous enclave he was nothing but a… weapon. And weapons kill people. They found that out well enough. Find out just how much “X” can cover in this prequel to recent revelations of the murderous mysteries that have mesmerized our favorite mutant! This is the comic that influenced X-Men Origins: Wolverine the most. With a gut-wrenching script and phenomenal art, Windsor-Smith depicts Wolverine’s startling transformation into a killing machine with the delicate touch of a poet, despite the grim and gory subject matter. 
-
-![Wolverine-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Wolverine-comic-cover-best-Wolverine-comics.png)
-
-**1. Wolverine**
-The classic and must read tale for any self proclaimed Wolverine fan by comic legends Chris Claremont and Frank Miller in his first solo adventure. For the first time readers got to see much needed depth to the character and shine the spotlight on his personal life more than he could have in a team book. Here, Logan is a man struggling with his feral instincts and animalistic nature. Thanks to this comic Wolverine proved he was a great character on his own and his popularity has only expanded since then.
-
-![X-23-Ultimate-Collection-Volume-1-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/X-23-Ultimate-Collection-Volume-1-comic-cover-best-Wolverine-comics.png)
-
-BONUS: X-23 Ultimate Collection Vol. 1
-
-Wolverine’s daughter X-23 looks like she could be the break out star of the movie. This collection looks at the origin of X-23! Cloned from Wolverine’s cells and raised to be the perfect killer, young Laura Kinney never knew a life free from the harsh masters at The Facility. But now she has broken loose at last, and must forge her own path in the world! Free of her chains and determined to live, Laura will write the next chapter of her story herself. But can X-23 escape her training and her instincts, or will the gallons of blood spilled in her violent past drag her down? A massive trade paperback collection with over 450 pages of X-23 comics!
-
-**Comments on Reddit:**
-
-8: This list doesn't have any *Jason Aaron Wolverine* stories and is therefore worthless.
-
-> 2 (OP): Did think about adding Get Mystique to the list but just missed the top 10. Which Jason Aaron trade would you add to the list?
->
-> > 3: Well personally I think Aaron's best Wolverine story is the *Wolverine Goes to Hell* arc in Wolverine (2010) #1-16, which is spread across three trades. I'd definitely put that story, or *Get Mystique*, or *Adamantium Men*, ahead of Madripoor Nights or Astonishing X-Men.
-> >
-> > > 1: I'm not sure how it holds up, but I really loved Aaron and Garney's "Goodbye Chinatown" arc that came out after *Schism*.
-
-5: Death of Wolverine seems like a stretch. I would characterize it as pretty good, but <u>the art really carries it</u>.
-
-> 1: Totally agree, mcniven can't miss but the story just felt like it jumped from set piece to set piece. The end panel with the sunset was fitting though.
-
-4: Take Mark Millar's Old Man Logan out and stick Lemire's in instead and I'd be a-okay with this list.
-
-> 1 (OP): Is it really that good? I read the Bendis written Vol. 0 and wasn't impressed. Will have to read Lemire's run now!
->
-> > 5: It's better than the Bendis miniseries by several orders of magnitude. Sorrentino sticks around on art duties and Lemire actually has a plot that doesn't spend itself out after one issue.
-
 ### Wonder Woman
 
 > [Definitive Wonder Woman Collecting Guide and Reading Order](https://crushingkrisis.com/crushing-comics-guide-collecting-dc-comic-books/wonder-woman-collecting-guide-trade-reading-order/#wonder-woman-1987).
@@ -1827,6 +1669,788 @@ TL;DR - Start with Rebirth. After that check out any of Rucka, Perez, Simone or 
 - [Wonder Woman](https://www.amazon.com/dp/140123562X) | Brian Azzarello
 - [The Legend of Wonder Woman](https://www.amazon.com/dp/1401267289) | Renae De Liz
 - [Wonder Woman: Rebirth](https://www.amazon.com/dp/1401267785) | Greg Rucka
+
+### X-Men
+
+**Essential X-men read**
+
+What are the story arcs any comic fans should have read about the x-men ?
+
+So far my list: **Dark Phoenix**, Days of Future Past, the start of X-factor.
+
+7: In addition to what you've got, I'd say:
+
+- Proteus
+- Wolverine by Claremont and Miller
+- God Loves, Man Kills
+- From the Ashes
+- Asgardian Wars
+- Mutant Massacre
+- Fall of the Mutants
+- Inferno
+- Joss Whedon's Astonishing X-Men
+
+And if you like New Mutants stuff too, Demon Bear is a classic.
+
+2: **Classic Essentials**
+
+  If you don't mind [1970's writing/art](https://i.imgur.com/CxsGq91.png), then start with Claremont's long, acclaimed X-Men run:
+
+- [**Uncanny X-Men**](https://www.amazon.com/dp/0785185690) | [Giant Size #1](http://marvel.com/comics/issue/8797/giant_size_x-men_1975_1), [#94-131](http://marvel.com/comics/issue/12548/uncanny_x-men_1963_94), Annual 3 | 1975-1980 | Claremont | [Reading Order](http://i.imgur.com/h4OXl4G.jpg)
+- [**Uncanny X-Men**](https://www.amazon.com/dp/1302901664) | [#132-153](http://marvel.com/comics/issue/12450/uncanny_x-men_1963_132), Annual 4-5, etc. | 1980-1982 | Claremont
+- [**Uncanny X-Men**](https://www.amazon.com/dp/0785199225) | [#154-175](http://marvel.com/comics/issue/13695/uncanny_x-men_1963_154), Annual 6-7, [MGN #5](http://marvel.com/comics/issue/20817/x-men_god_loves_man_kills_-_special_edition_1982_1), [Wolverine #1-4](http://marvel.com/comics/series/2096/wolverine_1982), [Magik #1-4](http://marvel.com/comics/series/6675/magik_1983_-_1984) | 1982-1984 | Claremont
+- Refer to this [Reading Order](http://i.imgur.com/h4OXl4G.jpg) for more.
+
+**Modern Essentials**
+
+- [Season One](https://www.amazon.com/dp/0785156453) | [#1](http://marvel.com/comics/issue/38135/x-men_season_one_2012) | 2011 | Hopeless
+- [*New X-Men*](https://www.amazon.com/dp/0785132511) | [#114-154](http://marvel.com/comics/issue/14933/new_x-men_2001_114) | 2001-2004 | Morrison
+- [House of M](https://www.amazon.com/dp/0785117210) | [#1-8](http://marvel.com/comics/discover/258/house-of-m-the-complete-event) | 2005 | Bendis
+- [*Astonishing X-Men*](https://www.amazon.com/dp/0785115315) | [#1-24](http://marvel.com/comics/issue/660/astonishing_x-men_2004_1), Giant-Size #1 | 2004-2008 | Whedon
+- [Messiah Complex](https://www.amazon.com/dp/0785123202) | [#1, tie-ins](http://marvel.com/comics/events/299/messiah_complex) | 2007 | Brubaker, Kyle, Yost, et al.
+- [Second Coming](https://www.amazon.com/dp/0785157050) | [#1-2, tie-ins](http://marvel.com/comics/discover/373/x-men-second-coming) | 2010 | Kyle, Yost, Fraction, et al.
+- [Uncanny X-Force](https://www.amazon.com/dp/0785188231) | [#1-35](http://marvel.com/comics/issue/32573/uncanny_x-force_2010_1) | 2010-2012 | Remender
+- [Schism](https://www.amazon.com/dp/0785156887) | [#1-5](http://marvel.com/comics/issue/38491/x-men_schism_2011_1) | 2011 | Aaron & Gillen
+- [Avengers vs. X-Men](https://www.amazon.com/dp/0785163182) | [#1-12](http://marvel.com/comics/discover/41/avengers-vs-x-men-the-complete-event) | 2012-2013 | Bendis, Brubaker, et al.
+
+2:
+
+- What others have said. Basically almost the entirety of **Claremont's initial run** on X titles. X-men/Uncanny, New Mutants (I can't recommend this enough, and it gets left off a lot of lists), and Excalibur (an X adjacent book, but well worth it).
+- Also X-Factor v1 like you've got
+- Actually, I'd say continue reading the 90's up through Age of Apocalypse.
+- Then you can skip to *Morrison's New X-men.*
+- Go to *Whedon's Astonishing X-men*
+- There's a number of pretty good secondary books during this time. New X-men: Academy X by DeFilippis and Weir/Kyle and Yost for a school setting. X-Factor v3 by David (an all time great read).
+- After that, it's a lot of event focused stuff. Messiah Complex, Utopia era in Uncanny is pretty good. I really enjoyed Cable vol 2 which follows up on Messiah Complex. Uncanny X-Force by Remender. More events, etc.
+
+1: I know it's way too costly, but I would almost say to get the 3 Omnibusses and read **Claremont's run** from it's start to it's 'end'. Those 3 would take you from issue 94 to 175 I believe which is about half his run. There are better storylines than others throughout his run (and some not so good issues as well) but I would see Claremont's original run as a saga. And the better storylines carry more weight as you read all the comics because things happen to characters you have become accustomed to and care about.
+
+Like I said it would cost a lot, but if you're going after all the great storyline trades anyway, and if you already know you like the comic, I 'd just say get them all. Because for every Dark Phoenix saga, there's the Genosha storyline. For every Mutant Massacre there's the Siege Perilious run. Which aren't so well known, but are still good stories. There's a reason why Claremont's original run is looked at with lovey dovey eyes by most comic fans.
+
+If the cost is (understandebly) too much, or if the Omnibusses aren't available even, two of my favourite ones are:
+
+From the Ashes which features some amazing (and short lived) art by Paul Smith. The art plus the era (around the time when Rogue joined for the 1st time) is one of my favourites.
+
+Asgardian Wars One of the most fun 'crossovers' where the X visits Asgard. Which features fantastic art by Art Adams.
+
+---
+
+------
+
+You can jump ahead to the beginning of each section and start reading with little to zero previous knowledge. This guide is intended for new readers to the series. It goes over many of the main story arcs, but not every single one. It sticks very close to the main titles, and is nowhere near to all there is to read in the X-Universe. Each section also includes an optional section to help get you started in the extended X-Universe. I know a franchise like X-Men can be daunting to jump into, and I hope this entices you get reading.
+
+------
+
+The Original X-Men (1963-70) & Modern Retellings
+
+------
+
+This is the very beginning, and you’ll need no previous knowledge to start at this point. This era is different than most because you have multiple options when starting with stories of the original team of X-Men.
+
+- Your first option would be to read some of the original issue of X-Men. Stan Lee and Jack Kirby created the X-Men in 1963. I would say a good intro to the series would be the first 20-25 issues. These first two dozen issues aren’t very important later on down the line, but they do introduce characters that will be with us for all of X-Men’s history. Read this if you’ve read other SIlver Age comics or if you’re just adamant on reading every issue.
+- Secondly, we have a more modern take on Silver Age stories. It is a three volume series called X-Men First Class. It is a standalone series from the mid 2000’s that follows the original five X-Men in some all-ages adventure. This series is perfect for kids and adults looking to get into the series. Between all three volumes it is around 30 issues, but they read a lot faster than the old SIlver Age comics. You’d probably get through these faster than the original Lee/Kirby run.
+- Lastly, your final option would be a graphic novel from 2012 called X-Men: Season One. If you’re in a hurry, then this is the quickest way to read about the original X-Men. Similar to First Class, it’s a modern take on early stories of the X-Men. It retells the first few issues from the Lee/Kirby run through the eyes of Jean Grey.
+
+From here you can move on to the next section or take a look at one or more optional arcs that each section will have. They’re not essential, but they will introduce you to more facets of the X-Men universe.
+
+------
+
+*OPTIONAL: If you want to continue on reading the original series after the first 20 to 25 issues, you can either continue reading the all the silver age issue up to #66. X-Men is put into reprint until 1975 when the title relaunches with a new creative team aka the Claremont era.*
+
+------
+
+***The Chris Claremont Era (1975-1991)***
+
+------
+
+This is the start of Chris Claremont's time on the book. While Stan Lee and Jack Kirby invented the X-Men, Chris brought them back from obscurity and perfected them. He is on the book for 17 straight years, and his whole run is basically one very long story. Some of his characters and plot points still have lasting effects in comics that are being released today. It's best to read it all in order, but I broke it up a bit for those who want to jump around.
+
+No matter where in Chris’ run you decide to start reading, I recommend that you all read Giant-Size X-Men #1. While Chris didn’t write this issue, it is the jumping off point for this era. Many popular X-Men are introduced included Wolverine, Nightcrawler, Storm, and Colossus.
+
+After that you’ve got a few options as far as starting points (there may be some overlapping):
+
+- As I mentioned earlier read Giant-Size X-Men #1 first!
+- The first era of Chris’ run includes the storylines like The Phoenix Saga, **The Dark Phoenix Saga**, Proteus, and Days of Future Past. The reading order is Uncanny X-Men (v1) #94-143. Issue #94 picks up right where Giant-Size X-Men #1 left off.
+- Chris’ second era on the books begins when Kitty Pryde joins the team and Jean Grey had died after becoming Dark Phoenix. You’ll see the storylines: Mutant Massacre, Fall of the Mutants, and Inferno. The reading order is Uncanny X-Men (v1) #139-243. (Note that some arcs crossover with other X-Men titles).
+- The end of Chris’ era as he abruptly leaves Marvel in 1991. This section includes the introduction of Gambit and Jubilee. It also includes the storylines X-Tinction Agenda and The Muir Island Saga. The reading order is Uncanny X-Men (v1) #244-280 and X-Men (v2) #1-3. (Note that some arcs crossover with other X-Men Titles).
+
+------
+
+*OPTIONAL: God Loves, Man Kills: This is a standalone graphic novel that was written during this era. It's widely regarded as one of the best X-Men stories of all time. It was the inspiration for the second X-Men movie.*
+
+------
+
+*OPTIONAL: From here Claremont left Marvel. He was supposed to take over this new X-Men title, but it was moved over to other writers after he left. If you want to read more about what Chris would have done after #3 then read series' X-Men Forever and X-Men Forever 2. Fair warning, those were ended before he could finish up all of his plot threads.*
+
+------
+
+X-Men in the 90’s (1991-2001)
+
+------
+
+After Chris leaves Marvel in the early 90's, we see a period where the now two main X-Men titles HEAVILY cross over with each other. The best place to start is with either X-Men (v2) #1 or Uncanny X-Men (v1) #281. These are the two main titles during the whole decade and they crossover with each other a lot. Just pick a starting point and keep an eye out at the end of each issues to see what you should be reading next (it almost always says where to go if it's not the next issues in the series you're reading).
+
+------
+
+*OPTIONAL: Age of Apocalypse is a self contained story that takes place in an alternate universe. It’s collected into to four trade paperbacks, but it’s almost universally accepted that you can skip Vol. 1. Read Vol. 2 through Vol. 4 for a more cohesive story.*
+
+------
+
+*Start of the Modern Era (2001-2004)*
+
+------
+
+Grant Morrison took over X-Men (v2) in 2001 and it was renamed *New X-Men* for his entire time on the title. X-Men, and Marvel in general, was struggling in the ninties. This title brough X-Men back from the grave. It is what brought X-Men into the modern era of comics and is highly regarded on of the best complete runs on an X-Men title since Claremont left Marvel after X-Men (v2) #3
+
+Read in this order:
+
+- *New X-Men #114-154*
+
+------
+
+*OPTIONAL: Chris Claremont started a new X-Men comic around this time called X-Treme X-Men (v1). It's not as great as his earlier work, but if you're a fan after reading his first run, then it may be worth checking this out.*
+
+------
+
+*Joss Whedon's Astonishing X-Men (2004-2008)*
+
+------
+
+This is a direct response to Grant Morrison's run on New X-Men, and it is just as highly regarded. Whedon is a huge fan of X-Men, and it really shows with this book. Unlike New X-Men, instead of renaming one of the main books, Astonishing is a brand new book that runs separate from the current X-Books isn’t included in any events or crossover (at least during the Whedon run). Read in this order:
+
+- Astonishing X-Men #1 - 24
+- Giant-Size Astonishing X-Men #1
+
+------
+
+*OPTIONAL: Warren Ellis takes over creative control of this comic after Whedon leaves and is also a decent read. He writes the title from #25-35 and also for the mini-series Astonishing X-Men: Xenogenesis #1–5.*
+
+------
+
+The House of M, M-Day, and the Mutant Messiah (2005-2011)
+
+------
+
+This section is basically going to be a whole bunch of mini-series and crossovers. They all fit in really well together, and they're super important in the X-Men and Marvel universe as a whole. The events here set the stage for a huge shift in the X-Universe.
+
+Reading order:
+
+- House of M mini series
+- Messiah Complex Crossover
+- Cable (v2) #1-12
+- Messiah War Crossover
+- Cable (v2) #16-24
+- Second Coming Crossover
+- Schism mini series
+
+------
+
+*NOTE: Most would say that Cable (v2) issues are optional, but I highly recommend them. They make the story a little more complete in my opinion.*
+
+------
+
+*OPTIONAL: Mike Carey has a great 7 year run on X-Men Legacy (aka X-Men v2) during this time period. His issues crossover with most of the X-Men events of the time, but for the most part it's easy to follow. Read in this order: X-Men (v2) #188-204, X-Men Legacy #208-216, X-Men Original Sin crossover (not related to Original Sin 2014), X-Men Legacy #219-225, #238-248, Age of X crossover, and X-Men Legacy #249-260*
+
+------
+
+*OPTIONAL: Uncanny X-Force (v1) by Rick Remender is one of the most celebrated X-books in recent history. It’s largely self-contained, check out #1 - 35.*
+
+------
+
+Avengers Vs. X-Men and Marvel NOW Relaunch (2012-present)
+
+------
+
+Avengers Vs. X-Men isn't apart of the Marvel NOW relaunch, but it's a very important plot element that directly affects the X-Men Marvel NOW titles.
+
+What you need to know beforehand: Scarlet Witch altered reality by deleting the X-Gene from all but 198 mutants. After a while the first mutant, Hope, was finally born. After running through time for 16 years with Cable to protect her, Hope comes back to the present as a young woman. She is now believed to be the new host for the Phoenix. Also during that time, Cyclops and Wolverine split the X-Men into two separate factions.
+
+Reading order:
+
+- Avengers Vs X-Men mini-series
+- All-New X-Men #1-15
+- Uncanny X-Men (v3) #1-11
+- Battle of the Atom Crossover
+- All New X-Men #18-21
+- The Trial of Jean Grey Crossover
+- All New X-Men #25-37
+- Black Vortex Crossover
+- Uncanny X-Men #14 - 35
+- All-New X-Men #40 - 41
+- Uncanny X-Men #600 (been delayed, will be released soon)
+
+------
+
+*OPTIONAL: After you read "The Trial of Jean Grey", you can then start on Cyclops (v3) #1. This is the space adventures of young Cyclops from the past, his space-pirate father Corsair, and his team.*
+
+------
+
+***Congratulations, if you've read everything on the list, you are now a X-Men X-pert!***
+
+2: So I just found this post, and decided to start with Claremont's stuff in the 70's.
+
+I found a couple omnibuses on Amazon, and wanted to make sure they're the right ones.
+
+[Volume 1](http://www.amazon.com/Uncanny-X-Men-Omnibus-Volume-Printing/dp/0785185690)
+
+[Volume 2](http://www.amazon.com/gp/product/0785185720/ref=pd_lpo_sbs_dp_ss_2?pf_rd_p=1944687722&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0785185690&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1Z48QYQ9SWNMKGBBEKQT)
+
+Am I headed in the right direction with these two?
+
+I also found [this one](http://www.amazon.com/X-Men-Chris-Claremont-Jim-Omnibus/dp/0785158227/ref=pd_sim_b_1?ie=UTF8&refRID=02595D4KMZQVG46XV9AW), but I'm not sure where it ties in with everything.
+
+> 2: Those first two are a perfect jumping on point! Happy reading!
+
+1: What about Claremont's Nightcrawler book?
+
+> 3: No, I wouldn't recommend that for a total beginner. This is a guide to for some of the major core books/stories with some of my optional personal recommendations mixed in.
+
+---
+
+**Where to start with X-Men comics?** (Apr 02 2017)
+
+I'd like to start reading X-Men comics. After collecting decades worth of amazing Spider-Man books, I've discovered the immense difference between good starting points, and bad ones. Anyone got a good place to start that also has good stories and writing?
+
+11: X-Men Prime #1. It came out this week and it acts as the starting point for all the new series coming in the next few months. You picked a great time to start reading X-Men.
+
+> 6: if you read the good stuff before you read this, you'll be disappointed. if you read this, and then go the Claremont route you'll be more satisfied.
+
+5: I'd suggest New X-Men #1. Morrison's run is killer, which then feeds into Whedon's which is my personal favorite.
+
+Plus it doesn't dwell too much on backstory and works with new plots and villains so you don't feel like you're starting in the middle of a story.
+
+> 7: New X-Men technically starts at 114!
+
+5: If you can handle [1970's writing/art](http://i.imgur.com/CxsGq91.png):
+
+- **Uncanny X-Men** by Chris Claremont
+
+If not:
+
+- *New X-Men* by Grant Morrison
+- *Astonishing X-Men* by Joss Whedon (Swap this with New X-Men for a more consistent/fun intro to X-Men.)
+- House of M by Brian Michael Bendis (Event includes important X-Men status quo change.)
+
+1: UNCANNY X-MEN #1 heh, check comicbookherald. he'll point you in the right direction.
+
+1: You can get caught up on most of the X continuity with the podcast Jay and Miles X-plain the X-men. It is a fantastic way to catch up and very entertaining. They gloss over the silver age stuff for the most part but the silver age was kinda shit anyway
+
+*1: New X-men by Morrison*. See that period? I put a period there on purpose. Also Remender's Uncanny X-Force.
+
+---
+
+**Where should I start reading the X-men comics?**
+
+I have been thinking about start reading the X-Men, but I do not wish to start reading everything from issue number one. I would like to read the comic books/ graphic novels that made you like the characters or the ones that are your favourites. If it is any indication, I liked the films and Wolverine is my favourite character.
+
+9: Uncanny X-Men returns next week with a brand new #1. It will be weekly for the first 10 issues then settle into a more normal release schedule.
+
+Return of Wolverine is on issue 2 and features the first Logan story since he died a few years back.
+
+Brand new X-Force series is starting next month that looks pretty promising.
+
+As far as older stuff, if you want to you could just read both volumes (4 issues) of X-Men: Grand Design. That will get you caught up on the first 25ish years of X-Men history.
+
+8: I only really got into comics a couple of years ago (mostly due to the canon Star Wars series). I to was worried about jumping into the comics especially X-men given the history. Similarly, I prefer reading graphic novels.
+
+I would highly recommend *Grant Morrisons "New X-men"* (collected in 3 ultimate comic trades). I found it an excellent way to really get a feel for the X-men world and all the the characters.
+
+- great abundance of X-men characters, so you can se who you like or not. You have your classics like Jean, Wolverine and Cyclops. Plus, some of the more modern era characters like Emma Frost and Fatomex. And over the run you get cameos from Storm, Polaris, L'landra etc.
+- the writing is modern (say compared to something like Dark Pheonix, which is also a must read)
+- very unique stories, from psychic parasite to telepaths affairs: there is a great issue that has no dialogue. It really changed my opinion on superhero comics can be, which up till that point I always felt like were more "Saturday morning cartoons" (not that that bad at all).
+- and while subjective. I think the art work is beautiful.
+
+I would also recommend *Josh Whedons Ashtonsining X-men*. It's follows up where New X-men left off.
+
+I would also say, don't worry about continuty or chronological order. As someone who was used to the strict canon is Star Wars comics, I found it impossible to try to bring order to the xmen continuity. Just pick a run that sounds interesting to you and read it as it own contained story.
+
+2: Essential:
+
+- God Loves, Man Kills
+- Proteus / **Dark Phoenix Saga**
+- Days of Future Past
+- Claremont/Miller Wolverine
+- From the Ashes
+- *Whedon's Astonishing*
+- Remender's Uncanny X-Force
+- Old Man Logan
+
+2: Oh I forgot Wolverine: Meltdown. Incredible art. Wolverine & Havok causing trouble down in Mexico.
+
+If you like the movie Logan (of course you do) & want more X-23, check out X-23: Innocence Lost & Target X (in The Complete Collection Vol. 1) -- X-23's origin story.
+
+---
+
+**I want to start reading x-men Comics**
+
+15: X-men Grand Design. Kinda goes over the history of the X-men. Could probably be the quickest way to get caught up on the comic history. It's getting really good reviews too. [Amazon link](https://www.amazon.com/X-Men-Grand-Design-Ed-Piskor/dp/1302904892/ref=sr_1_1?ie=UTF8&qid=1526947532&sr=8-1&keywords=x-men+grand+design&dpID=516BMFZsd6L&preST=_SY344_BO1,204,203,200_QL70_&dpSrc=srch#reader_B07BH4DM7T).
+
+13: *Joss Whedon's Astonishing X-Men* is very good
+
+12: Giant Size X-Men #1.
+
+> 6: Can't go wrong with starting on **Chris Claremonts runs** on X-Men.
+
+12: Gonna catch flack but *Grant Morrison’s New X-Men is beautiful.*
+
+> 7: I think Morrison's New X-Men is by far the best place to start, especially for adults. It's my favorite run, and I don't know if it can ever be topped
+
+5: There are a lot of good jumping on points in X-Men comics. The first is Stan Lee & Jack Kirby's original run, starting with X-Men #1 (1963). I wouldn't really recommend this, though: it is easily among the weakest of their work and is kind of hard to get through at times.
+
+The next great jumping on point is **Chris Claremont's legendary run**. It begins with Giant-Size X-Men #1 (1975) and continues in X-Men #94. This run spawned several spin offs, including New Mutants and X-Factor. You mainly don't have to read these to keep up with just X-Men but there are a few crossovers once you get to the mid #200s.
+
+**Claremont's run** ended in 1991, but personally I wouldn't say this is a good jumping-on point, as what comes next mostly follows on from his run and you will probably be confused going forward from here (again, just my opinion).
+
+The next jumping-on point would be *Grant Morrison's New X-Men*, which starts with issue #114 (2001). This was written as a starting point for new X-fans and is really the beginning of the "modern" X-Men. His run is followed by *Joss Whedon's Astonishing X-Men* #1 (2004).
+
+These are the starting points I would recommend, although there are numerous other X-Men series that you could read, as well as about a million solo series. Let me know if you need any help with reading orders.
+
+4: **Uncanny X-Men** #1, 1963.
+
+You'll eventually need a spreadsheet to keep everything together but it's fun starting continuity and reading all the way through, especially as more books get added.
+
+3: [Here's](http://crushingkrisis.com/definitive-guide-to-collecting-x-men-as-graphic-novels/collecting-x-men-1-93-comic-books-as-graphic-novels/) the website I used to start reading X-Men
+
+2 (Gold Award - what?): Obligatory plug for [Jay & Miles X-plain the X-men](http://www.xplainthexmen.com/), a podcast that puts out ~one hour episodes weekly, explaining the plots, backstories, cross-references, etc. from the very beginning of the franchise. Right now they're up to the very early '90s.
+
+They mix it up with occasional interviews with creators (they actually got Chris Claremont on once!) and strange bonus episodes (in one they explained the promotional X-men comics distributed by Pizza Hut).
+
+If you don't start from the very beginning (and there are very good reasons not to do so), it's an excellent way to get all that backstory. It also gives you some of the story behind the story, like how different writers' perspectives led to certain jarring discontinuities.
+
+P.S. If you want to know where to start, you need to give us some more information. It's like saying, "I want to get into some new music, what's good?" I can start recommending bands, but if I don't know what tickles your fancy, I'm stabbing blind.
+
+Do you like gritty suffering? jaunty quips? romance? political thrillers? anatomically improbable hair? Do you want some fan service (and do you have a preference on the skimpily clothed drawings' gender?) or would you rather that characters be more realistic in their proportions? Did you like the 90s cartoon? X-men evolution? Did you like the old movies? the new ones? What other comics / books do you like?
+
+Are there characters you definitely want to see? Ones that you find awkward or cringeworthy? (Mojo is an example of pretty divisive dude.)
+
+And so on.
+
+2: For a beginner I suggest reading "all new X-men"(2012) to get your feet wet in the universe so you can go back and foward through all the stories, it has stories from the original stan lee/jack kirby 1963 **Uncanny X-men** and Fills in claremont's 80's and 90s X-men. And it will get you used to the "new" Bendis(the writer) style writing that's been going since the 2000's.
+
+I personally recommend that you get Marvel unlimited, It's a Netflix like service by Marvel that let's you read all their comics since the 60's to the new comics from this year. It's only $6 per month for the yearly or $9 for the month. it also lets you read the comics offline using the app on mobile. It's been great for me since i get to have all 57 years of X-men in my pocket to read.
+
+2: *New X-Men* by Grant Morrison is great. I just read it a few weeks ago (my first X-Men comic), and I wasn't lost at all
+
+2: As a devil's advocate, to contrast with the people recommending *Morrison's New X-Men* -- I didn't think it was very good at all, and I think it's a terrible place to start.
+
+2: H<u>ere are my favorite story arcs, in chronological order</u>:
+
+1. Proteus (**Uncanny 125-128**) -- their first really dangerous enemy; intro to Dark Phoenix. I highly recommend the trade paperback which has some great additional stories
+2. **Dark Phoenix Saga** (**Uncanny 129-137**) -- widely considered one of the best X-men stories ever. Must-read for Jean Grey fans.
+3. Days of Future Past (**Uncanny 141-142**) -- Kitty travels back in time from a dystopian future
+4. God Loves, Man Kills (graphic novel) -- possibly the best place for a newcomer to start (graphic novel so it's okay if you read it out of order)
+5. The Brood Saga **(Uncanny 154-158, 161-167**) -- a mix of Alien & The Matrix, includes the first meeting of Magneto & Professor X (#161) and the first meeting of the X-men & Rogue
+6. Wolverine (Claremont/Miller limited series 1-4) -- the first Wolverine comics, must-read
+7. From the Ashes (**Uncanny 168-176**) -- one of Joss Whedon's favorite runs; Wolverine's wedding; Rogue joins the X-Men; Storm gets a mohawk
+8. Havok & Wolverine: Meltdown (limited series 1-4) -- highly recommended, great artwork
+9. X-Treme X-Men: Mekanix -- must-read for Kitty Pryde fans.
+10. *Joss Whedon's Astonishing X-Men* run 1-24 (the Warren Ellis run after this is also good). The Whedon run also has an amazing motion comic partially available on Netflix.
+11. X-23: Innocence Lost & Target X (in The Complete Collection Vol. 1) -- X-23's origin story.
+12. X-Force Vol. 1 & 2 (Kyle & Yost)
+13. Uncanny X-Force Vol. 1 (Remender)
+14. Old Man Logan (Mark Millar)
+15. Magneto (Bunn)
+
+2: Okay, so, a little while back, Marvel relaunched their lineup of X-Men comics (not rebooted, just started a fresh set of series'). This is the ResurrXion lineup, and it's the best jumping on point you could ask for. Each series follows a different team or character, and just about every flavor of X-Men is represented currently.
+
+X-Men Blue is still ongoing and shares the dual-flagship role with X-Men Gold. It follows the time-displaced Original 5 X-Men (Cyclops, Jean, Iceman, Beast, and Angel; plus a couple of eventual additions to the team, both hailing from alternate universes), under the mostly-reformed Magneto's guidance, going on various missions. It's much more focused on the high-concept sci-fi side of X-Men, and features a variety of villains.
+
+X-Men Gold is also still ongoing, and is the second, and follows Kitty Pryde, Colossus, Nightcrawler, Old Man Logan (old, alt. universe Wolverine), Rachel Grey, and Storm, with Kitty leading, based out of the X-Mansion (now located in Central Park). It's definitely got tons of sci-fi stuff, but there's also focus on the moral/political side of the mutant struggle. Also features many villains, and a little bit ago spent some with its focus shifted to post-solo series Iceman and some other X-Men, including Rogue.
+
+Generation X is now finished and follows a group of X-students dealing with more grounded threats and navigating their own internal and interpersonal struggles: Hindsight, Quentin Quire, Benji Deeds, Bling!, Nature Girl, and Eye-Boy. Jubilee is their mentor/teacher, and Chamber is her main supporter.
+
+Iceman, also now finished, follows Adult Iceman (though it briefly features Young Iceman too) as he comes to terms with his sexuality, both internally and with regards to other people, while also dealing with a series of villains and grounded threats.
+
+Jean Grey follows O5 Jean as she learns the Phoenix Force is returning and prepares to face it by getting training and advice from the likes of Psylocke, Thor, and the various former Phoenix hosts, including Emma Frost. It leads into Phoenix Resurrection, which deals with the return of the original Jean Grey. Both are finished.
+
+*Astonishing X-Men*, still ongoing, follows Psylocke, Archangel, Old Man Logan, Bishop, Mystique, Gambit, and Fantomex as they deal with a major attack by Shadow King. Involves the return of a major X-Men character.
+
+X-Men Red, only recently begun, follows the now-returned original Jean Grey and her new team (Nightcrawler, X-23 Wolverine, Honey Badger, Namor, Gentle, Gambit, and a new character called Trinary) as they try to carry out Jean's plan to create a better world for mutants and humans alike, while dealing with Cassandra Nova. Definitely more focus for the social commentary aspect of X-Men.
+
+The New Mutants: Dead Souls, also only just started, follows Magik, Boom Boom, Rictor, Strong Guy, and Wolfsbane as they work for Karma's new humanitarian company, Hatchi Corporation, as superpowered, paranormal investigators.
+
+There are other series', like Cable (which gets rather good after a bizarrely bland first 5 issues and is still ongoing), Rogue & Gambit (which has quite decent action and character work, and just finished), Exiles (technically not a ResurrXion book, but still an X-book, and quite good fun), Legion, Domino, Old Man Logan, All-New Wolverine, and Weapon X (those last five I haven't kept up with).
+
+The ones I'd recommend most are, in order, Blue, Gen X, Gold, Iceman, and *Astonishing*, with Jean Grey/Phoenix Resurrection and Red close behind. Hope this helps!
+
+---
+
+**What is the best x-men comics?**
+
+Which X-men comic should i read? Is the uncanny x men good?
+
+15: **Uncanny X-Men (1963) #94-279 by Chris Claremont**
+
+*New X-Men (2001)* #115-154 by Grant Morrison
+
+*Astonishing X-Men (2004)* #1-24 by Joss Whedon
+
+> 2: Don't forget the Giant Sized Issue for Whedon and Claremont. I need to read these all though.
+
+8: Remender's Uncanny X-Force. David's X-Factor (2006).
+
+> 4: These two and Whedon's Astonishing X-Men are my favorites.
+>
+> As for something more recent, X-Men Red is kicking all kinds of ass.
+
+5: *New X-Men by Morrison* is a pretty great read.
+
+2: Old man logan
+
+2: Just find everything with **Chris Claremont's** name on it and skip everything else. That's the simplest rule of thumb.
+
+1: **Claremont's stuff** is ace. *Morrison* too. *Whedon's stuff* is aight but I prefer the former two.
+
+---
+
+**Best/essential X-Men comics AFTER House of M/Decimation**
+
+Hey guys. I've been working my way through a bunch of Marvel stuff on MU but I'm particularly into X-Men. I've been going roughly chronologically and read my way through a bunch of Claremont Uncanny X-Men, Morrison's New X-men, Whedon's Astonishing X-Men, House of M and Deadly Genesis. Now I don't really know where the main X-men story goes. I started reading the Kyle and Yost run on New X-Men which is pretty good but has a bunch of new characters I don't know and a lot of reading orders I've seen don't seem to have a clear next step after House of M for X-books.. What are the essential X-comics post-House of M?
+
+9: I liked the Kieron Gillen and Matt Fraction periods of Uncanny a bunch, and Rick Remender’s Uncanny X-Force is a big favorite around here. All-New Wolverine was really good too. And the two new Hickman-written books are (chef’s kiss).
+
+4: I liked X-Men Red by Tom Taylor
+
+3: X-Men (2004) #188-207 by Mike Carey, which becomes X-Men Legacy (2008) #208-275 after Messiah Complex, is a very good and underrated run.
+
+Uncanny X-Men #475–503 by Ed Brubaker picks right up after Deadly Genesis, which leads to Uncanny X-Men #504-534 by Matt Fraction, which leads to Uncanny X-Men #534.1-544 and Uncanny X-Men (2011) #1-20 by Kieron Gillen, and I think that's all good stuff, well worth reading.
+
+> 1 (OP): This is exactly what I was looking for, thank you!
+
+#### Cyclops
+
+**What are the best Cyclops Comics** (Dec 28 2013)
+
+I'm really into X-men and have only recently gotten into reading comics. I have read everything from Schism till the Marvel Now Uncanny X-men. What is the best comic of the character though?
+
+28: I can't stress *joss whedon's run on astonishing x-men* enough. He worked wonders with scott summers.
+
+9: He's a total bad-ass in Messiah Complex. Very fast-paced and great read.
+
+> 3: The last issue of that story where Scott presses his head to Cable's gun--best moment of the story. Actually, most of the great moments of that story involve Cyclops.
+
+6: Second Coming, It's not all about Cyclops or anything but it shows him off the best imo.
+
+5: If you can find them get: Marvel comics presents: Cyclops. It was a series that allowed solo limited series for various X-Men. This was during his X-Factor days and it was an 8 part series with him battling Master Mold
+
+4: I'd say the NationX storyline, or really the entire period they were on Utopia. It was one of the most active times in really trying to cement human/mutant relations within the franchises history. And Scott was the main driving force behind the whole thing.
+
+Messiah Complex, War and Second Coming were also really good examples of Cyclops in a heavy leadership role. Not in the boyscout way he was often used in the past, but as someone really fighting a war.
+
+> 2: I agree with all of this! The fight between Scott and Norman Obsorn, Scott really comes out as a badass on so many levels.
+
+3: X-Men #138. While I can't say he's at his best here, it is a fascinating look into Cyclops.
+
+And as said before, Messiah Complex, Utopia, and Second Coming. Those are some of the best X-men stories of all time I think.
+
+3: Uncanny X-Men #495 gives a real insight into Cyclops' psyche. It's basically Emma Frost describing Scott's mind to Shanna in the Savage Land.
+
+My favorite er with him is when he was the leader of the Blue Team in the Jim Lee years.
+
+One of my favorite (brief) moments from Cyke came in Infinity Gauntlet where he blasts Thanos and then abruptly stops, sending the Mad Titan off balance. Essentially, Scott outmaneuvered god. Then Thanos ends up killing him really quicklike. (This leads to one of my all-time favorite comic moments when all of Earth's heavy hitters fail, Captain America calmly walks up to Thanos, and when Silver Surfer swings and misses to steal the gauntlet, Cap punches god in the face. Epic, but that's probably best saved for a different thread.)
+
+3: I'm gonna go all 90's and say X men vol.2 #44 features Cyclops nicely and reminds everyone why he is an awesome character. I also liked the adventures of cyclops and phoenix.
+
+3: X-men unlimited Vol 1, Number 1 was a great Cyclops story if I remember it correctly
+
+---
+
+**Best Cyclops comics?** (Oct 01 2015)
+
+Hi! I just adore Cyclops (especially after watching Wolverine and the X-Men-- he and Emma were just the best in that show!!) and I want to read the best runs with him in them. Unfortunately, it seems he's almost always a side character. I want more!! I read *Joss Whedon's Astonishing X-Men run* (which is probably what moved me to Team Cyclops in the first place) and *Grant Morrison's run* too, which I thought was hit-or-miss (and was sorely disappointed by the Xorn reveal, such that I think I threw the book across the room) but I liked the little Emma-Jean-Scott mental love triangle. I tried reading the run following Morrison's, but couldn't get through it.
+
+Anyway, I've seen some intriguing stuff on Tumblr, but I don't want to read 10 issues for one great Cyclops moment. So recommend away!! I have Marvel Unlimited so I have almost everything at my fingertips-- if only that app had a more intuitive organizational structure...
+
+Thanks :D
+
+5: Kieron Gillen's Uncanny X-Men run (#534.1-544, #1-20) and Avengers vs X-Men: Consequences. It's the logical conclusion of Cyclops' arc as laid out by Morrison and Whedon.
+
+And yes Chuck Austen's New X-Men is literally the worst.
+
+> 5: I would recommend Matt Fraction's UXM run that precedes Gillen's as well. I think that run is really underrated.
+>
+> Also, if you haven't been listening to the Rachel and Miles X-Plain the X-Men podcast, you should be.
+
+1: If you haven't read AvX and Consequences, definitely that, you'll probably enjoy the last volume of Uncanny X-Men, the beginning of All-New X-Men up until he leaves the team, and the recent volume with his young time-traveling self that follows him leaving ANXM. The old series The Adventures of Cyclops and Phoenix is a solid read too for Cyclops fans, as it tells of when the two went to the future to raise Cable.
+
+> 3: The AvX main series and Bendis' Uncanny/All-New are terrible Cyclops comics. Bendis blatantly hates current Cyclops and so makes him completely incompetent.
+
+---
+
+**Best cyclops comics?**
+
+5: It sort of hard to pin down, since <u>a lot of his stories have been attributed to the X-Men team</u> as a whole.
+
+He’s had a few Minis, one in 2001, and one in 2014 (he’s a teen, but he gets to hang out with his dad, so I can’t complain, Corsair is awesome).
+
+*Claremont’s X-Men Run* is probably the best example of him as the de facto leader. *Astonishing* is another good choice to see a well written Cyclops.
+
+4: I liked him a lot in *Whedon's Astonishing X-Men run*. He was pretty badass, and that's coming from someone who usually doesn't like him that much.
+
+1: *New X-Men*->*Astonishing X-Men*-> **Uncanny X-Men** will more or less give you the 21st century arc of Cyclops.
+
+#### Gambit
+
+**Gambit recommendations?**
+
+New to Marvel and comics in general. Gambit is mon cheri because of the X-Men cartoon I watched as a child. I've got an envie for some stories with Gambit. He doesn't have to be the main protagonist. Any story arcs, trade paperbacks, or collected editions y'all might recommend? Merci!
+
+3: Like most to do with X-Men, if the character debuted in **Chris Claremont's run**, then that is the best run to read about them.
+
+Gambit was extremely cool in **Uncanny X-Men** 265-280, but I would start at **Uncanny** 246 to understand everything going on.
+
+3: There was a Gambit solo series by James Asmus a couple years ago that I recall being pretty good. Check that out.
+
+2: There is a new miniseries with him and Rogue by Kelly Thompson
+
+Plus, X-Men Red #3
+
+---
+
+**Best Reading For Gambit**
+
+I’ve just finished the 2012 gambit run and now I need more gambit to fill my gambit needs.
+
+You guys got any recommendations for good gambit runs?
+
+Edit - thanks for the recommendations! I’ll delve in after work!
+
+6: I should really save my comment for this.
+
+Mutant Massacre. He's not in it, but it's important later on.
+
+Read Claremont's Uncanny X-men from 266 to when it splits in to two books.
+
+He's one of the main team members for X-men vol 2 by Nicieza.
+
+Gambit vol. 1 and vol. 2 by Mackie give a lot of backstory for the character.
+
+An AU version leads a team in AoA.
+
+You can skip most of the post-AoA stuff, but make sure to read Trial of Gambit.
+
+Gambit vol. 3 by Nicieza is peak Gambit imo (Nicieza just gets the character like few other writers).
+
+He shows up on occasion in X-Treme X-men by Claremont
+
+Milligan does have an Apocalypse arc where Gambit plays a central role. The character design is cool, but the characterization of Gambit is so so far off the mark by Milligan. Read if you want to I guess.
+
+He shows up a bit in X-men: Legacy by Carey right after Messiah Complex.
+
+I think the next good series featuring him is probably the X-23 solo by Liu.
+
+Then he was featured in All-New X-Factor by David.
+
+Skip ahead, and Astonishing X-men by Soule, X-men: Red by Taylor, Rogue and Gambit by Thompson, and Mr. & Mrs. X by Thompson are the recent series to feature him.
+
+5: Gambit & Rogue mini series, followed by Mr. and Mrs. X. Really great take on him and Rogue.
+
+---
+
+**Good Gambit stories?**
+
+So I know Gambit is a popular pick for favorite X-Men team member, but I personally don’t get it. What are some great Gambit arcs that’ll make me see what the hype is all about?
+
+8: Big Gambit fan here. He’s a character you either love or hate. As much as I love this man, he’s best in a big ensemble. Like eating hot peppers, it’s best when paired with others. Solo: not so good. That being said, here are my recommendations in ranking order:
+
+X23 series by Marjorie Liu. Particularly the issues with Jubilee and Wolverine. We see Gambit as a mentor and protective older brother type. We get glimpses of the things I love about him- his courage, his love of books, his loyalty, and he even goes out on a date with someone who ISNT Rogue or Bella Donna. Le gasp!
+
+Gambit solo series by James Asmus. The inconsistent art is a bummer because when Clay Mann is on it, he can’t be beaten. However, we see Gambit really standing on his own and making thoughtful decisions about which way his life should go. He gets friends and foes outside the XMen- which is a big plus for me- and his BFF Fence turns out to be a fan favorite.
+
+Finally, if you’re a big Rogue/Gambit shipper, Rogue & Gambit by Kelly Thompson is right up your alley. There’s romance, adventure, comedy. KT is one of Marvels top writers at the moment. In my cynical opinion, her inexperience with life and relationships is obvious the minute you dig into her stories. However, if you’re looking for passion and entertainment, you can’t do better.
+
+If you read any or all of these and still don’t see the big deal, Gambit just isn’t your cup of tea. No shame in that. The XMen has an amazing cast and they all have their own devoted following.
+
+Happy reading!
+
+1: My personal Gambit stories:
+
+Age of Apocalypse: Gambit & The X-Ternals
+
+X-Men: Blood of Apocalypse
+
+Gambit volume 5
+
+X-Men by Mike Carey
+
+X-Men Legacy: Divided We Stand
+
+X-Men Second Coming: Hellbound
+
+1: The 1st Gambit limited with Howard Mackie and Lee Weeks was great. Loved his solobook when it was Nicieza and Scroce on art. But it really was his introduction and 1st couple years that solidified the character. The combination of Claremont and Jim Lee brought forth a compelling, mysterious, yet dangerous character. Gambit really has never been handled that well since, even by Claremont himself in later years. The influence Lee brought to how Gambit was portrayed and written is often over looked and it's unlikely we will ever see those 2 collaborate again for an X-Men project.
+
+Edited to add: if you don't see his appeal now, it's unlikely you will. It's a kind of "you had to be there" type of thing.
+
+1: In X-Men Legacy by Mike Carey he starts out as Xavier’s muscle than becomes more important as the book shifts to Rogue. Great character work
+
+1: Everyone else has given absolutely amazing recommendations, so I'll give something else.
+
+I'm not a fan of Chuck Austen but I think he delivers a pretty good Gambit in Ultimate-universe. It may not be the best story out there, but that rendition of beloved characters gave me a new twist to a classic Rogue/Gambit-story. And it actually pushed me to find more about these characters that were kinda on the sidelines for me. I knew about them, but I had never been so invested in those characters.
+
+Kinda like Injustice-games worked for some people. That storyline rekindled my interest.
+
+So. Ultimate X-men issues 50-53 and the first Ultimate X-men Annual is my pick.
+
+#### Wolverine
+
+**Best Wolverine story to start with?**
+
+9 (u/Tigertemprr): 
+
+- [**Wolverine**](https://www.amazon.com/dp/0785137246) | [#1-4](http://marvel.com/comics/issue/12168/wolverine_1982_1) | 1982 | Chris Claremont | Not "modern" but short/good
+- [**Weapon X**](https://www.amazon.com/dp/0785137262) | [Marvel Comics Presents #72-84](http://marvel.com/comics/issue/10155/marvel_comics_presents_1988_72) | 1991 | Barry Windsor-Smith, Campanella, Cockrum, et al.
+- [Origin](https://www.amazon.com/dp/0785137270) | [#1-6](http://marvel.com/comics/issue/10574/origin_2001_1) | 2001-2002 | Jenkins, Quesada, Jemas
+- [**Wolverine: Enemy of the State**](https://www.amazon.com/dp/0785133011) | [#20-32](http://marvel.com/comics/issue/860/wolverine_2003_20) | 2004-2005 | Millar
+- [*Wolverine, Wolverine Weapon X*](https://www.amazon.com/dp/0785185410) | [#56, 62-65, 73-74](http://marvel.com/comics/issue/16112/wolverine_2003_56), #[1-16](http://marvel.com/comics/issue/24027/wolverine_weapon_x_2009_1) | 2007-2010 | Aaron
+- [*Wolverine: Old Man Logan*](https://www.amazon.com/dp/0785131728) | [#66-72](http://marvel.com/comics/issue/21330/wolverine_2003_66), Giant-size #1 | 2008-2009 | Millar
+- [*Wolverine*](https://www.amazon.com/dp/0785189084) | [#1-19, 300-304](http://marvel.com/comics/issue/30224/wolverine_2010_1) | 2010-2012 | Aaron
+- [Uncanny X-Force](https://www.amazon.com/dp/0785188231) | [#1-35](http://marvel.com/comics/issue/32573/uncanny_x-force_2010_1) | 2010-2012 | Remender
+- [Wolverine & the X-Men](https://www.amazon.com/dp/0785156801) | [#1-42](http://marvel.com/comics/issue/38586/wolverine_the_x-men_2011_1) | 2011-2014 | Aaron
+- [Death of Wolverine](https://www.amazon.com/dp/0785191631) | [#1-4](http://marvel.com/comics/issue/50946/death_of_wolverine_2014_1) | 2014 | Soule
+- [Old Man Logan](https://www.amazon.com/dp/078519620X) | [#1-24](http://marvel.com/comics/issue/56148/old_man_logan_2016_1) | 2016-2017 | Lemire
+
+> +from the different [thread](https://www.reddit.com/r/Marvel/comments/728v4c/best_wolverine_runs/): **Laura Kiney (X-23)**
+>
+> - [All-New Wolverine](https://www.amazon.com/dp/0785196528) | [#1-ongoing](http://marvel.com/comics/issue/56424/all-new_wolverine_2015_1) | 2015-2017 | Tom Taylor
+> - All-New X-Men
+
+3: The suggestions here are good. I'm not sure it matters what you read first off that list, although **Enemy of the State** is a pretty great "generic Wolverine" story, in that it doesn't CHANGE EVERYTHING FOREVER as much as present a very strong take on the character.
+
+More than most characters, <u>Wolverine is one where you should just read the good stuff</u>. It's not a character that necessarily rewards deep continuity dives, in my opinion--by virtue of being very old in continuity, very popular irl, and having canonical memory loss, they've just crammed in a LOT of backstory over the years that doesn't all fit together very well (...like, depending on who you ask, him and Sabertooth may be descendants of a race of cat-people?)
+
+In addition to what Tigertemprr suggested, the original **Dark Phoenix Saga** has cool wolverine moments, and I think the "Madripoor Nights" arc of the Claremont miniseries is a boatload of fun. I've also always been partial to Greg Rucka's solid (if not spectacular) run on the character before Millar's, although I acknowledge it's nothing must-read.
+
+> the next paragraph is really hard:
+
+The only REAL suggestion I'll make is that after you read the BWS Weapon X, read the original Kyle/Yost X-23 books if you have any interest ("Innocence Lost" and "Target X"). They're very good, and a very direct callback/homage to the original Weapon X, so reading them one after the other is rewarding.
+
+---
+
+**Best Wolverine Comics?**
+
+2: **Wolverine** by Chris Claremont and Frank Miller is a classic, also I really dug Mark Millar's Wolverine stuff (i.e. **Enemy of the State**).
+
+2: Wolverine (1988) #1-57 is probably the best of his original ongoing series. Features lots of Madripoor and **Weapon X** goodness. Issues written by Chris Claremont, Peter David, and Larry Hama. Some great art by John Buscema and Mark Silvestri.
+
+NOTE: You can just read #1-57, but I'd recommend reading Marvel Comics Presents #1-10 first, and then reading Weapon X by Barry Windsor Smith in-between issues #46 and #47.
+
+1: Please check out *Wolverine by Jason Aaron*. I think he's one of the better writers that did something new with the character! Also it's bloody as hell!!
+
+1: Jason Aaron's *Wolverine: Weapon X* is great (I didn't think his later run on the following *Wolverine* series [The "*Wolverine in Hell*" storyarc] was as good).
+
+Wolverine Epic Collection: Madripoor Nights is also pretty good. It's not typical super-hero stuff, and Logan rarely appears in costume. Since you liked Rucka's run, I think you'll like this as well.
+
+I think the general consensus of Wolverine: Origins (not to be confused with Origin) is to avoid it, but I really liked #16-20 (volume 4). After the death of Captain America Wolverine remembers a mission he shared with him and Bucky during WWII.
+
+---
+
+**Best Wolverine Comics?**
+
+7: My Recommended Wolverine Reading:
+
+- **Wolverine (1982)**
+- **"Weapon X" Marvel Comics Presents (1988)** #72-84
+- **"Enemy of the State" Wolverine (2003)** #20-31
+- *"Get Mystique" Wolverine (2003)* #62-65
+- "A Day in the Life" Wolverine (2003) #73-74
+- *"Adamantium Men" Wolverine Weapon X (2009)* #1-5
+- "Tomorrow Dies Today" Wolverine Weapon X (2009) #11-15
+- Wolverine: Manifest Destiny (2008)
+- *"Wolverine Goes to Hell" Wolverine (2010)* #1-16
+- Astonishing Spider-Man/Wolverine (2010)
+- Death of Wolverine (2014)
+
+> 1 (OP): You are a scholar and a gentleman and I hope a magician one day.
+>
+> > 3: Honestly, you can read the whole 2003 run of Wolverine, starting with the Greg Rucka run from issues #1-19 and continue to the amazing **Enemy of the State**/Agent of Shield run by the man Mark Millar all the way to Old Man Logan.
+
+3: Wolverine taking on the Hellfire Club in '**the Dark Phoenix Saga**' is great; but also Mark Millar's other Wolverine story '**Enemy of the State**' is good, Wolverine against everyone pretty much
+
+3: I'd say the **Weapon X run in Marvel Comics Presents**.
+
+2: The current Wolverine series All-New Wolverine really is amazing. It's not Logan but Laura is a worthy successor in all the best ways!
+
+1: I recommend Chris Claremont's Wolverine.
+
+---
+
+Plus, [The 10 best Wolverine comics ever](https://www.reddit.com/r/comicbooks/comments/5ptfo2/the_10_best_wolverine_comics_ever/):
+
+![Death-of-Wolverine-comic-cover-best-wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Death-of-Wolverine-comic-cover-best-wolverine-comics.png)
+
+10. Death of Wolverine
+    Wolverine has lost his healing factor. Not even Marvel’s smartest minds can help him. Over the years, Logan has been a warrior, a hero, a renegade, a savage, a samurai, a teacher – and so much more. Logan has spent decades being the best there is at what he does…but even the best fade away eventually. And now, the greatest X-Men hero will play a role he’s never played before. While not a perfect story this is a lean tale by Charles Soule with some amazing artwork by Steve McNiven that could give us some hints on how Logan could die in the upcoming film.
+
+![Wolverine-Madripoor-Nights-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Wolverine-Madripoor-Nights-comic-cover-best-Wolverine-comics.png)
+
+9. Wolverine Epic Collection: Madripoor Nights
+   This massive collection gives us a great Wolverine adventure story. Feeling the urge to cut loose, Wolverine travels to Madripoor, an East Indian island full of pirates, cut-throats and smugglers…just the way Logan likes it! There, he’ll take on ruthless crimelord Roche, meet the cunning Tyger Tiger, wield the mystical Black Blade, battle superhuman enforcers Roughouse and Bloodsport, and contend with drug kingpin Nguyen Ngoc Coy and his niece…the former New Mutant known as Karma! This trade paperback collects one of the most acclaimed runs in Wolverine’s solo series with writers Chris Claremont and Peter David and pencils by John Buscema and Gene Colan.
+
+![Wolverine-Logan-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Wolverine-Logan-comic-cover-best-Wolverine-comics.png)
+
+8. Wolverine: Logan
+   In Logan, writer Brian K. Vaughan takes this Wolverine back to Japan to confront old demons from his past. We see a series of flashbacks that expand upon Logan’s time in Japan during WWII. This tale goes a long way towards presenting Wolverine’s life as a piece of human tragedy, rather than a colorful superhero. This series quickly shifts between an intimate character piece and an absurd superhero tale that sees the atomic bomb at Hiroshima dropped on top of Wolverine, but Vaughan manages to balance it all out quite well. While short Vaughan’s deft character development and Eduardo Risso’s heavily inked art make this story stand out.
+
+![Astonishing-X-Men-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Astonishing-X-Men-comic-cover-best-Wolverine-comics.png)
+
+7. Astonishing X-Men
+   This is cheating as this is not a stand alone Wolverine story but an X-Men tale. However it’s so well executed and the characterisation of Wolverine so spot on that it needs to be included here. The creator of Buffy, Joss Whedon joins John Cassaday to create a modern Marvel classic. Cyclops and Emma Frost re-form the X-Men with the express purpose of “astonishing” the world. But when breaking news regarding the mutant gene unexpectedly hits the airwaves, will it derail their new plans before they even get started?
+
+![Wolverine-by-Greg-Rucka-Ultimate-Collection-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Wolverine-by-Greg-Rucka-Ultimate-Collection-best-Wolverine-comics.png)
+
+6. Wolverine by Greg Rucka Ultimate Collection
+   Acclaimed novelist and comic writer Greg Rucka’s 19 issue run on Wolverine is a forgotten gem. Joined by artists Darrick Robertson and Leandro Fernandez this trade paperback collects the three volumes of the run. We begin with Wolverine using all of his abilities to deal with some tough human enemies including waitresses, arms dealers, human traffickers, pregnant crime lords, bad dreams and feral female fighters! The second story arc which deals with human trafficking on both sides of the Mexican-American border – delivers on the feral nobility and sense of unflinching justice that really tethers even the most wildly outlandish Wolverine story.
+
+![Wolverine-Enemy-of-the-State-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Wolverine-Enemy-of-the-State-comic-cover-best-Wolverine-comics.png)
+
+**5. Wolverine: Enemy of the State**
+Kick-Ass co-creators Mark Millar and John Romita Jr. had a classic 12 issue run on Wolverine that felt like a blockbuster beat-em up movie. Brainwashed by the ninjas of the Hand, Wolverine slices and dices his way through foes and friends alike, ultimately resulting in the death of an X-Man. Captured and reprogrammed, Wolverine is sent against his former masters – but amid an orgy of death and destruction, is even the fiercest mutant alive a match for the deadly stare of the Gorgon. It’s a hard-hitting epic with countless jaw dropping fight scenes, thanks to the symbiotic relationship between Millar’s scripts and John Romita, Jr.’s art.
+
+![Wolverine-Origin-Complete-Collection-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Wolverine-Origin-Complete-Collection-comic-cover-best-Wolverine-comics.png)
+
+4. Wolverine: Origin
+   After decades of fan speculation, Marvel gave readers all of the answers to Wolverine’s complete origin in two best selling miniseries. Long before he became an X-Man, before he was transformed by Weapon X, Wolverine was a boy named James Howlett. But what tragedy could strike that would set him on the path to becoming the ferocious Wolverine? Follow young James from a life of privilege and that fateful first “snikt,” through the devastating events that rip him from his family and ultimately drive him into the wilderness. There, in the snowy wilds of Canada, the feral young man now known as Logan will encounter another mutant very much like him, also torn between man and animal. One who could be his greatest ally – or his fiercest foe. This is a story that fundamentally changed the way people look at Wolverine forever.
+
+![Wolverine-Old-Man-Logan-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Wolverine-Old-Man-Logan-comic-cover-best-Wolverine-comics.png)
+
+3. *Old Man Logan*
+   Old Man Logan is on the most satisfying superhero comics of the new century. Revolving around a twisted future where America has been seized and divided up amongst the world’s most powerful super villains, this storyline is a bleak look at a war-torn dystopia that only Wolverine could hope to put an end to. Squaring off against the Red Skull, who has made himself the new President, Wolverine also comes face-to-face with a horde of inbred Hulk monsters, a T-Rex that bonded with the Venom symbiote, and his own haunted past. Mark Millar write a bombastic script and the art by Steve McNiven is stellar. This comic was so successful it looks like Logan the movie is using many of themes and the Old Man Logan character was bought into the current Marvel Universe!
+
+![Wolverine-Weapon-X-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Wolverine-Weapon-X-comic-cover-best-Wolverine-comics.png)
+
+2. **Wolverine: Weapon X**
+   Wolverine’s a lot of things to a lot of people, but to one infamous enclave he was nothing but a… weapon. And weapons kill people. They found that out well enough. Find out just how much “X” can cover in this prequel to recent revelations of the murderous mysteries that have mesmerized our favorite mutant! This is the comic that influenced X-Men Origins: Wolverine the most. With a gut-wrenching script and phenomenal art, Windsor-Smith depicts Wolverine’s startling transformation into a killing machine with the delicate touch of a poet, despite the grim and gory subject matter. 
+
+![Wolverine-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/Wolverine-comic-cover-best-Wolverine-comics.png)
+
+**1. Wolverine**
+The classic and must read tale for any self proclaimed Wolverine fan by comic legends Chris Claremont and Frank Miller in his first solo adventure. For the first time readers got to see much needed depth to the character and shine the spotlight on his personal life more than he could have in a team book. Here, Logan is a man struggling with his feral instincts and animalistic nature. Thanks to this comic Wolverine proved he was a great character on his own and his popularity has only expanded since then.
+
+![X-23-Ultimate-Collection-Volume-1-comic-cover-best-Wolverine-comics](https://web.archive.org/web/20190916234255im_/http://bestcomicsever.com/wp-content/uploads/2017/01/X-23-Ultimate-Collection-Volume-1-comic-cover-best-Wolverine-comics.png)
+
+BONUS: X-23 Ultimate Collection Vol. 1
+
+Wolverine’s daughter X-23 looks like she could be the break out star of the movie. This collection looks at the origin of X-23! Cloned from Wolverine’s cells and raised to be the perfect killer, young Laura Kinney never knew a life free from the harsh masters at The Facility. But now she has broken loose at last, and must forge her own path in the world! Free of her chains and determined to live, Laura will write the next chapter of her story herself. But can X-23 escape her training and her instincts, or will the gallons of blood spilled in her violent past drag her down? A massive trade paperback collection with over 450 pages of X-23 comics!
+
+**Comments on Reddit:**
+
+8: This list doesn't have any *Jason Aaron Wolverine* stories and is therefore worthless.
+
+> 2 (OP): Did think about adding Get Mystique to the list but just missed the top 10. Which Jason Aaron trade would you add to the list?
+>
+> > 3: Well personally I think Aaron's best Wolverine story is the *Wolverine Goes to Hell* arc in Wolverine (2010) #1-16, which is spread across three trades. I'd definitely put that story, or *Get Mystique*, or *Adamantium Men*, ahead of Madripoor Nights or Astonishing X-Men.
+> >
+> > > 1: I'm not sure how it holds up, but I really loved Aaron and Garney's "Goodbye Chinatown" arc that came out after *Schism*.
+
+5: Death of Wolverine seems like a stretch. I would characterize it as pretty good, but <u>the art really carries it</u>.
+
+> 1: Totally agree, mcniven can't miss but the story just felt like it jumped from set piece to set piece. The end panel with the sunset was fitting though.
+
+4: Take Mark Millar's Old Man Logan out and stick Lemire's in instead and I'd be a-okay with this list.
+
+> 1 (OP): Is it really that good? I read the Bendis written Vol. 0 and wasn't impressed. Will have to read Lemire's run now!
+>
+> > 5: It's better than the Bendis miniseries by several orders of magnitude. Sorrentino sticks around on art duties and Lemire actually has a plot that doesn't spend itself out after one issue.
 
 ## Comic books of the most popular franchises - best books and where to start
 
@@ -3676,11 +4300,17 @@ Best Spider-man books: **Ultimate Spider-Man** by Brian Bendis, *Kraven's Last H
 
 Best Swamp Thing books: **Saga of the Swamp Thing** by Alan Moore, *New 52 Swamp Thing* by *Scott Snyder*.
 
+Best Wonder Woman books: *Wonder Woman by George Perez Omnibus Vol. 1*, *Wonder Woman By George Perez Omnibus Vol. 2*, *Wonder Woman by George Perez Omnibus Vol. 3*, *Wonder Woman By Greg Rucka Vol. 1* (Rucka's first run), *Wonder Woman by Greg Rucka, Vol. 2* (Rucka's first run), *Wonder Woman Vol. 1: The Lies (Rebirth)* (Rucka is back, it's his second run, and it's good starting point).
+
+Best X-Men books: **Uncanny X-Men** by Chris Claremont (classic and best; **X-Men: The Dark Phoenix Saga** is the most frequently mentioned), *New X-Men* by Grant Morrison, *Astonishing X-Men* by Joss Whedon (Swap this with New X-Men for a more consistent/fun intro to X-Men), House of M by Brian Michael Bendis, Uncanny X-Force Vol. 1 by Rick Remender (maybe it's as cool as Wheadon and Morrison comics).
+
+Best Cyclops books:  *New X-Men* by Grant Morrison, *Astonishing X-Men* by Joss Whedon (he is a badass in this one), Kieron Gillen's Uncanny X-Men run (#534.1-544, #1-20) and Avengers vs X-Men: Consequences, Messiah Complex by Ed Brubaker, X-Men: Second Coming by Mike Carey, Marvel comics presents: Cyclops.
+
+Best Gambit books: **Uncanny X-Men** by Chris Claremont (#246, #265-280), X-23 by Marjorie Liu, Gambit (2012) by James Asmus, Rogue & Gambit by Kelly Thompson, X-Men: Gambit & Rogue by Howard Mackie, Gambit Classic by Howard Mackie.
+
 Best Wolverine books: **Wolverine (1982)** by Chris Claremont and Frank Miller, **Weapon X - Marvel Comics Presents (1988)** by Barry Windsor-Smith, **Enemy of the State - Wolverine (2003)** by Mark Millar, *Wolverine: Get Mystique* by Jason Aaron, *Adamantium Men - Wolverine Weapon X (2009)* by Jason Aaron (the entire Wolverine Weapon X by Jason Aaron isn't bad), *Wolverine Goes to Hell - Wolverine (2010)* by Jason Aaron (the whole Wolverine (2010-2012) run isn't bad, but GtH is the best comic in it), *Wolverine: Old Man Logan (2008-2009)* by Mark Millar (someone says that Lemire's run is better), Wolverine Epic Collection: Madripoor Nights, Wolverine by Greg Rucka Ultimate Collection (+Uncanny X-Force by Rick Remender, All-New Wolverine, **X-Men: Dark Phoenix Saga Complete Collection**).
 
 > Wolverine is one where you should just read the good stuff - not the entire runs. BUT! You can read the whole [2003 run](https://www.amazon.com/gp/product/B07JHX4VV4?ref_=series_rw_dp_labf) of Wolverine, starting with the Greg Rucka run from issues #1-19 and continue to the amazing **Enemy of the State**/Agent of Shield run by the man Mark Millar all the way to Old Man Logan.
-
-Best Wonder Woman books: *Wonder Woman by George Perez Omnibus Vol. 1*, *Wonder Woman By George Perez Omnibus Vol. 2*, *Wonder Woman by George Perez Omnibus Vol. 3*, *Wonder Woman By Greg Rucka Vol. 1* (Rucka's first run), *Wonder Woman by Greg Rucka, Vol. 2* (Rucka's first run), *Wonder Woman Vol. 1: The Lies (Rebirth)* (Rucka is back, it's his second run, and it's good starting point).
 
 ---
 
@@ -3784,62 +4414,75 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 45. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
 46. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
 47. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
-48. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
-49. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
-50. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
 51. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
 52. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
 53. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
-54. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
-55. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
-56. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
-57. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
-58. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
-59. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
-60. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
-61. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
-62. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
-63. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
-64. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
-65. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
-66. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
-67. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
-68. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
-69. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
-70. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
-71. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
-72. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
-73. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
-74. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
-75. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
-76. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
-77. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
-78. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
-79. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
-80. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
-81. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
-82. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
-83. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
-84. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
-85. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
-86. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
-87. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
-88. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
-89. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
-90. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
-91. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
-92. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
-93. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
-94. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
-95. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
-96. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
-97. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
-98. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
-99. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
-100. https://www.cbr.com/the-best-cyberpunk-comics-ever/
-101. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
-102. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
-103. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
-104. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
-105. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-106. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+51. https://www.reddit.com/r/comicbooks/comments/8gtmi5/essential_xmen_read/
+52. https://www.reddit.com/r/xmen/comments/2l0cri/xmen_comics_beginners_reading_guide/
+53. https://www.reddit.com/r/comicbooks/comments/62xfkh/where_to_start_with_xmen_comics/
+54. https://www.reddit.com/r/xmen/comments/9vpb24/where_should_i_start_reading_the_xmen_comics/
+55. https://www.reddit.com/r/xmen/comments/8li356/i_want_to_start_reading_xmen_comics/
+56. https://www.reddit.com/r/comicbooks/comments/8pa2hd/what_is_the_best_xmen_comics/
+57. https://www.reddit.com/r/Marvel/comments/cqv7r5/bestessential_xmen_comics_after_house_of/
+58. https://www.reddit.com/r/xmen/comments/1tu405/what_are_the_best_cyclops_comics/
+59. https://www.reddit.com/r/Marvel/comments/3n58mf/best_cyclops_comics/
+60. https://www.reddit.com/r/comicbooks/comments/bjmgr5/best_cyclops_comics/
+61. https://www.reddit.com/r/Marvel/comments/8besuq/gambit_recommendations/
+62. https://www.reddit.com/r/xmen/comments/awxtec/best_reading_for_gambit/
+63. https://www.reddit.com/r/xmen/comments/ffjref/good_gambit_stories/
+64. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
+65. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
+66. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
+67. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
+68. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
+69. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
+70. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
+71. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
+72. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
+73. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
+74. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
+75. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
+76. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
+77. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
+78. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
+79. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
+80. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
+81. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
+82. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
+83. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
+84. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
+85. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
+86. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
+87. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
+88. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
+89. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
+90. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
+91. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
+92. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
+93. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
+94. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
+95. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
+96. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
+97. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
+98. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
+99. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
+100. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
+101. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
+102. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
+103. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
+104. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
+105. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
+106. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
+107. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
+108. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
+109. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
+110. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
+111. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
+112. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
+113. https://www.cbr.com/the-best-cyberpunk-comics-ever/
+114. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
+115. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
+116. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
+117. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
+118. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+119. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
