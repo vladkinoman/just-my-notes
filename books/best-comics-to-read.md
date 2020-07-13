@@ -15,6 +15,7 @@
     - [Batman and Joker](#Batman-and-Joker)
     - [Joker](#Joker)
     - [Harley Quinn](#Harley-Quinn)
+  - [Daredevil](#Daredevil)
   - [The Flash](#The-Flash)
   - [Green Lantern](#Green-Lantern)
   - [Hellboy](#Hellboy)
@@ -811,6 +812,451 @@ Side note please keep in mind that this is a character with a 75 year lineage an
 Harley and Ivy is also a lot of fun but it's nothing serious. Her Pre New 52 solo run was okay until the team changed and then it became unbearable.
 
 In the New 52 she has gone through so many changes, in one issue she was killing 20 kids with bombs, in another she was shown with puppies and being a sweetheart. The New 52 Suicide Squad run was atrocious imo, and Palmiotti and Conner write her as Deadpool basically with same randomness and insanity.
+
+### Daredevil
+
+**Where to start with Daredevil comics?**
+
+Im very interested in frank millers run but I have no idea where to start, I know I want to read born again but there is stuff before. I also get kinda confused from other lists so please make it simple! Many thanks
+
+7: Definitely read **Frank Miller’s**- **The Man without Fear**- first. It’s amazing.
+
+2: There's Miller/Janson collection that covers the best of the early 80s run. Start there.
+
+Then **Born Again**
+
+Then **Man Without Fear**
+
+All brilliant stories with sublime art.
+
+> 3: Theres also Daredevil: Love & War, also by Miller. And i'd check out his Elektra material too; Assassin, Lives Again.
+>
+> > 2: All good choices too. Then you’ve got a litany of riches with Nocenti/JRJR’s 90s run, the Bendis/Maleev run, Brubaker’s run, and Waid’s run (although Waid takes it a different direction totally). DD has been one of the most consistent titles in the Marvel line, imo.
+> >
+> > > 1: 
+> > >
+> > > > Nocenti/JRJR’s 90s run
+> > >
+> > > I'm happy to not to be the guy in this case. I'm glad others know how great Nocenti was on DD in the late 80s early 90s.
+> > >
+> > > I would also throw in the DG Chiechster run that proceeded Nocenti
+
+1: This is the guide I used to start reading **Daredevil**, the only arc I didnt enjoy that much was Fall From Grace (it was the 90s though everything during that time is kinda bad)
+
+[www.comicbookherald.com/daredevil-reading-order/amp/](http://www.comicbookherald.com/daredevil-reading-order/amp/)
+
+1: Read **Man without Fear** first like others have suggested. Then, **Frank Miller's first run** is collected in 3 trades. After that, read **Born Again**. From there, I would read Guardian Devil followed by Bendis's run. The reading order is pretty straightforward from there on out.
+
+1: I started with **Born Again**. You can if you want. Or go back to the start of **Miller’s stuff**, which everyone has given reading orders for
+
+1: **Miller** (158-191, **Born Again**, **Man Without Fear**) -> Smith -> **Bendis** -> *Brubaker* -> Waid
+
+---
+
+**Where to start with Daredevil?**
+
+I just finished binge-watching Season 2 of Daredevil. I'm already very into comic books but for some reason I never got around to reading any Daredevil titles except Daredevil Yellow by Jeph Loeb and Tim Sale, which I enjoyed very much.
+
+I'm looking for some recommended reading on him. I appreciate any help. Thanks.
+
+11: You should check out the **Bendis** and *Brubaker* run, the **Frank Miller stuff**, and the recent Mark Waid run. Soule's current series is pretty great too. Daredevil often attracts great talents.
+
+Edit: To clarify each run is a great jumping on point but the chronological order of the series goes **Frank**, **Bendies**/*Brubaker*, Waid, Soule. There are others in between but they aren't as prolific.
+
+> 7: This. I have never read **Miller's run** (always wanted to) but to me the **Bendis/Maleev** run (and what *Brubaker* follows it with) <u>is quintessential Daredevil</u>. Cannot recommend it enough. The art is spectacular and it's among **Bendis**' best writing I think.
+>
+> > 3: Yea you should definitely read Millers stuff. I'm not even a huge fan of his work, but his Daredevil is masterful.
+> >
+> > > 1:
+> > >
+> > > > I'm not even a huge fan of his work...
+> > >
+> > > This is pretty much why I haven't yet. I liked Year One, didn't care for DKR, but I did like All-Star Batman (maybe more for the novelty of it, if that makes sense rather than his writing standing out). I will check it out!
+> > >
+> > > > 7: As someone who only likes his Year One out of his other work, his DD is great. Get the reprinted omni and the companion out in a couple of weeks
+> > >
+> > > > 3: I find the majority of his initial DD run a little dated, but there are some superb stories in it, particularly Bullseye vs Elektra and Roulette. His second run, Darevil: Born Again, is my favourite thing he's ever written and probably my favourite Daredevil story.
+> > >
+> > > > 2: The great thing about Miller's run is you see the transition of cheesy daredevil to the daredevil we now know. The first volume is super cheesy that really dates the book. Then half way through volume 2 it changes. It gets dark and heavy and one of my all time favorite individual comics is in that volume. It hits you hard. And volume 3 sets the tone for pretty much exactly what you expect a modern day daredevil comic to be like.
+> > >
+> > > > 1: Daredevil is Frank Miller's greatest work in my opinion. I can't stand the guy usually but he really nailed it with Daredevil.
+
+> 3: I also think Ann Nocenti's run deserves to be mentioned. I think she followed Frank Millers run and did a really good job.
+>
+> > 2: Just a clarification for anybody who's put off hearing Ann Nocenti's name, she might not be very well thought of nowadays but back in the day she was a pretty legit writer, and her Daredevil run really is quite good.
+
+10: Go on Comixology today, big sale.
+
+I'm personally partial to the **Frank Miller**/John Romita Jr "**Daredevil: Man Without Fear**" 5 issue mini.
+
+Daredevil Season 1 borrowed heavily from this.
+
+There are lots of great places to start though, so don't get too hung up on finding the "right" spot.
+
+5: Start with **Frank Miller's stuff**. From there, go to *Bendis*, then *Brubaker*, then Waid. End on Soule's current run.
+
+5: **Miller**, then **Bendis**, then *Brubaker* then Waid then Soule
+
+2: For something a little more lighthearted Mark Waid's run is pretty great but tonally it is quite different from the show. I'd just recommend it because it's fairly self contained and has a lot of great moments between Matt and Foggy.
+
+> 2 (OP): Hey, I actually just started Waid's run because of recommendations on this thread and I'm really liking the tone of it!
+
+---
+
+**Best Daredevil run**
+
+I’m currently caught up on the current Daredevil run. Wondering which I should read next. Any suggestions?
+
+6: In order of best to least, IMO:
+
+**Frank Miller** (1980-1983, 1986, 1993)
+
+**Brian Bendis** (2001-2006)
+
+Mark Waid (2011-2015)
+
+Ann Nocenti (1986-1991)
+
+*Ed Brubaker* (2006-2009)
+
+Roger McKenzie (1978-1980)
+
+Kevin Smith (1998-1999)
+
+The rest of the runs, including Stan Lee's, are pretty bad (Not including Soule's yet).
+
+4: No love for the Kevin Smith run?
+
+> 2: Eh, kind of forgot about it. 8 issues is not much of a run. But I edited my list and added him last. His run was still better than Stan's and Gerry Conway's. Wolfman's and Shooter's runs are not bad, but just unmemorable. Wolfman created Bullseye, though. Shooter, Paladin.
+>
+> The biggest run I left off was D. G. Chichester's. Almost a decade of Daredevil. But his run was OK when I first read it, and really bad whenever I try to revisit. Too "90s" I suppose, and I love me SOME 90s comics.
+>
+> The best things Chichester wrote was the Shadowline, and bringing Terror over into the MU from there.
+
+5: **Millers run** is classic but I think **Bendis' run** is the best overall because as good as the stories were, one thing most people don't talk about is just how good Alex Maleev's art is on it. I'm actually re-reading the run now and sometimes I turn the page and still say "Whoah" at some of his splashes.
+
+Also, Kevin Smith's run (vol2, #1-8) is only an 8 issue arc ("Guardian Devil") but I think it is important to read for for several reasons:
+
+-This DD relaunch is often credited as being instrumental in bringing Marvel back from bankruptcy (and thereby a turning point in the industry following the mid 90s crash). It's a great piece of history to read.
+
+-Quesada pencils in top form. Some of the details and borders he added to splash and title pages are beautiful.
+
+-The death of an important figure in DD history.
+
+-It set the tone for an excellent crop of stories and writers in the 00s by taking a weak/forgotten/joke villain and giving him teeth. Oh and what a reveal it was.
+
+-oh yea, it's really good.
+
+3: Mark Waid's run on Daredevil is pretty good IMO!
+
+2: I'll rank what I've read (from amazing to OK, imo):
+
+- [**Daredevil**](https://www.amazon.com/dp/B01FIWX0WY) | [#16-19, 26-81](http://marvel.com/comics/issue/15616/daredevil_1998_16) | 2000-2006 | Brian Michael Bendis
+- [Daredevil](https://www.amazon.com/dp/0785152385) | [#1-36](http://marvel.com/comics/issue/36508/daredevil_2011_1), [1-18](http://marvel.com/comics/issue/49031/daredevil_2014_1) | 2011-2015 | Mark Waid
+- [*Daredevil*](https://www.amazon.com/dp/0785163344) | [#82-119, 500](http://marvel.com/comics/issue/3482/daredevil_1998_82) | 2006-2009 | Ed Brubaker
+- [**Daredevil**](https://www.amazon.com/dp/0785134735), [**Born Again**](https://www.amazon.com/dp/0785134816) | [#158-191, 219, 226-233](http://marvel.com/comics/issue/8138/daredevil_1964_158) | 1979-1983 | Frank Miller, McKenzie
+- [**The Man Without Fear**](https://www.amazon.com/dp/0785134794) | [#1-5](http://marvel.com/comics/issue/20750/daredevil_the_man_without_fear_1993_1) | 1993 | Frank Miller
+- [Daredevil: Yellow](https://www.amazon.com/dp/0785109692) | [#1-6](http://marvel.com/comics/issue/4618/daredevil_yellow_2001_1) | 2001 | Jeph Loeb
+- [Guardian Devil](https://www.amazon.com/dp/078514143X) | [#1-8](http://marvel.com/comics/issue/15609/daredevil_1998_1) | 1998 | Kevin Smith
+
+2: 1 - **Bendis** and **Miller** on equal footing - **Miller** has the better high points but **Bendis**' is a lot more consistent.
+
+2 - Waid
+
+3 - Nocenti
+
+4 - *Brubaker*
+
+5 - Smith
+
+6 - Loeb
+
+1: Daredevil
+
+For reference, this list was originally written in 2014 and I update it from time to time and post it wherever I think it would be helpful.
+
+So you wanna read some Daredevil? You're fortunate as there have been some excellent DD runs, many over the past decade.
+
+**Entry Level Daredevil Reading:**
+
+For the classics stories and Matts Origin, I recommended the following:
+
+You could start with the **Frank Miller run**. "**Born Again**" is regarded as one of the quintessential DD story lines. It's got a great story backed up by some great art. You could also start with "The Man Without Fear" mini series also by Miller (art by Romita Jr.) which was a 1990's modern retelling of Matt Murdock's origins. You could also start with Daredevil Yellow by Jeff Loeb, which is also a good modern retake on the origin story. I would skip DD Season One, however. I can't even remember the creative team behind it, so that reaffirms (to me) that it isn't vital reading.
+
+**Late 90's to Mid 2006 Marvel Knights - Kevin Smith, David Mack & Brian Michael Bendis**
+
+Daredevil was relaunched in the late 90's under the Marvel Knights banner with a brand new #1. Kevin Smith started the volume off with an 8 issue run that is pretty good and changes a few important things in the DD universe. Joe Quaseda does the art, which is also rad. After that it leads into the Brian Michael Bendis/ Alex Maleev run. This is my personal favorite DD run. The team of Bendis and Maleev (as well as art of some issues by David Mack) is a wonderful one. They are both excellent comic creators (I don't care what anyone says about Bendis, his DD work is tip top!) who create a masterpiece together. This series has dark and gritty writing with a very complimentary art style. I simply could not recommended this series enough. I've talked it up to my friends that have no real interest in comics; and especially not Daredevil as a character (thank Fox for the film that left a bad taste in everyones mouth) that ended Up loving it. In regards to the Bendis run; I feel like you don't realize when you've fallen in love with it. You start reading it and it just sucks you in; its tip top reading. Get on it!
+
+2016 edit: With the runaway success of the Netflix TV series, I definitely think this is a great entry series for any new DD readers, especially if you want a great Matt vs Fisk story.
+
+**2006 to 2010 - Ed Brubaker & Andy Diggle**
+
+After the Bendis run comes the fantastic work by Ed Brubaker. His run picks up right where Bendis leaves off, so you really should read the previous stories first. It's all one story, so read it all! Brubaker takes the character of Daredevil in a new direction. It's more of an action/adventure type of book where as Bendis was more of a gritty crime/mob style story. Both are great, I just happen to like the former much more. The art for the Brubaker run is pretty solid too, with great art by Michael Lark. The numbering goes back to the original numbering during this run, mainly to commemorate the 500th issue of Dardevil. The numbering remains this way until the book was relaunched a few years later.
+
+Now here is where most fans will tell you the writing slips a little. Andy Diggle takes over after Brubaker, and just like his predecessor he takes Matt in a new direction while also continuing on with story elements that were planted by Brubaker. Diggle tells a story that focuses on more of a magic/spiritual/mystical Asian inspired kind of book. It's pretty dark for the most part. A lot of people will tell you to skip this, and while I do consider it to be VERY necessary reading, I can agree to an extent because the writing wasn't great. At the very least you should read up on it on Wikipedia. It ties directly into "Shadowland" which was a crossover event that focused on the street level heroes (Spidey, Moonknight etc.) with Daredevil as the primary antagonist. That's right, *antagonist*. Like I said, I consider it to be vital reading.
+
+Once Shadowland ends, the book turns into "Black Panther: The Man Without Fear". Without spoiling too much, BP is taking care of Hells Kitchen for Matt for a little while. You don't need to read this, but I quite enjoyed it myself. It's written by David Liss with some Rotating artists. There's only 12ish issues to read if this here and it's a pretty interesting story. It goes into Fear Itself, and I found that arc to be very good. Around this time there was a mini series (also written by Diggle) called "Daredevil Reborn", not to be confused with Millers' Born Again. This series is only 4 issues and I found it to be the best of Diggles DD stories. It bridges the gap between Shadowland and the next volume, so I definitely recommends reading it. It's a a nice end to the previous few years worth of Daredevil stories.
+
+**2011 to 2015 Marvel Now! - Mark Waid & Chris Samnee**
+
+Next comes the Mark Waid run launching with a brand new #1 and new Volume. In general, Mark Waid's run has received nothing but critical acclaim. Like the writers before him, Waid takes Matt on a new journey and new direction. This run is a little more upbeat and campy than any other Daredevil book I've ever read. I can understand why some people might not like that kind of thing, but I feel like Matt has faced so many hardships and so much tragedy in his life that he can certainly do with some more upbeat and happier moments. There's still plenty of dark twists and turns in this run, but in comparison to the others (Especially Miller and Bendis) this is like watching an episode of Sesame Street. The art is great too! There have been a few spectacular artists that have chipped I got this run (Marcos Martin, Paolo Rivera, Mike Allred spring to mind) but the standout is Chris Samnee. Waid and Samnee have made this book so enjoyable, they've got a fantastic control of the character. That run ends at issue 36 but is relaunched right away with ANOTHER new #1 and new Volume for All New Marvel Now. This particular volume credits both Waid and Samnee as the storytellers, they really made it their own. Sadly, this run has now ended. This is my second favorite Daredevil run after Bendis'.
+
+**2015 to Present All New All Different Marvel - Charles Soule**
+
+After the status quo change of Secret Wars, the book was relaunched in 2015 with another #1, this time by Charles Soule and Ron Garney. At this moment in time, I've only read a handful of issues from this series and I can't really judge it by what I have read. I definitely liked the first two issues, but I'm like 10 books behind and have some catching up to do before I can give a fair opinion. I've read a lot of people say it's a drastic change in tone compared to Waids run, but that will be good for anyone who didn't love the previous run as much as someone like myself.
+
+The current run looks to be going strong, and in Feb 2017 when it reaches issue 17 there will be three new books (for Elektra, Bullseye and Kingpin respectively) launching for the new year, all of which will expand upon the current Daredevil world.
+
+*August 2017 update: * I still haven't read them yet... I HAVE them, but I'm lazy. I even just bagged and boarded all the single issues late week.
+
+*October 2017 update:* I still haven't read them yet.... still... I'm very, very behind. From what I can tell only Daredevil is still running as of the start of Marvel Legacy. The original numbering will return again with issue 595, so expect to see a big 600th issue very soon! Charles Soule is still the writer, he'll be joined by Stefano Landini on art duties.
+
+**EXTRAS**
+
+You could also check out "Dardevil: End of Days" by Bendis and Maleev. It was great to see these two take 'ol Hornhead for a spin again. This book can be considered to be Daredevils "The Dark Knight Returns". It's a future story that is *meant* to be canon. I liked it. It was dark and enjoyable and just really great to have this duo behind the wheel of an, albeit very different kind of, Daredevil series. I mention this series last because it's meant to be the last Dd story. Judge it for yourself.
+
+I hope you find these recommendations to be helpful. Happy reading!
+
+---
+
+**Best Daredevil Runs?**
+
+I've only ever actually read **Frank Miller's original run** and Waid's run and want to get more into Daredevil, so what runs of Daredevil do you suggest or enjoyed yourself?
+
+19: **Bendis/ Maleev** - Daredevil Volume 2 #27-81
+
+*Brubaker*/ (mostly) Lark - Daredevil Volume 2 #82-112 and Daredevil Volume 1 #500.
+
+Some people think Kevin Smith had a decent run too (Volume 2 #1-8), I am not such a fan though.
+
+> 8: I'd still say the events of Smiths run are quite important to *Bendis's* and it's a short read so I'd pick it up aswell.
+
+9: How has no one mentioned **Miller-Mazzuchelli**?
+
+> 6: I don't know if it counts as a "run" since it's only one story, but **Born Again** is essential, and in my opinion, the best Daredevil Story there is.
+
+8: Ann Nocenti gets some love for her Daredevil being the best post Miller and pre Marvel Knights imprint.
+
+Kevin Smith and Joe Quesada then began the Marvel Knights imprint of Daredevil with Guardian Devil and brought the character back to the forefront and decompressed storytelling was becoming popular at this time.
+
+**Brian Michael Bendis** did a short story with David Mack before taking over the title with Alex Maleev. **Bendis and Maleev's run** is very comparable to **Frank Miller's** run with Klaus Janson with a huge focus on the crime in the city.
+
+*Ed Brubaker and Michael Lark* followed **Bendis** and Maleev's run and is of comparable quality although even darker in tone.
+
+I think **Frank Miller** is the best Daredevil writer but **Bendis** isn't far behind while Maleev is Daredevil's best artist. *Brubaker's run* is great but not as memorable for me after his first story arc.
+
+6: The Ann Nocenti run (issues 236-291) is to me in the top 5 runs ever as far as Daredevil goes, especially when she was working with Romita Jr. She really did some new and crazy things but it never felt too out of place.
+
+4: I'd recommend Smith -> Mack -> *Bendis* -> *Brubaker*
+
+5: Everything from **Miller's run** forward is worth reading. It's lowest point is good and the highest point is legendary.
+
+---
+
+**Good Daredevil run to read?**
+
+With Daredevil being one of my favourite heroes i feel like i haven't read much about him, i've mainly always read Spidey. However with the void the Netflix cancellation has left me i want to read some Daredevil comics. I always hear "Born Again" is good but it is really hard to find here in the UK both in store and online.
+
+Any recommendations?
+
+8: **Miller**, **Bendis**, *Brubaker*, Waid, Soule, Kevin Smith, and Nocenti's runs.
+
+9: The easiest place to begin is, imo, **Bendis**. The greatest modern run of the character.
+
+> 4: Yeah if you want *a lot* of reading, then start with Bendis and keep going until you get to the end of Soule's run. It's pretty consistently fantastic minus one particular run (Digle's...). Be aware that we're talking about almost two decades worth of comic books, but if you get sucked in you might burn through them faster than you think.
+>
+> If you want a smaller commitment, Waid's run is more recent and it's awesome on its own. It leads to Soule's run chronologically, but narratively the link is pretty thin. Soule's it's also good by the way.
+>
+> Alternatively, you can wait for Zdarsky to pick up the mantle. The first issue of his run is due in a month or two.
+>
+> > 1: 
+> >
+> > > If you want a smaller commitment, Waid's run is more recent and it's awesome on its own
+> >
+> > I will have to disagree with you there. Was not a fan of the Waid run. To each there own though right.
+> >
+> > > 1:
+> > >
+> > > > I will have to disagree with you there. Was not a fan of the Waid run. To each there own though right.
+> > >
+> > > I agree with both of you. The first half was great, maybe the greatest quality run on DD in consecutive 25 issues since Miller. However, the second half (SF part) was pretty bad and kept going off the rails.
+
+5: The recent Mark Waid run is excellent. It's much more light-hearted than a lot of other Daredevil stories and the Chris Samnee art is top notch.
+
+5: Any run of Daredevil can satisfy you. Story wise he might be the most consistent Marvel hero IMHO.
+
+3: Start with classic **Miller**. So much of what you know about the iconic Daredevil is from this run.
+
+Then **Bendis** and *Brubaker*.
+
+Here's a great page for DD trades: http://www.manwithoutfear.com/daredevil-tradepaperbacks-and-graphic-novels.shtml
+
+3: Ann Nocenti’s run, there are two Epic Collections of it so far and it has wonderful art by the team of John Romita Jr. & Al Williamson, that art team also worked with Frank Miller on Man Without Fear and that’s an excellent read too.
+
+3: If you want something with a similar look and tone to the Netflix show, read the **Bendis/Maleev run**.
+
+If you want to read the comics that the show got the majority of its plot points from, read **Frank Miller's run**. The first season draws heavily from his miniseries **The Man Without Fear**, season two pulls from a couple of arcs in his original 80s work, and the third season is loosely based on his **Born Again** storyline.
+
+Personally I'd read **Miller's Daredevil: The Man Without Fear** first as it's the most new-reader-friendly of the lot, then move on to **Bendis** and go back to Miller's early work later on, as comics from the 80s and earlier can be a little difficult for newer readers to get into.
+
+There has been a whole slew of great Daredevil writers in the last couple of decades (there's also *Ed Brubaker*, Mark Waid, Ann Nocenti and Charles Soule to check out), but I would begin with those two.
+
+---
+
+**Ranking Daredevil Runs... Who's the Best/Worst?**
+
+So for the Daredevil fans out there, how would you rank the runs on the main series? Of the writers who have had significant runs who was the best? Worst?
+
+Stan Lee Issues: 001-009, 011-050, 053
+
+Denny O'Neil Issues: 018, 194-202, 204-207, 210-218, 220-223, 225-226
+
+Roy Thomas Issues: 051-069, 071
+
+Gerry Conway Issues: 072-098, 118, 144-145
+
+Steve Gerber Issues: 097-101, 103-117
+
+Marv Wolfman Issues: 124-139, 141-143
+
+Roger McKenzie Issues: 151-161, 163-166, 183
+
+**Frank Miller** Issues: 165-166, 168-191, 219, 226-233
+
+Ann Nocenti Issues: 236, 238-245, 247-257, 259-291
+
+D.G. Chichester Issues: 292-309, 312-327, 329-332, 380
+
+Joe Kelly Issues: -1, 358, 365-375
+
+Kevin Smith Issues: 0.5, 001-008
+
+David Mack Issues: 009-011, 013-015, 051-055
+
+**Brian Michael Bendis** Issues: 016-019, 026-050, 056-081
+
+*Ed Brubaker* Issues: 082-119, 500
+
+Andy Diggle Issues: 501-512
+
+Mark Waid Issues: Vol.1 001-010, 10.1, 011-036 Vol.2 0.1, 001, 1.50, 002-015, 15.1, 016-018
+
+Charles Soule Issues: 001-028, 595-612
+
+Chip Zdarsky Issues: 001-011 (613-623)
+
+23: Hard not to automatically put **Miller's run** at the top of the list, though I'm a huge fan of both *Brubaker's* and Waid's runs as well.
+
+15: I don’t know about “best,” but Nocenti’s is really... special—there’s really nothing else like it, especially when the Romita/Williamson team is drawing.
+
+**Miller** and Waid are both excellent, and very different from each other.
+
+14: It’s quite congested near the top - **Miller**, Nocenti, **Bendis**, *Brubaker*, Waid (and I imagine Zdarsky’s name will be mentioned amongst them if he keeps up the current standard)
+
+Bottom is between Diggle and Soule for me - I don’t remember Diggle being bad, just nowhere near as good as what came before. It’s been a while though. Some of Soule’s run was good and some of it was really bad, especially when it wasn’t Garney pencilling
+
+7: **Miller** Nocenti Waid *Brubaker* **Bendis**
+
+Denny got fucked by being stuck between **Miller’s runs**. But he cranked out a few solid ones with Mazzucchelli
+
+Zdarsky is only 11 issues in but they’ve been pretty great.
+
+7: **Bendis** is the top of my list, with Kevin Smith's a close second.
+
+5: Nocenti's is the most underrated for me and is the only place where DD fighs Ultron and an evil demonic vacuum cleaner.
+
+Miller has to be number 1 but the next 3 is a toss up between Nocenti, **Bendis** and Waid. I love the opening of Brubaker's but his treatment of Milla Donovan and Melvin Potts (in the same story iirc) really put me off. They just get messed up and it's never been satisfyingly resolved.
+
+5: **Miller**-putting both runs together seals this as Born Again is the best Daredevil.
+
+**Bendis**-great run, some of his best work
+
+Waid-light, airy Daredevil worked
+
+Nocenti-sometimes it felt like Gaiman and it was unique
+
+Zdarsky-could push higher if it keeps up
+
+Soule-this is going to age well
+
+Kelley-I wish it was longer
+
+Chichester-convoluted but cool
+
+Kessel-last run where the DD stood out
+
+5: I think Soule's is my favorite, I just love that run.
+
+3: Really glad there’s a lot of love for Nocenti’s run, I still think it’s really underrated.
+
+5: **Miller** wrote two of the best individual story arcs**- Born Again** and **The Man Without Fear**. However, as a whole, **Bendis’s run** is my favorite.
+
+2: I'd put the Waid run near the top. It was nice to have a Daredevil that was fun and swashbuckling opposed to the usual dower tone. The runs between Miller and Kevin Smith are probably the worst.
+
+> 3: Nocenti had a solid run, I liked it but didnt love it
+
+3: So, no love for Joe Kelly's run?
+
+3: Im'ma stick my head in and say that Kesels run is underappreciated!
+
+But for me, **Miller** is the best.
+
+3: Other than the usual choices like **Miller**, **Bendis**, *Brubaker* etc I always loved the David Mack issues
+
+3: Hard to compare such different writers but
+
+1. **Bendis**
+2. **Miller**
+3. Nocenti
+4. Waid
+
+What is it about DD that brings in such good writers?
+
+2 (OP): I have read everything from Smith to Zdarsky, and from the early years Lee, Thomas, Miller and Nocenti. For me Waid's is my favorite, it was just so very different and fun. I loved his use of lesser known villains. **Bendis** would be a close second.
+
+The bottom though is Soule, I just found it so dry and boring. It had it's moments but those were just so few and far between.
+
+---
+
+ **What is the best Daredevil story arc?**
+
+11: Most people here are going to say “**Born Again**”. **Miller’s entire run** counts as “best Daredevil” imo.
+
+**Bendis’** run is probably a close second. I’ll wager Kevin Smith’s run is 3rd.
+
+> 11: I'd pick Waid, *Brubaker*, Nocenti and Soule over Smith, quite easily.
+
+> 3: **Born Again** is the best super-hero comic ever, but you have to read previous stories that build up to that one.
+
+3: What is kind of awesome about DD is that he is accessible and easy to get into. Read **Man Without Fear**, **Miller’s first run**, Daredevil Love and War, **Born Again**, Smith’s Guardian Devil, **Bendis’ run**, Brubaker‘ coda, Waid, and Soule’s run and you have a great run of amazing books.
+
+You can also read Loeb/Sale’s Yellow, Nocenti/JRJR’s, Chichester/McDaniel’s run for other runs that people love.
+
+Best run is **Born Again**.
+
+Best issue is Vol 1 91
+
+My least Favorite story is Shadowlands.
+
+3: Guardian Devil is probably my favorite. The reveal of Mysterio was amazing, Joe Q's art was on point, and also just because of how important an arc it was for saving Marvel out of bankruptcy.
+
+With that said, that whole entire 119 issue volume is phenomenal start to end - Smith/Mack/**Bendis**/and *Brubaker*. Even Bob Gale's arc was decent up until the end...it makes me wonder if editorial tanked the ending of that story when they decided to go with Bendis over him for ongoing (obviously history shows it was the right decision, just saying).
+
+2: Single story arc? I’d, unsurprisingly, say **Born Again**.
+
+Best run? I’d say **Bendis**’.
+
+2: **Born Again**
+
+2: Parts of a Hole by David Mack and Joe Quesada.
+
+2: Decalogue, Daredevil (1998) #71-#75
+
+1: Don't remember the name of the arc but I love the trial of the White Tiger in Bendis' run.
+
+In terms of a single issue, "Costa de Morte" by *Brubaker* always gives me the feels. It's melancholic as hell and feels positively literary in the best ways.
+
+Currently, the entire Mayor Kingpin arc in Soule's run was fantastic.
 
 ### The Flash
 
@@ -4269,6 +4715,11 @@ Best Joker comic books: **The Man Who Laughs**, **The Killing Joke**, **Death *o
 
 Best Harley Quinn books: ~~**Batman: Mad Love**~~.
 
+Best Daredevil books: **Daredevil** (1979-1983) by Frank Miller (**Born Again** is the best story arc), **The Man Without Fear** by Frank Miller, **Daredevil** (2000-2006) by Brian Michael Bendis (the greatest modern run of the character, Alex Maleev is the best artist of Daredevil), *Daredevil* (2006-2009) by Ed Brubaker, Daredevil (2011-2015) by Mark Waid, Daredevil (1986-1991) by Ann Nocenti (underrated run).
+> Read **Man without Fear** first like others have suggested. Then, **Frank Miller's first run** is collected in 3 trades. After that, read **Born Again**.
+>
+> Any run of Daredevil can satisfy you. Story wise he might be the most consistent Marvel hero.
+
 Best The Flash books: 
 
 - Wally West: *The Flash by Mark Waid* - best run!
@@ -4386,103 +4837,110 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 17. https://www.reddit.com/r/batman/comments/9otdcq/best_comics_featuring_joker/
 18. https://www.reddit.com/r/joker/comments/3ehq8y/joker_comic_reading_list/?sort=top
 19. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
-20. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
-21. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
-22. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
-23. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
-24. https://www.reddit.com/r/DCcomics/comments/7791f6/where_to_start_with_green_lantern/
-25. https://www.reddit.com/r/comicbooks/comments/7008wz/best_runs_of_hellboy_to_check_out/
-26. https://www.reddit.com/r/comicbooks/comments/8breze/wow_the_hellboy_comics_are_actually_really_really/
-27. https://www.reddit.com/r/HellBoy/comments/b9rnbd/essentialbest_hellboy_comics/
-28. https://www.reddit.com/r/comicbooks/comments/as5j2l/favorite_hellboy_comics/
-29. https://www.reddit.com/r/comicbooks/comments/8gm5hy/i_want_to_get_into_the_hulk_where_should_i_start/
-30. https://www.reddit.com/r/Marvel/comments/371ee2/where_to_start_reading_hulk/
-31. https://www.reddit.com/r/comicbooks/comments/94pbm3/best_hulk_comics/
-32. https://www.reddit.com/r/comicbooks/comments/appqgd/best_hulk_runs/
-33. https://www.reddit.com/r/Marvel/comments/86x9op/best_hulk_stories_to_read/
-34. https://www.reddit.com/r/comicbooks/comments/b55b4l/what_are_some_good_hulk_comics_besides_planet/
-35. https://www.reddit.com/r/comicbooks/comments/6dtvwq/whats_the_absolute_best_spiderman_series/
-36. https://www.reddit.com/r/comicbooks/comments/2g6j0e/best_spiderman_comics/
-37. https://www.reddit.com/r/Spiderman/comments/2g8n8f/in_your_opinion_what_is_the_best_spidermans_comics/
-38. https://www.reddit.com/r/Marvel/comments/azusxm/need_help_finding_best_miles_morales_origin_comic/
-39. https://www.reddit.com/r/comicbooks/comments/34dtld/where_to_start_reading_miles_morales_spiderman/
-40. https://www.reddit.com/r/Marvel/comments/7jvyda/best_miles_morales_storyline/
-41. https://www.reddit.com/r/comicbooks/comments/54gc95/is_spidergwen_any_good/
-42. https://www.reddit.com/r/Marvel/comments/76n0h1/is_the_spidergwen_series_any_good/
-43. https://www.reddit.com/r/comicbooks/comments/85gqbl/help_with_spider_gwen_comics/
-44. https://www.reddit.com/r/SpiderGwen/comments/aa19ov/where_to_start_in_comics_for_spider_gwen/
-45. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
-46. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
-47. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
-51. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
-52. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
-53. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
-51. https://www.reddit.com/r/comicbooks/comments/8gtmi5/essential_xmen_read/
-52. https://www.reddit.com/r/xmen/comments/2l0cri/xmen_comics_beginners_reading_guide/
-53. https://www.reddit.com/r/comicbooks/comments/62xfkh/where_to_start_with_xmen_comics/
-54. https://www.reddit.com/r/xmen/comments/9vpb24/where_should_i_start_reading_the_xmen_comics/
-55. https://www.reddit.com/r/xmen/comments/8li356/i_want_to_start_reading_xmen_comics/
-56. https://www.reddit.com/r/comicbooks/comments/8pa2hd/what_is_the_best_xmen_comics/
-57. https://www.reddit.com/r/Marvel/comments/cqv7r5/bestessential_xmen_comics_after_house_of/
-58. https://www.reddit.com/r/xmen/comments/1tu405/what_are_the_best_cyclops_comics/
-59. https://www.reddit.com/r/Marvel/comments/3n58mf/best_cyclops_comics/
-60. https://www.reddit.com/r/comicbooks/comments/bjmgr5/best_cyclops_comics/
-61. https://www.reddit.com/r/Marvel/comments/8besuq/gambit_recommendations/
-62. https://www.reddit.com/r/xmen/comments/awxtec/best_reading_for_gambit/
-63. https://www.reddit.com/r/xmen/comments/ffjref/good_gambit_stories/
-64. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
-65. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
-66. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
-67. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
-68. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
-69. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
-70. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
-71. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
-72. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
-73. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
-74. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
-75. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
-76. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
-77. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
-78. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
-79. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
-80. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
-81. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
-82. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
-83. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
-84. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
-85. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
-86. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
-87. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
-88. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
-89. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
-90. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
-91. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
-92. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
-93. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
-94. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
-95. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
-96. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
-97. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
-98. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
-99. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
-100. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
-101. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
-102. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
-103. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
-104. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
-105. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
-106. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
-107. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
-108. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
-109. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
-110. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
-111. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
-112. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
-113. https://www.cbr.com/the-best-cyberpunk-comics-ever/
-114. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
-115. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
-116. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
-117. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
-118. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-119. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+20. https://www.reddit.com/r/comicbooks/comments/9qn1ej/where_to_start_with_daredevil_comics/
+21. https://www.reddit.com/r/comicbooks/comments/4b04pe/where_to_start_with_daredevil/
+22. https://www.reddit.com/r/comicbooks/comments/74llvo/best_daredevil_run/
+23. https://www.reddit.com/r/comicbooks/comments/4r1kra/best_daredevil_runs/
+24. https://www.reddit.com/r/comicbooks/comments/agxiaw/good_daredevil_run_to_read/
+25. https://www.reddit.com/r/comicbooks/comments/d3k182/ranking_daredevil_runs_whos_the_bestworst/
+26. https://www.reddit.com/r/comicbooks/comments/95w8vc/what_is_the_best_daredevil_story_arc/
+27. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
+28. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
+29. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
+30. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
+31. https://www.reddit.com/r/DCcomics/comments/7791f6/where_to_start_with_green_lantern/
+32. https://www.reddit.com/r/comicbooks/comments/7008wz/best_runs_of_hellboy_to_check_out/
+33. https://www.reddit.com/r/comicbooks/comments/8breze/wow_the_hellboy_comics_are_actually_really_really/
+34. https://www.reddit.com/r/HellBoy/comments/b9rnbd/essentialbest_hellboy_comics/
+35. https://www.reddit.com/r/comicbooks/comments/as5j2l/favorite_hellboy_comics/
+36. https://www.reddit.com/r/comicbooks/comments/8gm5hy/i_want_to_get_into_the_hulk_where_should_i_start/
+37. https://www.reddit.com/r/Marvel/comments/371ee2/where_to_start_reading_hulk/
+38. https://www.reddit.com/r/comicbooks/comments/94pbm3/best_hulk_comics/
+39. https://www.reddit.com/r/comicbooks/comments/appqgd/best_hulk_runs/
+40. https://www.reddit.com/r/Marvel/comments/86x9op/best_hulk_stories_to_read/
+41. https://www.reddit.com/r/comicbooks/comments/b55b4l/what_are_some_good_hulk_comics_besides_planet/
+42. https://www.reddit.com/r/comicbooks/comments/6dtvwq/whats_the_absolute_best_spiderman_series/
+43. https://www.reddit.com/r/comicbooks/comments/2g6j0e/best_spiderman_comics/
+44. https://www.reddit.com/r/Spiderman/comments/2g8n8f/in_your_opinion_what_is_the_best_spidermans_comics/
+45. https://www.reddit.com/r/Marvel/comments/azusxm/need_help_finding_best_miles_morales_origin_comic/
+46. https://www.reddit.com/r/comicbooks/comments/34dtld/where_to_start_reading_miles_morales_spiderman/
+47. https://www.reddit.com/r/Marvel/comments/7jvyda/best_miles_morales_storyline/
+48. https://www.reddit.com/r/comicbooks/comments/54gc95/is_spidergwen_any_good/
+49. https://www.reddit.com/r/Marvel/comments/76n0h1/is_the_spidergwen_series_any_good/
+50. https://www.reddit.com/r/comicbooks/comments/85gqbl/help_with_spider_gwen_comics/
+51. https://www.reddit.com/r/SpiderGwen/comments/aa19ov/where_to_start_in_comics_for_spider_gwen/
+52. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
+53. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
+54. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
+55. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
+56. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
+57. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
+58. https://www.reddit.com/r/comicbooks/comments/8gtmi5/essential_xmen_read/
+59. https://www.reddit.com/r/xmen/comments/2l0cri/xmen_comics_beginners_reading_guide/
+60. https://www.reddit.com/r/comicbooks/comments/62xfkh/where_to_start_with_xmen_comics/
+61. https://www.reddit.com/r/xmen/comments/9vpb24/where_should_i_start_reading_the_xmen_comics/
+62. https://www.reddit.com/r/xmen/comments/8li356/i_want_to_start_reading_xmen_comics/
+63. https://www.reddit.com/r/comicbooks/comments/8pa2hd/what_is_the_best_xmen_comics/
+64. https://www.reddit.com/r/Marvel/comments/cqv7r5/bestessential_xmen_comics_after_house_of/
+65. https://www.reddit.com/r/xmen/comments/1tu405/what_are_the_best_cyclops_comics/
+66. https://www.reddit.com/r/Marvel/comments/3n58mf/best_cyclops_comics/
+67. https://www.reddit.com/r/comicbooks/comments/bjmgr5/best_cyclops_comics/
+68. https://www.reddit.com/r/Marvel/comments/8besuq/gambit_recommendations/
+69. https://www.reddit.com/r/xmen/comments/awxtec/best_reading_for_gambit/
+70. https://www.reddit.com/r/xmen/comments/ffjref/good_gambit_stories/
+71. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
+72. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
+73. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
+74. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
+75. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
+76. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
+77. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
+78. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
+79. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
+80. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
+81. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
+82. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
+83. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
+84. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
+85. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
+86. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
+87. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
+88. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
+89. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
+90. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
+91. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
+92. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
+93. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
+94. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
+95. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
+96. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
+97. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
+98. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
+99. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
+100. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
+101. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
+102. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
+103. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
+104. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
+105. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
+106. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
+107. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
+108. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
+109. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
+110. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
+111. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
+112. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
+113. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
+114. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
+115. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
+116. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
+117. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
+118. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
+119. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
+120. https://www.cbr.com/the-best-cyberpunk-comics-ever/
+121. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
+122. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
+123. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
+124. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
+125. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+126. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
