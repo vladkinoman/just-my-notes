@@ -21,6 +21,7 @@
   - [Hellboy](#Hellboy)
   - [Hulk](#Hulk)
   - [Spider-Man](#Spider-Man)
+  - [Suicide Squad](#Suicide-squad)
   - [Swamp Thing](#Swamp-Thing)
   - [Wonder Woman](#Wonder-Woman)
   - [X-Men](#X-Men)
@@ -1993,6 +1994,83 @@ If you’re looking for the most efficient collection of required reading for Sp
 Gwen also has an ongoing title right now titled Ghost-Spider, but it’s only 3 issues in and doesn’t have a trade out yet.
 
 Edit: I haven’t read web warriors, but she hasn’t really referenced her experiences with the warriors so I assume it’s probably skippable. She’s also present in Spider-geddon but just for the 1st issue or 2 I believe.
+
+### Suicide Squad
+
+**Which Suicide Squad series to read?**
+
+Looking for recommendations on which Suicide Squad series I should read and maybe why?
+
+Suicide Squad 2011
+New Suicide Squad 2014
+Suicide Squad Rebirth
+or the current Suicide Squad run
+
+Also - is the current run a continuation from Rebirth?
+
+7: **The Ostrander one** from the 80s is the classic one.
+
+5: **Ostrander’s run**
+
+And the *current stuff*
+
+Check out Gail Simone’s Secret Six as well, it’s not the Squad, but conceptually it’s the same idea, just no bombs in people’s heads.
+
+> 4: Agreed on Secret Six, it has the same vibe and is better than most of the Squad runs out there.
+
+2: 100% read *the current run*. It’s amazing
+
+> 1: Do you mean with the current run only the ones under the DCU label or also the run from Rebirth included?
+>
+> 2: The current run. I only read a few issues of the Rebirth run, so I can’t really speak for it. Someone else might be able to help with that. The crossover “Justice League Vs Suicide Squad” was fun & had amazing artwork from Jason Fabok. Sorry I can’t be more help. But everything since the new 52 is all in the same timeline
+
+2: Definitely the current suicide squad run as it’s one of the best in recent memory. The first four volumes of the rebirth run are good too but after that it really drops off. I also second the suggestion for reading Gail Simone’s Secret Six. It’s probably the best out of them all (TBD on the current run because it’s so early on) even though it doesn’t carry the suicide squad title but is still very comparable thematically.
+
+---
+
+**Any good Suicide Squad comics to read? Where can I read more about Deadshot?**
+
+How does the New 52 one compare to the Rebirth one?
+
+8: The only SS run I recommend is **John Ostrander’s**.
+
+> 3: Second this
+>
+> > 3: **Ostrander's** is the best, I don't think rebirth is that bad either though, I can't say about the N52 as I thought it was so boring I couldn't get past the first 2 volumes
+
+3: Other than **Osterander's run** on Squad maybe don't read anything else. If you want more Deadshot however, go read Gail Simone's Secret Six it's been recollected into a big thick set of 4 omnibi (i guess that's the correct term). The New 52 run of Secret Six dose not feature Deadshot but is a nice continuation of that books style with a mostly new cast also
+
+1: **Ostrander’s SS run** is excellent and still the gold standard but the first 20 or so issues of the New 52 Suicide Squad were also decent.
+
+The series took a nosedive after Ales Kot left and Suicide Squad became “Tie-In Squad” for every major New 52 event, eventually leading to its cancelation / rebranding in “New Suicide Squad,” which was unspectacular.
+
+1: Secret Six!
+
+---
+
+**Any good Suicide Squad comics to read? Where can I read more about Deadshot?**
+
+How does the New 52 one compare to the Rebirth one?
+
+7: Read the 1987 **John Ostrander and Kim Yale series**, then the 4 or so issues Ales Kot did during the new 52. If you want to keep going after that then stop reading Suicide Squad and start COPRA.
+
+> 2: [COPRA](https://www.comixology.com/Copra/comics-series/63828?ref=c2VhcmNoL2luZGV4L2Rlc2t0b3Avc2xpZGVyTGlzdC90b3BSZXN1bHRzU2xpZGVy).
+>
+> It's Suicide Squad with the serial numbers filed off.
+
+5: Nothing really compares to the **John Ostrander original series**.
+
+If you're a fan of Deadshot try Gail Simone's Secret Six though as that has a similar feel and concept to the best Suicide Squad stories.
+
+> 2: I would recommend #15 of Simone's S6 run inparticular as it's guest written by Ostrander and centres on Deadshot
+
+4: As was said, you're better off with the **1987 series**, and don't miss the Deadshot: Beginnings miniseries by Ostrander and Yale, which takes place after Suicide Squad (1987) #18.
+
+2: Ostrander and Kim Yale wrote a Deadshot run as well.
+
+1: The last story arc of the current suicide squad run focused on him pretty heavily.
+
+1: I think Ostranders run is the best, but I’ve been enjoying rebirth quite a bit as well
 
 ### Swamp Thing
 
@@ -4749,6 +4827,10 @@ Best Spider-man books: **Ultimate Spider-Man** by Brian Bendis, *Kraven's Last H
 
 > Actually, people write that they're not worth reading: "None of them are very good. He’s just a tool to get even more money, without putting forth any original ideas. Same thing with all of the other spider-verse characters and spin-offs in the last 10 years. Remember, this IS from the same people who went through with OMD." - this was written about Morales. I guess same can be applied to Spider-Gwen.
 
+Best Suicide Squad books: **Suicide Squad** (1987) by John Ostrander and Kim Yale, the current *Suicide Squad* run by Tom Taylor, Secret Six by Gail Simone (for the the Deadshot), the Deadshot: Beginnings miniseries by John Ostrander and Kim Yale (read after Suicide Squad (1987) #18). 
+
+> Plus, [people say](https://www.reddit.com/r/DCcomics/comments/grt0wb/current_runs/) that Suicide Squad (2019) by Tom Taylor is one of the best DC runs at the moment.
+
 Best Swamp Thing books: **Saga of the Swamp Thing** by Alan Moore, *New 52 Swamp Thing* by *Scott Snyder*.
 
 Best Wonder Woman books: *Wonder Woman by George Perez Omnibus Vol. 1*, *Wonder Woman By George Perez Omnibus Vol. 2*, *Wonder Woman by George Perez Omnibus Vol. 3*, *Wonder Woman By Greg Rucka Vol. 1* (Rucka's first run), *Wonder Woman by Greg Rucka, Vol. 2* (Rucka's first run), *Wonder Woman Vol. 1: The Lies (Rebirth)* (Rucka is back, it's his second run, and it's good starting point).
@@ -4869,78 +4951,81 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 49. https://www.reddit.com/r/Marvel/comments/76n0h1/is_the_spidergwen_series_any_good/
 50. https://www.reddit.com/r/comicbooks/comments/85gqbl/help_with_spider_gwen_comics/
 51. https://www.reddit.com/r/SpiderGwen/comments/aa19ov/where_to_start_in_comics_for_spider_gwen/
-52. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
-53. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
-54. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
-55. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
-56. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
-57. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
-58. https://www.reddit.com/r/comicbooks/comments/8gtmi5/essential_xmen_read/
-59. https://www.reddit.com/r/xmen/comments/2l0cri/xmen_comics_beginners_reading_guide/
-60. https://www.reddit.com/r/comicbooks/comments/62xfkh/where_to_start_with_xmen_comics/
-61. https://www.reddit.com/r/xmen/comments/9vpb24/where_should_i_start_reading_the_xmen_comics/
-62. https://www.reddit.com/r/xmen/comments/8li356/i_want_to_start_reading_xmen_comics/
-63. https://www.reddit.com/r/comicbooks/comments/8pa2hd/what_is_the_best_xmen_comics/
-64. https://www.reddit.com/r/Marvel/comments/cqv7r5/bestessential_xmen_comics_after_house_of/
-65. https://www.reddit.com/r/xmen/comments/1tu405/what_are_the_best_cyclops_comics/
-66. https://www.reddit.com/r/Marvel/comments/3n58mf/best_cyclops_comics/
-67. https://www.reddit.com/r/comicbooks/comments/bjmgr5/best_cyclops_comics/
-68. https://www.reddit.com/r/Marvel/comments/8besuq/gambit_recommendations/
-69. https://www.reddit.com/r/xmen/comments/awxtec/best_reading_for_gambit/
-70. https://www.reddit.com/r/xmen/comments/ffjref/good_gambit_stories/
-71. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
-72. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
-73. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
-74. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
-75. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
-76. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
-77. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
-78. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
-79. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
-80. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
-81. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
-82. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
-83. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
-84. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
-85. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
-86. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
-87. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
-88. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
-89. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
-90. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
-91. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
-92. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
-93. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
-94. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
-95. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
-96. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
-97. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
-98. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
-99. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
-100. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
-101. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
-102. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
-103. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
-104. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
-105. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
-106. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
-107. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
-108. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
-109. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
-110. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
-111. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
-112. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
-113. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
-114. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
-115. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
-116. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
-117. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
-118. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
-119. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
-120. https://www.cbr.com/the-best-cyberpunk-comics-ever/
-121. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
-122. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
-123. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
-124. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
-125. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-126. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+52. https://www.reddit.com/r/DCcomics/comments/hawuam/which_suicide_squad_series_to_read/
+53. https://www.reddit.com/r/DCcomics/comments/93fcz4/any_good_suicide_squad_comics_to_read_where_can_i/
+54. https://www.reddit.com/r/comicbooks/comments/93fg9x/any_good_suicide_squad_comics_to_read_where_can_i/
+55. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
+56. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
+57. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
+58. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
+59. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
+60. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
+61. https://www.reddit.com/r/comicbooks/comments/8gtmi5/essential_xmen_read/
+62. https://www.reddit.com/r/xmen/comments/2l0cri/xmen_comics_beginners_reading_guide/
+63. https://www.reddit.com/r/comicbooks/comments/62xfkh/where_to_start_with_xmen_comics/
+64. https://www.reddit.com/r/xmen/comments/9vpb24/where_should_i_start_reading_the_xmen_comics/
+65. https://www.reddit.com/r/xmen/comments/8li356/i_want_to_start_reading_xmen_comics/
+66. https://www.reddit.com/r/comicbooks/comments/8pa2hd/what_is_the_best_xmen_comics/
+67. https://www.reddit.com/r/Marvel/comments/cqv7r5/bestessential_xmen_comics_after_house_of/
+68. https://www.reddit.com/r/xmen/comments/1tu405/what_are_the_best_cyclops_comics/
+69. https://www.reddit.com/r/Marvel/comments/3n58mf/best_cyclops_comics/
+70. https://www.reddit.com/r/comicbooks/comments/bjmgr5/best_cyclops_comics/
+71. https://www.reddit.com/r/Marvel/comments/8besuq/gambit_recommendations/
+72. https://www.reddit.com/r/xmen/comments/awxtec/best_reading_for_gambit/
+73. https://www.reddit.com/r/xmen/comments/ffjref/good_gambit_stories/
+74. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
+75. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
+76. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
+77. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
+78. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
+79. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
+80. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
+81. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
+82. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
+83. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
+84. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
+85. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
+86. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
+87. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
+88. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
+89. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
+90. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
+91. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
+92. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
+93. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
+94. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
+95. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
+96. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
+97. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
+98. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
+99. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
+100. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
+101. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
+102. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
+103. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
+104. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
+105. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
+106. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
+107. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
+108. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
+109. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
+110. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
+111. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
+112. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
+113. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
+114. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
+115. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
+116. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
+117. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
+118. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
+119. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
+120. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
+121. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
+122. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
+123. https://www.cbr.com/the-best-cyberpunk-comics-ever/
+124. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
+125. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
+126. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
+127. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
+128. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+129. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
