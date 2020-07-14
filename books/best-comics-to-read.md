@@ -1,6 +1,14 @@
 # Best comics to read
 
-> [Conclusion](#Conclusion) ← if you have no time, then this is your bro :)
+> **Bold** - means a title that people mention a lot and like it.
+>
+> *Italic* - means a title that people mention a lot, but not as often as **Bold**, they have mixed feelings about this one.
+>
+> Normal - means a title that may be good, but not as good as **Bold** and *Italic* titles.
+>
+> ~~Comic~~ - I bought this comic.
+
+> [Conclusion](#Conclusion) ← this is your bro :)
 
 ## Table of Contents
 
@@ -61,12 +69,6 @@
 - [References](#References)
 
 ## Various answers
-
-> **Bold** - means a name that people mention a lot.
->
-> *Italic* - means a name that people mention a lot, but not as often as **Bold**.
->
-> ~~Comic~~ - means I bought this comic strip.
 
 I'm not a fan of this sentiment at all, I don't think anyone gets to decide what makes someone a "true" fan of something and I especially wouldn't say someone wasn't a true fan for not having read books like Age of Ultron and Civil War, highly flawed as they are.
 
@@ -4789,16 +4791,15 @@ Best comic books: **Watchmen**, **Kingdom Come**, **The Dark Knight Returns**, *
 
 Best Batman comic books: **Year One**, **The Long Halloween**, **Dark Victory**, **The Dark Knight Returns**, **Court of Owls**, *Arkham Asylum: A serious House on a Serious Earth*.
 
-Best Joker comic books: **The Man Who Laughs**, **The Killing Joke**, **Death *of* the Family**, **Joker**, **Endgame**.
+- Joker: **The Man Who Laughs**, **The Killing Joke**, **Death *of* the Family**, **Joker**, **Endgame**.
+- Harley Quinn: ~~**Batman: Mad Love**~~.
 
-Best Harley Quinn books: ~~**Batman: Mad Love**~~.
-
-Best Daredevil books: **Daredevil** (1979-1983) by Frank Miller (**Born Again** is the best story arc), **The Man Without Fear** by Frank Miller, **Daredevil** (2000-2006) by Brian Michael Bendis (the greatest modern run of the character, Alex Maleev is the best artist of Daredevil), *Daredevil* (2006-2009) by Ed Brubaker, Daredevil (2011-2015) by Mark Waid, Daredevil (1986-1991) by Ann Nocenti (underrated run).
+Best Daredevil comics: **Daredevil** (1979-1983) by Frank Miller (**Born Again** is the best story arc), **The Man Without Fear** by Frank Miller, **Daredevil** (2000-2006) by Brian Michael Bendis (the greatest modern run of the character, Alex Maleev is the best artist of Daredevil), *Daredevil* (2006-2009) by Ed Brubaker, Daredevil (2011-2015) by Mark Waid, Daredevil (1986-1991) by Ann Nocenti (underrated run).
 > Read **Man without Fear** first like others have suggested. Then, **Frank Miller's first run** is collected in 3 trades. After that, read **Born Again**.
 >
 > Any run of Daredevil can satisfy you. Story wise he might be the most consistent Marvel hero.
 
-Best The Flash books: 
+Best The Flash comics: 
 
 - Wally West: *The Flash by Mark Waid* - best run!
 
@@ -4808,13 +4809,13 @@ Best The Flash books:
   >
   > New 52 The Flash volumes 1-5. Written and with art by the same artists of Dastardly Death of the Rogues, like much of the new 52 reboot it was a jumping on point. The art is beautiful and the writing is solid and fun. However pretty much all Flash lore was scrapped which is disappointing, more so if you read the previous recommendations.
 
-Best Green Lantern books: ~~**Green Lantern: Secret Origin**~~, **Green Lantern: Rebirth** and other books in Geoff Johns's Green Lantern Saga.
+Best Green Lantern comics: ~~**Green Lantern: Secret Origin**~~, **Green Lantern: Rebirth** and other books in Geoff Johns's Green Lantern Saga.
 
-Best Hellboy books: nearly all of it is written by Mike Mignola and nearly all of it is worth reading. Just start at the beginning with [Hellboy, Volume 1: *Seed of Destruction*](https://www.amazon.com/dp/1593070942) and follow the rest in [suggested reading order](http://www.multiversitycomics.com/annotations/hellboy-reading-order-2019/) (*Conqueror Worm* is the best story arc among them). Although, the best option would be to buy omnibuses. *Plague of Frogs* BPRD run is also recommended by people. Besides this spin-off, people also recommend these books: *Frankenstein Underground*, *Lobster Johnson*.
+Best Hellboy comics: nearly all of it is written by Mike Mignola and nearly all of it is worth reading. Just start at the beginning with [Hellboy, Volume 1: *Seed of Destruction*](https://www.amazon.com/dp/1593070942) and follow the rest in [suggested reading order](http://www.multiversitycomics.com/annotations/hellboy-reading-order-2019/) (*Conqueror Worm* is the best story arc among them). Although, the best option would be to buy omnibuses. *Plague of Frogs* BPRD run is also recommended by people. Besides this spin-off, people also recommend these books: *Frankenstein Underground*, *Lobster Johnson*.
 
-Best Hulk books: **Incredible Hulk Visionaries** (80s-90s) by Peter Devid (the best run), **Planet Hulk** and **World War Hulk** by Greg Pak, *Hulk the End* by Peter David (depressing af though), *Immortal Hulk* by Al Ewing, Incredible Hulk (1999-2007) by Bruce Jones, Hulk: Gray by Jeph Loeb, Ultimate Hulk Vs Wolverine by Damon Lindelof.
+Best Hulk comics: **Incredible Hulk Visionaries** (80s-90s) by Peter Devid (the best run), **Planet Hulk** and **World War Hulk** by Greg Pak, *Hulk the End* by Peter David (depressing af though), *Immortal Hulk* by Al Ewing, Incredible Hulk (1999-2007) by Bruce Jones, Hulk: Gray by Jeph Loeb, Ultimate Hulk Vs Wolverine by Damon Lindelof.
 
-Best Spider-man books: **Ultimate Spider-Man** by Brian Bendis, *Kraven's Last Hunt* and *The Death of Gwen Stacey* are the best comics of classic era (*Amazing Spider-Man*, the Bible of the Spider-Man universe),Origin of the Hobgoblin+Nothing Can Stop the Juggernaut+The Kid Who Collected Spider-Man by Roger Stern, Spider-Man: Birth of Venom, Spider-Man Blue, Spider-Man: Spider-Island, The Death of Jean DeWolff and One Small Break are both very good "dark" stories, Spider-Man/Human Torch (modern and light-hearted story).
+Best Spider-Man comics: **Ultimate Spider-Man** by Brian Bendis, *Kraven's Last Hunt* and *The Death of Gwen Stacey* are the best comics of classic era (*Amazing Spider-Man*, the Bible of the Spider-Man universe),Origin of the Hobgoblin+Nothing Can Stop the Juggernaut+The Kid Who Collected Spider-Man by Roger Stern, Spider-Man: Birth of Venom, Spider-Man Blue, Spider-Man: Spider-Island, The Death of Jean DeWolff and One Small Break are both very good "dark" stories, Spider-Man/Human Torch (modern and light-hearted story).
 
 > **Ultimate Spider-Man** is going to be the most accessible by a wide margin.
 >
@@ -4823,37 +4824,38 @@ Best Spider-man books: **Ultimate Spider-Man** by Brian Bendis, *Kraven's Last H
 > Everything else is secondary. Seriously, *everything*.
 
 - Miles Morales: origin starts in All-New Ultimate Comics Spider-Man #1 (Miles Morales: Ultimate Spider-Man Omnibus collects the whole Ultimate run), his original run Ultimate Comics: Spider-Man (second volume) is really strong.
+
 - Spider-Gwen: the first two volumes worth (Vol. 0 and Vol. 1) are really great (after reading the comments, I would say it's not worth it to read it - it is hit or miss).
 
-> Actually, people write that they're not worth reading: "None of them are very good. He’s just a tool to get even more money, without putting forth any original ideas. Same thing with all of the other spider-verse characters and spin-offs in the last 10 years. Remember, this IS from the same people who went through with OMD." - this was written about Morales. I guess same can be applied to Spider-Gwen.
+  > Actually, people write that they're not worth reading: "None of them are very good. He’s just a tool to get even more money, without putting forth any original ideas. Same thing with all of the other spider-verse characters and spin-offs in the last 10 years. Remember, this IS from the same people who went through with OMD." - this was wr itten about Morales. I guess same can be applied to Spider-Gwen.
 
-Best Suicide Squad books: **Suicide Squad** (1987) by John Ostrander and Kim Yale, the current *Suicide Squad* run by Tom Taylor, Secret Six by Gail Simone (for the the Deadshot), the Deadshot: Beginnings miniseries by John Ostrander and Kim Yale (read after Suicide Squad (1987) #18). 
+Best Suicide Squad comics: **Suicide Squad** (1987) by John Ostrander and Kim Yale, the current *Suicide Squad* run by Tom Taylor, Secret Six by Gail Simone (for the the Deadshot), the Deadshot: Beginnings miniseries by John Ostrander and Kim Yale (read after Suicide Squad (1987) #18). 
 
 > Plus, [people say](https://www.reddit.com/r/DCcomics/comments/grt0wb/current_runs/) that Suicide Squad (2019) by Tom Taylor is one of the best DC runs at the moment.
 
-Best Swamp Thing books: **Saga of the Swamp Thing** by Alan Moore, *New 52 Swamp Thing* by *Scott Snyder*.
+Best Swamp Thing comics: **Saga of the Swamp Thing** by Alan Moore, *New 52 Swamp Thing* by *Scott Snyder*.
 
-Best Wonder Woman books: *Wonder Woman by George Perez Omnibus Vol. 1*, *Wonder Woman By George Perez Omnibus Vol. 2*, *Wonder Woman by George Perez Omnibus Vol. 3*, *Wonder Woman By Greg Rucka Vol. 1* (Rucka's first run), *Wonder Woman by Greg Rucka, Vol. 2* (Rucka's first run), *Wonder Woman Vol. 1: The Lies (Rebirth)* (Rucka is back, it's his second run, and it's good starting point).
+Best Wonder Woman comics: *Wonder Woman by George Perez Omnibus Vol. 1*, *Wonder Woman By George Perez Omnibus Vol. 2*, *Wonder Woman by George Perez Omnibus Vol. 3*, *Wonder Woman By Greg Rucka Vol. 1* (Rucka's first run), *Wonder Woman by Greg Rucka, Vol. 2* (Rucka's first run), *Wonder Woman Vol. 1: The Lies (Rebirth)* (Rucka is back, it's his second run, and it's good starting point).
 
-Best X-Men books: **Uncanny X-Men** by Chris Claremont (classic and best; **X-Men: The Dark Phoenix Saga** is the most frequently mentioned), *New X-Men* by Grant Morrison, *Astonishing X-Men* by Joss Whedon (Swap this with New X-Men for a more consistent/fun intro to X-Men), House of M by Brian Michael Bendis, Uncanny X-Force Vol. 1 by Rick Remender (maybe it's as cool as Wheadon and Morrison comics).
+Best X-Men comics: **Uncanny X-Men** by Chris Claremont (classic and best; **X-Men: The Dark Phoenix Saga** is the most frequently mentioned), *New X-Men* by Grant Morrison, *Astonishing X-Men* by Joss Whedon (Swap this with New X-Men for a more consistent/fun intro to X-Men), House of M by Brian Michael Bendis, Uncanny X-Force Vol. 1 by Rick Remender (maybe it's as cool as Wheadon and Morrison comics).
 
-Best Cyclops books:  *New X-Men* by Grant Morrison, *Astonishing X-Men* by Joss Whedon (he is a badass in this one), Kieron Gillen's Uncanny X-Men run (#534.1-544, #1-20) and Avengers vs X-Men: Consequences, Messiah Complex by Ed Brubaker, X-Men: Second Coming by Mike Carey, Marvel comics presents: Cyclops.
+- Cyclops:  *New X-Men* by Grant Morrison, *Astonishing X-Men* by Joss Whedon (he is a badass in this one), Kieron Gillen's Uncanny X-Men run (#534.1-544, #1-20) and Avengers vs X-Men: Consequences, Messiah Complex by Ed Brubaker, X-Men: Second Coming by Mike Carey, Marvel comics presents: Cyclops.
 
-Best Gambit books: **Uncanny X-Men** by Chris Claremont (#246, #265-280), X-23 by Marjorie Liu, Gambit (2012) by James Asmus, Rogue & Gambit by Kelly Thompson, X-Men: Gambit & Rogue by Howard Mackie, Gambit Classic by Howard Mackie.
+- Gambit: **Uncanny X-Men** by Chris Claremont (#246, #265-280), X-23 by Marjorie Liu, Gambit (2012) by James Asmus, Rogue & Gambit by Kelly Thompson, X-Men: Gambit & Rogue by Howard Mackie, Gambit Classic by Howard Mackie.
 
-Best Wolverine books: **Wolverine (1982)** by Chris Claremont and Frank Miller, **Weapon X - Marvel Comics Presents (1988)** by Barry Windsor-Smith, **Enemy of the State - Wolverine (2003)** by Mark Millar, *Wolverine: Get Mystique* by Jason Aaron, *Adamantium Men - Wolverine Weapon X (2009)* by Jason Aaron (the entire Wolverine Weapon X by Jason Aaron isn't bad), *Wolverine Goes to Hell - Wolverine (2010)* by Jason Aaron (the whole Wolverine (2010-2012) run isn't bad, but GtH is the best comic in it), *Wolverine: Old Man Logan (2008-2009)* by Mark Millar (someone says that Lemire's run is better), Wolverine Epic Collection: Madripoor Nights, Wolverine by Greg Rucka Ultimate Collection (+Uncanny X-Force by Rick Remender, All-New Wolverine, **X-Men: Dark Phoenix Saga Complete Collection**).
+- Wolverine: **Wolverine (1982)** by Chris Claremont and Frank Miller, **Weapon X - Marvel Comics Presents (1988)** by Barry Windsor-Smith, **Enemy of the State - Wolverine (2003)** by Mark Millar, *Wolverine: Get Mystique* by Jason Aaron, *Adamantium Men - Wolverine Weapon X (2009)* by Jason Aaron (the entire Wolverine Weapon X by Jason Aaron isn't bad), *Wolverine Goes to Hell - Wolverine (2010)* by Jason Aaron (the whole Wolverine (2010-2012) run isn't bad, but GtH is the best comic in it), *Wolverine: Old Man Logan (2008-2009)* by Mark Millar (someone says that Lemire's run is better), Wolverine Epic Collection: Madripoor Nights, Wolverine by Greg Rucka Ultimate Collection (+Uncanny X-Force by Rick Remender, All-New Wolverine, **X-Men: Dark Phoenix Saga Complete Collection**).
 
-> Wolverine is one where you should just read the good stuff - not the entire runs. BUT! You can read the whole [2003 run](https://www.amazon.com/gp/product/B07JHX4VV4?ref_=series_rw_dp_labf) of Wolverine, starting with the Greg Rucka run from issues #1-19 and continue to the amazing **Enemy of the State**/Agent of Shield run by the man Mark Millar all the way to Old Man Logan.
+  > Wolverine is one where you should just read the good stuff - not the entire runs. BUT! You can read the whole [2003 run](https://www.amazon.com/gp/product/B07JHX4VV4?ref_=series_rw_dp_labf) of Wolverine, starting with the Greg Rucka run from issues #1-19 and continue to the amazing **Enemy of the State**/Agent of Shield run by the man Mark Millar all the way to Old Man Logan.
 
 ---
 
-Best Alien books: **Aliens: Outbreak**, **Aliens: Nightmare Asylum**, **Aliens: Female War** (it is better to buy Aliens Omnibus Volume 1 to get all three of them), *Aliens Vs. Predator*, *Labyrinth*, *Music of the Spears*, *Aliens: Defiance*, Aliens: Dead Orbit, ~~Aliens: Salvation~~.
+Best Alien comics: **Aliens: Outbreak**, **Aliens: Nightmare Asylum**, **Aliens: Female War** (it is better to buy Aliens Omnibus Volume 1 to get all three of them), *Aliens Vs. Predator*, *Labyrinth*, *Music of the Spears*, *Aliens: Defiance*, Aliens: Dead Orbit, ~~Aliens: Salvation~~.
 
 > A lot of of the Aliens comics are surprisingly good.
 
-Best Blade Runner books: Blade Runner 2019 (it is a pretty fresh run).
+Best Blade Runner comics: Blade Runner 2019 (it is a pretty fresh run).
 
-Best Doctor Who books:
+Best Doctor Who comics:
 
 - **TITAN COMICS**: *Doctor Who: The Tenth Doctor Vol. 2: The Weeping Angels of Mons* (or Doctor Who: The Tenth Doctor Complete Year 1 Vol. 1), *Doctor Who: The Eleventh Doctor Vol. 1-6* (the first two years of [Eleventh Doctor](https://tardis.fandom.com/wiki/Doctor_Who%3A_The_Eleventh_Doctor)), *3 Volume 1: The Heralds of Destruction*, *9 Volume 1: Weapons of Past Destruction* (+-), *4 Volume 1: Gaze of the Medusa* (+- mediocre plot), *8 Volume 1: A Matter of Life and Death* (+- wishy-washy).
 
@@ -4867,13 +4869,13 @@ Best Doctor Who books:
 
   >IDW is the worst among those publishers.
 
-Best Godzilla books: *Godzilla: The Half-Century War*, *Godzilla: Rulers of Earth*, *Godzilla: Cataclysm*, Godzilla in Hell (+- Godzilla: Gangsters & Goliaths, Godzilla: Legends).
+Best Godzilla comics: *Godzilla: The Half-Century War*, *Godzilla: Rulers of Earth*, *Godzilla: Cataclysm*, Godzilla in Hell (+- Godzilla: Gangsters & Goliaths, Godzilla: Legends).
 
-Best Judge Dredd books: *Judge Dredd: Complete Case Files #5*, *Origins*, *America*, (+*Complete Case Files #1*, *Complete Case Files #14*).
+Best Judge Dredd comics: *Judge Dredd: Complete Case Files #5*, *Origins*, *America*, (+*Complete Case Files #1*, *Complete Case Files #14*).
 
-Best Rick and Morty books: the entire main run.
+Best Rick and Morty comics: the entire main run.
 
-Best Silent Hill comic books: *Past Life* and *Downpour: Anne's Story* are very good, but the others are really bad.
+Best Silent Hill comics: *Past Life* and *Downpour: Anne's Story* are very good, but the others are really bad.
 
 Best Star Trek comics: *Mirror Broken* and *Through the Mirror*, others are not great tbh.
 
@@ -4888,7 +4890,7 @@ Best The Witcher comics: they're awful (stories give nothing to the universe, ar
 
 ---
 
-Best books by genre:
+Best comics by genre:
 
 - Fantasy: **Sandman**, *Fables*, **Saga**, **Bone**, *Monstress*, *Rat Queens*, *Conan*, *The Autumnlands*, *Black Magick* by Greg Rucka, *Locke & Key*, East of West by Jonathan Hickman, Birthright, Seven to Eternity by Rick Remender, Girl Genius (Agatha Heterodyne and the Beetleburg Clank - #1), Head Lopper, Ravine, *Hellboy*, The Hedge Knight by George Martin, official Pathfinder comics (especially the Origins series), official DnD comics (especially Fell's Five), Order of the Stick, Critical Role: Vox Machina, (+ Berserk manga).
 - Sci-fi:
