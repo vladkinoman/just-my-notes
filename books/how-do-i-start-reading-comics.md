@@ -290,63 +290,84 @@ The latest jumping on point is DC Rebirth. All series were relaunched with the i
 
 ## Shops
 
-[Comic Shop Locator](https://www.comicshoplocator.com/Home/1/1/57/575) - I don't think it works properly for Ukraine.
-
 World:
 
-- [**mycomicshop**](https://www.mycomicshop.com/) (Great store!), [midtowncomics](http://www.midtowncomics.com/) (mixed opinions on this one), [DCBS](https://www.dcbservice.com/), [local store](http://www.comicshoplocator.com/) - print (<u>singles</u>).
+- [**Comixology**](https://www.comixology.com/) and [**Amazon**](https://smile.amazon.com/Comics-Graphic-Novels-Books/b?ie=UTF8&node=4366)
+
+  > Note that Amazon also has a large selection of digital comics, and most of them link to your ComiXology account if you have one--it'll say whether or not this is the case on each comic's page. Additionally, their prices are frequently better for digital collected editions than one can find on ComiXology, but not always.
+
+- [**Book Depository**](https://www.bookdepository.com/category/2633/Graphic-Novels-Anime-Manga)
+
+  > [Source](https://kitchenriots.com/comic-store-ua/): А для тех, кто не знает откуда можно заказать комиксы в оригинале с бесплатной доставкой, поделюсь отличным магазином. [BookDepository](http://www.bookdepository.com/) продают книги, комиксы, артбуки и много других интересных вещей. Доставка по всему миру бесплатна, отгрузка осуществляется в течении 24 или 48 часов. В подарок к каждому заказу идет дизайнерская закладка — мелочь, а приятно. В Днепропетровск комиксы едут до 10 дней с момента осуществления заказа. А еще на сайте есть интересная фишка — на карте мира можно [посмотреть](http://www.bookdepository.com/live), что именно прямо сейчас заказывают люди.
+
+- [**Marvel Unlimited**](http://marvel.com/comics/unlimited) ($10/mo or $70/yr for all but new releases)
+
+- [mycomicshop](https://www.mycomicshop.com/) (Great store)
 
   > MyComicShop always does me right on grading and over-protecting for shipping. I've had the worst luck with Midtown. They're awesome! They may be a little pricier, but the books I get from here are ALWAYS in great condition and packaged extremely securely. Plus, they have some out of print stuff the others won't have.
   >
+
+- [DCBS](https://www.dcbservice.com/)
+
   > DCBS is great for preordering comicbooks in advance for a cheaper price. It's more worth it if you plan on buying a bunch at a time as you save more.
 
-- [**instocktrades**](http://www.instocktrades.com/) (Great store!), [ISBNS](http://www.isbns.net/), library (free) - print (<u>collected editions</u>).
+- [instocktrades](http://www.instocktrades.com/) (Great store!)
 
   > instocktrades is great for purchasing *trades*, which are collected issues into one big volume. (Instead of buying individual issues #1-#12, you just buy a trade which has them all in it).
   >
   > instocktrades: it may be worth it to trade wait if you are going to order everything online, and if that is the case instocktrades is great. It’s free shipping if you order $50 or more and you get an extra 2% off on your next order, so plan accordingly if you want to make a big order. Everything is usually discounted there too, so you can get a lot for that $50. They only sell trades, but I recommended trade waiting because it’s hard to order floppies every week due to cost. Unless your pull list is huge, to save money or spend the same amount on floppies as you would in store usually means you have to wait to order things anyhow. I have to be cost conscious and switching to trade waiting ended up making more sense for me; I might not have made that clear in my post, but I was throwing it out there as a cost-efficient option.
 
-- [**Comixology**](https://www.comixology.com/), e-library e.g. [Hoopla](https://www.hoopladigital.com/) (free, not for Ukraine), webcomics (free) - <u>digital only</u>.
-
-- [**Amazon**](https://smile.amazon.com/Comics-Graphic-Novels-Books/b?ie=UTF8&node=4366). Note that Amazon also has a large selection of digital comics, and most of them link to your ComiXology account if you have one--it'll say whether or not this is the case on each comic's page. Additionally, their prices are frequently better for digital collected editions than one can find on ComiXology, but not always.
-
-  > Note that Amazon also has a large selection of digital comics, and most of them link to your ComiXology account if you have one--it'll say whether or not this is the case on each comic's page. Additionally, their prices are frequently better for digital collected editions than one can find on ComiXology, but not always.
-  >
-  > Amazon for graphic novels...
-
-- [Book Depository](https://www.bookdepository.com/category/2633/Graphic-Novels-Anime-Manga)
-
-  > [Source](https://kitchenriots.com/comic-store-ua/): А для тех, кто не знает откуда можно заказать комиксы в оригинале с бесплатной доставкой, поделюсь отличным магазином. [BookDepository](http://www.bookdepository.com/) продают книги, комиксы, артбуки и много других интересных вещей. Доставка по всему миру бесплатна, отгрузка осуществляется в течении 24 или 48 часов. В подарок к каждому заказу идет дизайнерская закладка — мелочь, а приятно. В Днепропетровск комиксы едут до 10 дней с момента осуществления заказа. А еще на сайте есть интересная фишка — на карте мира можно [посмотреть](http://www.bookdepository.com/live), что именно прямо сейчас заказывают люди.
-
-- [Marvel Unlimited](http://marvel.com/comics/unlimited) ($10/mo or $70/yr for all but new releases).
+- [Hoopla](https://www.hoopladigital.com/) free e-library (for Canada and USA)
 
 - [TFAW](https://www.tfaw.com/) - I don't know what this store is, but it looks cool.
 
 - Someone find [Ebay](https://www.ebay.com/) is pretty good, a lot of shops sell through there.
 
-Ukraine:
+Ukraine (частично магазины найдены при помощи [Source](https://kitchenriots.com/comic-store-ua/)):
 
 - [**OnTheBus.com.ua**](https://www.onthebus.com.ua/), [comics in original](https://www.onthebus.com.ua/komiksy/angliyskiy/) - Odessa
 
+  > Самый большой магазин комиксов в стране. Огромный выбор, включая комиксы в оригинале.  Есть куча фигурок, плакатов и т.д. Также здесь продаются книги.
+  >
+  > Бонусная система есть. Бесплатной доставки нету.
+
 - [CosmicShop](https://cosmic.com.ua/ua/), [comics in original](https://cosmic.com.ua/ua/comics-en/) - Dnipro
 
-  > It has a bonus system.
+  > Очень маленький выбор комиксов, но зато есть самые популярные. Выбор комиксов в оригинале тоже очень мало, но зато есть свежие issue.
+  >
+  > Бонусной системы нет. Бесплатная доставка от 549 гривен. В подарок дается одна фирменная закладка.
 
 - [Anime Line Group](https://anime-market.kiev.ua/), [comics in original](https://anime-market.kiev.ua/category/view/200) - Kiev
 
-  > manga and comics, there are comic books that aren't available in other stores (Transmetropolitan)
+  > Один из самых больших выборов манги на русском языке. Также есть большое количество комиксов на английском языке (включая Transmetropolitan). Есть и другая продукция включающая фигурки, игрушки, аксессуары и т.д.
+  >
+  > Есть система скидок. Бесплатной доставки нету.
 
-  > In the next stores, the choice is not so good.
+  > В следующих магазинах выбор не так хорош или особенные предложения не так сильны как у магазинов выше.
 
 - [Comics.ua](https://comics.ua/), [comics in original](https://comics.ua/shop/komiksy/?rdrf[fil][6][0]=10)- Kiev
 
-- [Ideo-grafika.com](https://www.ideo-grafika.com/comics/), [comics in original](https://www.ideo-grafika.com/comics/?swoof=1&pa_lang=english&really_curr_tax=88-product_cat) - Kiev
+  > Вроде бы в этом магазине ассортимент больше чем в CosmicShop, но при этом во втором магазине хотя бы есть комиксы), которых нету в первом (или они отсутсвуют, но при этом страница товара остается в магазине. Есть тематические коробки (комиксные лутбоксы).
+  >
+  > Системы скидок не обнаружил. Бесплатная доставка от 700 гривен.
 
-- [Comxland.com](https://comxland.com/catalog/komiksy), [comics in original](https://comxland.com/catalog/komiksy?min_price=30&max_price=1690&6%5B0%5D=%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9) - Kiev
+- [Comics page on Geekach.com.ua](https://geekach.com.ua/komiksy/) Kiev, Kharkiv
+
+  > Магазин специализируется не на комиксах, но они там тоже есть и их неплохое количество, но не в оригинале.
+  >
+  > Есть система скидок. Бесплатная доставка от 1000 гривен.
 
 - [GeekPoint](https://geek-point.com.ua/), [comics in original](https://geek-point.com.ua/komiksi/komiksi-anglijskoyu/) - Kiev, decent amount of comic books in original.
 
-- [Comics page on Geekach.com.ua](https://geekach.com.ua/komiksy/), it feels like there is no Original - Kiev, Kharkiv
+  > Видно, что магазин специализируется на комиксах в оригинале. В основном эти комиксы - это single issues.
+  >
+  > Есть система скидок. Бесплатной доставки нету.
+
+- [Ideo-grafika.com](https://www.ideo-grafika.com/comics/), [comics in original](https://www.ideo-grafika.com/comics/?swoof=1&pa_lang=english&really_curr_tax=88-product_cat) - Kiev
+
+  > Заметил, что магазин специализируется больше на комиксах на украинском языке. Комиксов на английском почти нету, но среди тех, что есть (или хотя бы их страницы существуют) это Preacher и Hellblazer.
+  >
+  > Систему скидок не обнаружил. Бесплатная доставка от 800 гривен.
 
 ## Best Youtube channels about comics
 
