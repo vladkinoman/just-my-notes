@@ -12,10 +12,8 @@
 
 ## Table of Contents
 
-- [Various answers](#Various-answers)
-  - [Bonus answer - Essential Graphic Novels Everyone Should Read](#Bonus-answer---Essential-Graphic-Novels-Everyone-Should-Read)
-  - [Bonus answer - the only mention of Transmetropolitan](#Bonus-answer---the-only-mention-of-Transmetropolitan)
-  - [Bonus answer - dark comics, especially related to Batman](#Bonus-answer---dark-comics-especially-related-to-Batman)
+- [Best comics](#Best-comics)
+  - [Best single issues](#Best-single-issues)
 - [Opinions about New 52 and Rebirth](#Opinions-about-New-52-and-Rebirth)
   - [Conclusion on New 52 and Rebirth](#Conclusion-on-New-52-and-Rebirth)
 - [Superhero comic books - best books and where to start](#Superhero-comic-books---best-books-and-where-to-start)
@@ -68,7 +66,15 @@
 - [Conclusion](#Conclusion)
 - [References](#References)
 
-## Various answers
+## Best comics
+
+**Top 5 must read comics**
+
+What are your top 5 comic book series/graphic novels that every comic book fan MUST read? Ones that make you say "if you haven't read this than you aren't a true comic book fan." Comparable to civil war, age of Ultron, etc.
+
+11:
+
+> "if you haven't read this than you aren't a true comic book fan."
 
 I'm not a fan of this sentiment at all, I don't think anyone gets to decide what makes someone a "true" fan of something and I especially wouldn't say someone wasn't a true fan for not having read books like Age of Ultron and Civil War, highly flawed as they are.
 
@@ -80,9 +86,7 @@ That aside, my favorites that I recommend to everybody:
 - **Bone** by Jeff Smith
 - Stray Bullets by David Lapham
 
----
-
-There can’t really be a MUST read list, because comics appeal to many different audiences for many different reasons.
+8: There can’t really be a MUST read list, because comics appeal to many different audiences for many different reasons.
 
 The best examples of the medium to me are:
 
@@ -92,13 +96,9 @@ The best examples of the medium to me are:
 4. **The Dark Knight Returns** is cinema done as a comic, blending perfect imagery to story. 
 5. *Daredevil Born Again* is the greatest exploration of who a character is ever executed.
 
-Someone:
+> 3: I like this answer because it recognizes that "true comic book fan" should probably include the entire medium and not just one (dominant) genre/region.
 
-> I like this answer because it recognizes that "true comic book fan" should probably include the entire medium and not just one (dominant) genre/region.
-
----
-
-I can say, Civil War and Age of Ultron, would not be on many lists.
+3: I can say, Civil War and Age of Ultron, would not be on many lists.
 
 But top 5 I would recommend:
 
@@ -108,9 +108,7 @@ But top 5 I would recommend:
 4. Little Nemo
 5. Calvin and Hobbes
 
----
-
-**STANDALONE STORIES**
+2: **STANDALONE STORIES**
 
 1. **Watchmen**
 2. **Kingdom Come**
@@ -136,8 +134,6 @@ But top 5 I would recommend:
 4. Your Choice of Amazing Spider-Man by Nick Spencer or Friendly Neighborhood Spider-Man by Tom Taylor
 5. [reserve spot for Jonathan Hickman's House of X and Powers of X and whatever X-Men stuff of his comes next]
 
----
-
 2: **Watchmen**, **The Dark Knight Returns**, The Dark Phoenix Saga, **Kingdom Come**, and Kraven’s Last Hunt.
 
 2: Preacher, **Batman: Killing Joke**, Spider Man: Maximum Carnage, **Batman: The Man Who Laughs**, XMen: Days of Future Past.
@@ -154,7 +150,9 @@ But top 5 I would recommend:
 
 ---
 
-In no particular order:
+**What are your top 10 must read comics/series?**
+
+24: In no particular order:
 
 - Scott Pilgrim (Brian Lee O’Malley)
 - The Vision (Tom King, Gabriel Walta, & Jordie Bellaire)
@@ -168,7 +166,28 @@ In no particular order:
 - **Batman: The Long Halloween** (Jeph Loeb & Tim Sale)
   "+" in other answer: **Kingdom Come** - Even if you don't regularly read their comics, you will know a lot of characters and the art is fantastic.
 
----
+> 9: Look at this guy, just dropping Black Hole into a list all casual like. The book is good but it is an order of magnitude darker than anything else on that list and two orders more messed up/ unsettling. It feels weird to have that on a list beside Spiderman and Scott Pilgrim.
+
+24:
+
+- All Star Superman - The best superman book, IMO. Gives the best reasoning for loving the character
+- Kingdom Come - Even if you don't regularly read their comics, you will know a lot of characters and the art is fantastic.
+- Marvels - Same as above, but throw in a lot of great nostalgia
+- Fantastic Four (and FF) by Hickman - Great, long story, good art, and shows how the medium can be used for stories.
+- Superior Foes of Spider-Man - Funniest book available.
+- Saga - Shows comics can be more than just tights and spandex.
+- Ms. Marvel - I am a sucker for teenage heroes, and this is one of the best modern versions.
+- Lumberjanes - It is a joy to read, has a cast and a tone that is unlike most other things.
+- Annihilation - Cosmic, huge scale warfare. Just epic in the story it tells.
+- Gotham Central - Awesome art, and a genre that isn't often explored.
+
+> 6: 
+>
+> > Annihilation - Cosmic, huge scale warfare. Just epic in the story it tells.
+>
+> There's a Marvel collections sale happening on Comixology and I'm pretty sure all the major arcs are in it. Finally got to buy them after *acquiring* in my broke high school days. I'm so excited to read it all again.
+
+15:
 
 1. **Watchmen**
 2. **Sandman**
@@ -181,11 +200,63 @@ In no particular order:
 9. Superior foes of Spider-Man
 10. Morrison's Animal man
 
-> Where do you suggest to start with marvel? - By Marvels, I assume he means the (excellent) series by Kurt Busiek and and Alex Ross, not the entire Marvel Universe. That would be a tad excessive as a recommendation.
+11:
 
----
+- Whedon's Astonishing X-Men
+- Deadly Class
+- Saga
+- Birthright
+- Harrow County
+- Fraction's Hawkeye
+- Spencer's Superior Foes of Spider-Man
+- Y: The Last Man
+- Remender's Uncanny X-Force
+- King's Vision
 
-James Robinson - *Starman*
+8: Sandman by Neil Gaiman
+
+Fables by Bill Willingham
+
+Planetary by Warren Ellis and John Cassaday
+
+Watchmen by Alan Moore and Dave Gibbons
+
+Uncanny X-Men by Chris Claremont
+
+Thor by Walt Simonson and Sal Buscema
+
+Annihilation/Annihilation Conquest/Guardians of the Galaxy/War of Kings/Realm of Kings/Thanos Imperative by Dan Abnett & Andy Lanning
+
+Fantastic Four/FF/Avengers/New Avengers/Secret Wars by Jonathan Hickman
+
+Batman The Long Halloween/Dark Victory/Haunted Knight by Jeph Loeb and Tim Sale
+
+Bone by Jeff Smith
+
+Honorable Mention to Lee & Kirby's Fantastic Four, the X-Men Messiah Trilogy (Messiah Complex, Messiah War, Second Coming and Kyle/Yost's New X-Men/X-Force as well), Kieron Gillen's Loki saga (Thor/Journey into Mystery/Young Avengers), Garth Ennis and Steve Dillon's Punisher, and Bendis & Maleev's Daredevil.
+
+6: You can't go wrong with any/all of these!
+
+- XO Manowar
+- Archer & Armstrong
+- Harbinger
+- Jupiter's Legacy
+- All Star Superman
+- Grant Morrison's New X-men
+- Astonishing X-men
+- Saga
+- Planetary
+- Kingdom Come
+- Irredeemable
+- Watchmen
+- Sandman (Neil Gaiman)
+- Batman: The Long Halloween
+- Y: The last man
+- Invincible
+
+> 6: Nice to see Valiant topping your list.
+
+7: James Robinson - *Starman*
 
 Alan Moore - **Saga of the Swamp Thing** # one guy mentioned this in the top and get many votes
 
@@ -207,7 +278,9 @@ John Layman - Chew
 
 > Fuck, I forgot Starman! I have to change my list, shit. Good call.
 
----
+
+
+5: 
 
 1. All-Star Superman : This is a story that can make even the biggest Superman detractors fall in love with the guy. This is the quintessential Superhero story.
 2. **Kingdom Come** : This is an epic. Alex Ross' art gives it the same feel, and it almost feels like mythology. It's amazing.
@@ -215,19 +288,36 @@ John Layman - Chew
 4. Infinite Crisis : Another Crisis. This shows that we don't need darkness to create good stories. Stories don't need to be dark and edgy for the sake of it. You know what's better than one Superman? Two of them.
 5. Geoff Johns' **Green Lantern** : This man brought the GL franchise from zero. He built on the legacy that was left by his previous writers and left it at a level that I don't think any other human can. Such innovation, and so many incredible ideas.
 
+5: I'll just rattle 'em off.
+
+- Preacher
+- Alan Moore's Saga of the Swamp Thing
+- Stan Lee and Steve Ditko's Amazing Spider-Man
+- Stan Lee and Jack Kirby's Fantastic Four
+- Batman by Grant Morrison
+- Uncanny X-Men by Chris Claremont, Dave Cockrum, and John Byrne
+- The Vision by Tom King and Gabriel Hernandez Walta
+- All-Star Superman
+- Green Lantern by Geoff Johns
+- Brian Bendis and Alex Maleev's Daredevil
+
 ---
+
+**Comic book fans of Reddit, what comics should everybody read?**
+
+188: Watchmen.
 
 143: I really liked the graphic novel **Bone** it had a really interesting story about each character, especially the old humans. It incorporated humor and drama that got me wondering about life in like fifth grade. And of course the Adventures of Tintin.
 
-> Bone is fantastic, even for adults. It is very simple, but absolutely fantastic.
+> 21: Bone is fantastic, even for adults. It is very simple, but absolutely fantastic.
 
 133: Calvin and Hobbes. I understand it is a comic strip and doesnt directly answer your question, but I love the strip and I am counting it.
 
-> Yeah, it's just a charming and funny comic. Love it. I work in a thrift store and the books of the strips come in some times and I make sure to under-price them insanely so someone can have an awesome find.
+> 12: Yeah, it's just a charming and funny comic. Love it. I work in a thrift store and the books of the strips come in some times and I make sure to under-price them insanely so someone can have an awesome find.
 
 115: **Saga**. It's a gloriously over-the-top space opera by Brian K. Vaughn and Fiona Staples. Violence, adult themes, heart and humour all wrapped up into one longrunning package.
 
-> Also from Vaughn, Y the Last Man, a semi-long running but totally finished work of speculative fiction. Its the story of a man name Yorick and his monkey and they try to make their way through a world following the mysterious death of everyone but them with a Y chromosome.
+> 13: Also from Vaughn, Y the Last Man, a semi-long running but totally finished work of speculative fiction. Its the story of a man name Yorick and his monkey and they try to make their way through a world following the mysterious death of everyone but them with a Y chromosome.
 
 105:
 
@@ -237,15 +327,41 @@ John Layman - Chew
 
 - Finally, [Cerebus The Aardvark](https://en.wikipedia.org/wiki/Cerebus_the_Aardvark). Read it all if you can, from start to finish. It'll take a while, but it's a fucking masterpiece of literature, not just comic books.
 
-  > WARNING ABOUT CERBERUS
+  > 13: WARNING ABOUT CERBERUS
   >
   > At one point the creator gets dumped and the book mutates into a weird misogynist screed with page upon page of text and doodles masquerading as a comic.
 
-> I would add: Planetary, and The Authority.
+> 8: I would add: Planetary, and The Authority.
+
+73: A lot of classics already mentioned, I'll list some of my favorites I haven't seen mentioned yet.
+
+Preacher (all of it)
+
+Batman: Under The Red Hood
+
+Batman: Hush
+
+Batman: The Long Halloween
+
+Batman: Court of Owls, City of Owls, Death of the Family, Endgame
+
+Green Lantern: Blackest Night, Brightest Day
+
+The Death of Superman
+
+House of M
+
+Civil War
+
+Planet Hulk, World War Hulk
+
+Infinity Guantlet, Infinity
+
+Thor God of Thunder: The God Butcher, Godbomb
 
 68: All-Star Superman.
 
-> Legit one of the best comic books ever made imo and probably the best Superman story.
+> 9: Legit one of the best comic books ever made imo and probably the best Superman story.
 
 51: **Maus** by Art Spiegelman. https://www.washingtonpost.com/news/comic-riffs/wp/2016/08/11/why-maus-remains-the-greatest-graphic-novel-ever-written-30-years-later/?utm_term=.5e7c7f42833a
 
@@ -253,11 +369,13 @@ John Layman - Chew
 
 44: [Old Man Logan](https://youtu.be/cNAD0fTBn2I)
 
-> You want the one (tom) written by Mark Millar.
+> 12: You want the one (tom) written by Mark Millar.
+
+48: Y the Last Man
 
 44: *Preacher*. The show doesn't even compare to how well made the comic is.
 
-> The characters are great. Its the directing they're trying to pace themselves and build up plot but its so damn boring and feels like filler. Why are they using the love triangle arc?? Cassidy was never "in love" with Tulip like in the show. I can tell they're building to where they fight over her and its gonna suck. I wanted the second Season to be about them going to New York and THEN being kidnapped by the L'angels. Sorry long reply.
+> 4: The characters are great. Its the directing they're trying to pace themselves and build up plot but its so damn boring and feels like filler. Why are they using the love triangle arc?? Cassidy was never "in love" with Tulip like in the show. I can tell they're building to where they fight over her and its gonna suck. I wanted the second Season to be about them going to New York and THEN being kidnapped by the L'angels. Sorry long reply.
 
 44: The 2012 run of *Hawkeye* by Matt Fraction. It’s a slow, almost noir-like story about Hawkeye’s everyday life as a single guy in New York who is also a superhero. It’s really brilliant.
 
@@ -266,15 +384,12 @@ Complete:
 
 - *Fables* - Fairy tale people live in NY. Eventually there's a big war with their home world.
 
-  > The first arc of Fables dealing with the adversary was great, but it lost steam after that. The first four chapters are still one of my favourite comic arcs.
-
 - **Watchmen** - I thought it was just okay, but the overall consensus is that it's amazing. Realistic super hero story that flips tropes.
 
 - Y: The Last Man - All but let's say one man dies. The world handles that pretty poorly.
 
 - and maybe The Boys - Super heroes are real, but they're more like celebrities. Also they're terrible people deserving of death.
 
-  > For me The Boys swings between trying to catch my breath from laughter, and putting it down and looking for videos of kittens to try and block out the awful.
 
 Still running:
 
@@ -282,39 +397,97 @@ Still running:
 
 - The Walking Dead - The pretty good zombie comic that inspired the shitty show. Lulls after the prison, lulls again after All Out War.
 
-  > It's actually completed.
+  > 9: The first arc of Fables dealing with the adversary was great, but it lost steam after that. The first four chapters are still one of my favourite comic arcs.
+  
+  > 7: For me The Boys swings between trying to catch my breath from laughter, and putting it down and looking for videos of kittens to try and block out the awful.
 
-Bonus:
+25: Saga
 
-> Finally someone mentions *Transmetropolitan*. It's all the way up there with Sandman and Watchmen for me.
->
-> > I'd rate it better than Watchmen, almost as good as The Boys which is  one of my all time favourites.
+Invincible
 
-### Bonus answer - Essential Graphic Novels Everyone Should Read
+Sandman
 
-1. **Maus Complete**. (Includes Maus + Maus II)
+DMZ
 
-2. The Contract With God Trilogy
+Daredevil: Born Again
 
-3. Sin City: The Hard Goodbye
+Punisher MAX (Garth Ennis run)
 
-4. **The Watchmen**
+Hellboy
 
-5. **Persepolis**
+The Walking Dead
 
-6. The Black Hole
+Outcast
 
-7. Kabuki: Circle Of Blood
+Wytches
 
-8. Ghost In The Shell
+Baltimore
 
-9. The Killer
+Batman: Black Mirror
 
-10. Blacksad
+Batman: R.I.P.
 
-    "+" **The Sandman**.
+Batman and Son
+
+Batman: Arkham Asylum: Serious House on Serious Earth
+
+Killing Joke
+
+Batman: The Man Who Laughs
+
+Paper Girls
+
+The Invisibles
+
+Nova (2006)
+
+Annihilation
+
+Annihilation: Conquest
+
+Guardians of the Galaxy (2008)
+
+Cable and Deadpool
+
+Deadpool (2012)
+
+Transmetropolitan
 
 ---
+
+**Essential Graphic Novels Everyone Should Read**
+
+1. **Maus Complete**. (Includes Maus + Maus II)
+2. The Contract With God Trilogy
+3. Sin City: The Hard Goodbye
+4. **The Watchmen**
+5. **Persepolis**
+6. The Black Hole
+7. Kabuki: Circle Of Blood
+8. Ghost In The Shell
+9. The Killer
+10. Blacksad
+
+
+41: **The Sandman**
+
+26: "Fun Home" by Alison Bechdel and "Daytripper" by Fabio Moon and Gabriel Ba are the two I always recommend to people
+
+> 10: I'm surprised *Fun Home* didn't make the initial list. It's an iconic graphic novel by an iconic artist, and a cultural touchstone especially for the lesbian community/ lgbt community at large.
+
+20: I think not enough credit is given to old-fashioned superhero comics. "The Dark Knight Returns" is as good as "Sin City" and "The Killing Joke" as good "Watchmen", but they are somehow more likely to be overlooked because they are Batman, so can't be taken seriously? I mean, a vigilante in a cape is somehow less mature than a giant dong?
+
+Then, to go further, why treat either of them more than your standard "comic strips" that can tell a story in only a few frames.
+
+I guess this, for me, is my rant about how "visual book" lovers can be just as pretentious as those who just read words-only. A person can love Jack Reacher and find no interest in Humbert Humbert, without being a lesser reader. Likewise, Garfield has just as much validity in story-telling as "V for Vendetta".
+
+---
+
+**What are the the "must read" graphic novels?**
+
+I read a lot of comics when I was a little kid and teenager, but as an adult I couldn't really get into them anymore. I read a lot but just non-fiction and comics mostly felt too childish or shallow for me to find them interesting. A few, though, were really great: I read Hayo Miyazaki's Nausicäa and found there all the things I like about the man's movies plus I really enjoyed the art. Other enjoyable series was Vinland Saga by Makoto Yukimura, it was a really solid work and the art got really impressive. Western comics I really have not dabbled with.
+
+What would be the best of the best for graphic novels then? Watchmen maybe, what else? I'm not dissing the art form, just really unfamiliar with the scene and it's not necessarily my thing, but can appreciate good stories and art.
 
 38: "From hell" by Alan Moore. Revolves around the mystery of Jack the ripper. With insight to lot of conspiracy theories and postulations. Everything in the book is meticulously detailed and researched, down right the weather of the particular scene. It's extensive and an achievement in the medium. For me from hell represents the maximum potential of the graphic novel as a medium.
 
@@ -343,17 +516,13 @@ Edit: Dammit. I knew I would:
 - Palestine by Joe Sacco
 - Tales from the Crypt by Various
 
-> Yeah this is probably the most complete one on the thread. I would add Frank by Jim Woodring, Preacher by Garth Ennis, Peanuts by Charles Schulz, and Fun Home by Alison Bechdel.
+> 6: Yeah this is probably the most complete one on the thread. I would add Frank by Jim Woodring, Preacher by Garth Ennis, Peanuts by Charles Schulz, and Fun Home by Alison Bechdel.
 
 21: 
 
 - **Watchmen**
-
 - **Maus**
-
 - **Persopolis**
-
-  > The Persepolis graphic novel goes more in depth than the film, but otherwise is mostly the same
 
 I’d have to add Dark Knight Returns but it has no where near the critical acclaim or mainstream, general recognition of the other three.
 
@@ -361,7 +530,37 @@ I’d have to add Dark Knight Returns but it has no where near the critical accl
 >
 > This is the book that transformed Batman from the old comedy tv show to the much darker batman we're used to nowadays. It's pretty political though, at least one friend I lent it to didn't like it because he didn't agree with the political statements.
 
-### Bonus answer - the only mention of Transmetropolitan
+18: Daytripper. Saga. Deadly class.
+
+Those 3 are my favs.
+
+> 6: Daytripper is the GOAT.
+
+17: I'll throw this out: Blacksad. Artwork is really good (animals / humans); stories are well written (detective noir). It is not western, so you may find it familiar.
+
+15: Since you mentioned Nausicäa, and I loved that also, here are some of my favorites:
+
+[• The Incal](https://www.humanoids.com/y_catalog/book/id/564) by Alexandro Jodorowsky (Artist/Director collaborated on a failed 'Dune' adaptation. [For anyone who hasn't see 'Jodorowsy's Dune', please do yourself a favor] Most of that work ended up in this trippy sci-fi epic) and Moebius (the incredible Jean Girard does these fantastically detailed and mind-melting drawings.)
+
+• [Bone](http://www.boneville.com/comic/bone-issue-one-cover-2/) by Jeff Smith (at first glance looks childish, but is actually a well-thought out, solid fantasy story)
+
+• [Saga](https://imagecomics.com/comics/series/saga) by Brian K. Vaughan (mentioned elsewhere, but it's awesome)
+
+• And anything ever drawn by Seth Fisher like [Willworld](https://www.goodreads.com/book/show/1415722.Green_Lantern) or [Fantastic Four/Ironman: Big in Japan](https://www.goodreads.com/book/show/1085273.Fantastic_Four_Iron_Man) (he was a playfully eccentric genius comic artist, died tragically young)
+
+> 6: I'm reading Bone for my son at the moment. It's not many stories that both a 42 year old and a 8 year old can appreciate.
+
+13: A turn of the century classic that's been on my mind recently is Transmetropolitan by Warren Ellis. Great story, strong characters, and extremely relevant to our current political and social climates. The main character is a Hunter S. Thompson type journalist who peruses a cyberpunk world advocating for Transients (human-alien trans people) and fighting against insanely corrupt government officials. Check it out.
+
+12: The Sandman by Neil Gaiman
+
+8: My top 5 recommended novels or series are the following:
+
+Saga by Brian K. Vaughn, Essex County by Jeff Lemire, Bone by Jeff Smith, Maus by Art Spieglman, Berlin by Jason Lutes
+
+**What Are Your Favorite Comics to Recommend to People?**
+
+I've read a lot of comic books, but I still feel like there are so many amazing stories I haven't even touched, what are some of your favorite comic books that you think everyone should read?
 
 5: Top Ten by Alan Moore. It's a very non-Alan-Moore-like comic. Fun, entertaining and bright. It's yet another take on his usual schtick ("what if superheroes really existed in the real world") but it's done with a sense of fun and the end result is a great comic book.
 
@@ -371,55 +570,428 @@ I’d have to add Dark Knight Returns but it has no where near the critical accl
 
 3: It depends on what they are looking for. For those who want something outside the realm of Superheroes usually Essex County. For those who want Superhero stories but done in a different way All Star Superman, and for those who just want a great starting point to get into comics usually Ultimate Spider-Man.
 
-### Bonus answer - dark comics, especially related to Batman
+4: 
 
-For Batman:
+- All-Star Superman
+- Hellboy
+- American Vampire
+- Green Lantern by Geoff Johns
+- JLA by Grant Morrison and Howard Porter
+- Daredevil by Brian Michael Bendis and Alex Maleev
+- Superman (including Man of Steel mini) by John Byrne
+- Hellblazer (all of it but especially the Garth Ennis and Steve Dillon run)
+- Astonishing X-Men by Joss Whedon and John Cassaday
+- Hack/Slash
 
-Arkham Asylum, Dark Knights: Metal, One Shots **Dark Knight Returns**
+5:
 
-Non-Batman:
-
-**Watchmen**, Invisibles, **Swamp Thing** (Alan Moore), **Sandman** (Neil Gaiman).
+- Watchmen
+- Kraven's Last Hunt
+- S.H.I.E.L.D by Hickman
+- V for Vendetta
+- Old Man Logan
+- The Killing Joke
+- Gideon Falls (ongoing)
+- Daredevil by Frank Miller
+- The Dark Knight Returns
+- Batman Hush
+- Thor: Gods on Earth, Gods & Men by Dan Jurgens
+- The Night Gwen Stacy Died
 
 ---
 
-*Arkham Asylum: A serious House on a Serious Earth* is probably the darkest. **Dark Knight Returns**, Shaman, The Cult, and Gothic are also really good dark ones.
+**Your top 5 favorite standalone comics (r/comicbooks)**
 
----
+> [Google Sheet](https://docs.google.com/spreadsheets/d/1DA9tlG9zh2M4AVWU4hAUkSOfat5kBKnBPMiBMF-nZAQ/edit#gid=887621986).
 
-Now what do you mean by "dark?"
+| **Title**                                                    | **Author/s**                                | **Votes** |
+| ------------------------------------------------------------ | ------------------------------------------- | --------- |
+| **Watchmen**                                                 | Alan Moore and Dave Gibbons                 | 9         |
+| [All-Star Superman](https://www.goodreads.com/book/show/7719640-absolute-all-star-superman) | Grant Morrison and Frank Quitely            | 5         |
+| [Spider-Man Blue ](https://www.goodreads.com/book/show/160882.Spider_Man) | Loeb/Sale                                   | 5         |
+| [Batman Year One](https://www.goodreads.com/book/show/59980.Batman) | Frank Miller,  David Mazzucchelli           | 4         |
+| [Daytripper](https://www.goodreads.com/book/show/8477057-daytripper) | Fábio Moon,  Gabriel Bá, Craig Thompson     | 4         |
+| [Kingdom Come](https://www.goodreads.com/book/show/16992.Kingdom_Come) | Mark Waid                                   | 3         |
+| [Daredevil Yellow](https://www.goodreads.com/book/show/485381.Daredevil_Legends_Vol_1) | Jeph Loeb                                   | 3         |
+| [The Long Halloween](https://www.goodreads.com/book/show/106069.Batman) | Loeb/Sale                                   | 3         |
+| Bone                                                         | Jeff Smith                                  | 2         |
+| [God Loves, Man Kills ](https://www.goodreads.com/book/show/299947.X_Men) | Chris Claremont,  Brent Anderson            | 2         |
+| Hawkeye                                                      | Matt Fraction                               | 2         |
+| [Hellboy: Seed of Destruction ](https://www.goodreads.com/book/show/102458.Hellboy_Vol_1) | Mignola                                     | 2         |
+| [Omega Men](https://www.goodreads.com/book/show/25790655-the-omega-men) | Marv Wolfman                                | 2         |
+| Planetary                                                    | Warren Ellis and John Cassaday              | 2         |
+| [Scott Pilgrim Vs. The World](https://www.goodreads.com/series/40623-scott-pilgrim) | Brian Lee o'Malley                          | 2         |
+| [Swamp Thing Winter special](https://www.goodreads.com/book/show/36417467-swamp-thing-winter-special) | Tom King and Jason Fabok                    | 2         |
+| The Sandman                                                  | Neil Gaiman                                 | 2         |
+| [Ultimate Spider-Man ](https://www.goodreads.com/book/show/105942.Ultimate_Spider_Man_Volume_1) | Bendis                                      | 2         |
+| [Vision](https://www.goodreads.com/book/show/35838422-the-vision) | Tom King                                    | 2         |
+| [Y: The Last Man](https://www.goodreads.com/series/86528-y-the-last-man) | Brian K. Vaughan                            | 2         |
+| Prophet                                                      | Brandon Graham,  Simon Roy, Farel Dalrymple | 2         |
+| Saga of the Swamp Thing #32                                  | Alan Moore and Shawn McManus                | 2         |
+| [All-Star Batman #7 ](https://www.goodreads.com/book/show/34198128-all-star-batman-7) | Scott Snyder                                | 1         |
 
-*All-Star Batman and Robin* is pretty damn dark in tone and content - I wouldn't recommend it to anyone though.
+### Best single issues
 
-> As a dark and serious Batman story, I also wouldn't recommend *All Star Batman & Robin*...
+**What's your favorite single issue comic book you have ever read?**
+
+32: **Age of Ultron 10.A**. Hank Pym's story told beautifully in one issue. It's that good.
+
+> 3: Oh, I really liked this one. Only thing from AoU that I really enjoyed, tbh.
+
+> 3: I really had no particular feeling for Henry before I read that. Boy, did that changed. I'm wishing he was the one to be featured in the Ant-Man movie now.
+
+> 2: That's the issue that made Hank Pym one of my favorite characters.
+
+[deleted comment] - probably "**Animal Man #5: The Coyote Gospel**".
+
+> 4: Morrisons Animal Man is one of my favorite stories of all time. The final issue is the one i think is most memorable.
+
+20: Hard to choose, but *Watchmen #4* (Watchmaker) and *#5* (*Fearful Symmetry*) are both incredible issues in terms of storytelling, art, layout, and dialogue/inner monologue.
+
+19: Either '*Slay Ride*', the Batman issue where the Joker has Robin tied up in the car as he drives around and kills people on Christmas Eve, or then issue of Sandman where Lucifer guides Morpheus through Hell as he locks it up.
+
+18: *Sandman issue #6 24 Hours*. Scariest piece of fiction I've ever encountered, and the first thing that got me really on board with what is now my favorite comic book series.
+
+16: **Animal Man #5, "The Coyote Gospel"** is as good as it gets for me. Silly and tragic and thought-provoking. Can't ask for much more from comics.
+
+15: *All-Star Superman, Issue 10*: Neverending. Anyone who has ever read it knows why.
+
+"Your doctor really did get held up, Regan."
+
+16: I'm not going to pick a single issue, but here are a few that stuck with me:
+
+- **Coyote Gospel, Animal Man #5**.
+- Pog, Saga Of Swamp Thing #32.
+- Ghost Dance, Saga Of Swamp Thing #45.
+
+Some amendments, adding as they come to mind:
+
+- Acceptance, Batman and Robin #23.
+- Pizza Dog, Hawkeye #11.
+
+> 3: The Pizza Dog issue was one of the most innovative issues I've ever read.
 >
-> ...HOWEVER as a farcical, crazy-town, banana-pants story I wholly recommend *All Star Batman & Robin.*
+> > 1: Check out the Pog issue, it does a similar thing with language in it. For some reason I want to say it's reminiscent of Chris Ware's work, too, but I'm not sure why really.
 
-*Arkham Asylum: A serious House on a Serious Earth* by Morrison is <u>probably the darkest you'll find</u>. It is pretty much all psychological and is fairly light on the blood but it is probably the most all-out horror batman story there is.
+> 2: I think Pog is my answer as well. At forst I didn't want to read it because it went away from the story arc but it is the most beautiful little story. It is on the top of my wishlist atm. Gonna get it soon.
 
-*The Black Glove* contains the issue *Joe Chill in Hell* where Batman mentally tortures Joe Chill into committing suicide - that's pretty dark.
+11: New Avengers #23.
 
-*Dark Knight/Dark City* was recently re-released I hear and is probably the most grim Riddler story out there... it starts of pretty dark and stays that way. Got some baby kidnapping and it is generally pretty creepy.
+Occurring right after the Illuminati's confrontation with the Great Society, they all give up on trying to combat the Incursions and spend their last few hours with themselves and their loved ones. I loved this issue because it was a revealing look at each of some of the most intelligent characters in the Marvel universe and how they would spend their last moments alive. From Tony coming to terms with his conquering of alcoholism, to Dr. Strange asking Wong, "Am I a good man?", there was so much to appreciate in it.
 
-**Killing Joke** has implied rape, house invasion, execution and general mental torture so that's pretty dark.
+10: The first issue of Mark Waid's Daredevil run with art by Paolo Rivera. The first page alone is remarkable.
 
-*Black Mirror* has a lot of psychological darkness and detective work to it and some torture and mutilation too.
+10: Tie between Action Comics #775 "**What's So Funny About Truth, Justice & the American Way?**", and Astro City V1 #1 "In Dreams"
 
-Pretty much any ark from the pre 2008ish series *Streets of Gotham* would be about some pretty grim subjects - it was an uneven series.
+> 4:
+>
+> > Astro City V1 #1 "In Dreams"
+>
+> Best Superman story ever written, despite not being about Superman.
+
+> 2: I came here to say Action Comics #775. It was such a great story. Plus I love that they put it in a single issue, and not the arc stuff DC does with ever comic now.
+>
+> > 1: It also had a giant gorilla! Never see those anymore...
+> >
+> > > 1: Actually in the new Geoff Johns Superman run he brought back titano, a giant robot gorilla. If memory servers it was Superman #32.
+
+8: I might have to say New Mutants #35. It is the issue where Magneto becomes the headmaster in place of Professor X.
+
+9: [*Swamp thing #21*](http://thegreatcomicbookheroes.blogspot.com/2013/08/swamp-thing-21-anatomy-lesson-game.html)
+
+> 2: I was going to say the same thing. It's a great horror story and the way it's nerrated is extra creepy.
+
+8: I wouldn't say it's my favorite, but there's an old issue of Fantastic Four that I had as a kid where in the story a kid who really looked up to the Human Torch lights himself on fire to be like him. He gets terrible burns all over his body and is sent to the hospital, where the man who gave him the experimental gasoline to try it is sent to jail. The parents of the kid get really upset with Human Torch and tell him that he should be ashamed of himself for showboating his powers and being a bad influence for kids. The issue ends with the kid dying in the hospital and the Human Torch giving up his position on the Fantastic Four. Again, not my *favorite* issue, but one that I still think about every now and again. I think it still sticks with me because it was one of the first examples where I'd seen a comic book get really serious with such a sad ending. Before I really started reading, as a younger kid, I thought they were all fun and games, where the hero always triumphs and everybody has a happy ending, but this was one of the issues that I first ever read and I didn't realize how serious comics could be.
+
+> 2: Issue 285. As you said that's a really serious story with a lot of emotion, especially for a young reader.
+
+> 1: Good issue. I agree the emotions make it work. Although if you really think about the premise, you have to assume that this couldn't be the first time something like this happened in the Marvel Universe. With all of these real life heroes in the world, and knowing how impressionable little kids can be, dozens of kids must get killed every year trying to imitate some heroes. Jumping off roofs, trying to fly and so forth.
+
+6: X-Men Vol. 2 #75 - It's the first comic I remember reading; I was in a Walgreens waiting for my mom to finish shopping. I loved the X-Men cartoon growing up and then to discover that there were other stories out there in the same universe was incredible. It also introduced me to my favorite X-Men character, Maggott.
+
+> 5: I'm stunned at this choice.
+
+6: Either Fell #1 or the Killing Joke. Or maybe Arkham: A Serious House on a Serious Earth.
+
+> 3: Picking a favorite issue of Fell is really difficult. The layouts for #9 with the standoff were crazy awesome, and I really liked the method of three panels with post-it notes for #8.
+>
+> > 2: I really wish this story had continued, but there is also something so "Fell" about the way it just drops off.
+>
+> > 1: They're all pretty good, but I feel like the first issue did a great job at setting the tone.
+> >
+> > Also the dialogue had me laughing like no other.
+
+3: [Amazing Spider-Man #400](http://marvel.wikia.com/Amazing_Spider-Man_Vol_1_400) - a great Spidey story, but also a wonderfully human and emotional story. You think things like Superior and Spider-Verse are good? They might be, but they don't hold a candle to this.
+
+Sentimental runner up: [Uncanny X-Men #350](http://marvel.wikia.com/Uncanny_X-Men_Vol_1_350) - "The Trial of Gambit" - because it was my holy grail book, the one I couldn't find for the longest time. Also, it shed a lot of light on what was, up until then, the very mysterious character of Gambit. Great read, lovely art, al around goodness.
+
+5: First issue of Saga. It was clear by the end that I would be reading the entire series, however long it guess on for.
+
+4: The first thing that comes to mind is Wonder Woman v3 issue #34. Though this is the first issue in a two issue story arc, this particular issue will always remain one of my favorite comic moments. Diana and Dinah (Black Canary) spend time together and we get to see their friendship. It's a great issue of character development. I miss issues like this, where two (or more) characters can just get together, relax, be themselves, and have fun. This style of story seems so incredibly rare these days, especially in DC Comics.
+
+While I don't think I would call that issue my single favorite issue ever, it is definitely up there.
+
+3: [Daredevil #191](http://images.wwcomics.com/images/large/DD_191_WP.jpg) is not only a fantastic one-and-done comic, but it also serves as a great cap off to Frank Miller's original run on the character.
+
+5: Hellblazer #27- Hold Me
+
+3: New X-men # 139, the issue where Jean finally catches Scott and Emma cheating. We figure out how crazy and psychotic Jean can be with the power of the Phoenix Force. We get a dive into why Emma is the way she is. Scott finally reveals that he's sick of the Phoenix Force always screwing up his life and relationship. Then we finally see some retaliation from Scott and Jean towards Professor X, and it sort of shows the beginning of them breaking away from him as a mentor.
+
+> 2: The best use of two telepaths since Xavier's Shadowking fight in the original Claremont run.
+>
+> > 2: Well, there was also that issue, where Emma and Jean went into Cassandra Nova's booby trapped mind to search for Professor X's conscience. There was like only one panel with words, but it was definitely a brilliant read.
+
+4: Uncanny X-Men #139. Claremont's run I is my favorite comic run ever. And this issue debuted my favorite X-Men, Kitty Pride.
+
+4: Tough to say exactly, but here are three that come to mind:
+
+Hawkeye #3 (clint goes to buy tape)
+
+East of West #15 (the son of death awakes)
+
+*Watchmen #5* (*fearful symmetry*)
 
 ---
 
-Read Scott Snyder's Batman run. Or **The Long Halloween**, maybe *Arkham Asylum: A Serious House On A Serious Earth*? It's probably harder to find "lighter" Batman stories haha
+**[Recommendation] What are the best single issues?**
+
+Maybe not standalone, but issues that were just beyond amazing. Maybe that one issue in a mediocre arc, or an issue that pushed what the comic medium could do.
+
+For example, Batman #5 of the New 52 by Scott Snyder, is amazing. It has this intense atmosphere, but is also trippy and pushes the medium into something different and unique. Got me thinking what other great issues are out there. If there is a heap of context that needs to be understood for an issue please mention it because i'll try and pick up the arc. If it's standalone that's also cool!
+
+9: If I didn't include the title of an issue, it's because I don't remember it. If you remember it I'm more than happy to edit.
+
+• Planetary 27
+
+• Fantastic Four 588 "Month Of Mourning"
+
+• FF 23
+
+• *All-Star Superman 10*
+
+• All-Star Superman 6 "Funeral in Smallville"
+
+• Spider-Man: Blue 6
+
+• Amazing Spider-Man 122 "The Night Gwen Stacy died part 2"
+
+• Giant Size Astonishing X-Men 1
+
+• Sandman 8 "Sound of her Wings"
+
+• Uncanny X-Force 34
+
+• Ultimate Spider-Man 160
+
+• Ultimate Spider-Man 13 "Confession" (?)
+
+• Daredevil 181
+
+6: [The Lobo Paramilitary Christmas Special.](http://dc.wikia.com/wiki/Lobo_Paramilitary_Christmas_Special_Vol_1_1)
+
+5: Any of Barry Windsor Smith's X-men issues...
+
+4: BPRD #124 is probably the best one shot story I've ever read. And you don't really need to know anything about the series to understand it because it follows a civilian rather than the established characters.
+
+The Humans #3 (the Vietnam issue) was also spectacular, and most Grayson issues are more or less stand alone as well (my favorite of those being the Annual).
+
+> 3: The coffee shop story of BPRD is one of the best
+
+> 3: One of my favorite pages from all of BPRD
+>
+> http://i.imgur.com/IN9EkPs.jpg
+
+3: Saga of The *Swamp Thing #21* is a great single issue horror story.
+
+4: Astro City is mostly comprised of amazing one shots, all set in a silver age DC analogue, stories that really make you consider previously neglected aspects of superheroing. They are all really great, but some particularly poignant ones are.
+
+Astro City #1 (also known as "In Dreams")
+
+Astro City #1/2 (also known as "The Nearness of You)
+
+Some of my other favourites are.
+
+The Goon #7 - Hellboy crossover featuring The Communist Airborne Mollusc Militia.
+
+Daredevil #181 - Bullseye kills Elektra, such incredible artwork, the scene where Bullseye jovially runs Elektra through with her own sai is, well [just see for yourself](https://36.media.tumblr.com/8892ab3fce6cce893dc8a6b19a4397c7/tumblr_miwgd1zPPl1rxrnbio6_500.jpg).
+
+3: I think the short story in "A Guide To The Known Keys" from Locke and Key is the single best issue of any comic that I have read. The art is gorgeous, the writing is great, and I've never been so emotionally impacted by a book, comic or otherwise.
+
+> 5: That book is downright magical. You're right, so much emotion.
+
+3: Hitman #34
+
+3: The Flash #8 - Purple Haze (i love the twists and turns in this issue)
+
+The Punisher #18 - Downtown (Punisher comic by Ennis on the troubles)
+
+3: Astro City vol. 2 #1/2: The Nearness of You - Everyone should read this issue. It's amazing.
+
+3: "Who is Donna Troy" by Wolfman and Perez from *New Teen Titans*
+
+"Little Red Book" by Puckett and Parobeck from *Batman Adventures*
+
+"For the Man Who Has Everything" by Moore and Gibbons, *Superman Annual*
+
+"The Player on the Other Side" by Barr and Golden, *Batman Special*
+
+"Slumber Party" by Claremont and Sienkiewicz *New Mutants*
+
+*Superman* #400 by Maggin and various artists.
+
+3: I love a lot of the Sandman issues. Anything with Death or from Vol.3 "Dream Country"
+
+3: Moon Knight's "Sleep"
+
+3: Gonna throw in *Moon Knight #5*.
 
 ---
 
-Snyder's Works: Black Mirror, **Court of Owls**, City of Owls, **Death of the Family**, **Endgame**.
+**Best single issue you've ever read**
 
-Geoff Johns: *Batman: Earth One Vol. 1 & 2*.
+16: Probably **Pax Americana** or detective comics 880
 
-Other's: *Death in the Family, Arkham Asylum, Long Halloween*.
+12: I love *the single issue of Bendis' daredevil with no dialog*. I think it was a single issue but Maleev's art is spectacular and tells a great story.
 
-> Aside from all the mentioned and you're also interested in the animated universe, Return of the Joker's pretty grim.
+> 6: The one where he stops the assassin who is trying to kill him? I loved that one! Speechless comics are really cool and really let art do the talking. East of West has one (#23?) and I just could not help "re-reading" it.
+>
+> > 9: One of Matt Fraction's Hawkeye issues isn't speechless, but it is wordless. It's seen through the eyes of a dog.
+> >
+> > http://marvel.com/comics/issue/42772/hawkeye_2012_11
+> >
+> > And Crowdower isnt lying, its fucking great
+>
+> > 2: 22
+
+11: **Animal Man #5: The Coyote Gospel**.
+
+New X-Men #121: Silence! Psychic Rescue in Progress.
+JLA #14: Twlight of the Gods (Rock of Ages Part 5).
+
+> 7: 
+>
+> > JLA #14: Twlight of the Gods (Rock of Ages Part 5).
+>
+> Was that the issue where J'onn reshapes his brain to be more like the Joker's so he and Superman can escape that deathmaze, or is that the issue where the future versions of the Atom and Connor Hawke kill Darkseid with a light-arrow?
+>
+> Man, just writing those two line gave me shivers and instantly made me want to re-read that entire run.
+>
+> > 6: The latter one, which is narrated by fucking *Death himself*, the Black Racer and the JLA blows up Darkseid's *Zombie Factory* on the goddamn moon.
+> > Rock of Ages is rad as hell.
+> >
+> > > 2: It's pretty much the reason I read comics. That and Manhattan Projects.
+>
+> > 3: 
+> >
+> > > Animal Man #5: The Coyote Gospel.
+> >
+> > I came here to say the same. Just an incredible single issue.
+
+9: *All Star Superman #10*
+
+8: *Warren Ellis' Moon Knight #5* is the first that comes to mind
+
+10: Probably *Alan Moore's Swamp Thing #21: The Anatomy Lesson*. The retcon to end all retcons.
+
+EDIT: #21, not #1.
+
+> 5: I can't remember which number it is, but the psychedelic fruift eating sex issue is the one I'd pick.
+>
+> > 6: Issue #34: Rite of Spring
+> >
+> > Yeah, that's a very close runner up, I tend to switch back and forth on which one I prefer - The Anatomy Lesson is a masterpiece of horror, the growing tension and sense of atmosphere are just phenomenal, but Rite of Spring has [my single favourite romantic quote in any comic](http://65.media.tumblr.com/tumblr_lgd8w1eQxJ1qz4ymjo1_500.jpg), and some of the [best damn art I've ever seen](http://66.media.tumblr.com/ecdb5c5a4ca1243dfe75c5aee0b363c2/tumblr_n1k4o9MHo61tu5eyto1_500.jpg).
+
+7:
+
+- Moon Knight #4 by Warren Ellis and Declan Shalvey
+- *Moon Knight #5 by Warren Ellis and Declan Shalvey*
+- Venom #21 by Rick Remender and Declan Shalvey
+- Low #7 by Rick Remender and Greg Tocchini
+- Secret Wars #2 by Jonathan Hickman and Esad Ribic
+
+**7: What's so funny about truth, justice and the American Way**.
+
+7: Hard to pick just one, but I might have to go with the first issue of Superman: Red Son. Also a big fan of Green Arrow #24 by Jeff Lemire and Andrea Sorrentino.
+
+7: During the Spider-Verse event there was a one off alt world story about a Peter Parker type character. It had all the basic origin story trappings Abut it had this creepy horror twist to it. Peter was a sociopath who liked to burn ants for fun, was abused by his uncle, had a weird obsession with the red headed neighbor girl, and got these odd spider powers. It was more like a mutation, and it caused him to have cravings and act more spider-like than man. I don't want to spoil the ending, but it's intense, and so so creepy. A great horror twist on a classic heroic character.
+
+> 3: Edge of Spider-Verse #4:
+>
+> http://marvel.com/comics/issue/50962/edge_of_spider-verse_2014_4
+
+5: [Uncanny X-Men 245](http://4.bp.blogspot.com/-pq1UcuoCx9Y/VBndN0fEBqI/AAAAAAAAWfw/6ktJ8XQOS3c/s1600/cover.jpg).
+
+It's during the Outback X-Men era. Basically, the men have a boys day in town, and wind up encountering an alien invasion. I love it because it's a great, lighthearted break from what is otherwise a pretty heavy time for the X-Men, and it has so many hilarious moments.
+
+Honorable mention: The last issue of Avengers Academy. I loved how the series it began and ended with Veil in high school (and god I loved Mettle).
+
+Other honorable mention: The last issue of pre-crisis Flash. It was a satisfying end for Barry, and the panel with the Rogues toasting him at the end makes me feel warm and fuzzy.
+
+> 4: Loved this as a kid. It's a parody of DC's Invasion event isn't it? Absolute classic and hilarious to boot.
+
+> 2: Avengers Academy was amazing, I wish the students would appear in other titles
+
+5: I've been only really getting back into comics this year, but [Kill or Be Killed #1](https://thecolespot.com/2016/08/07/kill-or-be-killed-1/) has to be one of the best opening comics I've read in a while.
+
+> 2: Stray Bullets, 100 Bullets and Kabuki cover a lot of similar existential despair of a life of crime. There's a reason most people avoid organized criminals and hired guns. Pretty sure you should always be careful about coercing strangers to doing anything out of line with their identity. That would be a very risky Shakespearian act... Caesar's last words and all that
+
+---
+
+**What are some of best single issues of DC?**
+
+Curious what you folks consider the great individual chapters in DC's rich history.
+
+I'm thinking along the lines of "**The Coyote Gospel**" and *All Star Superman #10*. Issues which work as standalone stories with or without being integral parts of the larger stories.
+
+15: "*For The Man Who Has Everything*" and "**What's So Funny About Truth, Justice, and the American Way?**"
+
+> 2: Great picks! One spawned a great movie and the other my favorite episode of JLU
+
+14: *Batman and Robin 18*.
+
+I never cared for Damian, but oh my... My oh my did that issue leave a mark.
+
+11: **Pax Americana**
+
+> 5: And Ultra Comics
+
+8: *Sandman #18, A Dream of a Thousand Cats*
+
+8: Doom Patrol #45
+
+> 4: "Punks were lucky. No beards."
+>
+> EDIT: OH GOD AND MORRISON HIMSELF WAS NOBEARD THE PIRATE IT'S ALL CONNECTED THE HYPERCRISIS IS REAL!
+
+8: The Flash vol 2 #0
+
+8: Grayson #12 , Batman #51
+
+> 4: I second on Batman #51 (from Snyder and Cappullo's run.) Great issue!
+
+6: Grayson Future's End One Shot, just has some totally unexpected awesome moments.
+
+5: Hellblazer #27 "Hold Me" by Neil Gaiman and Dave McKean.
+
+3: *Paul Dini Slayride*
+
+3: Batman #44 by Scott Snyder, Brian Azzarello, and Jock
+
+3: Any particular character?
+
+Detective Comics #439, 442, 476, 500
+
+Superman #247
+
+Wonder Woman (Post-Crisis) #45
+
+Christmas with the Superheroes #2
+
+Birds of Prey #55
+
+Every issue of The Question
+
+3: I personally love Grayson #12
 
 ## Opinions about New 52 and Rebirth
 
@@ -690,6 +1262,85 @@ You are going to get a lot of recommendations for **Year One** and **The Dark Kn
 
 > EDIT: also Batman Earth One by Geoff Johns and Gary Frank.
 
+---
+
+**Suggest me some really dark comics, especially related to batman. Really really dark**
+
+8: For Batman:
+
+Arkham Asylum, Dark Knights: Metal, One Shots **Dark Knight Returns**
+
+Non-Batman:
+
+**Watchmen**, Invisibles, **Swamp Thing** (Alan Moore), **Sandman** (Neil Gaiman).
+
+5: *Arkham Asylum: A serious House on a Serious Earth* is probably the darkest. **Dark Knight Returns**, Shaman, The Cult, and Gothic are also really good dark ones.
+
+4: None of the other posts got *really* dark, apart from the Arkham book. Here’s a list of truly dark Batman books.
+
+- Batman and Dracula: Red Rain.
+- Batman: Bloodstorm.
+- Batman: Crimson Mist.
+- Batman: Haunted Knight.
+- Batman Annual No. 15: “The Last Batman Story”.
+- Robin Vol. 4 No. 46.
+- Batman No. 547.
+- Batman: Last Arkham.
+- Adventures of Superman Annual 1994: The Super Seven part I.
+- Superboy Annual 1994: The Super Seven part II.
+
+---
+
+**What is the darkest Batman comic out there?**
+
+Specifically looking for something dark to read with blood and all the goods. Would like to start from #1 as apposed to reading a random bloody comic. Thanks
+
+13:
+
+Now what do you mean by "dark?"
+
+*All-Star Batman and Robin* is pretty damn dark in tone and content - I wouldn't recommend it to anyone though.
+
+> As a dark and serious Batman story, I also wouldn't recommend *All Star Batman & Robin*...
+>
+> ...HOWEVER as a farcical, crazy-town, banana-pants story I wholly recommend *All Star Batman & Robin.*
+
+*Arkham Asylum: A serious House on a Serious Earth* by Morrison is <u>probably the darkest you'll find</u>. It is pretty much all psychological and is fairly light on the blood but it is probably the most all-out horror batman story there is.
+
+*The Black Glove* contains the issue *Joe Chill in Hell* where Batman mentally tortures Joe Chill into committing suicide - that's pretty dark.
+
+*Dark Knight/Dark City* was recently re-released I hear and is probably the most grim Riddler story out there... it starts of pretty dark and stays that way. Got some baby kidnapping and it is generally pretty creepy.
+
+**Killing Joke** has implied rape, house invasion, execution and general mental torture so that's pretty dark.
+
+*Black Mirror* has a lot of psychological darkness and detective work to it and some torture and mutilation too.
+
+Pretty much any ark from the pre 2008ish series *Streets of Gotham* would be about some pretty grim subjects - it was an uneven series.
+
+---
+
+**What are some of the darkest batman stories other than Killing Joke and TDKR**
+
+10: Read Scott Snyder's Batman run. Or **The Long Halloween**, maybe *Arkham Asylum: A Serious House On A Serious Earth*? It's probably harder to find "lighter" Batman stories haha
+
+6: Snyder's Works: Black Mirror, **Court of Owls**, City of Owls, **Death of the Family**, **Endgame**.
+
+Geoff Johns: *Batman: Earth One Vol. 1 & 2*.
+
+Other's: *Death in the Family, Arkham Asylum, Long Halloween*.
+
+3: Aside from all the mentioned and you're also interested in the animated universe, Return of the Joker's pretty grim.
+
+5: Night Cries
+
+City of Crime
+
+The Cult
+
+Gothic
+
+3: Death In The Family
+
 #### Batman and Joker
 
 **What are the best Batman tpbs with the Joker?**
@@ -775,6 +1426,8 @@ Endgame.
 If I were to choose something besides **The Killing Joke** or "The Laughing Fish", it would be "Dreadful Birthday, Dear Joker".
 
 After **The Killing Joke**, **The Man Who Laughs**.
+
+---
 
 **What is the DARKEST Joker story in the Batman comics?**
 
@@ -4785,7 +5438,9 @@ Jeff Smith - his characters, no matter how far fetched they are, seem real and r
 
 ## Conclusion
 
-Best comic books: **Watchmen**, **Kingdom Come**, **The Dark Knight Returns**, **Sandman**, **Maus**, **From Hell**, **Persepolis**, **Planetary**, **Bone**, **Saga**, **Green Lantern** by Geoff Johns (+~~**Green Lantern: Secret Origin**~~), **Saga of the Swamp Thing** (+ [Hellblazer (Constantine)](https://www.amazon.com/dp/1401230067) | Delano, Ennis, et al. is also good), *Starman*, *Fables*, *Preacher*, *Transmetropolitan*, *Daredevil Born Again*, *Judge Dredd: America*, *Enigma*.
+Best comic books: **Watchmen**, **Kingdom Come**, **The Dark Knight Returns**, **Sandman**, **Maus**, **From Hell**, **Persepolis**, **Planetary**, **Bone**, **Saga**, **Green Lantern** by Geoff Johns (+~~**Green Lantern: Secret Origin**~~), **Saga of the Swamp Thing** (+Hellblazer (Constantine) by Delano, Ennis, et al. is also good), *Starman*, *Fables*, *Preacher*, *Transmetropolitan*, *Daredevil Born Again*, *Judge Dredd: America*, *Enigma*.
+
+Best single issues: **What's So Funny About Truth, Justice, and the American Way?**, **Animal Man #5: The Coyote Gospel**, **Pax Americana**, **Age of Ultron 10.A**, *Swamp Thing #21: The Anatomy Lesson*, *All-Star Superman #10*, *For The Man Who Has Everything*, *Detective Comics #826 "Slayride"* by Paul Dini and Don Kramer, *Batman and Robin #18* by Peter J. Tomasi, *Moon Knight #5 by Warren Ellis and Declan Shalvey*, *Watchmen #5 "Fearful Symmetry"* by Alan Moore, *Sandman issue #6 "24 Hours"* by Neil Gaiman, *Sandman #18 "A Dream of a Thousand Cats"* by Neil Gaiman, *Daredevil #28 "Underboss: Part Three"* by Brian Bendis and Alex Maleev (issue with no dialogue in it), Saga of the Swamp Thing #32, Action Comics #775, Astro City V1 #1 "In Dreams" (best Superman issue which is not about Superman), Hellblazer #27- Hold Me, Daredevil #181 by Frank Miller, Uncanny X-Men Vol 1 #350 by Steve Seagle ( Gambit's greatest secret), Uncanny X-Men 245 by Chris Claremont, Doom Patrol #45,Locke and Key: Guide to the Known Keys by Joe Hill, Grayson #12 by Tim Seeley.
 
 ---
 
@@ -4908,126 +5563,131 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 4. https://www.reddit.com/r/books/comments/7s9hk0/essential_graphic_novels_everyone_should_read/?sort=top
 5. https://www.reddit.com/r/graphicnovels/comments/9oymnp/what_are_the_the_must_read_graphic_novels/?sort=top
 6. https://www.reddit.com/r/comicbooks/comments/93rs61/what_are_your_favorite_comics_to_recommend_to/
-7. https://www.reddit.com/r/DCcomics/comments/8x9fsa/new_reader_looking_for_the_best_batman_comics_to/?sort=top
-8. https://www.reddit.com/r/DCcomics/comments/8ids63/what_are_the_best_batmancomics/
-9. https://www.reddit.com/r/DCcomics/comments/8mmkhh/what_are_the_best_batman_tpbs_with_the_joker/?sort=top
-10. https://www.reddit.com/r/DCcomics/comments/a85kcz/comics_that_dive_into_batman_and_jokers/?sort=top
-11. https://www.reddit.com/r/DCcomics/comments/7i1eo7/suggest_me_some_really_dark_comics_especially/?sort=top
-12. https://www.reddit.com/r/DCcomics/comments/24uca6/what_is_the_darkest_batman_comic_out_there/?sort=top
-13. https://www.reddit.com/r/DCcomics/comments/4urjkb/what_are_some_of_the_darkest_batman_stories_other/?sort=top
-14. https://www.reddit.com/r/batman/comments/4g815r/what_is_the_darkest_joker_story_in_the_batman/?sort=top
-15. https://www.reddit.com/r/DCcomics/comments/9eeug2/question_what_is_your_favorite_joker_story/?sort=top
-16. https://www.reddit.com/r/DCcomics/comments/b90j5w/best_comics_about_the_joker/
-17. https://www.reddit.com/r/batman/comments/9otdcq/best_comics_featuring_joker/
-18. https://www.reddit.com/r/joker/comments/3ehq8y/joker_comic_reading_list/?sort=top
-19. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
-20. https://www.reddit.com/r/comicbooks/comments/9qn1ej/where_to_start_with_daredevil_comics/
-21. https://www.reddit.com/r/comicbooks/comments/4b04pe/where_to_start_with_daredevil/
-22. https://www.reddit.com/r/comicbooks/comments/74llvo/best_daredevil_run/
-23. https://www.reddit.com/r/comicbooks/comments/4r1kra/best_daredevil_runs/
-24. https://www.reddit.com/r/comicbooks/comments/agxiaw/good_daredevil_run_to_read/
-25. https://www.reddit.com/r/comicbooks/comments/d3k182/ranking_daredevil_runs_whos_the_bestworst/
-26. https://www.reddit.com/r/comicbooks/comments/95w8vc/what_is_the_best_daredevil_story_arc/
-27. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
-28. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
-29. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
-30. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
-31. https://www.reddit.com/r/DCcomics/comments/7791f6/where_to_start_with_green_lantern/
-32. https://www.reddit.com/r/comicbooks/comments/7008wz/best_runs_of_hellboy_to_check_out/
-33. https://www.reddit.com/r/comicbooks/comments/8breze/wow_the_hellboy_comics_are_actually_really_really/
-34. https://www.reddit.com/r/HellBoy/comments/b9rnbd/essentialbest_hellboy_comics/
-35. https://www.reddit.com/r/comicbooks/comments/as5j2l/favorite_hellboy_comics/
-36. https://www.reddit.com/r/comicbooks/comments/8gm5hy/i_want_to_get_into_the_hulk_where_should_i_start/
-37. https://www.reddit.com/r/Marvel/comments/371ee2/where_to_start_reading_hulk/
-38. https://www.reddit.com/r/comicbooks/comments/94pbm3/best_hulk_comics/
-39. https://www.reddit.com/r/comicbooks/comments/appqgd/best_hulk_runs/
-40. https://www.reddit.com/r/Marvel/comments/86x9op/best_hulk_stories_to_read/
-41. https://www.reddit.com/r/comicbooks/comments/b55b4l/what_are_some_good_hulk_comics_besides_planet/
-42. https://www.reddit.com/r/comicbooks/comments/6dtvwq/whats_the_absolute_best_spiderman_series/
-43. https://www.reddit.com/r/comicbooks/comments/2g6j0e/best_spiderman_comics/
-44. https://www.reddit.com/r/Spiderman/comments/2g8n8f/in_your_opinion_what_is_the_best_spidermans_comics/
-45. https://www.reddit.com/r/Marvel/comments/azusxm/need_help_finding_best_miles_morales_origin_comic/
-46. https://www.reddit.com/r/comicbooks/comments/34dtld/where_to_start_reading_miles_morales_spiderman/
-47. https://www.reddit.com/r/Marvel/comments/7jvyda/best_miles_morales_storyline/
-48. https://www.reddit.com/r/comicbooks/comments/54gc95/is_spidergwen_any_good/
-49. https://www.reddit.com/r/Marvel/comments/76n0h1/is_the_spidergwen_series_any_good/
-50. https://www.reddit.com/r/comicbooks/comments/85gqbl/help_with_spider_gwen_comics/
-51. https://www.reddit.com/r/SpiderGwen/comments/aa19ov/where_to_start_in_comics_for_spider_gwen/
-52. https://www.reddit.com/r/DCcomics/comments/hawuam/which_suicide_squad_series_to_read/
-53. https://www.reddit.com/r/DCcomics/comments/93fcz4/any_good_suicide_squad_comics_to_read_where_can_i/
-54. https://www.reddit.com/r/comicbooks/comments/93fg9x/any_good_suicide_squad_comics_to_read_where_can_i/
-55. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
-56. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
-57. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
-58. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
-59. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
-60. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
-61. https://www.reddit.com/r/comicbooks/comments/8gtmi5/essential_xmen_read/
-62. https://www.reddit.com/r/xmen/comments/2l0cri/xmen_comics_beginners_reading_guide/
-63. https://www.reddit.com/r/comicbooks/comments/62xfkh/where_to_start_with_xmen_comics/
-64. https://www.reddit.com/r/xmen/comments/9vpb24/where_should_i_start_reading_the_xmen_comics/
-65. https://www.reddit.com/r/xmen/comments/8li356/i_want_to_start_reading_xmen_comics/
-66. https://www.reddit.com/r/comicbooks/comments/8pa2hd/what_is_the_best_xmen_comics/
-67. https://www.reddit.com/r/Marvel/comments/cqv7r5/bestessential_xmen_comics_after_house_of/
-68. https://www.reddit.com/r/xmen/comments/1tu405/what_are_the_best_cyclops_comics/
-69. https://www.reddit.com/r/Marvel/comments/3n58mf/best_cyclops_comics/
-70. https://www.reddit.com/r/comicbooks/comments/bjmgr5/best_cyclops_comics/
-71. https://www.reddit.com/r/Marvel/comments/8besuq/gambit_recommendations/
-72. https://www.reddit.com/r/xmen/comments/awxtec/best_reading_for_gambit/
-73. https://www.reddit.com/r/xmen/comments/ffjref/good_gambit_stories/
-74. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
-75. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
-76. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
-77. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
-78. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
-79. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
-80. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
-81. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
-82. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
-83. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
-84. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
-85. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
-86. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
-87. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
-88. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
-89. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
-90. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
-91. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
-92. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
-93. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
-94. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
-95. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
-96. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
-97. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
-98. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
-99. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
-100. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
-101. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
-102. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
-103. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
-104. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
-105. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
-106. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
-107. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
-108. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
-109. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
-110. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
-111. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
-112. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
-113. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
-114. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
-115. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
-116. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
-117. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
-118. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
-119. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
-120. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
-121. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
-122. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
-123. https://www.cbr.com/the-best-cyberpunk-comics-ever/
-124. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
-125. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
-126. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
-127. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
-128. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-129. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+7. https://www.reddit.com/r/comicbooks/comments/8dx59i/your_top_5_favorite_standalone_comics/
+8. https://www.reddit.com/r/comicbooks/comments/2lrt1q/whats_your_favorite_single_issue_comic_book_you/
+9. https://www.reddit.com/r/comicbooks/comments/3c6tsc/recommendation_what_are_the_best_single_issues/
+10. https://www.reddit.com/r/comicbooks/comments/52zvky/best_single_issue_youve_ever_read/
+11. https://www.reddit.com/r/DCcomics/comments/4wyhmw/what_are_some_of_best_single_issues_of_dc/
+12. https://www.reddit.com/r/DCcomics/comments/8x9fsa/new_reader_looking_for_the_best_batman_comics_to/?sort=top
+13. https://www.reddit.com/r/DCcomics/comments/8ids63/what_are_the_best_batmancomics/
+14. https://www.reddit.com/r/DCcomics/comments/7i1eo7/suggest_me_some_really_dark_comics_especially/?sort=top
+15. https://www.reddit.com/r/DCcomics/comments/24uca6/what_is_the_darkest_batman_comic_out_there/?sort=top
+16. https://www.reddit.com/r/DCcomics/comments/4urjkb/what_are_some_of_the_darkest_batman_stories_other/?sort=top
+17. https://www.reddit.com/r/DCcomics/comments/8mmkhh/what_are_the_best_batman_tpbs_with_the_joker/?sort=top
+18. https://www.reddit.com/r/DCcomics/comments/a85kcz/comics_that_dive_into_batman_and_jokers/?sort=top
+19. https://www.reddit.com/r/DCcomics/comments/9eeug2/question_what_is_your_favorite_joker_story/?sort=top
+20. https://www.reddit.com/r/DCcomics/comments/b90j5w/best_comics_about_the_joker/
+21. https://www.reddit.com/r/batman/comments/9otdcq/best_comics_featuring_joker/
+22. https://www.reddit.com/r/batman/comments/4g815r/what_is_the_darkest_joker_story_in_the_batman/?sort=top
+23. https://www.reddit.com/r/joker/comments/3ehq8y/joker_comic_reading_list/?sort=top
+24. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
+25. https://www.reddit.com/r/comicbooks/comments/9qn1ej/where_to_start_with_daredevil_comics/
+26. https://www.reddit.com/r/comicbooks/comments/4b04pe/where_to_start_with_daredevil/
+27. https://www.reddit.com/r/comicbooks/comments/74llvo/best_daredevil_run/
+28. https://www.reddit.com/r/comicbooks/comments/4r1kra/best_daredevil_runs/
+29. https://www.reddit.com/r/comicbooks/comments/agxiaw/good_daredevil_run_to_read/
+30. https://www.reddit.com/r/comicbooks/comments/d3k182/ranking_daredevil_runs_whos_the_bestworst/
+31. https://www.reddit.com/r/comicbooks/comments/95w8vc/what_is_the_best_daredevil_story_arc/
+32. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
+33. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
+34. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
+35. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
+36. https://www.reddit.com/r/DCcomics/comments/7791f6/where_to_start_with_green_lantern/
+37. https://www.reddit.com/r/comicbooks/comments/7008wz/best_runs_of_hellboy_to_check_out/
+38. https://www.reddit.com/r/comicbooks/comments/8breze/wow_the_hellboy_comics_are_actually_really_really/
+39. https://www.reddit.com/r/HellBoy/comments/b9rnbd/essentialbest_hellboy_comics/
+40. https://www.reddit.com/r/comicbooks/comments/as5j2l/favorite_hellboy_comics/
+41. https://www.reddit.com/r/comicbooks/comments/8gm5hy/i_want_to_get_into_the_hulk_where_should_i_start/
+42. https://www.reddit.com/r/Marvel/comments/371ee2/where_to_start_reading_hulk/
+43. https://www.reddit.com/r/comicbooks/comments/94pbm3/best_hulk_comics/
+44. https://www.reddit.com/r/comicbooks/comments/appqgd/best_hulk_runs/
+45. https://www.reddit.com/r/Marvel/comments/86x9op/best_hulk_stories_to_read/
+46. https://www.reddit.com/r/comicbooks/comments/b55b4l/what_are_some_good_hulk_comics_besides_planet/
+47. https://www.reddit.com/r/comicbooks/comments/6dtvwq/whats_the_absolute_best_spiderman_series/
+48. https://www.reddit.com/r/comicbooks/comments/2g6j0e/best_spiderman_comics/
+49. https://www.reddit.com/r/Spiderman/comments/2g8n8f/in_your_opinion_what_is_the_best_spidermans_comics/
+50. https://www.reddit.com/r/Marvel/comments/azusxm/need_help_finding_best_miles_morales_origin_comic/
+51. https://www.reddit.com/r/comicbooks/comments/34dtld/where_to_start_reading_miles_morales_spiderman/
+52. https://www.reddit.com/r/Marvel/comments/7jvyda/best_miles_morales_storyline/
+53. https://www.reddit.com/r/comicbooks/comments/54gc95/is_spidergwen_any_good/
+54. https://www.reddit.com/r/Marvel/comments/76n0h1/is_the_spidergwen_series_any_good/
+55. https://www.reddit.com/r/comicbooks/comments/85gqbl/help_with_spider_gwen_comics/
+56. https://www.reddit.com/r/SpiderGwen/comments/aa19ov/where_to_start_in_comics_for_spider_gwen/
+57. https://www.reddit.com/r/DCcomics/comments/hawuam/which_suicide_squad_series_to_read/
+58. https://www.reddit.com/r/DCcomics/comments/93fcz4/any_good_suicide_squad_comics_to_read_where_can_i/
+59. https://www.reddit.com/r/comicbooks/comments/93fg9x/any_good_suicide_squad_comics_to_read_where_can_i/
+60. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
+61. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
+62. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
+63. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
+64. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
+65. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
+66. https://www.reddit.com/r/comicbooks/comments/8gtmi5/essential_xmen_read/
+67. https://www.reddit.com/r/xmen/comments/2l0cri/xmen_comics_beginners_reading_guide/
+68. https://www.reddit.com/r/comicbooks/comments/62xfkh/where_to_start_with_xmen_comics/
+69. https://www.reddit.com/r/xmen/comments/9vpb24/where_should_i_start_reading_the_xmen_comics/
+70. https://www.reddit.com/r/xmen/comments/8li356/i_want_to_start_reading_xmen_comics/
+71. https://www.reddit.com/r/comicbooks/comments/8pa2hd/what_is_the_best_xmen_comics/
+72. https://www.reddit.com/r/Marvel/comments/cqv7r5/bestessential_xmen_comics_after_house_of/
+73. https://www.reddit.com/r/xmen/comments/1tu405/what_are_the_best_cyclops_comics/
+74. https://www.reddit.com/r/Marvel/comments/3n58mf/best_cyclops_comics/
+75. https://www.reddit.com/r/comicbooks/comments/bjmgr5/best_cyclops_comics/
+76. https://www.reddit.com/r/Marvel/comments/8besuq/gambit_recommendations/
+77. https://www.reddit.com/r/xmen/comments/awxtec/best_reading_for_gambit/
+78. https://www.reddit.com/r/xmen/comments/ffjref/good_gambit_stories/
+79. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
+80. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
+81. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
+82. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
+83. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
+84. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
+85. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
+86. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
+87. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
+88. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
+89. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
+90. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
+91. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
+92. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
+93. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
+94. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
+95. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
+96. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
+97. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
+98. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
+99. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
+100. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
+101. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
+102. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
+103. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
+104. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
+105. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
+106. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
+107. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
+108. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
+109. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
+110. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
+111. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
+112. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
+113. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
+114. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
+115. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
+116. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
+117. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
+118. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
+119. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
+120. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
+121. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
+122. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
+123. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
+124. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
+125. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
+126. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
+127. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
+128. https://www.cbr.com/the-best-cyberpunk-comics-ever/
+129. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
+130. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
+131. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
+132. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
+133. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+134. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
