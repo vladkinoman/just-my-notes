@@ -1007,92 +1007,22 @@ Best Limited Series: House of X/Powers of X (52.2% of the vote)
 Best One-Shot: Batman Annual #4 (38.5% of the vote)
 Best Event/Crossover: House of X/Powers of X (79% of the vote)
 Best Original Graphic Novel: Frogcatchers (53.5% of the vote)
+
 Best Collection of Reprinted Material: Mister Miracle by Tom King and Mitch Gerads (39.8% of the vote)
 Best Cover: Immortal Hulk #25 by Alex Ross (37.9% of the vote)
 Best Page/Panel: The Kents from Justice League #25 by Jorge Jiménez (31.4% of the vote)
 Best Publisher: Marvel (54.3% of the vote)
+
 Most Improved Series: Captain Marvel by Kelly Thompson (59.2% of the vote)
 Best New Series: House of X/Powers of X (36.9% of the vote)
 Best Single Issue: House of X #2 (39.5% of the vote)
 Best Story Arc: Hulk In Hell (37.5% of the vote)
 Best Finished Run: Thor by Jason Aaron, Esad Ribic, Russell Dauterman, et al. (49.7% of the vote)
 Best New Character: Moira X (52.7% of the vote)
+
 Best Comic-Based TV Series: HBO's Watchmen (41% of the vote)
 Best Comic-Based Movie: Avengers Endgame (57.6% of the vote)
-Best Marvel Series: House of X/Powers of X (40% of the vote)
-Best DC Series: The Green Lantern (37.1% of the vote)
-Best Image Series: Gideon Falls (31.1% of the vote)
-Best Creator-Owned Series: Once and Future (37.2% of the vote)
-Best Licensed Series: Teenage Mutant Ninja Turtles (37.3% of the vote)
-Best Comic Adaptation of Another Medium: Blade Runner 2019 (80.4% of the vote)
-Best Manga: One Piece (41.9% of the vote)
-The [r/comicbooks](https://www.reddit.com/r/comicbooks/) Award: Jonathan Hickman dominating the weekly pull list for months with HOX/POX/DOX (49.5% of the vote)
 
-Well, that's that! The ~~Jonathan Hickman~~ subreddit Best of 2019 awards are done. Did you want anything else to win? Did you expect a different outcome? Discuss it here!
-
-60: Best Writer: Jonathan Hickman (34.6% of the vote)
-Best Penciller: Pepe Larraz (29.6% of the vote)
-Best Inker: Jorge Fornés (30.4% of the vote)
-Best Colorist: Marte Gracia (39% of the vote)
-Best Letterer: Clayton Cowles (56.9% of the vote)
-Best Cover Artist/Team: Alex Ross (40.8% of the vote)
-Best Creative Team: Jonathan Hickman, Pepe Larraz, R.B. Silva, Marte Gracia, Tom Muller (39.2% of the vote)
-Best Underdog Creator: Kelly Thompson (36.8% of the vote)
-Best Comics-Related Professional: Zack Jenkins (41.4% of the vote)
-Best Ongoing Series: The Immortal Hulk (49.1% of the vote)
-Best Limited Series: House of X/Powers of X (52.2% of the vote)
-Best One-Shot: Batman Annual #4 (38.5% of the vote)
-Best Event/Crossover: House of X/Powers of X (79% of the vote)
-Best Original Graphic Novel: Frogcatchers (53.5% of the vote)
-Best Collection of Reprinted Material: Mister Miracle by Tom King and Mitch Gerads (39.8% of the vote)
-Best Cover: Immortal Hulk #25 by Alex Ross (37.9% of the vote)
-Best Page/Panel: The Kents from Justice League #25 by Jorge Jiménez (31.4% of the vote)
-Best Publisher: Marvel (54.3% of the vote)
-Most Improved Series: Captain Marvel by Kelly Thompson (59.2% of the vote)
-Best New Series: House of X/Powers of X (36.9% of the vote)
-Best Single Issue: House of X #2 (39.5% of the vote)
-Best Story Arc: Hulk In Hell (37.5% of the vote)
-Best Finished Run: Thor by Jason Aaron, Esad Ribic, Russell Dauterman, et al. (49.7% of the vote)
-Best New Character: Moira X (52.7% of the vote)
-Best Comic-Based TV Series: HBO's Watchmen (41% of the vote)
-Best Comic-Based Movie: Avengers Endgame (57.6% of the vote)
-Best Marvel Series: House of X/Powers of X (40% of the vote)
-Best DC Series: The Green Lantern (37.1% of the vote)
-Best Image Series: Gideon Falls (31.1% of the vote)
-Best Creator-Owned Series: Once and Future (37.2% of the vote)
-Best Licensed Series: Teenage Mutant Ninja Turtles (37.3% of the vote)
-Best Comic Adaptation of Another Medium: Blade Runner 2019 (80.4% of the vote)
-Best Manga: One Piece (41.9% of the vote)
-The [r/comicbooks](https://www.reddit.com/r/comicbooks/) Award: Jonathan Hickman dominating the weekly pull list for months with HOX/POX/DOX (49.5% of the vote)
-
-Well, that's that! The ~~Jonathan Hickman~~ subreddit Best of 2019 awards are done. Did you want anything else to win? Did you expect a different outcome? Discuss it here!
-
-60: Best Writer: Jonathan Hickman (34.6% of the vote)
-Best Penciller: Pepe Larraz (29.6% of the vote)
-Best Inker: Jorge Fornés (30.4% of the vote)
-Best Colorist: Marte Gracia (39% of the vote)
-Best Letterer: Clayton Cowles (56.9% of the vote)
-Best Cover Artist/Team: Alex Ross (40.8% of the vote)
-Best Creative Team: Jonathan Hickman, Pepe Larraz, R.B. Silva, Marte Gracia, Tom Muller (39.2% of the vote)
-Best Underdog Creator: Kelly Thompson (36.8% of the vote)
-Best Comics-Related Professional: Zack Jenkins (41.4% of the vote)
-Best Ongoing Series: The Immortal Hulk (49.1% of the vote)
-Best Limited Series: House of X/Powers of X (52.2% of the vote)
-Best One-Shot: Batman Annual #4 (38.5% of the vote)
-Best Event/Crossover: House of X/Powers of X (79% of the vote)
-Best Original Graphic Novel: Frogcatchers (53.5% of the vote)
-Best Collection of Reprinted Material: Mister Miracle by Tom King and Mitch Gerads (39.8% of the vote)
-Best Cover: Immortal Hulk #25 by Alex Ross (37.9% of the vote)
-Best Page/Panel: The Kents from Justice League #25 by Jorge Jiménez (31.4% of the vote)
-Best Publisher: Marvel (54.3% of the vote)
-Most Improved Series: Captain Marvel by Kelly Thompson (59.2% of the vote)
-Best New Series: House of X/Powers of X (36.9% of the vote)
-Best Single Issue: House of X #2 (39.5% of the vote)
-Best Story Arc: Hulk In Hell (37.5% of the vote)
-Best Finished Run: Thor by Jason Aaron, Esad Ribic, Russell Dauterman, et al. (49.7% of the vote)
-Best New Character: Moira X (52.7% of the vote)
-Best Comic-Based TV Series: HBO's Watchmen (41% of the vote)
-Best Comic-Based Movie: Avengers Endgame (57.6% of the vote)
 Best Marvel Series: House of X/Powers of X (40% of the vote)
 Best DC Series: The Green Lantern (37.1% of the vote)
 Best Image Series: Gideon Falls (31.1% of the vote)
@@ -5844,7 +5774,9 @@ Best comic books:
 
 - **Watchmen**, **All-Star Superman**, **Kingdom Come**, **Batman: Year One**, **Batman: The Long Halloween**, **The Dark Knight Returns**, **The Killing Joke**, **Sandman**, **Maus**, **From Hell**, **Persepolis**, **Planetary**, **Calvin and Hobbes**, **Bone**, **Saga**,  **Saga of the Swamp Thing**. 
 - *Starman*, *Fables*, *Preacher*, *Transmetropolitan*, *Green Lantern* by Geoff Johns (~~*Green Lantern: Secret Origin*~~), *Daredevil Born Again*, *Judge Dredd: America*, *Enigma*, *Y: The Last Man* (can be chauvinist according to Felicia Day), *The Vision* by Tom King, *Hawkeye* by Matt Fraction, *Kraven's Last Hunt*, *Astonishing X-Men*, *Annihilation* by Dan Abnett... (Annihilation Conquest is also good), *Scott Pilgrim*, *Blacksad*, *Sin City*, *V for Vendetta*.
-- The Superior foes of Spider-Man (funniest book available), Gotham Central, Marvels, Deadly Class, Invincible by Robert Kirkman, Baltimore, Hellboy, Fun Home by Alison Bechdel, Daytripper by Fabio Moon and Gabriel Ba, The Contract With God Trilogy by Will Eisner, Essex County by Jeff Lemire (outside the realm of Superheroes), Astro City by Kurt Busiek, Berlin by Jason Lutes, Chew by John Layman & Rob Guillory, Black Hole by Charles Burns, Hellblazer (Constantine) by Delano, Ennis.
+- The Superior foes of Spider-Man (funniest book available), Gotham Central, Marvels, Deadly Class, Invincible by Robert Kirkman, Baltimore, Hellboy, Fun Home by Alison Bechdel, Daytripper by Fabio Moon and Gabriel Ba, The Contract With God Trilogy by Will Eisner, Essex County by Jeff Lemire (outside the realm of Superheroes), Astro City by Kurt Busiek, Berlin by Jason Lutes, Chew by John Layman & Rob Guillory, Black Hole by Charles Burns, Hellblazer (Constantine) by Delano and Ennis, Gideon Falls by Jeff Lemire.
+
+  > Gideon Falls is the best Image comic series in 2019 according to Reddit.
 
 Best single issues: 
 
@@ -5884,11 +5816,20 @@ Best The Flash comics:
   >
   > New 52 The Flash volumes 1-5. Written and with art by the same artists of Dastardly Death of the Rogues, like much of the new 52 reboot it was a jumping on point. The art is beautiful and the writing is solid and fun. However pretty much all Flash lore was scrapped which is disappointing, more so if you read the previous recommendations.
 
-Best Green Lantern comics: ~~*Green Lantern: Secret Origin*~~, *Green Lantern: Rebirth* and other books in Geoff Johns's Green Lantern Saga, *The Green Lantern* by Grant Morrison.
+Best Green Lantern comics: ~~*Green Lantern: Secret Origin*~~, *Green Lantern: Rebirth* and other books in Geoff Johns's Green Lantern Saga, *The Green Lantern* (2018) by Grant Morrison (The Green Lantern Vol. 1: Intergalactic Lawman, The Green Lantern Vol. 2: The Day the Stars Fell).
+
+> I think *The Green Lantern* (2018) by Grant Morrison is the best entry point in 2020 because it is new. Also, this run is chosen as the best DC series in 2019 according to Reddit:
+>
+> > Best DC Series: The Green Lantern (37.1% of the vote)
 
 Best Hellboy comics: nearly all of it is written by Mike Mignola and nearly all of it is worth reading. Just start at the beginning with [Hellboy, Volume 1: *Seed of Destruction*](https://www.amazon.com/dp/1593070942) and follow the rest in [suggested reading order](http://www.multiversitycomics.com/annotations/hellboy-reading-order-2019/) (*Conqueror Worm* is the best story arc among them). Although, the best option would be to buy omnibuses. *Plague of Frogs* BPRD run is also recommended by people. Besides this spin-off, people also recommend these books: *Frankenstein Underground*, *Lobster Johnson*.
 
 Best Hulk comics: **Incredible Hulk Visionaries** (80s-90s) by Peter Devid (the best run), **Planet Hulk** and **World War Hulk** by Greg Pak, *Hulk the End* by Peter David (depressing af though), *Immortal Hulk* by Al Ewing, Incredible Hulk (1999-2007) by Bruce Jones, Hulk: Gray by Jeph Loeb, Ultimate Hulk Vs Wolverine by Damon Lindelof.
+
+> *Immortal Hulk* by Al Ewing (and its story arc) is chosen as the best Ongoing series in 2019 according to Reddit:
+>
+> > Best Ongoing Series: The Immortal Hulk (49.1% of the vote)
+> > Best Story Arc: Hulk In Hell (37.5% of the vote)
 
 Best Spider-Man comics: **Ultimate Spider-Man** by Brian Bendis, *Kraven's Last Hunt* and *The Death of Gwen Stacey* are the best comics of classic era (*Amazing Spider-Man*, the Bible of the Spider-Man universe),Origin of the Hobgoblin+Nothing Can Stop the Juggernaut+The Kid Who Collected Spider-Man by Roger Stern, Spider-Man: Birth of Venom, Spider-Man Blue, Spider-Man: Spider-Island, The Death of Jean DeWolff and One Small Break are both very good "dark" stories, Spider-Man/Human Torch (modern and light-hearted story).
 
@@ -5912,9 +5853,16 @@ Best Swamp Thing comics: **Saga of the Swamp Thing** by Alan Moore, *New 52 Swam
 
 Best Wonder Woman comics: *Wonder Woman by George Perez Omnibus Vol. 1*, *Wonder Woman By George Perez Omnibus Vol. 2*, *Wonder Woman by George Perez Omnibus Vol. 3*, *Wonder Woman By Greg Rucka Vol. 1* (Rucka's first run), *Wonder Woman by Greg Rucka, Vol. 2* (Rucka's first run), *Wonder Woman Vol. 1: The Lies (Rebirth)* (Rucka is back, it's his second run, and it's good starting point).
 
-Best X-Men comics: **Uncanny X-Men** by Chris Claremont (classic and best; **X-Men: The Dark Phoenix Saga** is the most frequently mentioned), *New X-Men* by Grant Morrison, *Astonishing X-Men* by Joss Whedon (Swap this with New X-Men for a more consistent/fun intro to X-Men), House of M by Brian Michael Bendis, Uncanny X-Force Vol. 1 by Rick Remender (maybe it's as cool as Wheadon and Morrison comics).
+Best X-Men comics: **Uncanny X-Men** by Chris Claremont (classic and best; **X-Men: The Dark Phoenix Saga** is the most frequently mentioned), *New X-Men* by Grant Morrison, *Astonishing X-Men* by Joss Whedon (Swap this with New X-Men for a more consistent/fun intro to X-Men), House of M by Brian Michael Bendis, Uncanny X-Force Vol. 1 by Rick Remender (maybe it's as cool as Wheadon and Morrison comics), Dawn of X and House Of X/powers Of X Jonathan Hickman.
 
-- Cyclops:  *New X-Men* by Grant Morrison, *Astonishing X-Men* by Joss Whedon (he is a badass in this one), Kieron Gillen's Uncanny X-Men run (#534.1-544, #1-20) and Avengers vs X-Men: Consequences, Messiah Complex by Ed Brubaker, X-Men: Second Coming by Mike Carey, Marvel comics presents: Cyclops.
+> Dawn of X is the best X-men run to jump in in 2020. House Of X/powers Of X by Jonathan Hickman is the best Marvel series in 2019 according to Reddit:
+>
+> > Best Limited Series: House of X/Powers of X (52.2% of the vote)
+> > Best Event/Crossover: House of X/Powers of X (79% of the vote)
+> > Best Single Issue: House of X #2 (39.5% of the vote)
+> > Best Marvel Series: House of X/Powers of X (40% of the vote)
+
+- Cyclops: *New X-Men* by Grant Morrison, *Astonishing X-Men* by Joss Whedon (he is a badass in this one), Kieron Gillen's Uncanny X-Men run (#534.1-544, #1-20) and Avengers vs X-Men: Consequences, Messiah Complex by Ed Brubaker, X-Men: Second Coming by Mike Carey, Marvel comics presents: Cyclops.
 
 - Gambit: **Uncanny X-Men** by Chris Claremont (#246, #265-280), X-23 by Marjorie Liu, Gambit (2012) by James Asmus, Rogue & Gambit by Kelly Thompson, X-Men: Gambit & Rogue by Howard Mackie, Gambit Classic by Howard Mackie.
 
@@ -5928,7 +5876,11 @@ Best Alien comics: **Aliens: Outbreak**, **Aliens: Nightmare Asylum**, **Aliens:
 
 > A lot of of the Aliens comics are surprisingly good.
 
-Best Blade Runner comics: Blade Runner 2019 (it is a pretty fresh run).
+Best Blade Runner comics: Blade Runner 2019 by Michael Green.
+
+> Blade Runner 2019 by Michael Green is the best Comic Adaptation of Another Medium in 2019 according Reddit:
+>
+> > Best Comic Adaptation of Another Medium: Blade Runner 2019 (80.4% of the vote)
 
 Best Doctor Who comics:
 
