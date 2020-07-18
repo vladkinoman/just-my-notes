@@ -1327,25 +1327,312 @@ Story wise New 52 was much better. A lot of the writing in the Rebirth has been 
 
 ### Batman
 
-> [Batman - essentials](https://www.reddit.com/r/batman/wiki/recommendations/essentials) on Reddit.
+> [Batman - essentials](https://www.reddit.com/r/batman/wiki/recommendations/essentials) is great recommendations. Also, you should use [Batman - reading order](https://www.comicbookherald.com/reading-dc-comics/batman-reading-order/#batman7). According to it:
+>
+> > III)[ Year One & The Modern Bat ***(Most New Readers Should Start Here!)***](https://www.comicbookherald.com/reading-dc-comics/batman-reading-order/#batman3)
+
+---
+
+**Recommend good Batman runs?** (Apr 12 2014)
+
+Anybody recommend any good Batman runs starting with a certain issue where I can continue. Basically starting points.
+
+I have pretty much read everything from **Grant Morrison's run** (Detective and Batman) and am currently catching up to *New 52* which will be done soon.
+
+I'm also reading around the Infinite crisis era and getting to War Games, eventually it will all segue to *Morrison's run*.
+
+Would love good Black Mask stories and more hard crime stories. Basically if I were to write a new Batman movie, which runs would you recommend?
+
+Thanks!
+
+EDIT: Have read most of the big graphic novels/mini series (**long halloween**, **year one**, **Dark Victory** etc)
+
+3: Most runs that have an overarching plot-line have been collected into trades.
+
+Besides *Snyder's work* in DC and Batman, my favorite writer's run would be Alan Grant's run on the Shadow of the Bat title. It's 1-82 in the title, but unfortunately most issues were never collected. The floppies are fairly common on eBay, and the few local comic shops I frequent have had multiple copies of almost all of the issues. Also, they're available on Comixology, if you prefer digital reading.
+
+Doug Moench's second run on Batman in the '90s was fairly solid, though there were some real dud issues. It ran from 481- 559. His run with artist Kelley Jones was recently collected in [Batman by Doug Moench & Kelley Jones](http://www.amazon.com/Batman-Doug-Moench-Kelley-Jones/dp/1401247644). These are some of the better issues from his run.
+
+**Loeb and Lee's run** on the Batman title resulted in **Hush**, one of my favorite stories. Their run covered issues 608 - 619, and has been collected in multiple formats. This also segues nicely into Judd Winick's run from Batman 635-650, with a brief hiatus on issues 642-644. This was collected in the Under the Hood trade.
+
+Paul Dini (The Animated Series writer) had a nice run on the Detective Comics title. It was a bit sporadic, but was 821-824, 826-828, 831, 833-834, 837-841, 843-850, and 852.
+
+Both Moench & Jones and Under the Hood has plenty of Black Mask action. In the Moench trade, Batman is hunting down Black Mask after the events of Knightfall. In Under the Hood, Black Mask has become one of the top gang bosses in Gotham.
+
+There have been plenty of other great runs, but these are fresh in my mind, as I just finished Moench's complete run a few days ago.
+
+> 3 (OP): woah thanks! Have read Hush and read a lot of Winick's run, sorta working backwards from Infinite Crisis. But thanks anyway, will check them out.
+
+1: If you want crime stories you should check out Gotham Central. Batman is not the central figure (he shows up pretty often). Its the tale of working as a police officer in Gotham. They're some of my favorite Batstories.
+
+1: Loeb / Sale **The Long Halloween** is a fantastic run.(that would make a great two parter or trilogy, let alone one film) No Black Mask, but a whole bunch others. Tells of the tale of a serial killer known as Holiday and his year long trail of holiday centric bodies
+
+---
+
+**Best Comic Runs** (May 20 2017)
+
+As a big Batman fan, I'm almost ashamed to admit I haven't read any Batman comics.
+
+I'm not made of money, but I'd like to get some solid Bat comics. I will be picking up the Rebirth series...
+
+But other than that... I have been looking at **Court of Owls** and **Endgame**. I don't love older art styles of comics... but what are the top 3 or 5 runs in your opinions? I'll be picking up some tpb versions.
+
+6: If you're reading on the cheap, checkout what the local libraries have. It's surprising how many comics they keep these days.
+
+**Long Halloween**
+
+**HUSH**
+
+Batman: Detective by Paul Dini.
+
+Those are my favs.
+
+4: I was gonna say the early Finger/Kane stories lol but then I read the description.
+
+***Grant Morrison's run**
+
+*Denny O'Neil & Neil Adams
+
+*Len Wein run
+
+*The entire Frank Miller run (If you're really committed)
+
+5: Batman - Vampire **Batman: The Long Halloween** All Star Batman & Robin Superman: Red Son
+
+3: Since we're talking runs and not graphic novels, mini-series or one shot stories...
+
+My top five would be:
+
+- **Hush**
+- *Snyder's New 52 run*
+- **The Long Halloween**
+- **The Black Mirror**
+- Under the Red Hood
+
+> 2 (OP): Appreciate all the responses so far...
+>
+> If you had to pick 3-5 trades to pick up for a bat fan...which would you recommend? Right now I'm leaning towards more modern stuff:
+>
+> **Court of Owls** as I heard that entire run was awesome
+>
+> Endgame because I heard this was an amazing story in the same run
+>
+> Rebirth vol 1
+>
+> Rebirth vol 2
+>
+> > 3: If I had to narrow it down to 3 (and considering that you like modern stuff), I'd go with **Hush**, **Death of the Family** and **The Black Mirror**.
+> >
+> > **Hush** still feels very modern and it's one of the best Batman stories ever. It's an example of what a Batman story should be.
+> >
+> > **The Black Mirror** is a fantastic detective story. It's Dick Grayson under the cowl, not Bruce, but I promise you it does not make the story less compelling. Very modern, Nolan-style feel to it.
+> >
+> > And **Death of the Family** is one of the best batman-Joker stories and it's set right after Court of Owls. You need to have read it to read Endgame (which I also loved, thought not as much). Endgame is a sequel to Death of the Family.
+> >
+> > Rebirth I can't really comment on. I'm behind. I'm not really into the reboot.
+> >
+> > > 1 (OP): So **court of Owls**, city of Owls, **death of the family** and endgame are the new 52 recs?
+> > >
+> > > > 1: There are also Zero Year and Superheavy.
+> > > >
+> > > > Zero Year came out between **Death of the Family** and **Endgame**, but it doesn't matter when you read it. It's an origin story for Batman. I'd recommend it as well.
+> > > >
+> > > > Superheavy is the very last thing written by *Snyder for the New 52* and it's set after **Endgame**. I haven't actually read it yet.
+> > > >
+> > > > The New 52 stuff was released in this order, basically:
+> > > >
+> > > > - **Court of Owls**
+> > > > - City of Owls
+> > > > - **Death of the Family**
+> > > > - Zero Year (it's composed of two volumes)
+> > > > - **Endgame**
+> > > > - Superheavy
+> > > >
+> > > > > 2 (OP): Dark City and Secret City are the two Zero Year volumes?
+> > > > >
+> > > > > > 1: Correct.
+> > > >
+> > > > > 1: It seems *new 52 Batman* is very highly recommended by people as they say it's one of the best Bat runs ever...
+>
+> > 1: Rebirth 1 isn't fantastic. It took awhile for the current run to find its legs.
+> >
+> > I'd suggest you catch up on some classic stuff first, it'll help contextualize everything else you read.
+> >
+> > **Year One**
+> >
+> > **Long Halloween**
+> >
+> > **Death in the Family** (not "of")
+> >
+> > **Killing Joke**
+> >
+> > All good ones to check out that are also touchstone stories that get referenced frequently either directly or by picking up story threads started in them.
+
+2: Dude, read the original Detective Comics stories! They're... well, they'll help you understand all the best Batman stories. You'll get a ton of OG references that will otherwise fly over your head. Mostly, though, they'll help you understand who the Batman is and where he comes from. It's best to look up the actual entire issues and read some of the other comics in there, like Siegel & Shuster's Spy and their Slam Bradley series, to give you a better idea of why the Batman comic was created in the first place. My favorite revelation was that the Metropolis scene in Batman v. Superman was inspired by the same issue of Detective that gave us the first version of Batman's origin story. Did you know Bat-Man killed a person in almost every issue of Detective Comics? Read Batman #1 while you're at it. You wouldn't believe some of this stuff.
+
+That's my recommendation.
+
+---
+
+**What is the most popular Batman run of all Time?**
+
+I noticed that King's run has been polarizing and some people have ben saying that he writes batman poorly. Scott Snyder has the acclaimed **Court o Owls** story and the art propels the run to legendary status but after Death of the family the rest of the run is not regarded as high. Grant Morrison's run has been regarded by some reader has the best Batman run ever but others claim that it is a convoluted mess. So my question is which run is the most popular.
+
+11: The most popular is probably *scott snyder* because his run was so recent and he's a big star at DC rn but **Grant Morrison** may have the best
+
+> 4: I don't think so. It might be the most recommended but I think **Morrison's run** is more popular overall.
+>
+> > 3: By what metric?
+> >
+> > Certainly not sales or recommendations
+> >
+> > > 6: Ehh <u>by overall recommendations</u>, yeah. When new readers are trying to get into Batman, I usually see Snyder recommended (Since he started he's in continuity and Morrison technically isn't) but when people ask for overall best runs, I usually see Morrison's name a little more.
+
+11: Among older fans, definitely O'Neil and Adams.
+
+5: Outside of Miller and Moore? **Hush**, probably. It was a year-long run on the Batman ongoing.
+
+> 2 (OP): I don't believe Moore or Miller had runs. Did they? They wrote Batman comics but they didn't have runs.
+>
+> > 1: I was referring to **DKR** and **Killing Joke**. Though **Year One** was technically a four-issue run in Batman.
+> >
+> > > 1 (OP): I figured you were taking about those. Still I mean long runs.
+
+> 2: **Hush** is an arc, **killing joke** is a large one shot or graphic novel, and miller’s stuff are mini/maxi series. Generally runs are considered to be an extended period of time on a character with multiple story arcs, and usually an overarching narrative over the course of the entire writer’s time on the said character.
+
+3: Some run from way back in the day when comics were still selling hundreds of thousands to a million issues each.
+
+4: Jeph Loeb and Tim Sale are the very best.
+
+3: *Snyder*, **Morrison**, or O'niel
+
+> 1: I haven't read O'niel. I know he introduced Ra's al Ghul and his Batman was darker even before Miller. So yes he definitely should be included.
+
+2: **H U S H**.
+
+My local comic shop sells at least one **Hush** trade a week. The newest copy in the store was on its 18th printing. (and that's not counting the other Hush formats like absolute, deluxe, unwrapped) The highest printing I'd seen before that was Watchmen at 11.
+
+It is one of the most recommended books for newbies, and because of that benefits from some nostalgia. We all remember our first.
+
+1: *Snyder’s* is probably the most popular and most known to people outside of Reddit, but all of my money is on **Morrison**. His run is almost a 10/10, it has a few weak points but Batman R.I.P. And Batman and Robin are both strong 10/10’s
+
+---
+
+**Any Batman Runs Pre New 52 worth reading?**
+
+So I saw that a bunch of Batman books were on sale and was wondering if there were any on sale that people would recommend? I've read over 50 issues of King's run and read about 4 volumes of *Snyder's*. I'm interested in something more crime based like **Black Mirror** and less Bat Godish. Although I also have a soft spot for the big 90's Bat Family and the Dixon era even though I've barely read any of it, so maybe that's worth looking? But yeah I haven't read much Batman pre New 52 so any recommendations are welcome :)
+
+
+
+Someone has already recommended me Batman: Streets of Gotham and after having a look I'm definitely checking that series out.
+
+16: Paul Dini's Detective Comics run is great but its trades, except for Heart of Hush, are not easy to find.
+
+**Grant Morrison's Batepic** is widely considered to be one of the best Batman runs ever. But occasionally it gets pretty bombastic so if you're okay with that I'd say go for it.
+
+> 2 (OP): After having a look at the Dini run I'm definitely give that one a read. But I think I'm gonna also give Morrison's a look.
+>
+> Just so I know. Where does that run start exactly, Is Batman and Son the first trade? Thanks for the recommendations also!
+>
+> > 2: Yeah, you start with Batman and Son. The new edition also includes The Black Glove story so be sure to get that edition.
+
+6: I would read Death in the Family, **Hush**, and Under the Red Hood. All good reads.
+
+5: Have you read the classics? **Year one**, **Long Halloween** etc? If not, get on it!
+
+3: Steve Engelhart's run
+
+2: If you want a good look at pre-Flashpoint Batman and Joker, there's no better option than [**The Man Who Laughs**](https://www.amazon.com/Batman-Man-Laughs-Ed-Brubaker/dp/1401216226/).
+
+2: At one time Dixon was writing Detective Comics, Robin, Nightwing, and Birds of Prey. They all were pretty good runs. His runs end abruptly on all of them when he left for CrossGen.
+
+I really enjoyed Doug Moench and Kelly Jones Run around the same time. There was an emphasis on horror/supernatural elements.
+
+Also, Batman: Legends of the Dark Knight has a ton of really good stories.
+
+> 1 (OP): These are some really good recommendations, thank you! I think I'm gonna check out the Doug Moench and Kelly Jones run, looks really different and interesting.
+
+---
+
+**What are the best Batman runs? (Feb 24 2020 - pretty fresh)**
+
+Looking for a really good batman comic run, preferably stuff I can find on Amazon. Does anyone have any suggestions? Thanks!
+
+2: 'THE DARK KNIGHT NEW-52' stories are really good.
+
+'Knight Terrors'
+
+'Mad'
+
+'Golden Dawn'
+
+are all really good, in terms of both art & story both.
+
+2: Chuck Dixon
+
+The *Scott Sntuer* one has no soul IMO
+
+> 1 (OP): Fair enough. I've read **Court of Owls** and enjoyed that, what do you dislike about *Snyder*? Just curious
+>
+> > 2: To me the *Scott Snyder run* is what an A.I. would write about Batman. I dont see anything new or sensitive about it.
+> >
+> > > 1 (OP): Yeah that's fair enough, I can understand that
+
+2: Dark Nights: Metal and the tie ins. Batman: White Knight and Batman: Earth One are also very good.
+
+1: Scott Snyder - Greg Capullo (2011) and **Jeph Loeb - Jim Lee** (2002)
+
+> 2 (OP): Thanks! I've read **Court of Owls** and Death of the family which I think is Snyder and Capullo.
+>
+> I've also read **Hush**, which I think is **Lee and Loeb**.
+>
+> Am I right in thinking that?
+>
+> > 1: Yes, you're right.
+
+1: In addition to what others have already said (*Snyder* especially), I'm a big fan of Greg Rucka's run on Detective Comics, (which started with No Man's Land in 1999) and Ed Brubaker's run on Batman around the same time. Both of them, IRRC, also worked on Gotham Central about the GCPD which was excellent.
+
+Going way back to the Bronze age, you can't overlook Adam's and O'Neil's work in the 70s, which essentially rescued Batman from campy silliness and created the dark knight we all love.
+
+1: **Grant Morrison's Batman run** from Batman and Son through to Batman and Robin #16 is the best run on the character ever, imo.
+
+Knightfall is an excellent arc that perfectly does the "hero replaced by 'cooler' version" arc. While the amount of onscreen Bruce Wayne is fairly limited, there is never any doubt in the reader's mind who the only true Batman is.
+
+**Batman Year One** is still the gold standard for "Batman origin stories" and if you're a fan of Batman Begins, it's definitely worth a look.
+
+**The Long Halloween** is a terrific standalone story arc that takes place in Batman's first year.
+
+**Batman: Hush** is probably the most fun comic ever made. Bombastic, colourful, full of characters and featuring the (imo) best Batman artist of all time, Jim Lee.
+
+Batman: Son of the Demon. A short but extremely well told story that features a more human and emotional side of the Bat.
+
+If you want a really long arc, then I recommend No Man's Land, which (arguably) starts at Contagion, and continues through Legacy, Cataclysm, Road to NML and then NML proper. Very much worth the time and effort, though.
+
+1: Dini's Detective Comics run. (Detective, Death and the City, Private Casebook, Resurrection of Ra's Al Ghul, Heart of Hush)
+
+Detective Comics #821-#850
+
+Unfortunately, they're harder to find physical versions of nowadays. I got mine off of eBay. But if you have DC Universe app you can read them there on the cheap.
+
+A lot of one-shot stories, but so good. He really captures the same writing style of the Animated Series.
 
 ---
 
 21: If you like a dark story with a twist, try **The Long Halloween** and its sequel, **Dark Victory**.
 
-11: **Year One**, **The Long Halloween**, **Dark Victory** (sequel to TLH), Hush, Under The Red Hood, Black Mirror, and **The Court of Owls**.
+11: **Year One**, **The Long Halloween**, **Dark Victory** (sequel to TLH), **Hush**, Under The Red Hood, **Black Mirror**, and **The Court of Owls**.
 
-> Someone: I really enjoyed Zero Year as a starting point. Year One is a different comics.
+> Someone: I really enjoyed Zero Year as a starting point. **Year One** is a different comics.
 
 8: The right answer is always **The Court of Owls** (The New 52) for new readers. It's the perfect starting point.
 
-> Court of Owls is pretty dark IMO. # analyzing the comments, I can tell you that's not exactly true.
+> **Court of Owls** is pretty dark IMO. # analyzing the comments, I can tell you that's not exactly true.
 
 ---
 
 For a starter I would say read Batman **Year One** or the **Killing Joke**. Basically the greats. After that it's pretty much a pick your own buffet. My personal favorites are no mans land (Batman helping Gotham in a huge earthquake) , **The Court of Owls** (new villians. As namesake) , the world's finest (Batman and Superman team up, its nothing like the movies )
 
-> Watching or reading Batman: Year One first? - I'm biased due to Year One being one of my favorites, but I say read it first. Its not duper long, but it's fantastic. Just a warning though, it's just as much a Gordon story as a Batman one.
+> Watching or reading **Batman: Year One** first? - I'm biased due to **Year One** being one of my favorites, but I say read it first. Its not duper long, but it's fantastic. Just a warning though, it's just as much a Gordon story as a Batman one.
 
 Edit: there was one comic or short that was damn good, it was about Batman's psyche and it ended with Batman in a sewer who could not let go of his guns.
 
@@ -1359,7 +1646,7 @@ I really recommend you to read it if anyone can help identify it.
 >
 > Right after that, please, please, please read Frank Miller's Dark Knight Returns.
 
-5: Must reads are **Killing Joke** by Alan Moore and Hush by Jeph Loeb, both are extremely dark and the best batman books to date in my opinion. If you don't mind a Dick Grayson Batman, try Black Mirror as well, it is extremely dark.
+5: Must reads are **Killing Joke** by Alan Moore and **Hush** by Jeph Loeb, both are extremely dark and the best batman books to date in my opinion. If you don't mind a Dick Grayson Batman, try **Black Mirror** as well, it is extremely dark.
 
 4: **The Dark Knight Returns** is about a Batman who come out of retirement because Gotham’s gone to hell. He’s unleashed, uncappable of holding back. It’s absolutely amazing. Skip watching the animated movies until you’ve read the comic. It’s only four issues.
 
@@ -1371,9 +1658,9 @@ You are going to get a lot of recommendations for **Year One** and **The Dark Kn
 
 **The Long Halloween** is another one you can jump into without much knowledge of Batman. It's sequel is **Dark Victory**.
 
-3: All New 52. **Killing Joke**. **Year One**. **The Dark Knight Returns**. Batman: The White Knight. Batman Hush. Batman The Black Mirror. Batman Death in the Family. Batman Under the Hood
+3: All New 52. **Killing Joke**. **Year One**. **The Dark Knight Returns**. Batman: The White Knight. **Batman Hush**. **Batman The Black Mirror**. Batman Death in the Family. Batman Under the Hood
 
-2: **Batman Year One**. **The dark knight returns** **The long Halloween** **The killing joke** **Dark Victory** Grant Morrison’s Batman run Scott Snyder’s Batman Run
+2: **Batman Year One**. **The dark knight returns** **The long Halloween** **The killing joke** **Dark Victory** **Grant Morrison’s Batman run** *Scott Snyder’s Batman Run*
 
 > EDIT: also Batman Earth One by Geoff Johns and Gary Frank.
 
@@ -1414,23 +1701,23 @@ Specifically looking for something dark to read with blood and all the goods. Wo
 
 Now what do you mean by "dark?"
 
-*All-Star Batman and Robin* is pretty damn dark in tone and content - I wouldn't recommend it to anyone though.
+All-Star Batman and Robin is pretty damn dark in tone and content - I wouldn't recommend it to anyone though.
 
 > As a dark and serious Batman story, I also wouldn't recommend *All Star Batman & Robin*...
 >
 > ...HOWEVER as a farcical, crazy-town, banana-pants story I wholly recommend *All Star Batman & Robin.*
 
-*Arkham Asylum: A serious House on a Serious Earth* by Morrison is <u>probably the darkest you'll find</u>. It is pretty much all psychological and is fairly light on the blood but it is probably the most all-out horror batman story there is.
+Arkham Asylum: A serious House on a Serious Earth by Morrison is <u>probably the darkest you'll find</u>. It is pretty much all psychological and is fairly light on the blood but it is probably the most all-out horror batman story there is.
 
-*The Black Glove* contains the issue *Joe Chill in Hell* where Batman mentally tortures Joe Chill into committing suicide - that's pretty dark.
+The Black Glove contains the issue *Joe Chill in Hell* where Batman mentally tortures Joe Chill into committing suicide - that's pretty dark.
 
-*Dark Knight/Dark City* was recently re-released I hear and is probably the most grim Riddler story out there... it starts of pretty dark and stays that way. Got some baby kidnapping and it is generally pretty creepy.
+Dark Knight/Dark City was recently re-released I hear and is probably the most grim Riddler story out there... it starts of pretty dark and stays that way. Got some baby kidnapping and it is generally pretty creepy.
 
 **Killing Joke** has implied rape, house invasion, execution and general mental torture so that's pretty dark.
 
-*Black Mirror* has a lot of psychological darkness and detective work to it and some torture and mutilation too.
+**Black Mirror** has a lot of psychological darkness and detective work to it and some torture and mutilation too.
 
-Pretty much any ark from the pre 2008ish series *Streets of Gotham* would be about some pretty grim subjects - it was an uneven series.
+Pretty much any ark from the pre 2008ish series Streets of Gotham would be about some pretty grim subjects - it was an uneven series.
 
 ---
 
@@ -1438,11 +1725,11 @@ Pretty much any ark from the pre 2008ish series *Streets of Gotham* would be abo
 
 10: Read Scott Snyder's Batman run. Or **The Long Halloween**, maybe *Arkham Asylum: A Serious House On A Serious Earth*? It's probably harder to find "lighter" Batman stories haha
 
-6: Snyder's Works: Black Mirror, **Court of Owls**, City of Owls, **Death of the Family**, **Endgame**.
+6: Snyder's Works: **Black Mirror**, **Court of Owls**, City of Owls, **Death of the Family**, **Endgame**.
 
-Geoff Johns: *Batman: Earth One Vol. 1 & 2*.
+Geoff Johns: Batman: Earth One Vol. 1 & 2.
 
-Other's: *Death in the Family, Arkham Asylum, Long Halloween*.
+Other's: Death in the Family, Arkham Asylum, **Long Halloween**.
 
 3: Aside from all the mentioned and you're also interested in the animated universe, Return of the Joker's pretty grim.
 
@@ -1466,7 +1753,7 @@ Gothic
 
 10: **Batman: The Man Who Laughs**, Batman and Joker’s first meeting.
 
-6: **Death of the Family** and Endgame. **The Man who Laughs**.
+6: **Death of the Family** and **Endgame**. **The Man who Laughs**.
 
 ---
 
@@ -1491,7 +1778,7 @@ Gothic
 - Joker: Devil's Advocate
 - Batman and Robin: Batman & Robin Must Die (big bonus points because it's not actually Bruce and the Joker...but *Dick!Bats* and the Joker), though I'd recommend reading the previous volumes of the run first
 
-**Other:** Scott Snyder's run on Batman, particularly Death of the Family and Endgame. I'm not going to comment either way on Snyder's Joker stories; I think they're worth reading and well-written, and there's some quite interesting and worthwhile commentary on the Batman-Joker relationship in them, but I wouldn't go out of my way to say they're "underrated" or the best Batman-Joker stories of all time.
+**Other:** *Scott Snyder's run on Batman*, particularly **Death of the Family** and **Endgame**. I'm not going to comment either way on Snyder's Joker stories; I think they're worth reading and well-written, and there's some quite interesting and worthwhile commentary on the Batman-Joker relationship in them, but I wouldn't go out of my way to say they're "underrated" or the best Batman-Joker stories of all time.
 
 #### Joker
 
@@ -1536,7 +1823,7 @@ You should probably add '*besides the Killing Joke*' because well obviously.
 
 > Then the obvious answer would be "The Laughing Fish".
 
-Endgame.
+**Endgame**.
 
 If I were to choose something besides **The Killing Joke** or "The Laughing Fish", it would be "Dreadful Birthday, Dear Joker".
 
@@ -1546,13 +1833,13 @@ After **The Killing Joke**, **The Man Who Laughs**.
 
 **What is the DARKEST Joker story in the Batman comics?**
 
-20: If you don't think the Joker from Snyder and Capullo's New 52 run is dark and twisted enough, then I don't know what's wrong with you. That's the most sadistic version I've seen yet.
+20: If you don't think the Joker from *Snyder and Capullo's New 52 run* is dark and twisted enough, then I don't know what's wrong with you. That's the most sadistic version I've seen yet.
 
-> Death of the Family and Endgame from New 52 focus on Joker, and they're both great.
+> **Death of the Family** and **Endgame** from New 52 focus on Joker, and they're both great.
 
-> The entire Snyder New 52 run of Batman is fantastic.
+> The entire *Snyder New 52 run* of Batman is fantastic.
 
-20: **Death of the Family**, Endgame, **The Killing Joke**, Brian Azzarello's Joker, **The Man Who Laughs**.
+20: **Death of the Family**, **Endgame**, **The Killing Joke**, Brian Azzarello's Joker, **The Man Who Laughs**.
 
 8: Obvious answer is **The Killing Joke** but I think Brian Azzarello's 'Joker' graphic novel is even more unsettling, especially the scene with Frost's ex-wife.
 
@@ -5555,7 +5842,7 @@ Jeff Smith - his characters, no matter how far fetched they are, seem real and r
 
 Best comic books: 
 
-- **Watchmen**, **All-Star Superman**, **Kingdom Come**, **Batman: The Long Halloween**, **The Dark Knight Returns**, **The Killing Joke**, **Sandman**, **Maus**, **From Hell**, **Persepolis**, **Planetary**, **Calvin and Hobbes**, **Bone**, **Saga**,  **Saga of the Swamp Thing**. 
+- **Watchmen**, **All-Star Superman**, **Kingdom Come**, **Batman: Year One**, **Batman: The Long Halloween**, **The Dark Knight Returns**, **The Killing Joke**, **Sandman**, **Maus**, **From Hell**, **Persepolis**, **Planetary**, **Calvin and Hobbes**, **Bone**, **Saga**,  **Saga of the Swamp Thing**. 
 - *Starman*, *Fables*, *Preacher*, *Transmetropolitan*, *Green Lantern* by Geoff Johns (~~*Green Lantern: Secret Origin*~~), *Daredevil Born Again*, *Judge Dredd: America*, *Enigma*, *Y: The Last Man* (can be chauvinist according to Felicia Day), *The Vision* by Tom King, *Hawkeye* by Matt Fraction, *Kraven's Last Hunt*, *Astonishing X-Men*, *Annihilation* by Dan Abnett... (Annihilation Conquest is also good), *Scott Pilgrim*, *Blacksad*, *Sin City*, *V for Vendetta*.
 - The Superior foes of Spider-Man (funniest book available), Gotham Central, Marvels, Deadly Class, Invincible by Robert Kirkman, Baltimore, Hellboy, Fun Home by Alison Bechdel, Daytripper by Fabio Moon and Gabriel Ba, The Contract With God Trilogy by Will Eisner, Essex County by Jeff Lemire (outside the realm of Superheroes), Astro City by Kurt Busiek, Berlin by Jason Lutes, Chew by John Layman & Rob Guillory, Black Hole by Charles Burns, Hellblazer (Constantine) by Delano, Ennis.
 
@@ -5567,9 +5854,19 @@ Best single issues:
 
 ---
 
-Best Batman comic books: **Year One**, **The Long Halloween**, **Dark Victory**, **The Dark Knight Returns**, **Court of Owls**, *Arkham Asylum: A serious House on a Serious Earth*.
+Best Batman runs: run by **Grant Morrison** (right before the New 52; Batman R.I.P. And Batman and Robin are both strong 10/10’s according to Reddit), **Hush** by Jeph Loeb and Jim Lee, *New 52 run* by Scott Snyder (his run is pretty dark), old run by O'Neil and Adams.
+
+> In general, when we talk about Batman, the best ones are comic books, which are short runs like **Batman: Year One**.
+>
+> [Batman - essentials](https://www.reddit.com/r/batman/wiki/recommendations/essentials) is great recommendations. Also, you should use [Batman - reading order](https://www.comicbookherald.com/reading-dc-comics/batman-reading-order/#batman7). According to it:
+>
+> > III)[ Year One & The Modern Bat ***(Most New Readers Should Start Here!)***](https://www.comicbookherald.com/reading-dc-comics/batman-reading-order/#batman3)
+
+Best Batman comic books: **Batman: Year One**, **The Long Halloween**, **Dark Victory**, **The Dark Knight Returns**, **Hush**, **Court of Owls**, **The Black Mirror**, *Arkham Asylum: A serious House on a Serious Earth*.
 
 - Joker: **The Man Who Laughs**, **The Killing Joke**, **Death *of* the Family**, **Joker**, **Endgame**.
+
+  > A Death **in** the Family is the post-crisis story, that I find terrible.
 - Harley Quinn: ~~**Batman: Mad Love**~~.
 
 Best Daredevil comics: **Daredevil** (1979-1983) by Frank Miller (**Born Again** is the best story arc), **The Man Without Fear** by Frank Miller, **Daredevil** (2000-2006) by Brian Michael Bendis (the greatest modern run of the character, Alex Maleev is the best artist of Daredevil), *Daredevil* (2006-2009) by Ed Brubaker, Daredevil (2011-2015) by Mark Waid, Daredevil (1986-1991) by Ann Nocenti (underrated run).
@@ -5692,126 +5989,131 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 10. https://www.reddit.com/r/comicbooks/comments/52zvky/best_single_issue_youve_ever_read/
 11. https://www.reddit.com/r/DCcomics/comments/4wyhmw/what_are_some_of_best_single_issues_of_dc/
 12. https://www.reddit.com/r/comicbooks/comments/ekd9q0/the_votes_are_in_here_are_the_rcomicbooks_best_of/
-13. https://www.reddit.com/r/DCcomics/comments/8x9fsa/new_reader_looking_for_the_best_batman_comics_to/?sort=top
-14. https://www.reddit.com/r/DCcomics/comments/8ids63/what_are_the_best_batmancomics/
-15. https://www.reddit.com/r/DCcomics/comments/7i1eo7/suggest_me_some_really_dark_comics_especially/?sort=top
-16. https://www.reddit.com/r/DCcomics/comments/24uca6/what_is_the_darkest_batman_comic_out_there/?sort=top
-17. https://www.reddit.com/r/DCcomics/comments/4urjkb/what_are_some_of_the_darkest_batman_stories_other/?sort=top
-18. https://www.reddit.com/r/DCcomics/comments/8mmkhh/what_are_the_best_batman_tpbs_with_the_joker/?sort=top
-19. https://www.reddit.com/r/DCcomics/comments/a85kcz/comics_that_dive_into_batman_and_jokers/?sort=top
-20. https://www.reddit.com/r/DCcomics/comments/9eeug2/question_what_is_your_favorite_joker_story/?sort=top
-21. https://www.reddit.com/r/DCcomics/comments/b90j5w/best_comics_about_the_joker/
-22. https://www.reddit.com/r/batman/comments/9otdcq/best_comics_featuring_joker/
-23. https://www.reddit.com/r/batman/comments/4g815r/what_is_the_darkest_joker_story_in_the_batman/?sort=top
-24. https://www.reddit.com/r/joker/comments/3ehq8y/joker_comic_reading_list/?sort=top
-25. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
-26. https://www.reddit.com/r/comicbooks/comments/9qn1ej/where_to_start_with_daredevil_comics/
-27. https://www.reddit.com/r/comicbooks/comments/4b04pe/where_to_start_with_daredevil/
-28. https://www.reddit.com/r/comicbooks/comments/74llvo/best_daredevil_run/
-29. https://www.reddit.com/r/comicbooks/comments/4r1kra/best_daredevil_runs/
-30. https://www.reddit.com/r/comicbooks/comments/agxiaw/good_daredevil_run_to_read/
-31. https://www.reddit.com/r/comicbooks/comments/d3k182/ranking_daredevil_runs_whos_the_bestworst/
-32. https://www.reddit.com/r/comicbooks/comments/95w8vc/what_is_the_best_daredevil_story_arc/
-33. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
-34. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
-35. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
-36. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
-37. https://www.reddit.com/r/DCcomics/comments/7791f6/where_to_start_with_green_lantern/
-38. https://www.reddit.com/r/comicbooks/comments/7008wz/best_runs_of_hellboy_to_check_out/
-39. https://www.reddit.com/r/comicbooks/comments/8breze/wow_the_hellboy_comics_are_actually_really_really/
-40. https://www.reddit.com/r/HellBoy/comments/b9rnbd/essentialbest_hellboy_comics/
-41. https://www.reddit.com/r/comicbooks/comments/as5j2l/favorite_hellboy_comics/
-42. https://www.reddit.com/r/comicbooks/comments/8gm5hy/i_want_to_get_into_the_hulk_where_should_i_start/
-43. https://www.reddit.com/r/Marvel/comments/371ee2/where_to_start_reading_hulk/
-44. https://www.reddit.com/r/comicbooks/comments/94pbm3/best_hulk_comics/
-45. https://www.reddit.com/r/comicbooks/comments/appqgd/best_hulk_runs/
-46. https://www.reddit.com/r/Marvel/comments/86x9op/best_hulk_stories_to_read/
-47. https://www.reddit.com/r/comicbooks/comments/b55b4l/what_are_some_good_hulk_comics_besides_planet/
-48. https://www.reddit.com/r/comicbooks/comments/6dtvwq/whats_the_absolute_best_spiderman_series/
-49. https://www.reddit.com/r/comicbooks/comments/2g6j0e/best_spiderman_comics/
-50. https://www.reddit.com/r/Spiderman/comments/2g8n8f/in_your_opinion_what_is_the_best_spidermans_comics/
-51. https://www.reddit.com/r/Marvel/comments/azusxm/need_help_finding_best_miles_morales_origin_comic/
-52. https://www.reddit.com/r/comicbooks/comments/34dtld/where_to_start_reading_miles_morales_spiderman/
-53. https://www.reddit.com/r/Marvel/comments/7jvyda/best_miles_morales_storyline/
-54. https://www.reddit.com/r/comicbooks/comments/54gc95/is_spidergwen_any_good/
-55. https://www.reddit.com/r/Marvel/comments/76n0h1/is_the_spidergwen_series_any_good/
-56. https://www.reddit.com/r/comicbooks/comments/85gqbl/help_with_spider_gwen_comics/
-57. https://www.reddit.com/r/SpiderGwen/comments/aa19ov/where_to_start_in_comics_for_spider_gwen/
-58. https://www.reddit.com/r/DCcomics/comments/hawuam/which_suicide_squad_series_to_read/
-59. https://www.reddit.com/r/DCcomics/comments/93fcz4/any_good_suicide_squad_comics_to_read_where_can_i/
-60. https://www.reddit.com/r/comicbooks/comments/93fg9x/any_good_suicide_squad_comics_to_read_where_can_i/
-61. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
-62. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
-63. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
-64. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
-65. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
-66. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
-67. https://www.reddit.com/r/comicbooks/comments/8gtmi5/essential_xmen_read/
-68. https://www.reddit.com/r/xmen/comments/2l0cri/xmen_comics_beginners_reading_guide/
-69. https://www.reddit.com/r/comicbooks/comments/62xfkh/where_to_start_with_xmen_comics/
-70. https://www.reddit.com/r/xmen/comments/9vpb24/where_should_i_start_reading_the_xmen_comics/
-71. https://www.reddit.com/r/xmen/comments/8li356/i_want_to_start_reading_xmen_comics/
-72. https://www.reddit.com/r/comicbooks/comments/8pa2hd/what_is_the_best_xmen_comics/
-73. https://www.reddit.com/r/Marvel/comments/cqv7r5/bestessential_xmen_comics_after_house_of/
-74. https://www.reddit.com/r/xmen/comments/1tu405/what_are_the_best_cyclops_comics/
-75. https://www.reddit.com/r/Marvel/comments/3n58mf/best_cyclops_comics/
-76. https://www.reddit.com/r/comicbooks/comments/bjmgr5/best_cyclops_comics/
-77. https://www.reddit.com/r/Marvel/comments/8besuq/gambit_recommendations/
-78. https://www.reddit.com/r/xmen/comments/awxtec/best_reading_for_gambit/
-79. https://www.reddit.com/r/xmen/comments/ffjref/good_gambit_stories/
-80. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
-81. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
-82. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
-83. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
-84. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
-85. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
-86. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
-87. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
-88. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
-89. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
-90. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
-91. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
-92. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
-93. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
-94. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
-95. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
-96. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
-97. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
-98. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
-99. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
-100. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
-101. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
-102. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
-103. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
-104. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
-105. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
-106. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
-107. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
-108. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
-109. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
-110. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
-111. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
-112. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
-113. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
-114. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
-115. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
-116. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
-117. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
-118. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
-119. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
-120. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
-121. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
-122. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
-123. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
-124. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
-125. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
-126. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
-127. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
-128. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
-129. https://www.cbr.com/the-best-cyberpunk-comics-ever/
-130. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
-131. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
-132. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
-133. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
-134. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-135. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+13. https://www.reddit.com/r/batman/comments/22uw5j/recommend_good_batman_runs/
+14. https://www.reddit.com/r/batman/comments/6c854h/best_comic_runs/
+15. https://www.reddit.com/r/DCcomics/comments/9bdh1y/what_is_the_most_popular_batman_run_of_all_time/
+16. https://www.reddit.com/r/comicbooks/comments/9fa2oo/any_batman_runs_pre_new_52_worth_reading/
+17. https://www.reddit.com/r/batman/comments/f8xu9v/what_are_the_best_batman_runs/
+18. https://www.reddit.com/r/DCcomics/comments/8x9fsa/new_reader_looking_for_the_best_batman_comics_to/?sort=top
+19. https://www.reddit.com/r/DCcomics/comments/8ids63/what_are_the_best_batmancomics/
+20. https://www.reddit.com/r/DCcomics/comments/7i1eo7/suggest_me_some_really_dark_comics_especially/?sort=top
+21. https://www.reddit.com/r/DCcomics/comments/24uca6/what_is_the_darkest_batman_comic_out_there/?sort=top
+22. https://www.reddit.com/r/DCcomics/comments/4urjkb/what_are_some_of_the_darkest_batman_stories_other/?sort=top
+23. https://www.reddit.com/r/DCcomics/comments/8mmkhh/what_are_the_best_batman_tpbs_with_the_joker/?sort=top
+24. https://www.reddit.com/r/DCcomics/comments/a85kcz/comics_that_dive_into_batman_and_jokers/?sort=top
+25. https://www.reddit.com/r/DCcomics/comments/9eeug2/question_what_is_your_favorite_joker_story/?sort=top
+26. https://www.reddit.com/r/DCcomics/comments/b90j5w/best_comics_about_the_joker/
+27. https://www.reddit.com/r/batman/comments/9otdcq/best_comics_featuring_joker/
+28. https://www.reddit.com/r/batman/comments/4g815r/what_is_the_darkest_joker_story_in_the_batman/?sort=top
+29. https://www.reddit.com/r/joker/comments/3ehq8y/joker_comic_reading_list/?sort=top
+30. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
+31. https://www.reddit.com/r/comicbooks/comments/9qn1ej/where_to_start_with_daredevil_comics/
+32. https://www.reddit.com/r/comicbooks/comments/4b04pe/where_to_start_with_daredevil/
+33. https://www.reddit.com/r/comicbooks/comments/74llvo/best_daredevil_run/
+34. https://www.reddit.com/r/comicbooks/comments/4r1kra/best_daredevil_runs/
+35. https://www.reddit.com/r/comicbooks/comments/agxiaw/good_daredevil_run_to_read/
+36. https://www.reddit.com/r/comicbooks/comments/d3k182/ranking_daredevil_runs_whos_the_bestworst/
+37. https://www.reddit.com/r/comicbooks/comments/95w8vc/what_is_the_best_daredevil_story_arc/
+38. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
+39. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
+40. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
+41. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
+42. https://www.reddit.com/r/DCcomics/comments/7791f6/where_to_start_with_green_lantern/
+43. https://www.reddit.com/r/comicbooks/comments/7008wz/best_runs_of_hellboy_to_check_out/
+44. https://www.reddit.com/r/comicbooks/comments/8breze/wow_the_hellboy_comics_are_actually_really_really/
+45. https://www.reddit.com/r/HellBoy/comments/b9rnbd/essentialbest_hellboy_comics/
+46. https://www.reddit.com/r/comicbooks/comments/as5j2l/favorite_hellboy_comics/
+47. https://www.reddit.com/r/comicbooks/comments/8gm5hy/i_want_to_get_into_the_hulk_where_should_i_start/
+48. https://www.reddit.com/r/Marvel/comments/371ee2/where_to_start_reading_hulk/
+49. https://www.reddit.com/r/comicbooks/comments/94pbm3/best_hulk_comics/
+50. https://www.reddit.com/r/comicbooks/comments/appqgd/best_hulk_runs/
+51. https://www.reddit.com/r/Marvel/comments/86x9op/best_hulk_stories_to_read/
+52. https://www.reddit.com/r/comicbooks/comments/b55b4l/what_are_some_good_hulk_comics_besides_planet/
+53. https://www.reddit.com/r/comicbooks/comments/6dtvwq/whats_the_absolute_best_spiderman_series/
+54. https://www.reddit.com/r/comicbooks/comments/2g6j0e/best_spiderman_comics/
+55. https://www.reddit.com/r/Spiderman/comments/2g8n8f/in_your_opinion_what_is_the_best_spidermans_comics/
+56. https://www.reddit.com/r/Marvel/comments/azusxm/need_help_finding_best_miles_morales_origin_comic/
+57. https://www.reddit.com/r/comicbooks/comments/34dtld/where_to_start_reading_miles_morales_spiderman/
+58. https://www.reddit.com/r/Marvel/comments/7jvyda/best_miles_morales_storyline/
+59. https://www.reddit.com/r/comicbooks/comments/54gc95/is_spidergwen_any_good/
+60. https://www.reddit.com/r/Marvel/comments/76n0h1/is_the_spidergwen_series_any_good/
+61. https://www.reddit.com/r/comicbooks/comments/85gqbl/help_with_spider_gwen_comics/
+62. https://www.reddit.com/r/SpiderGwen/comments/aa19ov/where_to_start_in_comics_for_spider_gwen/
+63. https://www.reddit.com/r/DCcomics/comments/hawuam/which_suicide_squad_series_to_read/
+64. https://www.reddit.com/r/DCcomics/comments/93fcz4/any_good_suicide_squad_comics_to_read_where_can_i/
+65. https://www.reddit.com/r/comicbooks/comments/93fg9x/any_good_suicide_squad_comics_to_read_where_can_i/
+66. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
+67. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
+68. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
+69. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
+70. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
+71. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
+72. https://www.reddit.com/r/comicbooks/comments/8gtmi5/essential_xmen_read/
+73. https://www.reddit.com/r/xmen/comments/2l0cri/xmen_comics_beginners_reading_guide/
+74. https://www.reddit.com/r/comicbooks/comments/62xfkh/where_to_start_with_xmen_comics/
+75. https://www.reddit.com/r/xmen/comments/9vpb24/where_should_i_start_reading_the_xmen_comics/
+76. https://www.reddit.com/r/xmen/comments/8li356/i_want_to_start_reading_xmen_comics/
+77. https://www.reddit.com/r/comicbooks/comments/8pa2hd/what_is_the_best_xmen_comics/
+78. https://www.reddit.com/r/Marvel/comments/cqv7r5/bestessential_xmen_comics_after_house_of/
+79. https://www.reddit.com/r/xmen/comments/1tu405/what_are_the_best_cyclops_comics/
+80. https://www.reddit.com/r/Marvel/comments/3n58mf/best_cyclops_comics/
+81. https://www.reddit.com/r/comicbooks/comments/bjmgr5/best_cyclops_comics/
+82. https://www.reddit.com/r/Marvel/comments/8besuq/gambit_recommendations/
+83. https://www.reddit.com/r/xmen/comments/awxtec/best_reading_for_gambit/
+84. https://www.reddit.com/r/xmen/comments/ffjref/good_gambit_stories/
+85. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
+86. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
+87. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
+88. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
+89. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
+90. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
+91. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
+92. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
+93. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
+94. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
+95. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
+96. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
+97. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
+98. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
+99. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
+100. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
+101. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
+102. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
+103. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
+104. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
+105. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
+106. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
+107. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
+108. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
+109. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
+110. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
+111. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
+112. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
+113. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
+114. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
+115. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
+116. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
+117. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
+118. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
+119. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
+120. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
+121. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
+122. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
+123. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
+124. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
+125. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
+126. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
+127. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
+128. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
+129. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
+130. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
+131. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
+132. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
+133. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
+134. https://www.cbr.com/the-best-cyberpunk-comics-ever/
+135. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
+136. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
+137. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
+138. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
+139. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+140. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
