@@ -5740,6 +5740,492 @@ Warren Ellis writes quite of stuff that would be considered cyberpunk and biopun
 
 1: [Old City Blues](http://ocb.milonogiannis.com/)
 
+## Best artists
+
+**Who Are Some of Your Favorite Comic Book Artists?**
+
+It doesn't necessarily have to be Marvel or DC. My favorites are:
+
+**Alex Ross**
+
+*Jim Lee*
+
+Steve McNiven
+
+Tim Sale
+
+Frank Miller
+
+John Romita Jr
+
+Leinil Francis Yu
+
+Michael Turner
+
+David Finch
+
+Jim Cheung
+
+These were just a few that came to mind.
+
+20: *Alex Maleev*: [Scarlet](http://media.aintitcool.com/media/legacy/images2009/comics/column09/scarlet3.JPG), [Daredevil](http://66.media.tumblr.com/3f5e70bfa8aff87741ec86ccaad8fb28/tumblr_mmn0ltwg4l1qb9xd1o10_1280.png)
+
+**Alex Ross**: [Earth X](http://www.dcleaguers.it/wp-content/uploads/2012/02/strange77a.jpg), [Justice](http://www.blastr.com/sites/blastr/files/styles/blog_post_in_content_image/public/AlexRoss-01.JPG?itok=2IwhD1L8), [Kingdom Come](http://images.sequart.org/images/kingdom_come_1600x1200-e1345103579998.jpg)
+
+*Andrea Sorrentino*: [Green Arrow](http://thelatestpull.com/wp-content/uploads/2015/05/GreenArrow22panel2.jpg), [Old Man Logan](https://nothingbutcomics.files.wordpress.com/2015/08/20150827_181533.jpg), [I, Vampire](https://s-media-cache-ak0.pinimg.com/originals/07/97/2e/07972e5049bc542ddf8cee6da79c6c1a.jpg)
+
+*Daniel Acuña:* [Avengers](http://static.comicvine.com/uploads/original/3/30334/3197497-mu11472.jpg), [Uncanny Avengers](http://cdn.pastemagazine.com/www/articles/2015/02/03/Uncanny-Avengers-1-Cover-16e17.jpg)
+
+*David Aja*: [Hawkeye](https://phoenixcomicspodcast.files.wordpress.com/2013/04/issue3page17.png), [Hawkeye2](http://comicsalliance.com/files/2013/07/Hawkeye-011-002-e1372785944677.jpg), [Immortal Iron Fist](http://howtolovecomics.com/wp-content/uploads/2015/07/ironfist-5-top.jpg)
+
+**Dustin Nguyen**: [Descender](http://static.comicvine.com/uploads/original/0/40/4368756-descender01p22-23+(1).jpg), [Heart of Hush](http://66.media.tumblr.com/5bb5a666195842612081011f8834659e/tumblr_n8s4063JoH1r1d7fuo1_1280.jpg), [Streets of Gotham](https://s-media-cache-ak0.pinimg.com/originals/37/87/bc/3787bc8c40f78ac31c76fd24662e7be5.jpg)
+
+Esad Ribić: [House of M](https://s-media-cache-ak0.pinimg.com/originals/cc/b8/67/ccb867c3265738a7a32b944f6dcda33e.jpg), [Thor: God of Thunder](http://www.newsarama.com/images/i/000/107/143/original/THORGOT2012009_int_LR-3-4.jpg)
+
+**Fiona Staples**: [Saga](http://comicsalliance.com/files/2012/03/sagaposter.jpg), [Saga2](http://66.media.tumblr.com/7f4ed7b783aa9edd9ce7f41c24feb8b1/tumblr_o7c9tkpnUO1u6xizko1_1280.jpg)
+
+Francesco Francavilla: [Chilling Adventures of Sabrina](http://i.imgur.com/DbfPTRW.jpg), [Black Mirror](https://2.bp.blogspot.com/-9VKwN2LOukY/V0YDaSZy9FI/AAAAAAAAADI/mpvJIypi4hUgANxSQH-8X9a68X-hGnS9gCLcB/s1600/black-mirror-3.jpg), [Garrison](http://68.media.tumblr.com/5da83b4614d7fe6288bcea322a2139fd/tumblr_inline_o93fixQd0s1rd6uwl_1280.jpg)
+
+Francis Manapul: [Trinity](https://thanley.files.wordpress.com/2016/06/septtrinity.jpg), [Trinity2](https://i.imgur.com/lt29uRR.jpg), [Flash](http://pm1.narvii.com/5952/6ecc8f5bfee75d70d900f7a12deccffaaa8b0b84_hq.jpg), [Detective Comics](http://static.comicvine.com/uploads/original/11111/111113893/4304204-detective+comics+(2011-)+037-015.jpg)
+
+Gabriele Dell'Otto: [X-Force](http://static.comicvine.com/uploads/original/11/114690/2166691-xforce.jpg), [Secret War](http://art.cafimg.com/images/Category_10481/subcat_20015/guerre_segrete_splash_F4.jpg)
+
+*Greg Capullo*: [Reborn](https://nothingbutcomics.files.wordpress.com/2016/06/reborncover-62375.jpg), [Batman](https://comicsdb.cz/pics/4896/b_c4896-b85d0a143132b98fe8b3ab76d4da63e6.jpg), [Batman2](http://4.bp.blogspot.com/-AWp2xB72iSI/T2tVWJmiBTI/AAAAAAAAB5o/Y0n14r5AjtE/s1600/4.jpeg), [Spawn](http://www.comicartcommunity.com/gallery/data/media/149/spawn_comic_cover_158_cl.jpg)
+
+*Ivan Reis*: [Aquaman](http://static.comicvine.com/uploads/original/2/23309/3638312-7640614270-tumbl.jpg), [Aquaman2](http://static.comicvine.com/uploads/original/2/23309/3638322-6617586222-tumbl.jpg), [Mortal Kombat](http://static1.comicvine.com/uploads/scale_large/11111/111113706/5014268-6672048121-morta.jpg), [JL: Trinity War](http://i.imgur.com/T04QGyy.jpg)
+
+Jae Lee: [Batman/Superman](http://i.imgur.com/adMCGbc.jpg), [Wolverine](http://static.comicvine.com/uploads/original/3/33913/1514537-12_wolvv2006_cov_col.jpg), [Transformers vs. G.I. Joe](https://s-media-cache-ak0.pinimg.com/originals/2f/36/0b/2f360b24068c39e45237d23125a26ff3.jpg), [Inhumans](https://pbs.twimg.com/media/CwcS_TzVQAMz0Fp.jpg)
+
+**Jason Fabok**: [Justice League](http://orig09.deviantart.net/d0d5/f/2015/111/3/6/justl_cv42_r1_by_jayfabs-d8qkz1b.jpg), [Justice League2](http://www.comicartcommunity.com/gallery/data/media/709/JUSTICE_LEAGUE_50.jpg), [Batman Eternal](http://www.comicartcommunity.com/gallery/data/media/709/BATMAN_ETERNAL_1.jpg), [Detective Comics](http://www.comicartcommunity.com/gallery/data/media/709/DETECTIVE_COMICS_24.jpg)
+
+*James Stokoe*: [Godzilla: Half Century War](http://i.imgur.com/mWc0Z.jpg), [Spider-Nam](http://illustrationfriday.com/wp-content/uploads/2014/07/stokoe-spidernam-04.jpg), [Orc Stain](http://i.imgur.com/KrKvUgF.jpg)
+
+Jamie McKelvie: [Young Avengers](https://chasemagnett.files.wordpress.com/2013/05/20130517-124851.jpg), [The Wicked + The Divine](http://jamiemckelvie.com/wp-content/uploads/2016/02/ragnarokbg.jpg), [The Wicked + The Divine2](http://media2.fdncms.com/sacurrent/imager/u/original/2570879/22e6622b58d907894ba85b8c9b6a9024.jpg)
+
+**Jerome Opena**: [Rage of Ultron](http://static.comicvine.com/uploads/original/0/40/4312454-avengers_rage_of_ultron_ogn_preview_1.jpg), [Uncanny X-Force](https://s-media-cache-ak0.pinimg.com/originals/33/bc/09/33bc0960c641579cf3c3b7b3fcc0ef2e.jpg), [Uncanny X-Force2](http://4.bp.blogspot.com/-p7M3TgscV90/TwdlJAzbCcI/AAAAAAAAADE/G2ao91duuw0/s1600/u_11_006-007.jpg), [Seven to Eternity](http://cdn.pastemagazine.com/www/articles/2016/04/05/SevenToEternity.jpg)
+
+J.H. Williams III: [Batwoman](https://www.thefword.org.uk/content/uploads/TEC854a.jpg), [Sandman: Overture] (https://retconpunchdotcom.files.wordpress.com/2015/10/the-end.jpg), [Promethea](http://i.imgur.com/4MJPJ52.jpg)
+
+Jock: [Wytches](http://thelatestpull.com/wp-content/uploads/2014/10/CGtF0bs.jpg), [Black Mirror](http://topicstock.pantip.com/chalermthai/topicstock/2011/08/A10935165/A10935165-14.jpg), [Daredevil](https://static5.comicvine.com/uploads/scale_medium/3/33913/1466181-37_daredevil__reborn_1.jpg), [Scalped](http://www.zonanegativa.com/imagenes/2016/07/Scalped-01-portada-Jock.jpg)
+
+Kenneth Rocafort: [Velocity](https://graphicpolicy.files.wordpress.com/2010/09/vlv2002_interior_stamped_pg05-06.jpg), [Titans](http://i.imgur.com/cV5AUtL.jpg), [Cyborg](http://assets1.ignimgs.com/2015/06/12/cybcv3glvariantjpg-82b733_1280w.jpg)
+
+Kevin Wada: [X-Men (Fan)](http://comicsalliance.com/files/2011/12/kevinwada15.jpg), [She-Hulk](http://66.media.tumblr.com/c5c7a0ec7126932c6b6eaf0af91865f4/tumblr_ne644e76k81qbkgzfo1_1280.jpg)
+
+Lee Bermejo: [All-Star Batman](http://images.bigcartel.com/product_images/181882175/BermejocolorIMG_5044.JPG?auto=format&fit=max&h=1000&w=1000), [Hellblazer](https://s-media-cache-ak0.pinimg.com/originals/89/ed/9f/89ed9f4ca01f4b6941cbabf75ce237c7.jpg), [Secret Origins](http://i.imgur.com/IaRKfTb.jpg)
+
+Marco Checchetto: [Avengers: Time Runs Out](http://i.imgur.com/kLAo1qW.jpg), [Star Wars: Shattered Empire](http://www.comicartcommunity.com/gallery/data/media/492/Journey_to_Star_Wars_The_Force_Awakens_Shattered_Empire_Preview_1_cac.jpg), [Marvel 1602](http://static.comicvine.com/uploads/original/2/23309/4408041-6714988148-9a20d.jpg), [Amazing Spider-man: Grim Hunt](http://static.comicvine.com/uploads/original/2/23309/4408039-2563535012-spide.jpg)
+
+Marco Rudy: [New Avengers](https://s-media-cache-ak0.pinimg.com/736x/a4/09/61/a409611635bc3989b230d47042922930.jpg), [New Avengers2](http://3.bp.blogspot.com/-D1m87pdCfnU/U4aAH5-vKoI/AAAAAAAACNo/4RMlLvDt9fA/s1600/New-Avengers-Annual-1-Preview-2-712d1.jpg), [Bucky Barnes: Winter Soldier](http://www.moregreatart.com/wp-content/plugins/wp-easycart-data/products/pics1/WinterSoldier_Issue_01_Finished_Page_12_ad8185b9d023018a7cf3e1f2102c1f19.jpg), [Under the Wide and Starry Sky](https://nothingbutcomics.files.wordpress.com/2015/01/20150108_184036.jpg)
+
+Mike del Mundo: [Elektra](http://www.newsarama.com/images/i/000/125/135/original/ELEKTRA2014001004s_600.jpg), [Weirdworld](http://www.themarysue.com/wp-content/uploads/2015/12/Weirdworld_1_Preview_2.jpg)
+
+Mike Deodato, Jr.: [Original Sin](http://www.newsarama.com/images/i/000/130/108/original/ORIGSIN2014003_int_LR2_00004-5.jpg), [Original Sin2](http://static.comicvine.com/uploads/ignore_jpg_scale_super/10/107222/3829029-origsin2014002020scol.jpg), [Star Wars: Vader Down](https://nothingbutcomics.files.wordpress.com/2015/11/20151119_195043.jpg)
+
+Sarah Pichelli: [Spider-man](http://comicsalliance.com/files/2016/01/Spider-Man_1_Preview_3.jpg), [Spider-man2](http://66.media.tumblr.com/042bdeaaa00795ded5eac30f65ccf388/tumblr_nirp76CGgs1sbbfwho9_1280.jpg), [Guardians of the Galaxy](https://ageeksblogdotcom1.files.wordpress.com/2014/04/aa67a3452311ceb76352f719161aa40a.jpg)
+
+Stephanie Hans: [various](https://s-media-cache-ak0.pinimg.com/564x/2e/1e/b9/2e1eb9e0f8d683a8c2ff1790b2edf6c2.jpg), [Guardians of the Galaxy](http://illustrationfriday.com/wp-content/uploads/2015/06/tumblr_npl2ntAhj31rn4nneo4_1280.jpg)
+
+Steve Epting: [Velvet](http://www.brokenfrontier.com/wp-content/uploads/2014/12/VELVET006007_600.jpg), [Captain America](https://the616project.files.wordpress.com/2013/07/captain-america-winter-soldier-ed-brubaker-steve-epting.png)
+
+Stuart Immonen: [Star Wars](http://i.imgur.com/BicfYxl.jpg), [All-New X-Men](http://66.media.tumblr.com/9b3680c23133b8b0341302ccd756991d/tumblr_mg4jh98W4f1rcp7bmo1_1280.jpg)
+
+Yanick Paquette: [Swamp Thing1](http://i.imgur.com/xwi9Wph.png?1), [Swamp Thing2](http://i.imgur.com/quG5S06.jpg), [Swamp Thing3](https://www.expertcomics.com/images/enr-archives/uploads/2013/04/swampthing4c-marco-rudy-yin-yang.jpg)
+
+> 2: Glad someone sticks up for Deodato. I'm not sure why so many people dislike him.
+>
+> > 2: Maybe because his work reeks of Poser and other such 3D resource tools. Uncanny valley abound.
+> >
+> > It's okay to use it sparingly, but when it dominates your work it looks cheap and stiff.
+
+12: *Mike allred*.
+
+> 1 (OP): What series do you like by him?
+>
+> > 7: X-force/x-static run of his is one of my all time favs
+
+6: Inoue: Vagabond
+
+Mazzuchelli: Batman: Year One, DD: Born Again, Asterios Polyp
+
+O'Malley: Scott Pilgrim, Lost at Sea
+
+Asano: Solanin, What A Wonderful World!, Goodnight Punpun, A Girl On The Shore
+
+Yukimura: Planetes, Vinland Saga
+
+Mori: A Bride's Story
+
+4: Kenneth Rocafort is my favorite right now. Francis Manapul is my 2nd and 3rd Jon Davis-Hunt because of Wild Storm.
+
+4:
+
+- *Mike Allred*
+- Walt Simonson
+- Arthur Adams
+- Jeremy Haun
+- Norm Breyfogle
+- **Alex Ross**
+
+2: **Alex Ross**. Making unreal shit real! Every time! Speed it up please Alex!
+
+---
+
+**Some best comic art recomendation?**
+
+I would like to know which are the comics with the best art?
+
+20: **Fiona Staples** on Saga is the best interior artist in the business, IMO. Also, Descender by **Dustin Nguyen** has a really cool art style (almost watercolor).
+
+Besides that:
+
+*Monstress* Manifest Destiny East of West Paper Girls Wicked + Divine
+
+>3: Actual watercolor, in fact!
+
+> 1: I also love love *love* **Staples**' character design, just in general (not just Saga, but everything she does). Very clean, nice edges and almost an angular/geometric feeling to it, can't get enough.
+
+14: *Monstress* by *Sana Takeda*
+
+13 (again): *Alex Maleev*: [Scarlet](http://theshortbox.thefwoosh.com/files/2010/09/SCARLET003_cov.jpg), [Daredevil](http://66.media.tumblr.com/3f5e70bfa8aff87741ec86ccaad8fb28/tumblr_mmn0ltwg4l1qb9xd1o10_1280.png)
+
+**Alex Ross**: [Earth X](http://www.dcleaguers.it/wp-content/uploads/2012/02/strange77a.jpg), [Justice](http://www.blastr.com/sites/blastr/files/styles/blog_post_in_content_image/public/AlexRoss-01.JPG?itok=2IwhD1L8), [Kingdom Come](http://images.sequart.org/images/kingdom_come_1600x1200-e1345103579998.jpg)
+
+*Andrea Sorrentino*: [Green Arrow](http://thelatestpull.com/wp-content/uploads/2015/05/GreenArrow22panel2.jpg), [Old Man Logan](https://nothingbutcomics.files.wordpress.com/2015/08/20150827_181533.jpg)
+
+*Daniel Acuña*: [Avengers](http://static.comicvine.com/uploads/original/3/30334/3197497-mu11472.jpg), [Uncanny Avengers](http://cdn.pastemagazine.com/www/articles/2015/02/03/Uncanny-Avengers-1-Cover-16e17.jpg)
+
+*David Aja*: [Hawkeye](https://phoenixcomicspodcast.files.wordpress.com/2013/04/issue3page17.png), [Hawkeye2](http://comicsalliance.com/files/2013/07/Hawkeye-011-002-e1372785944677.jpg), [Immortal Iron Fist](http://howtolovecomics.com/wp-content/uploads/2015/07/ironfist-5-top.jpg)
+
+**Dustin Nguyen**: [Descender](http://static.comicvine.com/uploads/original/0/40/4368756-descender01p22-23+(1).jpg), [Heart of Hush](http://66.media.tumblr.com/5bb5a666195842612081011f8834659e/tumblr_n8s4063JoH1r1d7fuo1_1280.jpg)
+
+Esad Ribić: [House of M](https://s-media-cache-ak0.pinimg.com/originals/cc/b8/67/ccb867c3265738a7a32b944f6dcda33e.jpg), [Thor: God of Thunder](http://www.newsarama.com/images/i/000/107/143/original/THORGOT2012009_int_LR-3-4.jpg)
+
+**Fiona Staples**: [Saga](http://comicsalliance.com/files/2012/03/sagaposter.jpg), [Saga2](http://66.media.tumblr.com/7f4ed7b783aa9edd9ce7f41c24feb8b1/tumblr_o7c9tkpnUO1u6xizko1_1280.jpg)
+
+Francesco Francavilla: [Chilling Adventures of Sabrina](http://i.imgur.com/DbfPTRW.jpg), [Black Mirror](https://2.bp.blogspot.com/-9VKwN2LOukY/V0YDaSZy9FI/AAAAAAAAADI/mpvJIypi4hUgANxSQH-8X9a68X-hGnS9gCLcB/s1600/black-mirror-3.jpg)
+
+Francis Manapul: [Trinity](https://thanley.files.wordpress.com/2016/06/septtrinity.jpg), [Trinity2](https://i.imgur.com/lt29uRR.jpg), [Flash](http://pm1.narvii.com/5952/6ecc8f5bfee75d70d900f7a12deccffaaa8b0b84_hq.jpg)
+
+Gabriele Dell'Otto: [X-Force](http://static6.comicvine.com/uploads/original/8/86187/2023370-x_force_by_gabriele_dellotto_e1293444068682.jpg), [Secret War](http://art.cafimg.com/images/Category_10481/subcat_20015/guerre_segrete_splash_F4.jpg)
+
+*Greg Capullo*: [Batman](http://static.comicvine.com/uploads/original/11111/111113893/4304204-detective+comics+(2011-)+037-015.jpg), [Batman2](http://www.sarden.cz/storage/obrazky/7_2013/sovi tribunal 03.jpg)
+
+*Ivan Reis*: [Aquaman](http://static.comicvine.com/uploads/original/2/23309/3638312-7640614270-tumbl.jpg), [Aquaman2](http://static.comicvine.com/uploads/original/2/23309/3638322-6617586222-tumbl.jpg)
+
+Jae Lee: [Batman/Superman](http://i.imgur.com/adMCGbc.jpg), [Wolverine](http://static.comicvine.com/uploads/original/3/33913/1514537-12_wolvv2006_cov_col.jpg)
+
+Jamie McKelvie: [Young Avengers](https://chasemagnett.files.wordpress.com/2013/05/20130517-124851.jpg), [The Wicked + The Divine](http://jamiemckelvie.com/wp-content/uploads/2016/02/ragnarokbg.jpg), [The Wicked + The Divine2](http://media2.fdncms.com/sacurrent/imager/u/original/2570879/22e6622b58d907894ba85b8c9b6a9024.jpg)
+
+Jeroma Opena: [Rage of Ultron](http://static.comicvine.com/uploads/original/0/40/4312454-avengers_rage_of_ultron_ogn_preview_1.jpg), [Uncanny X-Force](https://s-media-cache-ak0.pinimg.com/originals/33/bc/09/33bc0960c641579cf3c3b7b3fcc0ef2e.jpg), [Uncanny X-Force2](http://4.bp.blogspot.com/-p7M3TgscV90/TwdlJAzbCcI/AAAAAAAAADE/G2ao91duuw0/s1600/u_11_006-007.jpg), [Seven to Eternity](http://cdn.pastemagazine.com/www/articles/2016/04/05/SevenToEternity.jpg)
+
+J.H. Williams III: [Batwoman](https://www.thefword.org.uk/content/uploads/TEC854a.jpg), [The Sandman: Overture] (https://retconpunchdotcom.files.wordpress.com/2015/10/the-end.jpg)
+
+Jock: [Wytches](http://thelatestpull.com/wp-content/uploads/2014/10/CGtF0bs.jpg), [Black Mirror](http://topicstock.pantip.com/chalermthai/topicstock/2011/08/A10935165/A10935165-14.jpg)
+
+Kevin Wada: [X-Fashions (Fan-made)](http://static8.comicvine.com/uploads/original/3/33913/2031619-kevin_wada_x_men.jpg), [She-Hulk](http://66.media.tumblr.com/c5c7a0ec7126932c6b6eaf0af91865f4/tumblr_ne644e76k81qbkgzfo1_1280.jpg)
+
+Lee Bermejo: [All-star Batman](http://images.bigcartel.com/product_images/181882175/BermejocolorIMG_5044.JPG?auto=format&fit=max&h=1000&w=1000), [Suiciders](http://media.dcentertainment.com/sites/default/files/GalleryComics_V_1920x1080_20141500_SUICIDERS4.cover_.FINAL_552eb91bf39142.88207382.jpg)
+
+Marco Rudy: [New Avengers](https://s-media-cache-ak0.pinimg.com/736x/a4/09/61/a409611635bc3989b230d47042922930.jpg), [New Avengers2](http://3.bp.blogspot.com/-D1m87pdCfnU/U4aAH5-vKoI/AAAAAAAACNo/4RMlLvDt9fA/s1600/New-Avengers-Annual-1-Preview-2-712d1.jpg), [Bucky Barnes: Winter Soldier](http://www.moregreatart.com/wp-content/plugins/wp-easycart-data/products/pics1/WinterSoldier_Issue_01_Finished_Page_12_ad8185b9d023018a7cf3e1f2102c1f19.jpg), [Under the Wide and Starry Sky](https://nothingbutcomics.files.wordpress.com/2015/01/20150108_184036.jpg)
+
+Mike del Mundo: [Elektra](http://www.newsarama.com/images/i/000/125/135/original/ELEKTRA2014001004s_600.jpg), [Weirdworld](http://www.themarysue.com/wp-content/uploads/2015/12/Weirdworld_1_Preview_2.jpg)
+
+Mike Deodato, Jr.: [Original Sin](http://www.newsarama.com/images/i/000/130/108/original/ORIGSIN2014003_int_LR2_00004-5.jpg), [Original Sin2](http://static.comicvine.com/uploads/ignore_jpg_scale_super/10/107222/3829029-origsin2014002020scol.jpg), [Star Wars: Vader Down](https://nothingbutcomics.files.wordpress.com/2015/11/20151119_195043.jpg)
+
+Sarah Pichelli: [Spider-man](http://comicsalliance.com/files/2016/01/Spider-Man_1_Preview_3.jpg), [Spider-man2](http://66.media.tumblr.com/042bdeaaa00795ded5eac30f65ccf388/tumblr_nirp76CGgs1sbbfwho9_1280.jpg), [Guardians of the Galaxy](https://ageeksblogdotcom1.files.wordpress.com/2014/04/aa67a3452311ceb76352f719161aa40a.jpg)
+
+Stephanie Hans: [various](https://s-media-cache-ak0.pinimg.com/564x/2e/1e/b9/2e1eb9e0f8d683a8c2ff1790b2edf6c2.jpg), [Guardians of the Galaxy](http://67.media.tumblr.com/c1e37e7d7972cc63c7805f53cc3e5025/tumblr_ncbqp6azgE1rn4nneo1_1280.jpg)
+
+Steve Epting: [Velvet](http://67.media.tumblr.com/2c36486bac7ae000b17ff178bf6836a9/tumblr_na9g6q5EqE1r9wpqho1_1280.jpg), [Captain America](https://the616project.files.wordpress.com/2013/07/captain-america-winter-soldier-ed-brubaker-steve-epting.png)
+
+Stuart Immonen: [Star Wars](http://i.imgur.com/BicfYxl.jpg), [All-New X-Men](http://66.media.tumblr.com/9b3680c23133b8b0341302ccd756991d/tumblr_mg4jh98W4f1rcp7bmo1_1280.jpg)
+
+Yanick Paquette: [Swamp Thing1](http://i.imgur.com/xwi9Wph.png?1), [Swamp Thing2](http://i.imgur.com/quG5S06.jpg), [Swamp Thing3](https://www.expertcomics.com/images/enr-archives/uploads/2013/04/swampthing4c-marco-rudy-yin-yang.jpg)
+
+EDIT1: Added image titles, more artists, and more examples. Feel free to make suggestions!
+
+10: [Descender](http://comicsalliance.com/files/2015/01/DESCENDER_1_Letts_19.jpg). I dunno how **Dustin Nguyen** paints a full watercolour comic that comes out as regularly as it does. I'm also a huge fan of Gabriel Ba and Fabio Moon: they've worked together on [Two Brothers](https://www.darkhorse.com/Books/28-766/Two-Brothers-HC), [How To Talk To Girls At Parties](https://www.darkhorse.com/Books/26-372/Neil-Gaimans-How-to-Talk-to-Girls-at-Parties), [Casanova](https://imagecomics.com/comics/series/casanova) and all sorts of other stuff.
+
+> 2: Not Image but Daytripper is also beautiful.
+>
+> > 3: I'd even go as far as to say that Daytripper is their best work to date
+
+10: Seven To Eternity by **Jerome Opena** will knock your socks off.
+
+7: I'm surprised no one's mentioned Sean Murphy yet. For Image stuff I'd recommend Tokyo Ghost but I'd say his best works are Punk Rock Jesus and Joe the Barbarian
+
+3: Literally anything from *Greg Capullo*! He's my all time favorite comic artist. He's done Batman and more recently he's doing a title for Image, Reborn and just signed another contract with DC comics (but I don't think anyone knows what it's for).
+
+https://www.capulloart.com/?v=7516fd43adaa
+
+3: Pretty much what others have said. *Monstress* and **Saga** are my favorites.
+
+But to add to that, I'll also say Wayward. Specifically the coloring is fantastic. It's so bright and vibrant, I love it.
+
+---
+
+**What is that the best art you have seen in comics?**
+
+20: Anything from **Jason Fabok** aka God's Hands personified.
+
+Especially Darkseid Wars.
+
+18: Do I have to be specific or can I just name an artist? If I can just name an artist, anything *David Acuna* or *Andrea Sorrentino* is amazing!
+
+16: [**Jerome Opeña**](https://i.pinimg.com/originals/c2/a3/6a/c2a36a6c55ca4ec28b8b65c04baad0ba.jpg) (Uncanny X-Force)
+
+[Dave Sim & Gerhard](http://1.bp.blogspot.com/-j2iekxuEbMQ/T9dJwmCze9I/AAAAAAAABJA/8iS-E-ZTxxA/s1600/cerebus_vs_cirin.jpg) (Cerebus)
+
+[Esad Ribic](http://www.comicscontinuum.com/stories/1203/23/ultimates85.jpg) (Ultimates by Jonathan Hickman)
+
+[*Bill Sienkiewicz*](http://4.bp.blogspot.com/-cygVwofTHdg/VLpiGqLWwTI/AAAAAAAAVY8/XEzCU36tCL4/s1600/LMoon%2BKnight%2B26-02-03.jpg) (Moon Knight)
+
+[Frank Quitely](https://i.pinimg.com/736x/1f/f7/2f/1ff72f4f9348266202e00504f81164b1--bd-comics-image-comics.jpg) (Jupiter's Legacy)
+
+> 12: I'm going to piggyback on yours because I like your examples. These are mostly things I've read recently or had images already saved from.
+>
+> *Sana Takeda* ([X-23](https://i.imgur.com/7a5VjNc.jpg), [Monstress](https://i.imgur.com/BxgqQNd.jpg))
+>
+> **Alex Ross** and Doug Braithwaite ([Justice](https://i.imgur.com/groVpi7.jpg))
+>
+> John Paul Leon ([Batman: Creature of the Night](https://i.imgur.com/wHcELaU.jpg))
+>
+> Clayton Crain ([X-Force](https://i.imgur.com/OyYO3To.jpg))
+>
+> *Jorge Jimenez* ([Super Sons](https://i.imgur.com/Ht4M7OD.jpg), and a bunch of [recent covers](https://i.imgur.com/AcXUX7M.jpg)) - This dude's going to be a superstar
+>
+> **Jason Fabok** (Many things, but the first issue of [The Button](https://i.imgur.com/dj3fuVC.jpg), Batman #21, was incredible)
+>
+> *Stjepan Sejic* ([Anything, really](https://i.imgur.com/fc3Q7jQ.jpg))
+>
+> > 6: I'm not a huge Stjepan Sejic fan, but I approve of the rest of your choices :)
+
+15: **Alex Ross** Kingdom Come and Marvels
+
+Edit: corrected his name
+
+11: I dunno, there are so many nice artists who inspire me out there. Off the top of my head:
+
+- *Bill Sienkiewicz* on [New Mutants](https://i.imgur.com/nsLOMDg.jpg)
+- Frazer Irving on [Uncanny X-Men](https://i.imgur.com/YKFyA1c.jpg)
+
+I dunno if these images do justice to them haha. I feel like I might be forgetting many cool illustrators.
+
+[Victor Ibáñez](https://i.imgur.com/Hw9arMO.jpg), [Phil Noto](https://i.imgur.com/xt6bkrl.jpg), and [Kevin Wada](http://i.imgur.com/mraAvu4.jpg) also do some seriously cool work.
+
+9: [I'll always have a place in my heart for Stuart Immonen's art, especially in X-Men: Battle of the Atom. The red tint/focus is so... stunning to me. It's a perfect style for that story in my opinion.](http://www.geekedoutnation.com/wp-content/uploads/2014/04/All-New_X-Men_27_Preview_3.jpg)
+
+> 3: Stuart Immonen style is indeed very cool! :) I enjoyed it on Bendis X-Men run
+
+8: Best superhero art: Tie between **Jack Kirby**'s run on Fantastic Four and Todd McFarlane's Spiderman. Both extremely influential in different ways.
+
+Best horror art: Graham "Ghastly" Ingels. Finest short story ever drawn for any comic of any genre is perhaps "Horror We? How's Bayou?"
+
+Best adventure comic art: Frank Frazetta's "Untamed Love" from the 1950's.
+
+Best Sci-Fi art: Wally Wood's EC comics run in Weird Science.
+
+Best Fantasy comic art: Tie between Moebius's run at Heavy Metal. (Whatever happened with that guy?) and Richard Corben's Den and Rowlf (and other stories).
+
+There are some really strong illustrators drawing superhero books today, but most just aren't breaking ground like they need to to stand apart from one another in my opinion. I can't tell the difference between most at a glance -- though the quality is very high!
+
+> 6:
+>
+> > (Whatever happened with that guy?)
+>
+> Moebius kept drawing great-looking comics until he died a few years ago.
+
+5: *stokoe* is the first that comes to mind, guys crazy good
+
+6: Just about anything from Walt Simonson and Art Adams. And Neal Adams.
+
+There are pages from ***Kirby*** that I can look at for hours at a time.
+
+7: **Jack Kirby**’s art was ahead of its time.
+
+5: Dave McKean's *Sandman* covers. Some of the most gorgeous art I've ever seen, irrespective of medium. Really want to read *Cages*, but I need to get a physical copy. I don't think digital does his work justice.
+
+---
+
+**Who are your top 5 favourite comic book artists?**
+
+Personally
+
+1. *Ivan Reis*/*Jim Lee* (can’t decide which I love more)
+
+Then Ethan Van Sciver or *Gary Frank*, (again, can’t decide which is better)
+
+Then, **Jason Fabok**, however I also love **Fiona Staples**
+
+16:
+
+1. Darwyn Cook
+2. Mike Alred
+3. Stuart Immonen
+4. **Jack Kirby**
+5. Chris Samnee
+
+>  2: Nice picks. You've definitely got a type.
+
+9:
+
+1. Art Adams
+2. Barry Windsor-Smith
+3. Frank Miller
+4. **Fiona Staples**
+5. *Stephan Sejic*
+
+8: 
+
+- 1) *Mike Allred*
+- 2) Jamie McKelvie
+- 3) Mike Mignola
+- 4) Paul Pope
+- 5) Gabriel Ba/Fabio Moon
+
+5:
+
+- moebius
+- tezuka
+- jim woodring
+- eddie campbell
+- mignola
+
+*james stokoe* and simon roy honorable mentions
+
+4: So tough but right now in no particular order
+
+*Greg Capullo* *Jorge Jimenez* *Gary Frank* **Jason Fabok** Joelle Jones
+
+5: David Mazzucchelli *Greg Capullo* *Darwyn Cooke* Stephen Bissette/John Totleben J.H. Williams III
+
+This is so hard! I wanna include so many other artists. Can someone make a top 20 thread? This shit’s killing me!
+
+4: **Jerome Opeña**
+
+David Mazzuchelli
+
+Dave Sim/Gerhard
+
+*Bill Sienkiewicz*
+
+*James Stokoe*
+
+4: All time?
+
+- *Darwyn Cooke*
+- **Jack Kirby**
+- *Stjepan Sejic*
+- **Fiona Staples**
+- Michael Turner
+
+3: For me, I'd go with:
+
+- Walt Simonson
+- Steve Ditko
+- **Jack Kirby**
+- J.H. Williams III
+- Frank Quitely
+
+with Steve Rude, Steranko, *Darwyn Cooke*, *David Aja*, and Neal Adams coming somewhere after that. **Kirby** and Ditko were both too prolific for me to have read their complete body of work, but they defined American comic book storytelling and were great illustrators when they cared to be. For the other artists on my list, I like them enough that I'll always buy anything that they are involved in - even if Jeph Loeb or Geoff Johns is writing (though let's hope it never comes to that).
+
+3:
+
+1. Francis Manapul
+2. Bernie Wrightson
+3. Howard Porter
+4. Jeff Lemire
+5. **Jack Kirby**
+
+4: In no particular order:
+
+1. Mike Zeck, favorite work of his is his Punisher series
+2. *Jim Lee*, favorite work is his X-Men stuff
+3. Will Eisner, favorite work is The Spirit (check out the Warren Magazine and Kitchen Sink reprints)
+4. John Byrne, his UXM and F4
+5. **Jack Kirby**, his F4
+
+3:
+
+1. *Jim Lee*
+2. Kelly Jones
+3. Tim Truman
+4. Tim Vigil
+5. Greg Land
+
+> 3: Genuine, non-sarcastic question: Are you serious about Greg Land? If so, why?
+>
+> He gets a lot of hate online and I've never actually seen someone claim to be a fan and I'd love to hear your opinion.
+>
+> > 3: He "draws" sexy chicks with nice tits.
+> >
+> > I find it too funny that I have Tim Vigil a splaterpunk/porno artist on here and yet I'm getting questioned about Greg Land =)
+> >
+> > Truth I did put him on the list to see who was paying attention but also truthfully I do like that style of art. While Land is probably the worst of it, I do consider Tim Bradstreet, Tony Harris, Greg Horn, and even Brian Micheal Bendis some of my favorite artists in the photo tracing art style.
+
+---
+
+**Who is your favorite comic book artist that is working in the industry right now?**
+
+I just wanna ask this question because there’s a lot of artists out there and I wanna ask who are y’all favorite whether they be obscure not that known or they’re on almost any comic you read. Personally I love *Greg Capullo* and Humberto Ramos, so what are yours?
+
+17: *Jorge Jimenez* is my favorite
+
+14: **Fiona Staples**! I have never seen another artist be able to portray human emotions as well as her. She is able to move beyond just anger/grimacing and into joy and fear. I really am feeling what her characters are feeling.
+
+11: *Stjepan Šejić*
+
+10: **Fabok**! He’s awesome. I also think Jacen Burrows is amazing. Hiss visual storytelling is awesome.
+
+9: I love the work of [Francis Manapul](https://i.pinimg.com/originals/6a/9b/20/6a9b20439f4bd29bda7fddbbdf5b8f57.jpg) and [Kenneth Rocafort](https://nothingbutcomics.files.wordpress.com/2018/02/img_3186.jpg?w=474&h=729) especially right now
+
+8: simon hanselmann, Kenneth rocafort. **jerome opeña**. mateo scalera. daniel warren johnson. babs tarr. annie wu. Noah van sciver. Joelle Jones. greg smallwood, Takeshi Miyazawa, *james stokoe*, bilquis evely, *Jim lee*, Chrissie zullo, siya oum, steve leiber
+
+7: the variation on marvel knights: spider-man (99 problems) has made marco rudy a favorite.
+
+[1](http://www.chasingamazingblog.com/wp-content/uploads/MK5_01.jpg)
+
+[2](https://4.bp.blogspot.com/-y3JZBi27_Y4/UmJT1DmNYGI/AAAAAAAA9vc/6bEGI2jLHtg/s1600/Spiderman-99Problems-issue02-Finished-02-03-fb006.jpg)
+
+[3](http://www.chasingamazingblog.com/wp-content/uploads/MK2_03.jpg)
+
+j.h. williams III has some amazing workon his batwoman run.
+
+10: Probably Declan Shalvey, he's got a good eye for narrative.
+
+8: **Jerome Opena** is on another level.
+
+> 3: Agreed! Everyone on here seems to hype up *Capullo*, but to me **Opena** is a more stylised version of his art, with the strong linework for shadows and shading, and the similar use of landscapes
+
+> 2: Agreed. His art on Seven to Eternity and Uncanny X-Force is just mind-bogglingly beautiful
+
+7: Joe Bennett. His back to back splash pages in Immortal Hulk #1 were mesmerizing.
+
+6: [Mike del Mundo](https://twitter.com/este127/status/1031269836666687491) and [Alex Maleev](https://twitter.com/alexmaleev).
+
+7: *Mike Allred*. He and *Darwyn Cooke* (RIP) are my two top all-time favorites.
+
+7: *David Aja*. He strikes the perfect balance between realism and dynamic storytelling. His draughtsmanship is impeccable, whether he's doing photoreferenced art or minimalist cartooning, and his eye for visual design is outstanding.
+
+He has the, deserved, reputation for being slow and poor with deadlines, but his finished work is just great.
+
+6: David Marquez. He did all of Civil War II though I think he just penciled it
+
+5: Sean Murphy
+
+4: *Andrea Sorrentino*
+
+4: Russell Dauterman. Hewas so good on Thor. I was really hoping he was going to be on the new Uncanny X-men.😐
+
+Also, Dan Mora has done some incredible work on the Power Rangers ongoing.
+
+4: Probably [Ramon Villalobos](https://www.zonanegativa.com/imagenes/2015/06/E-Is-For-Extinction-X-Men.jpg). He has this kinetic, candy-coated punk style to him that I love.
+
+I’m so happy he’s got an ongoing book to channel his efforts into with Vertigo’s Border Town.
+
+> 2: I really, really loved the art on Border Town #1 ... I adore Villalobos' style
+
 ## Best authors
 
 ### Ed Brubaker
@@ -6087,6 +6573,8 @@ Best comics by genre:
 
 ---
 
+Best artists: **Alex Ross**, **Jason Fabok**, **Fiona Staples** (the best interior artist in the business), **Dustin Nguyen** (cool art, almost watercolor), **Jerome Opeña**, **Jack Kirby**, *Greg Capullo*, *Jorge Jimenez*, *Daniel Acuña*, *Andrea Sorrentino*, *Stepan Sejic*, *Bill Sienkiewicz*, *Alex Maleev*, *Mike Allred*, *Darwyn Cooke*, *Sana Takeda*, *Jim Lee*, *Ivan Reis*, *Gary Frank*, *James Stokoe*, *David Aja*, Frank Miller, Mike Mignola, Sean Murphy (*Tokyo Ghost* but I'd say his best works are Punk Rock Jesus and Joe the Barbarian), Moebius (Jean Giraud), David Mazzucchelli, Marco Rudy (the variation on marvel knights: spider-man (99 problems)), Declan Shalvey (he's got a good eye for narrative),  Joe Bennett (his back to back splash pages in Immortal Hulk #1 were mesmerizing).
+
 Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyder*, *Ed Brubaker*, *Frank Miller*, Greg Rucka, Jeff Lemire, Jonathan Hickman, Rick Remender, Brian K. Vaughan, Mark Waid.
 
 ## References
@@ -6231,5 +6719,10 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 138. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
 139. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
 140. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
-141. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-142. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+141. https://www.reddit.com/r/comicbooks/comments/64gp7c/who_are_some_of_your_favorite_comic_book_artists/
+142. https://www.reddit.com/r/ImageComics/comments/5nf4ki/some_best_comic_art_recomendation/
+143. https://www.reddit.com/r/comicbooks/comments/850yia/what_is_that_the_best_art_you_have_seen_in_comics/
+144. https://www.reddit.com/r/comicbooks/comments/8bgejg/who_are_your_top_5_favourite_comic_book_artists/
+145. https://www.reddit.com/r/comicbooks/comments/9k7en8/who_is_your_favorite_comic_book_artist_that_is/
+146. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+147. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
