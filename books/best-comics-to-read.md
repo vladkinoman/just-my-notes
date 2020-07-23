@@ -2023,6 +2023,1020 @@ Actually pretty hard to narrow it down
 
 
 
+**What are your top 5 all-time Marvel runs?**
+
+*Not necessarily what you think is best, just your five favorite. It's tough! I wanna hear from you guys...
+
+Mine -
+
+1. **Hickman - FF / F4**
+2. **Remender - Uncanny X-Force**
+3. **Bendis / Maleev - Daredevil**
+4. Slott - Superior Spiderman
+5. Parker - Thunderbolts / Dark Avengers
+
+4:
+
+1. Waid/Ringo - Fantastic Four
+2. **Hickman** - **FF** (especially) and **Fantastic Four** tied with *Hickman's Avengers and New Avengers*
+3. DnA - Guardians and Nova
+4. Claremont - *Uncanny* and New Mutants and Excalibur's first issues
+5. Kelly's Deadpool
+
+Most underrated -
+
+Zeb Wells on New Mutants
+
+Simonson's Power Pack
+
+2: In no order:
+
+1. Inhumans - Lee/Jenkins
+2. Superior Foes - Spencer
+3. Captain America/Immortal Iron Fist - Brubaker
+4. **Fantastic Four - Hickman**
+5. Thor: God of Thunder - Aaron
+
+2: 1)Conway - Amazing Spider-Man
+
+2)*Claremont - Uncanny X-Men*
+
+3)Len Wein - Amazing Spider-Man (I'm admittedly biased as "The Deadliest Hundred Yards" is my all-time favorite single issue of any comicbook, but the rest of his run is still fantastic and often overlooked)
+
+4)*Whedon - Astonishing X-Men*
+
+5)Lee - Amazing Spider-Man
+
+2: Ennis - Punisher
+
+Claremont - *Xmen/Uncanny Xmen*
+
+Dixon - The Punisher: War Zone
+
+*Whedon- Astonishing Xmen*
+
+Liefeld - Deadpool and Cable
+
+1: Too hard to put in order but here it goes:
+
+1. Brubaker - Captain America
+2. *Hickman - Avengers/New Avengers*
+3. Bendis - Ultimate Spider-Man
+4. Posehn/Duggan - Deadpool
+5. Fraction - Invincible Iron Man
+
+1: 
+
+1. **Fraction - Hawkeye**
+2. Waid - Daredevil
+3. Brubaker/Fraction - Immortal Iron Fist
+4. DnA - GOTG
+5. Fraction - FF
+
+Can you guess who my favorite writer is?
+
+> 1: Fraction's FF is very much underrated. I think I liked it a lot more than most people.
+>
+> > 1: Agreed. Wasn't it coming off the rails of Hickman's run? It was definitely a tough act to follow but I thoroughly enjoyed it.
+
+1:
+
+1. **Remender- Uncanny X-Force**.
+2. **Bendis/Maleev- Daredevil**
+3. *Joss Whedon- Astonishing X-Men*
+4. DnA- The Cosmic Saga (Guardians if we have to pick one)
+5. Ed Brubaker- Captain America
+
+Honorable mention to Bendis for his Avengers work. It certainly got stale in the end and had its weak spots, but you have the appreciate just how much he did on his incredibly lengthy run on the title.
+
+The other run I want to shed light on is Secret Warriors. When the proper artists were on board, this title was glorious. It misses top five since the ending is a bit on the weak side.
+
+1:
+
+1. Cable and Deadpool
+2. Superior Foes of Spiderman
+3. Captain America - Brubaker
+4. Runaways
+5. *Astonishing X-Men - Whedon*
+
+1: Bendis- Ultimate Spider-Man (In my opinion, the definitive Spider-Man. It's just perfect.)
+
+*Whedon- Astonishing X-Men* (dear god Fox MAKE THIS INTO A MOVIE.)
+
+Remender- Uncanny Avengers (This series was seriously epic, although it got off to a slow start. Damn good art too.)
+
+Aaron- Thor: God of Thunder (Beautiful, *beautiful* art. And really epic storytelling without being too complicated or needing prior knowledge.)
+
+Waid- Daredevil (Im not a fan of angst and brooding, so I've always hated Daredevil. I mean what? He's a blind dude who can see? Big deal. But Daredevil by Waid is a masterpiece. Not a single issue disappointed, and it manages to scratch the Spidey itch I've had ever since JMS' days. Which is my 6th favorite run.)
+
+> 2: No way is Ultimate the definitive Spider-Man.
+>
+> > 1: It's just my opinion. Ultimate Spidey shows all the traits that we love him for time and time again, and he really acts like a hero. He's funny, he's selfless, he's heroic.. what more do you want from a Spider-Man? And being written all by one guy it's consistent, and is relatively self contained.
+> >
+> > > 0: The definitive Spider-Man is Amazing, not Ultimate.
+> > >
+> > > > 1: But Amazing Spider-Man runs over 50 years with dozens of different writers and artists. And not everything in those issues has been so great. (Clone saga, One More Day, Sins Past)
+> > > >
+> > > > Obviously Amazing Spider-Man is the "real" and main Spider-Man. But in my opinion, and my opinion alone, Ultimate Spider-Man, at his essence, is everything that's great about the character in a condensed, 130 issue story. Obviously you disagree, which is fine, but it's just my opinion.
+
+1: 
+
+- Claremont - *Uncanny X-Men*/New Mutants
+- *Hickman - Avengers/New Avengers*
+- Morrison - New X-Men
+- *Whedon - Astonishing X-Men*
+- Bendis - All-New X-Men/Uncanny X-Men
+
+> 2 (OP): I hope you don't mind me replying; I wanted to because I am first and foremost an X-men fan above everything else buthad a hard time thinking of a single run in any of the X-books I really loved that I could include and am intrigued that 4/5 of your favorites are from the X-books.
+>
+> Claremont's run is obviously epic and influential but I respect it more than I personally love it if that makes sense. Whedon's AXM run is definitely an honorable mention for me but I couldn't include it in my top 5 because I thought Ord was a lame villain and have never really been a fan of Cassaday's art. The jury is still out for me on Bendis' current run but so far I think it's good but *very* flawed.
+>
+> Maybe I am insane but I never liked Morrison's *New X-Men*. It's actually why I stopped following comics for like 8 years. I enjoy a good bit of Morrison's work but just felt like his take on the X-Men was super cynical and even kind of disrespectful.
+>
+> Parts I liked:
+>
+> - Having Emma Frost join the team
+> - Cyclops / Emma Frost / Jean Grey / Wolverine love rectangle
+> - John Sublime / U-Men
+> - Xorn
+> - Returning the focus to the X-men as *actual* teachers, having a wide variety of mutant students, many of which were just really grotesque looking without any flashy powers.
+> - Jean Grey as a badass mofo
+> - Introducing Fantomex and Quentin Quire (although other writers did a much better job with them)
+>
+> Parts I disliked:
+>
+> - Cassandra Nova. Far-fetched and convoluted, even for a comic book.
+> - I dig the focus on a smaller cast but where the hell were the other 20 X-men the whole time? No explanation ever given
+> - Magneto written as a pathetic, delusional coward
+> - Beak and Angel the fly-girl.
+> - Cat-beast
+> - Jean Grey going out with a whimper (although I didn't mind having her killed off, made for good comics)
+>
+> Sorry that was so long...
+>
+> > 1: No reason you can't reply! And it's all opinion - so it's not like I'm gonna get upset and argue that you're wrong.
+> >
+> > I am, before anything else, like you, an X-Men fan. Obsessively. Like, worryingly. *I read Onslaught.*
+> >
+> > I've been rereading a lot of Claremont stuff and it really holds up, at least in the early era. I still consider the Dark Phoenix Saga the *greatest* comic storyline of all time. My opinion, not saying that's cold hard fact. The Brood Saga, New Mutants overall, and many of the plots and stories he did still read amazingly, if a little Claremontian in their prose.
+> >
+> > Morrison has a special place because it was *the* run that got me back into comics. I watched the show, and read a few random issues here and there, but it was E for Extinction that got me back into X-Men. It did a lot both to shake things up from what I knew, and also get me back into it. It's biased, but I love it.
+> >
+> > I immediately followed it up with Whedon's Astonishing X-Men, which did a ton for me in terms of bringing back the cool super hero space adventure craziness that the X-Men had. I loved every bit of it, and was super sad when Kitty left (my favorite character) but it was written so well. I dunno, it's just what came to mind.
+> >
+> > As for Bendis... it has issues. But overall, I'm enjoying it a ton. And I took some liberties with the thread's title of "my all time top" Marvel runs. Not necessarily what I thought were best, or most iconic, but my personal top list. And while it's flawed and has issues, Uncanny and All-New are *fun* above anything else. Jean is written the best she's been in a long time, Tempus is my new favorite character from this generation, and I like the play between the teams.
+> >
+> > But your opinion is your own. I tend to err on the side of liking/forgiving things more than others. For example, while I acknowledge its problems, I also like Bendis's Guardians run please don't kill me.
+> >
+> > Every run is going to be flawed - and I certainly don't think my five runs are the *best* that Marvel had to offer. But they're *my* favorite, top runs.
+> >
+> > (My list should also give the indication I read a *ton* more X-Men than anything else.)
+> >
+> > > 1 (OP): Great stuff, thanks for taking the time to write that, enjoyed it. What did you think about Kieron Gillen's run on Uncanny X-Men (vol.2)? it was too short because of AvX but I thought prior to that it was pretty awesome.
+> > >
+> > > Also, if I did a top 10 comic crossover events X-events would DOMINATE. Second Coming and Messiah Complex would definitely be top 5.
+> > >
+> > > > 1: I didn't read that much of it, to be honest. I got back into comics around AvX - but that was because of reading Morrison. I didn't read it much and honestly, it wasn't that memorable, at least off the top of my head.
+
+---
+
+**Best marvel runs?**
+
+6: Alias by Brian Bendis (2001-2004)
+
+Alpha Flight by John Byrne (1983-1985)
+
+Avengers by Roger Stern (1983-1988)
+
+Avengers by Kurt Busiek (1998-2002)
+
+Avengers: Earth's Mightiest Heroes 1 & 2 by Joe Casey (2005, 2007)
+
+[Avengers/New Avengers/Mighty Avengers by Brian Bendis (2004-2012)](https://imgur.com/a/sVu8B)
+
+[*Avengers/New Avengers by Jonathan Hickman (2012-2015)*](https://i.redditmedia.com/6joxVwDr3VcUuSff1QUX1SLb4y9IGjFcolaFbdik0ls.png?w=1024&s=2a01f4091a52609d079c79705af54a66)
+
+Avengers: The Initiative by Dan Slott & Christos Gage (2007-2010)
+
+West Coast Avengers by Steve Englehart (1985-1988)
+
+Captain Britain by Alan Moore & Alan Davis (1981-1985)
+
+Captain America by Mark Gruenwald (1985-1989)
+
+Captain America by Mark Waid (1995-1996, 1998-1999)
+
+Captain America by Ed Brubaker (2005-2012)
+
+Captain Marvel by Jim Starlin (1973-1974)
+
+Captain Marvel by Peter David (1999-2004)
+
+ClanDestine by Alan Davis (1994-1995)
+
+*Daredevil by Frank Miller (1980-1983)*
+
+**Daredevil by Brian Bendis (2001-2006)**
+
+Daredevil by Mark Waid (2011-2015)
+
+Defenders by Steve Gerber (1975-1976)
+
+Doom 2099 by Warren Ellis (1995-1996)
+
+Doomwar by Jonathan Maberry (2010)
+
+DP7 by Mark Gruenwald (1986-1989)
+
+Dr. Strange by Stan Lee & Steve Ditko (1963-1966)
+
+Earth X trilogy by Jim Krueger & Alex Ross (1999-2003)
+
+Eternals by Neil Gaiman (2006-2007)
+
+Excalibur by Chris Claremont & Alan Davis (1988-1993)
+
+Exiles by Judd Winick & Tony Bedard (2001-2006)
+
+Fallen Angels by Jo Duffy (1987)
+
+Fantastic Four by Stan Lee & Jack Kirby (1961-1970)
+
+Fantastic Four by John Byrne (1981-1986)
+
+Fantastic Four by Mark Waid (2002-2005)
+
+[**Fantastic Four/FF by Jonathan Hickman (2009-2012)**](https://i.redditmedia.com/6joxVwDr3VcUuSff1QUX1SLb4y9IGjFcolaFbdik0ls.png?w=1024&s=2a01f4091a52609d079c79705af54a66)
+
+[Annihilation/Guardians of the Galaxy/etc. by Dan Abnett & Andy Lanning (2004-2011)](https://i.imgur.com/N7OXfyI.jpg)
+
+Hawkeye by Mark Gruenwald (1983)
+
+**Hawkeye by Matt Fraction (2012-2015)**
+
+Howard the Duck by Steve Gerber (1973-1978)
+
+Incredible Hulk by Peter David (1987-1998)
+
+Inhumans by Paul Jenkins (1998-1999)
+
+Iron Man by David Michelinie (1978–1982, 1987–1989)
+
+Iron Man by Kurt Busiek (1998-2000)
+
+Marvel Two-In-One by Ralph Macchio & Mark Gruenwald (1978-1980)
+
+Marvel 1602 by Neil Gaiman (2003-2004)
+
+Marvels by Kurt Busiek & Alex Ross (1994)
+
+The Marvels Project by Ed Brubaker (2009-2010)
+
+New Mutants by Chris Claremont (1982-1987)
+
+PSIForce by Fabian Nicieza (1987-1989)
+
+Quasar by Mark Gruenwald (1989-1991)
+
+Silver Surfer by Steve Englehart (1987-1989)
+
+Silver Surfer by Jim Starlin (1989-1991)
+
+[Secret Wars by Jonathan Hickman (2015)](https://i.redditmedia.com/6joxVwDr3VcUuSff1QUX1SLb4y9IGjFcolaFbdik0ls.png?w=1024&s=2a01f4091a52609d079c79705af54a66)
+
+Sentry by Paul Jenkins (2000-2001)
+
+Strange Tales (S.H.I.E.L.D)/Nick Fury, Agent of S.H.I.E.L.D. by Jim Steranko (1966-1968)
+
+Amazing Spider-Man by Stan Lee & Steve Ditko & John Romita (1962-1971)
+
+Amazing Spider-Man by Roger Stern & Tom DeFalco (1982-1987)
+
+Amazing Spider-Man by David Michelinie (1987-1991)
+
+Untold Tales of Spider-Man by Kurt Busiek (1995-1997)
+
+Ultimate Spider-Man by Brian Bendis (2000-2009)
+
+Superior Spider-Man by Dan Slott (2013-2014)
+
+Spider-Man and the X-Men by Elliott Kalan (2014-2015)
+
+Spider-Man 2099 by Peter David (1992-1996)
+
+Squadron Supreme by Mark Gruenwald (1985-1986)
+
+Supreme Power by J. Michael Straczynski (2003-2004)
+
+[First Thanos War/Magus/Final Threat/Infinity Gauntlet by Jim Starlin (1973-1991)](https://i.imgur.com/ssZVUoJ.jpg)
+
+Thor by Walt Simonson (1983-1987)
+
+Thunderbolts by Kurt Busiek and Fabian Nicieza (1997-2003)
+
+The Twelve by J. Michael Straczynski (2008-2012)
+
+X-Factor by Louise Simonson (1986-1991)
+
+X-Factor by Peter David (1991-1993, 2005-2013)
+
+**Uncanny X-Force by Rick Remender (2010-2012)**
+
+*Vision by Tom King (2015-2016)*
+
+Vision and the Scarlet Witch by Steve Englehart (1985-86)
+
+X-Men by Roy Thomas (1966-1968)
+
+[*X-Men by Chris Claremont (1975-1991)*](https://i.imgur.com/h4OXl4G.png)
+
+Worst X-Man Ever by Max Bemis (2016)
+
+Young Avengers by Allan Heinburg (2005-2006)
+
+---
+
+**What are the best marvel comics of all time in your opinion and why?**
+
+42: 
+
+- *Claremont's Uncanny X-men*. The greatest superhero soap opera ever told.
+- Claremont's New Mutants. A great story of growing up different.
+- Lee/Kirby Fantastic Four. A great take on pulp adventure interspersed with grounded family moments.
+- Lee/Ditko Amazing Spider-man. Another great take on growing up with superpowers and finding yourself.
+- Roger Stern Spider-man. The best we've seen of an adult Spider-man with both lots of levity and lots of high stakes.
+- Peter David's Hulk. An in depth look at Banner's duality and what drives him.
+- I'm really not sure I can limit Daredevil to just one run. So I'll say *Miller*/**Bendis**/Brubaker Daredevil. Where they do everything to bring him to edge and back again.
+- Annihilation. Classic space opera of good vs. evil. The little guys are up against an unstoppable force as usually happens in these things. And the fallout reinvigorated the moribund cosmic Marvel scene.
+
+> 6: I think my list would be exactly the same as yours, only add:
+>
+> Walt Simonson Thor
+>
+> Earth X Trilogy
+>
+> > 5: I strongly considered that Thor run. But I'm just not a big Thor guy. Think if I was going to do fantasy, The Thomas/Windsor-Smith Conan run might top it.
+> >
+> > I also forgot David's X-Factor vol. 3, which is a personal favorite. Not entirely sure I'd place it as all time best though.
+
+> 2: You have good taste. I'd also add PADs X-Factor runs, X-men 2099, and Nicieza's X-men run.
+>
+> > 1: I was really trying to limit myself on how many I mentioned, and look at things objectively. Stuck with 10. But yeah, PAD's X-Factor is in my personal top 5 runs. And Nicieza is my second favorite X-men writer after Claremont (also his Gambit is right up there among my favorites too).
+
+19: For me, nothing beats *Daredevil*: **Born Again**. It really is Frank Miller at his best (IMO his best work ever). Every issue has an incredible, jaw dropping scene. It completely defines who Matt Murdock is. The Kingpin is terrifying, the action is exhilarating, and it also includes some cameos from the other avengers!
+
+> 3: Miller/Mazzucchelli were pure focus at that point. See also Batman Year One
+
+16: God Loves, Man Kills is peak X-Men for me
+
+13: **Born Again** - peak Frank Miller, and is the definitive Daredevil Comic you give to any reader if they want to get into the character.
+
+God Loves, Man Kills - Peak Claremont, and probably the most true to form X-Men story in print, signifying their unending struggle for wanting equality in a world not willing to give them any.
+
+The Night Gwen Stacy Died - one of the first instances of a hero failing to save someone he loved and cared about, and ended the Silver Age of comics.
+
+Kraven’s Last Hunt - a true deconstruction of what it means to be villain in Spider-Man’s universe, while also deconstructing the role of Spider-Man and what he means as a hero. Kraven going all in at the end and being one of the few people defeat Spidey, make this a landmark story.
+
+*Dark Phoenix Saga* - a personal favorite, not because of the totality of the story, but because of how much work it took for Claremont to actually get it ready. He had sown the seeds of the Phoenix at least 3 years prior, and was slowly building it up to its boiling point. Jean Grey was considered an A Lister at the time, and killing anyone like that was considered Unthinkable. Not only do they do that, but they make her death a suicide to save her friends in a story marred in some much rich X-Men lore, a story of love and loss, something that continues to shape the X-Men to this day.
+
+11: Howard the Duck, because I'm all about that duck life.
+
+Seriously though, Gerber's writing was a biting parody of America in the late 70's, mixed in with occasional fights with some of the most rediculous villains ever.
+
+I enjoyed the reboot a few years ago, but it would be awesome to bring Howard back to comment on our current state of affairs.
+
+12: **Remender’s Uncanny X-Force**. Great writing, incredible art. Deadpool is toned down and perfect. Wolverine is perfect. New villains are awesome, old villains are awesome. Killer Nightcrawler! Killer Archangel! Tons of throwbacks and cameos.
+
+10: Peter David's second run on X-Factor was hilarious, in the best way possible
+
+8: Single issues? Iron Man #232...An amazing stand-alone issue that follows one of Iron Man's major arcs (The Armor Wars, also worth reading). Filled with amazing art which perfectly depicts the manifestation of Tony's PTSD as a surreal nightmare threatening to overwhelm him with immense guilt.
+
+5: Brubaker's Captain America
+
+Gillen's Uncanny X-Men
+
+Waid and Samnee's Black Widow
+
+> 3: Brubaker's Captain America is something I don't see brought up enough. It is *the* titular Cap run IMO.
+
+5: My top 5 are
+
+X-Men: God Loves Man Kills. Basically about the idea that people aren't born different because God hates them, and that they shouldn't be treated differently.
+
+Spider-Man Blue. One of my favorite comics ever. It features Peter in the present narrating over certain events of the Lee/Romita run to show how Peter fell in love with Gwen and how new love can bloom after loss. Simultaneously heart warming and heart breaking.
+
+The Death of Captain Marvel. A story about the death of one of marvels best characters dying in a very human way. While not essential to the plot of Starlins over arching Cosmic Saga it should definitely be read to accompany that.
+
+Fantastic Four: Three. Story leading up to the death of the Human Torch. Where as the actual death doesnt take a lot of time the build up and moments afterward are incredible. Leads to 2 of my favorite single issues ever, a completely silent issue about the rest of the F4 dealing with their grief and one called uncles where spidey tries to console Franklin over the loss of his uncle.
+
+*Daredevil* **Born Again**. Fantastic story about Matt Murdocks secret identity being revealed to the kingpin and how his life is then dismantled. Lots of biblical references and great moments for DD and his supporting cast. Even includes one of the best Captain America moments I've ever read.
+
+4: Marvels by Busiek & Ross kind of sums up everything great about the universe as a whole, I think.
+
+Otherwise, Lee & Kirby on FF; *Dark Phoenix*; Infinity Gauntlet; Siege, and every Daredevil book since '64 IMO :D
+
+4: Howard the Duck, Man-Thing, Punisher Max, Fury: My war gone by.
+
+4: Kirby/Lee Fantastic Four
+
+*Miller*/**Bendis**/Brubaker Daredevil
+
+**Fraction Hawkeye**
+
+Lee/Ditko Spider-Man
+
+5: -Ennis's Punisher run
+
+-Ennis's Fury stories
+
+-Kraven's Last Hunt
+
+-*Claremont's Uncanny Xmen*
+
+-David's X Factor Investigations
+
+-Daredevil consistently great since the mid 70s still great to this day baring low spots like Kesel, Kelly or Waid.
+
+-Strike Force Morituri Underrated Super Sci-Fi from the late 80s. What would you do to protect the ones you loved from alien invaders. Would you submit yourself to a process to gain superpowers even though it will kill you?
+
+Moon Knight by Moench/Sienkiewicz
+
+> 5:
+>
+> > Daredevil consistently great since the mid 70s still great to this day baring low spots like Kesel, Kelly or Waid.
+>
+> woah, what? Waid's run is one of the four major runs of daredevil that highlight how consistently brilliant the writing has been
+
+3: The Peter David Hulk run was and still is one of my favorite Marvel run.
+
+There's a human aspect to the characters (Incredible Hull 420 for example) that was not something too common, in my opinion, during those years.
+
+---
+
+**Definitive Marvel Runs?**
+
+Many characters have had great runs, but I'll find sometimes that one particular run stands out as my "definitive" run. Like for example **Fraction's Hawkeye** is my definitive Hawkeye. Any character runs stand out to you like this?
+
+15: Ant-Man by Nick Spencer and Ramon Rosanas
+
+*Avengers/New Avengers by Jonathan Hickman*
+
+Black Panther by Christopher Priest
+
+Captain America by Ed Brubaker
+
+Daredevil by Mark Waid and Chris Samnee
+
+Deadpool by Joe Kelly
+
+**Fantastic Four by Jonathan Hickman**
+
+Guardians of the Galaxy by Dan Abnett and Andy Lanning
+
+**Hawkeye by Matt Fraction and David Aja**
+
+Immortal Iron Fist by Ed Brubaker, Matt Fraction and David Aja
+
+Inhumans by Paul Jenkins and Jae Lee
+
+Invincible Iron Man by Matt Fraction and Salvador Larroca
+
+Journey into Mystery (Loki) by Kieron Gillen
+
+Moon Knight by Warren Ellis and Declan Shalvey
+
+Ms. Marvel by G Willow Wilson and Adrian Alphona
+
+New X-Men by Grant Morrison
+
+Nextwave: Agents of H.A.T.E by Warren Ellis and Stuart Immonen
+
+Nova by Dan Abnett and Andy Lanning
+
+Punisher by Greg Rucka and Marco Checchetto
+
+Runaways by Brian K Vaughn and Adrian Alphona
+
+Secret Warriors by Jonathan Hickman
+
+The Superior Foes of Spider-Man by Nick Spencer and Steve Lieber
+
+*The Vision by Tom King and Gabriel Walta*
+
+Thor by J Michael Stracynski and Kieron Gillen
+
+Thunderbolts by Warren Ellis and Mike Deodato
+
+Ultimate Spider-Man by Brian Michael Bendis
+
+**Uncanny X-Force by Rick Remender**
+
+Venom by Rick Remender
+
+X-23 by Marjorie Liu, Sana Takeda and Phil Noto
+
+X-Men Legacy (Legion) by Si Spurrier
+
+Young Avengers by Kieron Gillen and Jamie McKelvie
+
+> 6: Secret warriors by Hickman is still one of my favorite Marvel runs. Guy really knows how to make an epic long-term arc.
+
+> 3: Um, let's add a few obvious oversights here:
+>
+> Fantastic Four by Stan Lee and Jack Kirby
+>
+> Fantastic Four by John Byrne
+>
+> The Amazing Spider-Man by Stan Lee and Steve Ditko
+>
+> The Avengers by Stan Lee and Jack Kirby
+>
+> Uncanny X-Men by Chris Claremont and John Byrne
+>
+> EDIT: STAN AND JACK X-MEN SUCK DONKEY DICK
+>
+> > 4: X-Men by Stan Lee and Jack Kirby
+> >
+> > What? The title didn't work with them at the helm. Claremont era is what made the X-men great.
+>
+> > 3: They aren't oversights. I can't stand Stan Lee's writing, Claremont's is better but still not great and John Byrne is a horrible person who I refuse to support in any way.
+>
+> > 3: You forgot **Bendis Daredevil**.
+
+2: Fantastic Four Stan Lee Jack Kirby
+
+---
+
+**Your top 5 modern Marvel runs?**
+Modern as in 21st century. It's a clumsy term but it seems to get used.
+
+1. **Fantastic Four/FF - Jonathan Hickman**
+2. Journey Into Mystery - Kieron Gillen
+3. **Uncanny X-Force - Rick Remender**
+4. **Daredevil - Brian Michael Bendis**
+5. Captain America: Steve Rogers - Nick Spencer
+
+So much great stuff by Hickman but I think **FF** captures the core of it best. Spencer may yet fuck up but I love what he's done with Steve so much already that a cautious fifth place was the least I could do. The three in the middle are no brainers really.
+
+5: Only counting stuff I've read personally
+
+**Uncanny X-force by Rick Remender**
+
+**Fantastic Four/FF by Jonathan Hickman**
+
+**Hawkeye by Matt Fraction**
+
+*Vision by Tom King*
+
+Superior Foes of Spider-man by Nick Spencer
+
+> 3: Upvoted for Superior Foes. I was beginning to think I was the only one who read that book. I was surprised it wasn't cancelled a lot sooner.
+
+4: X-Factor - Peter David
+
+Punisher - Ennis
+
+**Daredevil - Bendis**
+
+USM - Bendis
+
+Annihilation through Realm of Kings - Various
+
+This list is in no particular order with the exception of David's X-Factor. That is the single best comic run I have read yet. And for Marvel Cosmic stuff, even though it's different teams, the whole thing is one long amazing story.
+
+> 4: Second on the Peter David X-Factor. Such a great series.
+
+5: Nextwave - Warren Ellis **Hawkeye - Matt Fraction** Thor: God of Thunder - Jason Aaron A+X/AVX (I know they're different series, but they're really the same thing in my book) - Various writers Loki, Agent of Asgard - Al Ewing (close with Slott's Silver Surfer).
+
+I have a definite preference for more offbeat stuff. Nextwave may be the greatest comic ever written (or not, but it's awesome). Hawkeye is lauded for all of the obvious reasons--it's funny, exciting, engaging, the art is amazing... Thor, God of Thunder is a really exciting look at Thor, and the art is lovely (it was my first experience with Esad Ribic). A+X and AVX was as mixed as anything with a lot of different artists and writers would be--but it was always fun, and dug pretty deep with some of the characters... plus, it had the same style of intro page as Nextwave, which I can't deny influenced my feelings about it. Loki, Agent of Asgard and Silver Surfer are both really deeply human tales about characters who, really, aren't human. Definitely my favorite version of Loki.
+
+> 2 (OP): Solid picks! I haven't read Agent of Asgard and can't imagine preferring it to Journey Into Mystery but will give it a go. What are you favorite A+X matchups?
+>
+> > 2: It's been a while since I read through it, but I remember really liking the Rogue and Black Widow one, as well as the Captain America and Quentin Quire one. The Scarlet Witch and Domino one was really good as well, although the art style is not my favorite.
+> >
+> > As a side note, I saw Mike del Mundo's name and remembered Weirdworld and Elektra, both of which are tremendous.
+
+5: This isn't in any particular order:
+
+Immortal Iron Fist- Fraction, Aja, and Brubaker
+
+Nextwave: Agents of H.A.T.E.- Ellis
+
+Amazing Spider-Man- J.M.S.
+
+*Vision- King*
+
+**Fantastic Four/FF- Hickman**
+
+3: (Loki: Agent of Asgard really is VERY good.)
+
+My own list of five you didn't name:
+
+**New Avengers - Hickman et al.* *Omega the Unknown - Jonathan Lethem/Farel Dalrymple *The Unbeatable Squirrel Girl - Ryan North/Erica Henderson *Dark Avengers - Bendis/Deodato *Young Avengers - Gillen/McKelvie
+
+> 3: Agent of Asgard got really good at the end!
+
+3: **Daredevil by Bendis and Malev** **Hawkeye by Fraction** and Aja Visión by King and Del Mundo Uncanny X-Force by Remendar and Humphries New Avengers by Bendis and Finch\Yu
+
+3: Avengers by Kurt Busiek
+
+Thunderbolts/Dark Avengers by Jeff Parker
+
+**Uncanny X-Force by Rick Remender**
+
+Exiles (#1 - #90) by I can't remember
+
+*Avengers/New Avengers by Johnathan Hickman*
+
+> 1: I forgot Exiles! I loved that comic.
+>
+> > 1: It's a great binge read. Knocked the whole thing out in 5 days on Marvel Unlimited
+
+3: Couldn't decide, so I made a top 15:
+
+1. Ultimates by Mark Millar
+2. *Vision by Tom King*
+3. Daredevil by Ed Brubaker
+4. New X-Men by Grant Morrison
+5. Venom by Rick Remender
+6. Punisher by Garth Ennis
+7. Fantastic Four by Mark Waid
+8. **Hawkeye by Matt Fraction**
+9. Immortal Iron Fist by Matt Fraction, Ed Brubaker & David Aja
+10. Amazing Spider-Man by J.M. Straczynski
+11. Superior Spider-Man
+12. Captain America by Rick Remender
+13. Ant-Man by Nick Spencer
+14. Wolverine and the X-Men by Jason Aaron
+15. *Avengers/New Avengers by Jonathan Hickman*
+
+2: 
+
+1. *Astonishing x-men by Joss Whedon*
+2. Wolverine by Jason Aaron
+3. **Hawkeye by Matt Fraction**
+4. Immortal Iron Fist by Matt Fraction
+5. **Uncanny X-Force by Rick Remender**
+
+---
+
+**What are the definitive comic runs for your favorite Marvel Characters/Teams.**
+
+List your favorite marvel characters/teams along with the creative team that you think had to best runs for them. It can be multiple runs if you have more than one for a series.
+
+32: My favorite Cyclops is in *Whedon's and Cassaday's Astonishing*
+
+> 9: Probably my favorite run for Kitty, Emma, and Beast, too honestly.
+
+> 5: That's my favorite Cyclops and by far my favorite Emma v. Kitty snarktoberfest.
+
+18: Spider-man: JMS (Deodato Jr is my favourite artist along the way, but really all of them are great)
+
+Cap: Brubaker's run starting with Winter Soldier.
+
+Daredevil: Tough call, but **Bendis/maleev**.
+
+Ms Marvel: Brian Reed
+
+**Fantastic Four: Hickman's run**
+
+Iron Fist: Fraction/Aja
+
+Iron Man: from Five Nightmares to Stark Disassembled (Fraction)
+
+Runaways: vol 1
+
+> 11: I'd argue that Bendis' Ultimate Spider-Man is the best run, but JMS (excluding OMD and Sins Past) was a great run.
+
+13: Walt Simonson's run on Thor. Probably not a very original answer, but there you go.
+
+11: *X-Men - Chris Claremont*, obviously
+
+Wolverine - I'm going Jason Aaron, both because of his solo run as well as Wolverine and the X-Men
+
+Iron Fist - Ed Brubaker/Matt Fraction/David Aja
+
+Man-Thing - Steve Gerber
+
+7:
+
+- Punisher - Garth Ennis's Max run
+- Iron First - Brubaker/Faction run
+- Runaways - Brian K. Vaughan, both runs.
+- Scarlet Spider - Chris Yost's run.
+- Daredevil - **Bendis** and Brubaker (though it started stronger than it ended in Brubaker's run, still good throughout.)
+- **Fantastic Four - Hickman**
+- Agents of Atlas - Parker's first and second volume of the series.
+- Secret Warriors - Hickman
+- Captain America, both Steve and Bucky - Captain America (Brubakers first volume) and Winter Soldier
+- **Hawkeye - Faction's run**
+- Ghost Rider -Aaron's run
+- Venom (Flash Thompson) - Remender's run
+- Captain Britain - Alan Moore's run and Paul Cornell's run
+- Guardians of the Galaxy - Dan Abnett and Andy Lanning's run
+- Nova - Abnett and Lanning's run
+- Deadpool - Duggan and Posehn first run together and the vs Hawkeye miniseries by Duggan
+- Incredible Hercules - Pak and Van Lente's run and Abnett's run
+- Thunderbolts - Parker's entire run (though Dark Avengers at the end was kinda mediocre)
+- Silk - First volume (pre-secret wars) by Thompson
+- Iron Man - Extremis arc by Ellis
+- Silver Surfer - Requiem by JMS
+- Thor - JMS's run and Gillen's wrap up of that storyline (which leads into the great journey into mystery run.)
+
+These are runs I can always sit down and read and always enjoy them. Various reasons, sometimes it's the interesting plots, the breaking down of core elements of characters, additions to their lore or just plain gorgeous artwork. If someone asked for a good place to start reading any group/character in this list, these are the runs I would recommend.
+
+7: Moonknight - Moench/Sienkiewicz
+
+Punisher - Ennis/Various or Baron/Jansen
+
+Daredevil - **Bendis/Maleev** or *Miller*
+
+Ghost Rider - Mackie/Saltres-Texiera
+
+3: Spider-Man: Brand New Day, hands down.
+
+Captain America: The Winter Soldier
+
+Iron Man: Extremis
+
+The Hulk: Bruce Jones' run
+
+Wolverine: Savage Wolverine: Kill Island
+
+3: Spider-Man: JMS/John Romita Jr
+
+Daredevil: *Miller* or **Bendis/Maleev**
+
+Swamp Thing: Moore/Bisette
+
+Moon Knight: Moench/Sienkiewicz
+
+3: The respective Abnett/Lanning runs for *Nova* and *Guardians of the Galaxy*.
+
+> 2: Those were good days man, good days
+
+---
+
+**What are some of the best recent Marvel runs/series? (last 10-15 years)**
+
+Lately I've been reading more DC and Image/Vertigo stuff as I haven't really found anything from Marvel that appealed to me. I know stuff like **Hickman's FF4**, **Bendis**/Brubaker/Waid's Daredevil, the Marvel Cosmic saga, Wilson's Ms. Marvel, Aaron's Thor etc are well-regarded, but is there anything else that's really, consistently good over its run? Looking for something recent.
+
+EDIT: I'll add this in because I know it'll appear on everyone's list lol...I HAVE read *Vision by Tom King*, and yes, it was goddamn fantastic.
+
+12: I recommend:
+
+- Daredevil by Mark Waid
+- **Fantastic Four by Jonathan Hickman**
+- Journey into Mystery by Kieron Gillen
+- Loki: Agent of Asgard by Al Ewing
+- Moon Knight by Jeff Lemire
+- Venom by Rick Remender
+- *Vision by Tom King*
+- X-Factor by Peter David
+- X-Men Legacy by Si Spurrier
+
+> 2: I would also throw in *Hickmans Avengers*, and arguably Superior Spider-Man.
+
+10: So, almost 30 recommended runs so far, and not a single artist mentioned.
+
+I'm linking to this thread next time somebody complains about Alonso's moving the needle comment.
+
+> 3: Wait, what's the context here?
+>
+> > 8: Axel Alonso made a comment about how artists don't "move the needle", implying that the real stars that bring fans in are the writers and the artists are unimportant. It's a shitty quote because it's kind of true, but it's only kind of true because of Marvel and DC's practices of constantly rotating artists on their books, publishing series on tight deadlines without much of a buffer built, and emphasizing the writer in their marketing campaigns.
+> >
+> > As for this thread, it's pretty notable that everyone's left off the artists because a lot of the books mentioned here only had one or two artists on them, not counting fill-ins. Mark Waid, Paolo Rivera, and Chris Samnee on Daredevil, **Matt Fraction and David Aja on Hawkeye**, Dan Slott and Mike Allred on Silver Surfer, Tom King and Gabriel Walta on Vision, Jeff Lemire and Andrea Sorrentino on OML, Jeff Lemire and Greg Smallwood on Moon Knight, etc. etc.
+> >
+> > > 11: 
+> > >
+> > > > As for this thread, it's pretty notable that everyone's left off the artists because a lot of the books mentioned here only had one or two artists on them, not counting fill-ins...
+> > >
+> > > That's what's bugging me the most, these recommendations are chock full of consistent art teams with some really great artists who probably do actually "move the needle."
+> > >
+> > > Plus, somebody even recommended "Bendis - Ultimate Spider-Man," a book that had the same artist, Mark Bagley, for 111 consecutive issues.
+> > >
+> > > If that doesn't warrant some credit, than I don't know what to say.
+> >
+> > > 3: Wow, yeah, I guess when you put it that way it's hard to deny. It's obviously going to differ from person to person, like with me, there's some books I solely buy for art first, writing second. Books like the recent Scarlet Witch with the amazing David Aja covers, both recent Weirdworld runs, recent Carnage run with the Del Mundo covers, Spider-Gwen, just to name a few. Plus i usually try to pick up anything i see colored by Jordie Bellaire, who desperately tries to be a voice for colorists, a group arguably more underappreciated than artists. It seems like a book needs to have quality writing to appeal to the mass though. Whereas the art is somehow more subjective. I really can't explain it.
+> > >
+> > > I also really love instances like Royal City by Jeff Lemire where the writer and artist are the same person. The Frank Millers and David Petersens of the business.
+
+7: *Vision by Tom King*
+
+Moon Knight by Jeff Lemire
+
+Old Man Logan by Jeff Lemire
+
+Silver Surfer by Dan Slot
+
+7: **Hawkeye - Fraction**
+
+**Uncanny X-Force**/Avengers - Remender
+
+Deadpool - Duggan
+
+*Avengers/New Avengers - Hickman*
+
+> 4: Forgot about **Hawkeye**! That's a great suggestion.
+
+6: Black Bolt by Saladin Ahmed and Christopher Ward
+
+**Hawkeye by Matt Fraction and David Aja**
+
+Moon Knight by Jeff Lemire and Greg Smallwood
+
+Silver Surfer by Dan Slott and Michael Allred
+
+Superior Foes of Spider-Man by Nick Spencer and Steve Lieber
+
+**Uncanny X-Force by Rick Remender and Jerome Opena**
+
+*Vision by Tom King and Gabriel Walta*
+
+X-Factor by Peter David
+
+3: Daredevil - **Bendis** Brubaker Mark Waid runs.
+
+Deadpool - Daniel Way
+
+Ed Brubaker - Captain America
+
+**Jonathan Hickman - Fantastic Four**
+
+Bendis - Ultimate Spider-Man
+
+Bendis - New Avengers/Avengers
+
+Peter David - X-Factor
+
+4: Nick Spencer's Ant-Man + Astonishing Ant-Man
+
+Hickman's *Avengers/New Avengers*/Infinity/Secret Wars
+
+Avengers: The Initiative
+
+Brubaker's Captain America
+
+Captain America: Man Out of Time
+
+Doomwar
+
+**Fraction's Hawkeye**
+
+Immortal Iron Fist by Fraction/Brubaker
+
+Iron Man: Extremis
+
+Irredeemable Ant-Man
+
+Loki: Agent of Asgard
+
+Magneto by Cullen Bunn
+
+Marvels Project
+
+Huston/Benson/Ellis/Lemire's Moon Knight
+
+Hickman's Secret Warriors
+
+Superior Foes of Spider-Man
+
+Superior Spider-Man
+
+**Uncanny X-Force by Remender**
+
+3: Not necessarily the best, but my personal favorites.
+
+**Daredevil by Brian Michael Bendis and Alex Maleev**
+
+Captain America by Ed Brubaker
+
+Deadpool Marvel NOW! Series
+
+Secret Warriors by Jonathan Hickman
+
+Silver Surfer by Dan Slott and Michael Allred
+
+New Avengers by Brian Michael Bendis
+
+*Astonishing X-men by Joss Whedon and John Cassaday*
+
+---
+
+**Recommended Marvel Comics Runs?** (Jun 25 2020)
+
+I have started reading comics with Ultimate Spider-man and I'm having a blast reading it. Even if sometimes bendis writing can be a bit on the slow side, the payoff is usually incredible at the end of each story arc. I have already ordered the omnibus of the ultimates and I am interested in obtaining the miles morales omnibus when I finish up ultimate spider-man. But before that, I would like to jump to the main continuity. I was thinking about ordering the first fantastic four omnibus because I am really attracted to the classic art, I kind of like the wackiness of silver age comics.
+
+Taking that into account, I wish to hear your recommendations. I really would like to read spider-man, fantastic four, x-men, avengers, captain america, deadpool, daredevil, doctor strange, iron man, hulk and thor stories. I would also enjoy classic runs and I don't mind catching up what marvel's up to today. I also want to collect everything in omnibus/ohc format, so that's a plus. What could you recommend me?
+
+6: John Byrne's Fantastic Four.
+
+Walt Simonson's Thor.
+
+*Chris Claremont's X-Men*.
+
+*Frank Miller's Daredevil*.
+
+1980s Marvel was full of some REALLY good classic comics.
+
+> 1 (OP): Thank you for your recommendations! I have heard a lot of good things about those runs and I am intending to read them in the near future (taking into account that the four uncanny x-men omnibuses are going to be printed this year). I guess that then getting into the silver age runs of these characters is a bad idea, so these runs will give me all the context and information needed for each character or should I read something with them beforehand? Also, I would like to know why are these runs good if you want to tell me
+>
+> > 2: So, back then, before there was an internet, before there were book collections of comics as trade paperbacks or omnibus editions, comics had to be a lot better about recapping previous stories and being accessible to new readers. As such, these comics are all really easy to read without having read tons of Silver Age comics, as the characters will recap anything important since they knew that the average reader at the time wouldn't have an easy way of getting comics from years ago.
+> >
+> > John Byrne's Fantastic Four is considered to be the best run on those characters after the classic Stan Lee and Jack Kirby (which you should also get to eventually.) But Byrne manages to blend the emotional and personal lives of the characters with big sci-fi adventure, and shakes things up by changing the roster of the team and having characters who hadn't been that closely involved together do so. Byrne can be hit and miss at times, and when he's bad, he's really bad, but his FF had some really strong stories with Doctor Doom, interesting space adventures, and some cool crossovers with the Avengers.
+> >
+> > Walt Simonson's Thor radically reimagined the character, getting rid of his mortal secret identity from the Silver Age and placing a lot more emphasis on mythology. But Thor also went to space, had adventures on Earth, and teamed up with the X-Men, in stories that are still considered some of the best the character has ever had. Thor's adventure in Central Park is also some of the funniest, yet still compelling adventures ever.
+> >
+> > Frank Miller's Daredevil also radically reimagined the character, and every writer since him has been following up in his footsteps. Frank Miller pushed Daredevil from being just Spider-Man But A Lawyer into being a darker, more crime oriented book with a heavy sense of tragedy. Also, lots of ninja. He made the Kingpin into a much more important Daredevil character, when previously he'd been more of a Spidey villain, introduced Elektra, and really pushed the limits for what a superhero comic could do at the time.
+> >
+> > Chris Claremont wrote the X-Men for decades. He started in the late 70s and continued until the early 90s. During that time, he took the X-Men from being a mediocre book with a cult following to being Marvel's best selling comic with multiple spinoffs. He really placed a lot of emphasis on the characters having distinct personalities, kept ongoing storylines that built up slowly over years in some cases, and continued to shake things up whenever they seemed to get stale. Of note, his early collaborations with John Byrne as co-writer and artist resulted in both the Dark Phoenix Saga and Days of Future Past one after the other, the two biggest X-Men storylines that the franchise keeps returning to over and over again.
+> >
+> > > 1 (OP): Thank you for the detailed response! I did not know what to reply at the moment, but I want to comment on some of your suggestions now. First of all, all these runs are in omnibus format and in print, so I think that I could get them all before this year ends. I am reading right now the ultimates and the ultimate universe, and I kind of want to read a more cartoony, light hearted story (and I really dig classic flat colored comic art). I'm interested in reading chris claremont's uncanny x-men, as it is getting a reprint in two weeks.
+> > >
+> > > I want to also acquire walt simonson's thor, as I heard that it's both funny and epic, but I am not sure because the omnibus is recolored with modern comic colors and I'm not sure that they'll look as cool as the original coloring did. Also, I want to read john Byrne's fantastic four, but maybe reading stan lee's original run would be a better beggining? I have been also interested in daredevil, but as I want a more light hearted story I don't know if I'll enjoy it right now. Do you have more recommendations for classic, light hearted stuff?
+> > >
+> > > > 1: Walt Simonson was consulted for the recoloring, and it looks pretty darn cool. I like my copy of that Omnibus a lot.
+> > > >
+> > > > The Stan and Jack FF is some of the best comics ever, but my fear is that it may be too dated for you, and omnibus editions are pricey. Still, either starting with Byrne or Stan and Jack are perfectly fine, and you can't go wrong either way.
+> > > >
+> > > > And yeah, save Miller's Daredevil until you're in a mood where you want a dark, tragic story.
+> > > >
+> > > > > 1 (OP): I think that the next omnibus that I'm gonna pick up is gonna be walt simonson's thor. It's a huge run and I'm very hyped to read it, and as I've found some decent deals on it (74 euros, I guess it's a good price). After that, I hope that the price of the Uncanny x-men goes down quickly.
+> > > > >
+> > > > > I hope that the Stan lee's and Jack kirby's fantastic four stuff gets reprinted soon, as the john byrne's omnibus is gonna get out of print soon. While I understand the fear of them being dated, I really enjoy history as a whole, and seeing how they reference things like the red scare and the relations between US and the USRR, and I also enjoy the old art style and wacky storylines, so I think that I'll end up enjoying them. I have also an interest to read peter davids hulk, do you think that I would enjoy it? If you want to recommend something more, I am open to suggestions
+> > > > >
+> > > > > Thanks for replying, your detailed responses are making me even more excited with comic books.
+
+3: Here's some good reads that will keep you busy for a while:
+
+[Marvel Cosmic 2004-2011 era](http://i.imgur.com/N7OXfyI.jpg)
+
+[Jonathan Hickman's Marvel Saga](http://i.imgur.com/X9zUA8X.png)
+
+[Al Ewing's Avengers saga](https://i.imgur.com/ntNvVrC.png)
+
+4: Hickman's Marvel Run
+
+http://i.imgur.com/X9zUA8X.png
+
+Jason Aaron Thor
+
+**Bendis's Daredevil**
+
+Zdarsky Daredevil
+
+> 1 (OP): I haven't read anything about those characters, could I jump in and enjoy these runs without any prior knowledge of the characters or would it be better to start reading from the beginning or from a previous run?
+>
+> > 2: I’d add:
+> >
+> > Marvel Cosmic from 2004 Ewing Immortal Hulk Zdarsky Spider-Man: Life Story Brubaker’s Captain America Run
+> >
+> > Just start reading...if you get lost or here about a character you don’t recognize, just do a quick search.
+> >
+> > No matter where you start this will likely happen (unless you’re literally starting from the beginning), and these and the above poster’s list are some great run recommendations so jump in and enjoy!
+
+2: My favorite runs in no particular order:
+
+**Uncanny X-Force by Rick Remender**
+
+X-Force/X-Statix by Milligan and Allred
+
+Superior Foes of Spiderman by Nick Spencer
+
+*Vision by Tom King*
+
+New X-Men by Grant Morrison
+
+Alias by Bendis
+
+**Hawkeye by Fraction**
+
+2: House and Power of X, All new wolverine, Thanos Wins, **Hickman's fantastic 4**
+
+> 2: Get to learn the writers - Hickman, Tom Taylor, Greg Pak, Donny Cates, etc. They all have different styles. Ie Hickman wild sci-fi, Taylor/Cates fun.
+
+2: Okay, here are some classic runs and newer runs that I think you would like from that description.
+
+- Amazing Spider-Man Omnibus by Stan Lee and Steve Ditko
+- Amazing Spider-Man by Nick Spencer and Ryan Ottley
+- Fantastic Four vol.1 Omnibus by Stan Lee and Jack Kirby
+- *X-Men: Days of Future Past by Chris Claremont*
+- House of X and Powers of X by Jonathan Hickman, Pepe Larraz, and R.B. Silva
+- Avengers by Jason Aaron
+- Captain America by Stan Lee and Jack Kirby
+- Deadpool Kills the Marvel Universe by Cullen Bunn
+- Daredevil Omnibus vol.1 by Stan Lee and Jack Kirby
+- Strange Tales Omnibus vol.1 by Stan Lee and Jack Kirby
+- Armor Wars by David Michelinie
+- Immortal Hulk by Al Ewing
+- Thor: God of Thunder by Jason Aaron
+- Mighty Thor by Jason Aaron
+- Thor by Jason Aaron
+- War of the Realms by Jason Aaron
+- King Thor by Jason Aaron
+
+The Thor runs are all one big story so that is why I put them there. I also recommend reading Secret Wars by Jonathan Hickman for some more background. Same with History of the Marvel Universe by Brian Michael Bendis
+
 ## Best of r/comicbooks
 
 ### Best of 2019 awards
@@ -7650,7 +8664,7 @@ Best single issues:
 
 Best DC comics: **The Flash** by Mark Waid, **Batman**/**Batman & Robin** by Grant Morrison, **Green Lantern** by Geoff Johns (up to **Blackest Night**), **Saga of the Swamp Thing** by Alan Moore, **JLA** by Grant Morrison (Waid's run can be good too), **Gotham Central** by Ed Brubaker and Greg Rucka, **Batman** by Scott Snyder, *The Flash* by Geoff Johns (Wally West series), *Doom Patrol* by Grant Morrison, *Secret Six* by Gail Simone (it's hilarious and has great ending), *New Teen Titans* by Marv Wolfman and George Perez, *Wonder Woman* by Greg Rucka, *Wonder Woman* by George Perez, *Nightwing* by Chuck Dixon, The Sandman by Neil Gaiman, Animal Man by Grant Morrison (+Animal Man by Jeff Lemire is also good), Birds of Prey by Gail Simone, Suicide Squad by John Ostrander, Omega Men by Tom King, Starman by James Robinson, Aquaman by Geoff Johns ( he made the character a favorite of many people and gave us the glorious book that is Throne of Atlantis), JSA by Geoff Johns, All-Star Superman by Grant Morrison (a timeless classic), The Spectre by John Ostrander, Batgirl by Bryan Q. Miller.
 
-Best Image comics: **Saga**, **East of West**, **Invincible** by Robert Kirkman, **The Fade Out** and **Fatale** by Ed Brubaker, **God Country** by Donny Cates, **Deadly Class** by Rick Remender, **Descender** by Jeff Lemire and Dustin Nguyen, **Chew** by John Layman, *Tokyo Ghost* and *Black Science* by Rick Remender, *I Kill Giants* by Joe Kelly*, Southern Bastards* by Jason Aaron, *Paper girls* by Brian K. Vaughan, Extremity by Daniel Warren Johnson, Kill or Be Killed by Ed Brubaker, Gideon Falls by Jeff Lemire and Andrea Sorrentino, After Death by Jeff Lemire and Scott Snyder, Nameless by Grant Morrison, Nightly News and Pax Romana by Jonathan Hickman, Monstress, Pretty Deadly (it's a spaghetti western that's also a classical fantasy folklore story), Outcast, Kill or Be Killed, Birthright, Injection, Low, Nailbiter, Lazarus.
+Best Image comics: **Saga**, **East of West**, **Invincible** by Robert Kirkman, **The Fade Out** and **Fatale** by Ed Brubaker, **God Country** by Donny Cates, **Deadly Class** by Rick Remender, **Descender** by Jeff Lemire and Dustin Nguyen, **Chew** by John Layman, *Tokyo Ghost* and *Black Science* by Rick Remender, *I Kill Giants* by Joe Kelly, *Southern Bastards* by Jason Aaron, *Paper girls* by Brian K. Vaughan, Extremity by Daniel Warren Johnson, Kill or Be Killed by Ed Brubaker, Gideon Falls by Jeff Lemire and Andrea Sorrentino, After Death by Jeff Lemire and Scott Snyder, Nameless by Grant Morrison, Nightly News and Pax Romana by Jonathan Hickman, Monstress, Pretty Deadly (it's a spaghetti western that's also a classical fantasy folklore story), Outcast, Kill or Be Killed, Birthright, Injection, Low, Nailbiter, Lazarus.
 
 > Trillium by Jeff Lemire is actually Vertigo, but it's a great read!
 >
@@ -7660,7 +8674,7 @@ Best Image comics: **Saga**, **East of West**, **Invincible** by Robert Kirkman,
 >
 > There are many good comics published by Image publisher (and other small publishers)!
 
-Best Marvel comics: 
+Best Marvel comics: **Daredevil** by Bendis, **Hawkeye** by Matt Fraction, **FF / F4** by Jonathan Hickman, **Uncanny X-Force** by Rick Remender, *Avengers/New Avengers* by Jonathan Hickman, *Uncanny X-Men* by Chris Claremont (the greatest superhero soap opera ever told; inc. Days of Future Past, Dark Phoenix Saga, God Loves, Man Kills), *Vision* by Tom King, *Daredevil* by Frank Miller (inc. fantastic **Born Again**), *Astonishing X-men* by Joss Whedon, Immortal Iron Fist by Ed Brubaker/Matt Fraction/David Aja, X-Factor by Peter David (second run was hilarious, in the best way possible), Ultimate Spider-Man by Bendis, Daredevil by Mark Waid, Moon Knight by Moench/Ellis/Lemire, Punisher by Garth Ennis, Captain America by Ed Brubaker, Superior Spiderman, Venom by Rick Remender, Thor: God of Thunder by Jason Aaron (Walt Simonson's Thor can be good too), House of X and Powers of X by Jonathan Hickman (pretty fresh), Deadpool by Kelly and Duggan + Deadpool Kills the Marvel Universe by Cullen Bunn might be good too, Annihilation by Keith Giffen (classic space opera of good vs. evil), Silver Surfer by Dan Slott and Mike Allred, Alias by Bendis, Inhumans by Lee/Jenkins.
 
 ---
 
@@ -7866,144 +8880,149 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 23. https://www.reddit.com/r/Marvel/comments/2zez9g/what_are_your_top_5_alltime_marvel_runs/
 24. https://www.reddit.com/r/Marvel/comments/7nla10/best_marvel_runs/
 25. https://www.reddit.com/r/comicbooks/comments/agteo1/what_are_the_best_marvel_comics_of_all_time_in/
-26. https://www.reddit.com/r/comicbooks/comments/ekd9q0/the_votes_are_in_here_are_the_rcomicbooks_best_of/
-27. https://www.reddit.com/r/batman/comments/22uw5j/recommend_good_batman_runs/
-28. https://www.reddit.com/r/batman/comments/6c854h/best_comic_runs/
-29. https://www.reddit.com/r/DCcomics/comments/9bdh1y/what_is_the_most_popular_batman_run_of_all_time/
-30. https://www.reddit.com/r/comicbooks/comments/9fa2oo/any_batman_runs_pre_new_52_worth_reading/
-31. https://www.reddit.com/r/batman/comments/f8xu9v/what_are_the_best_batman_runs/
-32. https://www.reddit.com/r/DCcomics/comments/8x9fsa/new_reader_looking_for_the_best_batman_comics_to/?sort=top
-33. https://www.reddit.com/r/DCcomics/comments/8ids63/what_are_the_best_batmancomics/
-34. https://www.reddit.com/r/DCcomics/comments/7i1eo7/suggest_me_some_really_dark_comics_especially/?sort=top
-35. https://www.reddit.com/r/DCcomics/comments/24uca6/what_is_the_darkest_batman_comic_out_there/?sort=top
-36. https://www.reddit.com/r/DCcomics/comments/4urjkb/what_are_some_of_the_darkest_batman_stories_other/?sort=top
-37. https://www.reddit.com/r/DCcomics/comments/8mmkhh/what_are_the_best_batman_tpbs_with_the_joker/?sort=top
-38. https://www.reddit.com/r/DCcomics/comments/a85kcz/comics_that_dive_into_batman_and_jokers/?sort=top
-39. https://www.reddit.com/r/DCcomics/comments/9eeug2/question_what_is_your_favorite_joker_story/?sort=top
-40. https://www.reddit.com/r/DCcomics/comments/b90j5w/best_comics_about_the_joker/
-41. https://www.reddit.com/r/batman/comments/9otdcq/best_comics_featuring_joker/
-42. https://www.reddit.com/r/batman/comments/4g815r/what_is_the_darkest_joker_story_in_the_batman/?sort=top
-43. https://www.reddit.com/r/joker/comments/3ehq8y/joker_comic_reading_list/?sort=top
-44. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
-45. https://www.reddit.com/r/comicbooks/comments/9qn1ej/where_to_start_with_daredevil_comics/
-46. https://www.reddit.com/r/comicbooks/comments/4b04pe/where_to_start_with_daredevil/
-47. https://www.reddit.com/r/comicbooks/comments/74llvo/best_daredevil_run/
-48. https://www.reddit.com/r/comicbooks/comments/4r1kra/best_daredevil_runs/
-49. https://www.reddit.com/r/comicbooks/comments/agxiaw/good_daredevil_run_to_read/
-50. https://www.reddit.com/r/comicbooks/comments/d3k182/ranking_daredevil_runs_whos_the_bestworst/
-51. https://www.reddit.com/r/comicbooks/comments/95w8vc/what_is_the_best_daredevil_story_arc/
-52. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
-53. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
-54. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
-55. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
-56. https://www.reddit.com/r/DCcomics/comments/7791f6/where_to_start_with_green_lantern/
-57. https://www.reddit.com/r/DCcomics/comments/1yq8hl/how_should_i_go_about_reading_blackest_night/
-58. https://www.reddit.com/r/DCcomics/comments/2xs3uc/new_to_dc_im_wanting_to_read_the_blackest_night/
-59. https://www.reddit.com/r/comicbooks/comments/7008wz/best_runs_of_hellboy_to_check_out/
-60. https://www.reddit.com/r/comicbooks/comments/8breze/wow_the_hellboy_comics_are_actually_really_really/
-61. https://www.reddit.com/r/HellBoy/comments/b9rnbd/essentialbest_hellboy_comics/
-62. https://www.reddit.com/r/comicbooks/comments/as5j2l/favorite_hellboy_comics/
-63. https://www.reddit.com/r/comicbooks/comments/8gm5hy/i_want_to_get_into_the_hulk_where_should_i_start/
-64. https://www.reddit.com/r/Marvel/comments/371ee2/where_to_start_reading_hulk/
-65. https://www.reddit.com/r/comicbooks/comments/94pbm3/best_hulk_comics/
-66. https://www.reddit.com/r/comicbooks/comments/appqgd/best_hulk_runs/
-67. https://www.reddit.com/r/Marvel/comments/86x9op/best_hulk_stories_to_read/
-68. https://www.reddit.com/r/comicbooks/comments/b55b4l/what_are_some_good_hulk_comics_besides_planet/
-69. https://www.reddit.com/r/DCcomics/comments/4pv0zm/best_justice_league_series/
-70. https://www.reddit.com/r/DCcomics/comments/869cjr/what_comics_would_you_recommend_for_new_justice/
-71. https://www.reddit.com/r/DCcomics/comments/az2rb5/whats_a_good_justice_league_comic_to_read/
-72. https://www.reddit.com/r/DCcomics/comments/bu8od8/most_underrated_justice_league_run/
-73. https://www.reddit.com/r/DCuniverse/comments/c68w2t/what_are_the_best_justice_league_runs_on_dc/
-74. https://www.reddit.com/r/comicbooks/comments/6dtvwq/whats_the_absolute_best_spiderman_series/
-75. https://www.reddit.com/r/comicbooks/comments/2g6j0e/best_spiderman_comics/
-76. https://www.reddit.com/r/Spiderman/comments/2g8n8f/in_your_opinion_what_is_the_best_spidermans_comics/
-77. https://www.reddit.com/r/Marvel/comments/azusxm/need_help_finding_best_miles_morales_origin_comic/
-78. https://www.reddit.com/r/comicbooks/comments/34dtld/where_to_start_reading_miles_morales_spiderman/
-79. https://www.reddit.com/r/Marvel/comments/7jvyda/best_miles_morales_storyline/
-80. https://www.reddit.com/r/comicbooks/comments/54gc95/is_spidergwen_any_good/
-81. https://www.reddit.com/r/Marvel/comments/76n0h1/is_the_spidergwen_series_any_good/
-82. https://www.reddit.com/r/comicbooks/comments/85gqbl/help_with_spider_gwen_comics/
-83. https://www.reddit.com/r/SpiderGwen/comments/aa19ov/where_to_start_in_comics_for_spider_gwen/
-84. https://www.reddit.com/r/DCcomics/comments/hawuam/which_suicide_squad_series_to_read/
-85. https://www.reddit.com/r/DCcomics/comments/93fcz4/any_good_suicide_squad_comics_to_read_where_can_i/
-86. https://www.reddit.com/r/comicbooks/comments/93fg9x/any_good_suicide_squad_comics_to_read_where_can_i/
-87. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
-88. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
-89. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
-90. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
-91. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
-92. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
-93. https://www.reddit.com/r/comicbooks/comments/8gtmi5/essential_xmen_read/
-94. https://www.reddit.com/r/xmen/comments/2l0cri/xmen_comics_beginners_reading_guide/
-95. https://www.reddit.com/r/comicbooks/comments/62xfkh/where_to_start_with_xmen_comics/
-96. https://www.reddit.com/r/xmen/comments/9vpb24/where_should_i_start_reading_the_xmen_comics/
-97. https://www.reddit.com/r/xmen/comments/8li356/i_want_to_start_reading_xmen_comics/
-98. https://www.reddit.com/r/comicbooks/comments/8pa2hd/what_is_the_best_xmen_comics/
-99. https://www.reddit.com/r/Marvel/comments/cqv7r5/bestessential_xmen_comics_after_house_of/
-100. https://www.reddit.com/r/xmen/comments/1tu405/what_are_the_best_cyclops_comics/
-101. https://www.reddit.com/r/Marvel/comments/3n58mf/best_cyclops_comics/
-102. https://www.reddit.com/r/comicbooks/comments/bjmgr5/best_cyclops_comics/
-103. https://www.reddit.com/r/Marvel/comments/8besuq/gambit_recommendations/
-104. https://www.reddit.com/r/xmen/comments/awxtec/best_reading_for_gambit/
-105. https://www.reddit.com/r/xmen/comments/ffjref/good_gambit_stories/
-106. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
-107. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
-108. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
-109. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
-110. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
-111. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
-112. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
-113. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
-114. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
-115. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
-116. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
-117. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
-118. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
-119. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
-120. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
-121. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
-122. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
-123. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
-124. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
-125. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
-126. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
-127. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
-128. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
-129. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
-130. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
-131. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
-132. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
-133. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
-134. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
-135. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
-136. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
-137. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
-138. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
-139. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
-140. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
-141. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
-142. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
-143. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
-144. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
-145. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
-146. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
-147. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
-148. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
-149. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
-150. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
-151. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
-152. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
-153. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
-154. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
-155. https://www.cbr.com/the-best-cyberpunk-comics-ever/
-156. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
-157. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
-158. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
-159. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
-160. https://www.reddit.com/r/comicbooks/comments/64gp7c/who_are_some_of_your_favorite_comic_book_artists/
-161. https://www.reddit.com/r/ImageComics/comments/5nf4ki/some_best_comic_art_recomendation/
-162. https://www.reddit.com/r/comicbooks/comments/850yia/what_is_that_the_best_art_you_have_seen_in_comics/
-163. https://www.reddit.com/r/comicbooks/comments/8bgejg/who_are_your_top_5_favourite_comic_book_artists/
-164. https://www.reddit.com/r/comicbooks/comments/9k7en8/who_is_your_favorite_comic_book_artist_that_is/
-165. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-166. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+26. https://www.reddit.com/r/Marvel/comments/4vw629/definitive_marvel_runs/
+27. https://www.reddit.com/r/Marvel/comments/5uqj37/your_top_5_modern_marvel_runs/
+28. https://www.reddit.com/r/comicbooks/comments/6o7u0h/what_are_the_definitive_comic_runs_for_your/
+29. https://www.reddit.com/r/comicbooks/comments/7u1vtv/what_are_some_of_the_best_recent_marvel/
+30. https://www.reddit.com/r/Marvel/comments/hfev2v/recommended_marvel_comics_runs/
+31. https://www.reddit.com/r/comicbooks/comments/ekd9q0/the_votes_are_in_here_are_the_rcomicbooks_best_of/
+32. https://www.reddit.com/r/batman/comments/22uw5j/recommend_good_batman_runs/
+33. https://www.reddit.com/r/batman/comments/6c854h/best_comic_runs/
+34. https://www.reddit.com/r/DCcomics/comments/9bdh1y/what_is_the_most_popular_batman_run_of_all_time/
+35. https://www.reddit.com/r/comicbooks/comments/9fa2oo/any_batman_runs_pre_new_52_worth_reading/
+36. https://www.reddit.com/r/batman/comments/f8xu9v/what_are_the_best_batman_runs/
+37. https://www.reddit.com/r/DCcomics/comments/8x9fsa/new_reader_looking_for_the_best_batman_comics_to/?sort=top
+38. https://www.reddit.com/r/DCcomics/comments/8ids63/what_are_the_best_batmancomics/
+39. https://www.reddit.com/r/DCcomics/comments/7i1eo7/suggest_me_some_really_dark_comics_especially/?sort=top
+40. https://www.reddit.com/r/DCcomics/comments/24uca6/what_is_the_darkest_batman_comic_out_there/?sort=top
+41. https://www.reddit.com/r/DCcomics/comments/4urjkb/what_are_some_of_the_darkest_batman_stories_other/?sort=top
+42. https://www.reddit.com/r/DCcomics/comments/8mmkhh/what_are_the_best_batman_tpbs_with_the_joker/?sort=top
+43. https://www.reddit.com/r/DCcomics/comments/a85kcz/comics_that_dive_into_batman_and_jokers/?sort=top
+44. https://www.reddit.com/r/DCcomics/comments/9eeug2/question_what_is_your_favorite_joker_story/?sort=top
+45. https://www.reddit.com/r/DCcomics/comments/b90j5w/best_comics_about_the_joker/
+46. https://www.reddit.com/r/batman/comments/9otdcq/best_comics_featuring_joker/
+47. https://www.reddit.com/r/batman/comments/4g815r/what_is_the_darkest_joker_story_in_the_batman/?sort=top
+48. https://www.reddit.com/r/joker/comments/3ehq8y/joker_comic_reading_list/?sort=top
+49. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
+50. https://www.reddit.com/r/comicbooks/comments/9qn1ej/where_to_start_with_daredevil_comics/
+51. https://www.reddit.com/r/comicbooks/comments/4b04pe/where_to_start_with_daredevil/
+52. https://www.reddit.com/r/comicbooks/comments/74llvo/best_daredevil_run/
+53. https://www.reddit.com/r/comicbooks/comments/4r1kra/best_daredevil_runs/
+54. https://www.reddit.com/r/comicbooks/comments/agxiaw/good_daredevil_run_to_read/
+55. https://www.reddit.com/r/comicbooks/comments/d3k182/ranking_daredevil_runs_whos_the_bestworst/
+56. https://www.reddit.com/r/comicbooks/comments/95w8vc/what_is_the_best_daredevil_story_arc/
+57. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
+58. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
+59. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
+60. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
+61. https://www.reddit.com/r/DCcomics/comments/7791f6/where_to_start_with_green_lantern/
+62. https://www.reddit.com/r/DCcomics/comments/1yq8hl/how_should_i_go_about_reading_blackest_night/
+63. https://www.reddit.com/r/DCcomics/comments/2xs3uc/new_to_dc_im_wanting_to_read_the_blackest_night/
+64. https://www.reddit.com/r/comicbooks/comments/7008wz/best_runs_of_hellboy_to_check_out/
+65. https://www.reddit.com/r/comicbooks/comments/8breze/wow_the_hellboy_comics_are_actually_really_really/
+66. https://www.reddit.com/r/HellBoy/comments/b9rnbd/essentialbest_hellboy_comics/
+67. https://www.reddit.com/r/comicbooks/comments/as5j2l/favorite_hellboy_comics/
+68. https://www.reddit.com/r/comicbooks/comments/8gm5hy/i_want_to_get_into_the_hulk_where_should_i_start/
+69. https://www.reddit.com/r/Marvel/comments/371ee2/where_to_start_reading_hulk/
+70. https://www.reddit.com/r/comicbooks/comments/94pbm3/best_hulk_comics/
+71. https://www.reddit.com/r/comicbooks/comments/appqgd/best_hulk_runs/
+72. https://www.reddit.com/r/Marvel/comments/86x9op/best_hulk_stories_to_read/
+73. https://www.reddit.com/r/comicbooks/comments/b55b4l/what_are_some_good_hulk_comics_besides_planet/
+74. https://www.reddit.com/r/DCcomics/comments/4pv0zm/best_justice_league_series/
+75. https://www.reddit.com/r/DCcomics/comments/869cjr/what_comics_would_you_recommend_for_new_justice/
+76. https://www.reddit.com/r/DCcomics/comments/az2rb5/whats_a_good_justice_league_comic_to_read/
+77. https://www.reddit.com/r/DCcomics/comments/bu8od8/most_underrated_justice_league_run/
+78. https://www.reddit.com/r/DCuniverse/comments/c68w2t/what_are_the_best_justice_league_runs_on_dc/
+79. https://www.reddit.com/r/comicbooks/comments/6dtvwq/whats_the_absolute_best_spiderman_series/
+80. https://www.reddit.com/r/comicbooks/comments/2g6j0e/best_spiderman_comics/
+81. https://www.reddit.com/r/Spiderman/comments/2g8n8f/in_your_opinion_what_is_the_best_spidermans_comics/
+82. https://www.reddit.com/r/Marvel/comments/azusxm/need_help_finding_best_miles_morales_origin_comic/
+83. https://www.reddit.com/r/comicbooks/comments/34dtld/where_to_start_reading_miles_morales_spiderman/
+84. https://www.reddit.com/r/Marvel/comments/7jvyda/best_miles_morales_storyline/
+85. https://www.reddit.com/r/comicbooks/comments/54gc95/is_spidergwen_any_good/
+86. https://www.reddit.com/r/Marvel/comments/76n0h1/is_the_spidergwen_series_any_good/
+87. https://www.reddit.com/r/comicbooks/comments/85gqbl/help_with_spider_gwen_comics/
+88. https://www.reddit.com/r/SpiderGwen/comments/aa19ov/where_to_start_in_comics_for_spider_gwen/
+89. https://www.reddit.com/r/DCcomics/comments/hawuam/which_suicide_squad_series_to_read/
+90. https://www.reddit.com/r/DCcomics/comments/93fcz4/any_good_suicide_squad_comics_to_read_where_can_i/
+91. https://www.reddit.com/r/comicbooks/comments/93fg9x/any_good_suicide_squad_comics_to_read_where_can_i/
+92. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
+93. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
+94. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
+95. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
+96. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
+97. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
+98. https://www.reddit.com/r/comicbooks/comments/8gtmi5/essential_xmen_read/
+99. https://www.reddit.com/r/xmen/comments/2l0cri/xmen_comics_beginners_reading_guide/
+100. https://www.reddit.com/r/comicbooks/comments/62xfkh/where_to_start_with_xmen_comics/
+101. https://www.reddit.com/r/xmen/comments/9vpb24/where_should_i_start_reading_the_xmen_comics/
+102. https://www.reddit.com/r/xmen/comments/8li356/i_want_to_start_reading_xmen_comics/
+103. https://www.reddit.com/r/comicbooks/comments/8pa2hd/what_is_the_best_xmen_comics/
+104. https://www.reddit.com/r/Marvel/comments/cqv7r5/bestessential_xmen_comics_after_house_of/
+105. https://www.reddit.com/r/xmen/comments/1tu405/what_are_the_best_cyclops_comics/
+106. https://www.reddit.com/r/Marvel/comments/3n58mf/best_cyclops_comics/
+107. https://www.reddit.com/r/comicbooks/comments/bjmgr5/best_cyclops_comics/
+108. https://www.reddit.com/r/Marvel/comments/8besuq/gambit_recommendations/
+109. https://www.reddit.com/r/xmen/comments/awxtec/best_reading_for_gambit/
+110. https://www.reddit.com/r/xmen/comments/ffjref/good_gambit_stories/
+111. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
+112. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
+113. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
+114. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
+115. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
+116. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
+117. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
+118. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
+119. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
+120. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
+121. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
+122. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
+123. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
+124. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
+125. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
+126. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
+127. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
+128. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
+129. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
+130. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
+131. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
+132. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
+133. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
+134. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
+135. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
+136. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
+137. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
+138. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
+139. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
+140. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
+141. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
+142. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
+143. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
+144. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
+145. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
+146. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
+147. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
+148. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
+149. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
+150. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
+151. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
+152. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
+153. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
+154. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
+155. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
+156. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
+157. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
+158. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
+159. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
+160. https://www.cbr.com/the-best-cyberpunk-comics-ever/
+161. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
+162. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
+163. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
+164. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
+165. https://www.reddit.com/r/comicbooks/comments/64gp7c/who_are_some_of_your_favorite_comic_book_artists/
+166. https://www.reddit.com/r/ImageComics/comments/5nf4ki/some_best_comic_art_recomendation/
+167. https://www.reddit.com/r/comicbooks/comments/850yia/what_is_that_the_best_art_you_have_seen_in_comics/
+168. https://www.reddit.com/r/comicbooks/comments/8bgejg/who_are_your_top_5_favourite_comic_book_artists/
+169. https://www.reddit.com/r/comicbooks/comments/9k7en8/who_is_your_favorite_comic_book_artist_that_is/
+170. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+171. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
