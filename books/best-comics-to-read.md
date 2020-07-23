@@ -17,6 +17,7 @@
 - [Best DC comics](#Best-DC-comics)
 - [Best Image comics](#Best-Image-comics)
 - [Best Marvel comics](#Best-Marvel-comics)
+- [Best comics from various publishers](#best-comics-from-various-publishers)
 - [Best of r/comicbooks](#Best-of-rcomicbooks)
   - [Best of 2019 awards](#Best-of-2019-awards)
 - [Opinions about New 52 and Rebirth](#Opinions-about-New-52-and-Rebirth)
@@ -3036,6 +3037,92 @@ Alias by Bendis
 - King Thor by Jason Aaron
 
 The Thor runs are all one big story so that is why I put them there. I also recommend reading Secret Wars by Jonathan Hickman for some more background. Same with History of the Marvel Universe by Brian Michael Bendis
+
+## Best comics from various publishers
+
+**Best current DC and Marvel runs?** (Jan 14 2019)
+
+Haven't read much current stuff in a long time so I was wondering what are some of the best ones to get back into it.
+
+22: Venom by Cates and Immortal Hulk by Ewing are top tier
+
+> 9: Great time for Marvel, they looked a bit shaky during the exodus of their late 00s/early 10s talent but they're on the rebound
+
+> 7: I second this. Can’t wait to see how GOTG turns out with Cates at the wheel.
+
+13: 
+
+**DC:**
+
+- Justice League - Even though it's a great run it's really annoying to recommend to someone who hasn't read much lately as it requires reading Dark Nights Metal and No Justice, but it's worth it IMO.
+- Action Comics - Feels like a real Superman of Metropolis kind of story at the moment, lots of stuff with criminals of Metropolis and the Daily Planet too.
+- Hawkman - Imagine Indiana Jones crossed with superheroes and you have an idea of what to expect here.
+- Justice League Dark - A very eclectic line up and some really gripping stories. Tynion IV knows how to write magic/horror and shines on this series.
+
+Special mentions with only a few issues so far: The Green Lantern by Grant Morrison and Liam Sharp, Wonder Woman by G Willow Wilson, Martian Manhunter by Steve Orlando and Riley Rossmo and Justice League Odyssey by Joshua Williamson.
+
+**Marvel:**
+
+- Immortal Hulk - Probably one of the best on-goings right now in comics, it's dark and fucked up in a way that makes you recoil slightly but you can't keep your eyes off of what is going on.
+- Uncanny X-Men - It's on issue 10 now and the story has been fast paced and really good, lots of promise yet to come too with returning characters.
+- Mr and Mrs X - Rogue and Gambit got married and are having adventures, it's a very charming series.
+- Thor - He might not be Worthy (yet) but this series is worthy of your time. I know it's cheesy but it's true.
+- Venom - Has the right mix of action and darkness that you would want from a Venom series.
+- Avengers - Feels like Jason Aaron is really building something with this series, little hints here and there about possible clashes in the future make it worth picking up.
+
+Special mentions: Fantastic Four, Miles Morales - Spider-Man, Captain America and Ironheart.
+
+> 1: I loved rogue and gambit so much but mr and mrs x isn’t doing it for me. I really like how rogue and gambit was a look at their love and relationship and history but this new series is just adventures that I don’t care for. Doesn’t help I find mojo boring so the second arc isn’t doing it for me. I did love the party issue tho
+
+12: 10 from each:
+
+Action Comics, Aquaman, Batman, Catwoman, Deathstroke, Electric Warriors, Martian Manhunter, Superman, The Green Lantern, Wonder Woman
+
+Black Panther, Captain America, Captain Marvel, Immortal Hulk, Jessica Jones, Ms. Marvel, Runaways, Venom, X-Men: Grand Design, West Coast Avengers
+
+7: 
+
+My top 3 DC are Batman, Action Comics, and Justice League Dark.
+
+My top 3 Marvel are Venom, Immortal Hulk, and X-23.
+
+> 1: I only disagree with x-23. I like it but I personally find the first arc started great and then drifted off towards the end
+>
+> > 1: I liked the first arc but I felt that it focused more on the Stepford Cuckoos instead of Laura and Gabby.
+
+5: Immortal Hulk. Winter Soldier. Thor. The Punisher.
+
+Justice League Dark. Action Comics. Wonder Woman.
+
+> 2: Bucky doesn't get a lot of runs, but when he does, most of his books are written well
+>
+> > 1: This one is only two issues in, but it looks good. The art is striking.
+> >
+> > I am generally anti-Captain America. Make of that what you will.
+> >
+> > > 1: The first issue of winter soldier really bored me and I only stayed for the art but man the second issue was fantastic. I really didn’t find the idea of Bucky helping people give people a second chance that interesting but boy toy winter soldier is intresting as fuck
+
+> 1: I second Thor and not just because I’ve been a fan of the comic and mythology forever. Aaron is on a tear and he’s leading up to the War of the Realms. I’m also ridiculously excited about Dauterman returning to work on the art.
+>
+> Recommend starting with Gorr, The God Butcher to present.
+
+6: 
+
+Top 3 Marvel: Amazing Spider-Man, Immortal Hulk, and Venom
+
+Top 3 DC: Action Comics, Deathstroke, and Silencer
+
+5: 
+
+Marvel: Immortal Hulk and Venom
+
+DC: Justice League and Green Lantern
+
+3: Immortal Hulk and The Green Lantern are my favorite books coming out from the Big Two at the moment.
+
+3: Venom is amazing!
+
+3: DC - Green Lantern and Action Comics are my favorites right now. Aquaman just got a new team last month but it is also looking very promising.
 
 ## Best of r/comicbooks
 
@@ -8662,7 +8749,7 @@ Best single issues:
 
 ---
 
-Best DC comics: **The Flash** by Mark Waid, **Batman**/**Batman & Robin** by Grant Morrison, **Green Lantern** by Geoff Johns (up to **Blackest Night**), **Saga of the Swamp Thing** by Alan Moore, **JLA** by Grant Morrison (Waid's run can be good too), **Gotham Central** by Ed Brubaker and Greg Rucka, **Batman** by Scott Snyder, *The Flash* by Geoff Johns (Wally West series), *Doom Patrol* by Grant Morrison, *Secret Six* by Gail Simone (it's hilarious and has great ending), *New Teen Titans* by Marv Wolfman and George Perez, *Wonder Woman* by Greg Rucka, *Wonder Woman* by George Perez, *Nightwing* by Chuck Dixon, The Sandman by Neil Gaiman, Animal Man by Grant Morrison (+Animal Man by Jeff Lemire is also good), Birds of Prey by Gail Simone, Suicide Squad by John Ostrander, Omega Men by Tom King, Starman by James Robinson, Aquaman by Geoff Johns ( he made the character a favorite of many people and gave us the glorious book that is Throne of Atlantis), JSA by Geoff Johns, All-Star Superman by Grant Morrison (a timeless classic), The Spectre by John Ostrander, Batgirl by Bryan Q. Miller.
+Best DC comics: **The Flash** by Mark Waid, **Batman**/**Batman & Robin** by Grant Morrison, **Green Lantern** by Geoff Johns (up to **Blackest Night**), **Saga of the Swamp Thing** by Alan Moore, **JLA** by Grant Morrison (Waid's run can be good too), **Gotham Central** by Ed Brubaker and Greg Rucka, **Batman** by Scott Snyder, *The Flash* by Geoff Johns (Wally West series), *Doom Patrol* by Grant Morrison, *Secret Six* by Gail Simone (it's hilarious and has great ending), *New Teen Titans* by Marv Wolfman and George Perez, *Wonder Woman* by Greg Rucka, *Wonder Woman* by George Perez, *Nightwing* by Chuck Dixon, The Sandman by Neil Gaiman, Animal Man by Grant Morrison (+Animal Man by Jeff Lemire is also good), Birds of Prey by Gail Simone, Suicide Squad by John Ostrander, Omega Men by Tom King, Starman by James Robinson, Aquaman by Geoff Johns ( he made the character a favorite of many people and gave us the glorious book that is Throne of Atlantis), JSA by Geoff Johns, All-Star Superman by Grant Morrison (a timeless classic), The Spectre by John Ostrander, Batgirl by Bryan Q. Miller, Mister Miracle by Tom King, Justice League Dark, Action Comics (2018-2019 for sure).
 
 Best Image comics: **Saga**, **East of West**, **Invincible** by Robert Kirkman, **The Fade Out** and **Fatale** by Ed Brubaker, **God Country** by Donny Cates, **Deadly Class** by Rick Remender, **Descender** by Jeff Lemire and Dustin Nguyen, **Chew** by John Layman, *Tokyo Ghost* and *Black Science* by Rick Remender, *I Kill Giants* by Joe Kelly, *Southern Bastards* by Jason Aaron, *Paper girls* by Brian K. Vaughan, Extremity by Daniel Warren Johnson, Kill or Be Killed by Ed Brubaker, Gideon Falls by Jeff Lemire and Andrea Sorrentino, After Death by Jeff Lemire and Scott Snyder, Nameless by Grant Morrison, Nightly News and Pax Romana by Jonathan Hickman, Monstress, Pretty Deadly (it's a spaghetti western that's also a classical fantasy folklore story), Outcast, Kill or Be Killed, Birthright, Injection, Low, Nailbiter, Lazarus.
 
@@ -8674,7 +8761,7 @@ Best Image comics: **Saga**, **East of West**, **Invincible** by Robert Kirkman,
 >
 > There are many good comics published by Image publisher (and other small publishers)!
 
-Best Marvel comics: **Daredevil** by Bendis, **Hawkeye** by Matt Fraction, **FF / F4** by Jonathan Hickman, **Uncanny X-Force** by Rick Remender, *Avengers/New Avengers* by Jonathan Hickman, *Uncanny X-Men* by Chris Claremont (the greatest superhero soap opera ever told; inc. Days of Future Past, Dark Phoenix Saga, God Loves, Man Kills), *Vision* by Tom King, *Daredevil* by Frank Miller (inc. fantastic **Born Again**), *Astonishing X-men* by Joss Whedon, Immortal Iron Fist by Ed Brubaker/Matt Fraction/David Aja, X-Factor by Peter David (second run was hilarious, in the best way possible), Ultimate Spider-Man by Bendis, Daredevil by Mark Waid, Moon Knight by Moench/Ellis/Lemire, Punisher by Garth Ennis, Captain America by Ed Brubaker, Superior Spiderman, Venom by Rick Remender, Thor: God of Thunder by Jason Aaron (Walt Simonson's Thor can be good too), House of X and Powers of X by Jonathan Hickman (pretty fresh), Deadpool by Kelly and Duggan + Deadpool Kills the Marvel Universe by Cullen Bunn might be good too, Annihilation by Keith Giffen (classic space opera of good vs. evil), Silver Surfer by Dan Slott and Mike Allred, Alias by Bendis, Inhumans by Lee/Jenkins.
+Best Marvel comics: **Daredevil** by Bendis, **Hawkeye** by Matt Fraction, **FF / F4** by Jonathan Hickman, **Uncanny X-Force** by Rick Remender, *Avengers/New Avengers* by Jonathan Hickman, *Uncanny X-Men* by Chris Claremont (the greatest superhero soap opera ever told; inc. Days of Future Past, Dark Phoenix Saga, God Loves, Man Kills), *Vision* by Tom King, *Daredevil* by Frank Miller (inc. fantastic **Born Again**), *Astonishing X-men* by Joss Whedon, Immortal Iron Fist by Ed Brubaker/Matt Fraction/David Aja, X-Factor by Peter David (second run was hilarious, in the best way possible), Ultimate Spider-Man by Bendis, Daredevil by Mark Waid, Moon Knight by Moench/Ellis/Lemire, Punisher by Garth Ennis, Captain America by Ed Brubaker, Superior Spiderman, Venom by Rick Remender, Thor: God of Thunder by Jason Aaron (Walt Simonson's Thor can be good too), Incredible Hulk by Peter David, House of X and Powers of X by Jonathan Hickman (pretty fresh), Deadpool by Kelly and Duggan + Deadpool Kills the Marvel Universe by Cullen Bunn might be good too, Annihilation by Keith Giffen (classic space opera of good vs. evil), Silver Surfer by Dan Slott and Mike Allred, Alias by Bendis, Inhumans by Lee/Jenkins, Immortal Hulk by Al Ewing (fresh but it's top tier).
 
 ---
 
@@ -8885,144 +8972,145 @@ Best authors:  **Alan Moore**, **Warren Ellis**, **Grant Morrison**, *Scott Snyd
 28. https://www.reddit.com/r/comicbooks/comments/6o7u0h/what_are_the_definitive_comic_runs_for_your/
 29. https://www.reddit.com/r/comicbooks/comments/7u1vtv/what_are_some_of_the_best_recent_marvel/
 30. https://www.reddit.com/r/Marvel/comments/hfev2v/recommended_marvel_comics_runs/
-31. https://www.reddit.com/r/comicbooks/comments/ekd9q0/the_votes_are_in_here_are_the_rcomicbooks_best_of/
-32. https://www.reddit.com/r/batman/comments/22uw5j/recommend_good_batman_runs/
-33. https://www.reddit.com/r/batman/comments/6c854h/best_comic_runs/
-34. https://www.reddit.com/r/DCcomics/comments/9bdh1y/what_is_the_most_popular_batman_run_of_all_time/
-35. https://www.reddit.com/r/comicbooks/comments/9fa2oo/any_batman_runs_pre_new_52_worth_reading/
-36. https://www.reddit.com/r/batman/comments/f8xu9v/what_are_the_best_batman_runs/
-37. https://www.reddit.com/r/DCcomics/comments/8x9fsa/new_reader_looking_for_the_best_batman_comics_to/?sort=top
-38. https://www.reddit.com/r/DCcomics/comments/8ids63/what_are_the_best_batmancomics/
-39. https://www.reddit.com/r/DCcomics/comments/7i1eo7/suggest_me_some_really_dark_comics_especially/?sort=top
-40. https://www.reddit.com/r/DCcomics/comments/24uca6/what_is_the_darkest_batman_comic_out_there/?sort=top
-41. https://www.reddit.com/r/DCcomics/comments/4urjkb/what_are_some_of_the_darkest_batman_stories_other/?sort=top
-42. https://www.reddit.com/r/DCcomics/comments/8mmkhh/what_are_the_best_batman_tpbs_with_the_joker/?sort=top
-43. https://www.reddit.com/r/DCcomics/comments/a85kcz/comics_that_dive_into_batman_and_jokers/?sort=top
-44. https://www.reddit.com/r/DCcomics/comments/9eeug2/question_what_is_your_favorite_joker_story/?sort=top
-45. https://www.reddit.com/r/DCcomics/comments/b90j5w/best_comics_about_the_joker/
-46. https://www.reddit.com/r/batman/comments/9otdcq/best_comics_featuring_joker/
-47. https://www.reddit.com/r/batman/comments/4g815r/what_is_the_darkest_joker_story_in_the_batman/?sort=top
-48. https://www.reddit.com/r/joker/comments/3ehq8y/joker_comic_reading_list/?sort=top
-49. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
-50. https://www.reddit.com/r/comicbooks/comments/9qn1ej/where_to_start_with_daredevil_comics/
-51. https://www.reddit.com/r/comicbooks/comments/4b04pe/where_to_start_with_daredevil/
-52. https://www.reddit.com/r/comicbooks/comments/74llvo/best_daredevil_run/
-53. https://www.reddit.com/r/comicbooks/comments/4r1kra/best_daredevil_runs/
-54. https://www.reddit.com/r/comicbooks/comments/agxiaw/good_daredevil_run_to_read/
-55. https://www.reddit.com/r/comicbooks/comments/d3k182/ranking_daredevil_runs_whos_the_bestworst/
-56. https://www.reddit.com/r/comicbooks/comments/95w8vc/what_is_the_best_daredevil_story_arc/
-57. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
-58. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
-59. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
-60. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
-61. https://www.reddit.com/r/DCcomics/comments/7791f6/where_to_start_with_green_lantern/
-62. https://www.reddit.com/r/DCcomics/comments/1yq8hl/how_should_i_go_about_reading_blackest_night/
-63. https://www.reddit.com/r/DCcomics/comments/2xs3uc/new_to_dc_im_wanting_to_read_the_blackest_night/
-64. https://www.reddit.com/r/comicbooks/comments/7008wz/best_runs_of_hellboy_to_check_out/
-65. https://www.reddit.com/r/comicbooks/comments/8breze/wow_the_hellboy_comics_are_actually_really_really/
-66. https://www.reddit.com/r/HellBoy/comments/b9rnbd/essentialbest_hellboy_comics/
-67. https://www.reddit.com/r/comicbooks/comments/as5j2l/favorite_hellboy_comics/
-68. https://www.reddit.com/r/comicbooks/comments/8gm5hy/i_want_to_get_into_the_hulk_where_should_i_start/
-69. https://www.reddit.com/r/Marvel/comments/371ee2/where_to_start_reading_hulk/
-70. https://www.reddit.com/r/comicbooks/comments/94pbm3/best_hulk_comics/
-71. https://www.reddit.com/r/comicbooks/comments/appqgd/best_hulk_runs/
-72. https://www.reddit.com/r/Marvel/comments/86x9op/best_hulk_stories_to_read/
-73. https://www.reddit.com/r/comicbooks/comments/b55b4l/what_are_some_good_hulk_comics_besides_planet/
-74. https://www.reddit.com/r/DCcomics/comments/4pv0zm/best_justice_league_series/
-75. https://www.reddit.com/r/DCcomics/comments/869cjr/what_comics_would_you_recommend_for_new_justice/
-76. https://www.reddit.com/r/DCcomics/comments/az2rb5/whats_a_good_justice_league_comic_to_read/
-77. https://www.reddit.com/r/DCcomics/comments/bu8od8/most_underrated_justice_league_run/
-78. https://www.reddit.com/r/DCuniverse/comments/c68w2t/what_are_the_best_justice_league_runs_on_dc/
-79. https://www.reddit.com/r/comicbooks/comments/6dtvwq/whats_the_absolute_best_spiderman_series/
-80. https://www.reddit.com/r/comicbooks/comments/2g6j0e/best_spiderman_comics/
-81. https://www.reddit.com/r/Spiderman/comments/2g8n8f/in_your_opinion_what_is_the_best_spidermans_comics/
-82. https://www.reddit.com/r/Marvel/comments/azusxm/need_help_finding_best_miles_morales_origin_comic/
-83. https://www.reddit.com/r/comicbooks/comments/34dtld/where_to_start_reading_miles_morales_spiderman/
-84. https://www.reddit.com/r/Marvel/comments/7jvyda/best_miles_morales_storyline/
-85. https://www.reddit.com/r/comicbooks/comments/54gc95/is_spidergwen_any_good/
-86. https://www.reddit.com/r/Marvel/comments/76n0h1/is_the_spidergwen_series_any_good/
-87. https://www.reddit.com/r/comicbooks/comments/85gqbl/help_with_spider_gwen_comics/
-88. https://www.reddit.com/r/SpiderGwen/comments/aa19ov/where_to_start_in_comics_for_spider_gwen/
-89. https://www.reddit.com/r/DCcomics/comments/hawuam/which_suicide_squad_series_to_read/
-90. https://www.reddit.com/r/DCcomics/comments/93fcz4/any_good_suicide_squad_comics_to_read_where_can_i/
-91. https://www.reddit.com/r/comicbooks/comments/93fg9x/any_good_suicide_squad_comics_to_read_where_can_i/
-92. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
-93. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
-94. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
-95. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
-96. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
-97. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
-98. https://www.reddit.com/r/comicbooks/comments/8gtmi5/essential_xmen_read/
-99. https://www.reddit.com/r/xmen/comments/2l0cri/xmen_comics_beginners_reading_guide/
-100. https://www.reddit.com/r/comicbooks/comments/62xfkh/where_to_start_with_xmen_comics/
-101. https://www.reddit.com/r/xmen/comments/9vpb24/where_should_i_start_reading_the_xmen_comics/
-102. https://www.reddit.com/r/xmen/comments/8li356/i_want_to_start_reading_xmen_comics/
-103. https://www.reddit.com/r/comicbooks/comments/8pa2hd/what_is_the_best_xmen_comics/
-104. https://www.reddit.com/r/Marvel/comments/cqv7r5/bestessential_xmen_comics_after_house_of/
-105. https://www.reddit.com/r/xmen/comments/1tu405/what_are_the_best_cyclops_comics/
-106. https://www.reddit.com/r/Marvel/comments/3n58mf/best_cyclops_comics/
-107. https://www.reddit.com/r/comicbooks/comments/bjmgr5/best_cyclops_comics/
-108. https://www.reddit.com/r/Marvel/comments/8besuq/gambit_recommendations/
-109. https://www.reddit.com/r/xmen/comments/awxtec/best_reading_for_gambit/
-110. https://www.reddit.com/r/xmen/comments/ffjref/good_gambit_stories/
-111. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
-112. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
-113. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
-114. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
-115. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
-116. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
-117. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
-118. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
-119. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
-120. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
-121. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
-122. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
-123. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
-124. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
-125. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
-126. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
-127. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
-128. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
-129. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
-130. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
-131. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
-132. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
-133. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
-134. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
-135. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
-136. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
-137. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
-138. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
-139. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
-140. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
-141. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
-142. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
-143. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
-144. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
-145. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
-146. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
-147. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
-148. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
-149. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
-150. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
-151. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
-152. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
-153. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
-154. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
-155. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
-156. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
-157. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
-158. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
-159. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
-160. https://www.cbr.com/the-best-cyberpunk-comics-ever/
-161. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
-162. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
-163. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
-164. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
-165. https://www.reddit.com/r/comicbooks/comments/64gp7c/who_are_some_of_your_favorite_comic_book_artists/
-166. https://www.reddit.com/r/ImageComics/comments/5nf4ki/some_best_comic_art_recomendation/
-167. https://www.reddit.com/r/comicbooks/comments/850yia/what_is_that_the_best_art_you_have_seen_in_comics/
-168. https://www.reddit.com/r/comicbooks/comments/8bgejg/who_are_your_top_5_favourite_comic_book_artists/
-169. https://www.reddit.com/r/comicbooks/comments/9k7en8/who_is_your_favorite_comic_book_artist_that_is/
-170. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
-171. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
+31. https://www.reddit.com/r/comicbooks/comments/afy8w3/best_current_dc_and_marvel_runs/
+32. https://www.reddit.com/r/comicbooks/comments/ekd9q0/the_votes_are_in_here_are_the_rcomicbooks_best_of/
+33. https://www.reddit.com/r/batman/comments/22uw5j/recommend_good_batman_runs/
+34. https://www.reddit.com/r/batman/comments/6c854h/best_comic_runs/
+35. https://www.reddit.com/r/DCcomics/comments/9bdh1y/what_is_the_most_popular_batman_run_of_all_time/
+36. https://www.reddit.com/r/comicbooks/comments/9fa2oo/any_batman_runs_pre_new_52_worth_reading/
+37. https://www.reddit.com/r/batman/comments/f8xu9v/what_are_the_best_batman_runs/
+38. https://www.reddit.com/r/DCcomics/comments/8x9fsa/new_reader_looking_for_the_best_batman_comics_to/?sort=top
+39. https://www.reddit.com/r/DCcomics/comments/8ids63/what_are_the_best_batmancomics/
+40. https://www.reddit.com/r/DCcomics/comments/7i1eo7/suggest_me_some_really_dark_comics_especially/?sort=top
+41. https://www.reddit.com/r/DCcomics/comments/24uca6/what_is_the_darkest_batman_comic_out_there/?sort=top
+42. https://www.reddit.com/r/DCcomics/comments/4urjkb/what_are_some_of_the_darkest_batman_stories_other/?sort=top
+43. https://www.reddit.com/r/DCcomics/comments/8mmkhh/what_are_the_best_batman_tpbs_with_the_joker/?sort=top
+44. https://www.reddit.com/r/DCcomics/comments/a85kcz/comics_that_dive_into_batman_and_jokers/?sort=top
+45. https://www.reddit.com/r/DCcomics/comments/9eeug2/question_what_is_your_favorite_joker_story/?sort=top
+46. https://www.reddit.com/r/DCcomics/comments/b90j5w/best_comics_about_the_joker/
+47. https://www.reddit.com/r/batman/comments/9otdcq/best_comics_featuring_joker/
+48. https://www.reddit.com/r/batman/comments/4g815r/what_is_the_darkest_joker_story_in_the_batman/?sort=top
+49. https://www.reddit.com/r/joker/comments/3ehq8y/joker_comic_reading_list/?sort=top
+50. https://www.reddit.com/r/DCcomics/comments/6c7zzt/best_harley_quinn_comics/
+51. https://www.reddit.com/r/comicbooks/comments/9qn1ej/where_to_start_with_daredevil_comics/
+52. https://www.reddit.com/r/comicbooks/comments/4b04pe/where_to_start_with_daredevil/
+53. https://www.reddit.com/r/comicbooks/comments/74llvo/best_daredevil_run/
+54. https://www.reddit.com/r/comicbooks/comments/4r1kra/best_daredevil_runs/
+55. https://www.reddit.com/r/comicbooks/comments/agxiaw/good_daredevil_run_to_read/
+56. https://www.reddit.com/r/comicbooks/comments/d3k182/ranking_daredevil_runs_whos_the_bestworst/
+57. https://www.reddit.com/r/comicbooks/comments/95w8vc/what_is_the_best_daredevil_story_arc/
+58. https://www.reddit.com/r/DCcomics/comments/79j372/where_should_i_start_reading_the_flash_comics_from/?sort=top
+59. https://www.reddit.com/r/DCcomics/comments/5t058u/where_to_start_reading_the_flash/?sort=top
+60. https://www.reddit.com/r/DCcomics/comments/b575w4/i_want_to_start_reading_the_flash/?sort=top
+61. https://www.reddit.com/r/comicbooks/comments/7l8bi1/where_to_start_reading_flash/?sort=top
+62. https://www.reddit.com/r/DCcomics/comments/7791f6/where_to_start_with_green_lantern/
+63. https://www.reddit.com/r/DCcomics/comments/1yq8hl/how_should_i_go_about_reading_blackest_night/
+64. https://www.reddit.com/r/DCcomics/comments/2xs3uc/new_to_dc_im_wanting_to_read_the_blackest_night/
+65. https://www.reddit.com/r/comicbooks/comments/7008wz/best_runs_of_hellboy_to_check_out/
+66. https://www.reddit.com/r/comicbooks/comments/8breze/wow_the_hellboy_comics_are_actually_really_really/
+67. https://www.reddit.com/r/HellBoy/comments/b9rnbd/essentialbest_hellboy_comics/
+68. https://www.reddit.com/r/comicbooks/comments/as5j2l/favorite_hellboy_comics/
+69. https://www.reddit.com/r/comicbooks/comments/8gm5hy/i_want_to_get_into_the_hulk_where_should_i_start/
+70. https://www.reddit.com/r/Marvel/comments/371ee2/where_to_start_reading_hulk/
+71. https://www.reddit.com/r/comicbooks/comments/94pbm3/best_hulk_comics/
+72. https://www.reddit.com/r/comicbooks/comments/appqgd/best_hulk_runs/
+73. https://www.reddit.com/r/Marvel/comments/86x9op/best_hulk_stories_to_read/
+74. https://www.reddit.com/r/comicbooks/comments/b55b4l/what_are_some_good_hulk_comics_besides_planet/
+75. https://www.reddit.com/r/DCcomics/comments/4pv0zm/best_justice_league_series/
+76. https://www.reddit.com/r/DCcomics/comments/869cjr/what_comics_would_you_recommend_for_new_justice/
+77. https://www.reddit.com/r/DCcomics/comments/az2rb5/whats_a_good_justice_league_comic_to_read/
+78. https://www.reddit.com/r/DCcomics/comments/bu8od8/most_underrated_justice_league_run/
+79. https://www.reddit.com/r/DCuniverse/comments/c68w2t/what_are_the_best_justice_league_runs_on_dc/
+80. https://www.reddit.com/r/comicbooks/comments/6dtvwq/whats_the_absolute_best_spiderman_series/
+81. https://www.reddit.com/r/comicbooks/comments/2g6j0e/best_spiderman_comics/
+82. https://www.reddit.com/r/Spiderman/comments/2g8n8f/in_your_opinion_what_is_the_best_spidermans_comics/
+83. https://www.reddit.com/r/Marvel/comments/azusxm/need_help_finding_best_miles_morales_origin_comic/
+84. https://www.reddit.com/r/comicbooks/comments/34dtld/where_to_start_reading_miles_morales_spiderman/
+85. https://www.reddit.com/r/Marvel/comments/7jvyda/best_miles_morales_storyline/
+86. https://www.reddit.com/r/comicbooks/comments/54gc95/is_spidergwen_any_good/
+87. https://www.reddit.com/r/Marvel/comments/76n0h1/is_the_spidergwen_series_any_good/
+88. https://www.reddit.com/r/comicbooks/comments/85gqbl/help_with_spider_gwen_comics/
+89. https://www.reddit.com/r/SpiderGwen/comments/aa19ov/where_to_start_in_comics_for_spider_gwen/
+90. https://www.reddit.com/r/DCcomics/comments/hawuam/which_suicide_squad_series_to_read/
+91. https://www.reddit.com/r/DCcomics/comments/93fcz4/any_good_suicide_squad_comics_to_read_where_can_i/
+92. https://www.reddit.com/r/comicbooks/comments/93fg9x/any_good_suicide_squad_comics_to_read_where_can_i/
+93. https://www.reddit.com/r/comicbooks/comments/287dft/where_should_i_start_reading_swamp_thing/
+94. https://www.reddit.com/r/comicbooks/comments/cju77r/any_recommendations_on_where_to_start_reading/
+95. https://www.reddit.com/r/comicbooks/comments/ak0tlv/how_to_read_swamp_thing_or_saga_of_the_swamp_thing/?sort=top
+96. https://www.reddit.com/r/comicbooks/comments/4s0bcu/where_to_start_reading_wonder_woman/
+97. https://www.reddit.com/r/DCcomics/comments/czw35u/hey_friends_where_should_i_start_reading_wonder/?sort=top
+98. https://www.reddit.com/r/DCcomics/comments/6l7z6d/where_do_i_start_with_comics_and_wonder_woman/
+99. https://www.reddit.com/r/comicbooks/comments/8gtmi5/essential_xmen_read/
+100. https://www.reddit.com/r/xmen/comments/2l0cri/xmen_comics_beginners_reading_guide/
+101. https://www.reddit.com/r/comicbooks/comments/62xfkh/where_to_start_with_xmen_comics/
+102. https://www.reddit.com/r/xmen/comments/9vpb24/where_should_i_start_reading_the_xmen_comics/
+103. https://www.reddit.com/r/xmen/comments/8li356/i_want_to_start_reading_xmen_comics/
+104. https://www.reddit.com/r/comicbooks/comments/8pa2hd/what_is_the_best_xmen_comics/
+105. https://www.reddit.com/r/Marvel/comments/cqv7r5/bestessential_xmen_comics_after_house_of/
+106. https://www.reddit.com/r/xmen/comments/1tu405/what_are_the_best_cyclops_comics/
+107. https://www.reddit.com/r/Marvel/comments/3n58mf/best_cyclops_comics/
+108. https://www.reddit.com/r/comicbooks/comments/bjmgr5/best_cyclops_comics/
+109. https://www.reddit.com/r/Marvel/comments/8besuq/gambit_recommendations/
+110. https://www.reddit.com/r/xmen/comments/awxtec/best_reading_for_gambit/
+111. https://www.reddit.com/r/xmen/comments/ffjref/good_gambit_stories/
+112. https://www.reddit.com/r/comicbooks/comments/7mgf0s/best_wolverine_story_to_start_with/
+113. https://www.reddit.com/r/comicbooks/comments/78p181/recommendation_wolverine_comics/
+114. https://www.reddit.com/r/Marvel/comments/5ma5zo/best_wolverine_comics/
+115. https://www.reddit.com/r/comicbooks/comments/6z6k79/whats_considered_the_bestessential_alien_comics/
+116. https://www.reddit.com/r/LV426/comments/86clne/what_are_the_best_alien_universe_comics_for_a/
+117. https://www.reddit.com/r/doctorwho/comments/ast7u5/doctor_who_comics/
+118. https://www.reddit.com/r/doctorwho/comments/7n97g6/bestfavorite_doctor_who_comicsstand_alone_comic/
+119. https://www.reddit.com/r/gallifrey/comments/6qg4ex/are_the_doctor_who_comics_worth_reading/
+120. https://www.reddit.com/r/gallifrey/comments/4r7axn/doctor_who_comics_suggestions/
+121. https://www.reddit.com/r/gallifrey/comments/6t0wzl/doctor_who_comics/
+122. https://www.reddit.com/r/gallifrey/comments/8c3wwg/where_to_start_with_who_comics/
+123. https://www.reddit.com/r/GODZILLA/comments/91semd/best_godzilla_comic_book_runs/?sort=top
+124. https://www.reddit.com/r/GODZILLA/comments/4aetjw/where_to_start_with_godzilla_comics/?sort=top
+125. https://www.reddit.com/r/GODZILLA/comments/8ub6x5/the_idw_godzilla_comics_has_anyone_read_them/?sort=top
+126. https://www.reddit.com/r/GODZILLA/comments/79p1hg/whats_the_best_comics/
+127. https://www.reddit.com/r/GODZILLA/comments/5dkli6/what_is_the_best_godzilla_comic_book_to_read/?sort=top
+128. https://www.reddit.com/r/comicbooks/comments/6cssxy/are_any_of_the_godzilla_comics_actually_good/?sort=top
+129. https://www.reddit.com/r/GODZILLA/comments/9540yy/what_are_some_good_comics/?sort=top
+130. https://www.reddit.com/r/GODZILLA/comments/6x4k28/best_idw_godzilla_comic/
+131. https://www.reddit.com/r/comicbooks/comments/a8xs4d/where_to_begin_with_judge_dredd/
+132. https://www.reddit.com/r/comicbooks/comments/3ha2a7/where_to_start_with_judge_dredd/
+133. https://dreddreviews.blogspot.com/2012/06/where-to-start-reading-judge-dredd.html
+134. https://www.reddit.com/r/c132/comments/7uzg1d/rick_and_morty_comics_baby_every_issue_every/
+135. https://www.reddit.com/r/silenthill/comments/4g0i5m/are_all_the_silent_hill_comics_garbage/
+136. https://www.reddit.com/r/silenthill/comments/cnh5uk/which_silent_hill_comicsgraphic_novelsbooks_are/
+137. https://www.reddit.com/r/silenthill/comments/876jc0/whats_the_consensus_on_the_silent_hill_comics/
+138. https://www.reddit.com/r/comicbooks/comments/7u7htn/what_are_some_good_star_trek_comics/
+139. https://www.reddit.com/r/trekbooks/comments/8swlay/trek_comics_fans_what_are_the_essential_comics_to/?sort=top
+140. https://www.reddit.com/r/comicbooks/comments/15nals/idw_star_trek_comics_any_good/
+141. https://www.reddit.com/r/startrek/comments/g72gwr/what_star_trek_comics_are_the_best/
+142. https://www.reddit.com/r/comicbooks/comments/au9l49/star_trek_comics/
+143. https://www.reddit.com/r/StarWars/comments/95pasm/best_star_wars_comic_series_canon_or_legends/
+144. https://www.reddit.com/r/StarWars/comments/bc5ivj/can_someone_recommend_some_good_star_wars_comics/
+145. https://www.reddit.com/r/StarWars/comments/6abzpp/what_comics_are_a_must_read/
+146. https://www.reddit.com/r/StarWars/comments/4fune0/what_are_the_best_star_wars_graphic_novelscomics/
+147. https://www.reddit.com/r/TMNT/comments/72uut7/tmnt_comics_where_to_start/
+148. https://www.reddit.com/r/TMNT/comments/6i25ca/wheres_a_good_place_to_start_reading_tmnt_comics/
+149. https://www.reddit.com/r/comicbooks/comments/2gykty/must_read_tmnt_runs/
+150. https://www.reddit.com/r/witcher/comments/a1t3qn/the_quality_of_the_comics_issued_by_dark_horse/
+151. https://www.reddit.com/r/witcher/comments/8jlukn/the_witcher_comics/
+152. https://www.reddit.com/r/witcher/comments/7t7p10/comic_books_reading_order_with_books_and_games/
+153. https://www.reddit.com/r/Fantasy/comments/6c4cjg/what_is_in_your_opinion_some_of_the_best_fantasy/?sort=top
+154. https://www.reddit.com/r/Fantasy/comments/8kp1r4/what_are_some_quality_fantasy_comics_or_graphic/?sort=top
+155. https://www.reddit.com/r/comicbooks/comments/9dlmn4/good_fantasy_comics/?sort=top
+156. https://www.reddit.com/r/Fantasy/comments/3x8bxz/high_fantasy_graphic_novel_comics/?sort=top
+157. https://www.reddit.com/r/Fantasy/comments/8tkn4c/favorite_fantasy_comic_booksgraphic_novels/?sort=top
+158. https://www.reddit.com/r/Pathfinder_RPG/comments/4fs8m1/pathfinder_tales_comics/
+159. https://www.reddit.com/r/DnD/comments/6wjzco/good_dd_comics/?sort=top
+160. https://www.reddit.com/r/Cyberpunk/comments/6pmzok/what_are_some_good_cyberpunk_comics/?sort=top
+161. https://www.cbr.com/the-best-cyberpunk-comics-ever/
+162. https://www.reddit.com/r/Cyberpunk/comments/8nx0od/best_cyberpunk_comics/?sort=top
+163. https://www.reddit.com/r/Cyberpunk/comments/8vfwgi/any_good_cyberpunk_comics/?sort=top
+164. https://www.reddit.com/r/Cyberpunk/comments/65clx5/know_any_good_cyberpunk_comicsgraphic_novels/?sort=top
+165. https://www.reddit.com/r/comicbooks/comments/73bydn/what_are_the_best_cyberpunk_comics/?sort=top
+166. https://www.reddit.com/r/comicbooks/comments/64gp7c/who_are_some_of_your_favorite_comic_book_artists/
+167. https://www.reddit.com/r/ImageComics/comments/5nf4ki/some_best_comic_art_recomendation/
+168. https://www.reddit.com/r/comicbooks/comments/850yia/what_is_that_the_best_art_you_have_seen_in_comics/
+169. https://www.reddit.com/r/comicbooks/comments/8bgejg/who_are_your_top_5_favourite_comic_book_artists/
+170. https://www.reddit.com/r/comicbooks/comments/9k7en8/who_is_your_favorite_comic_book_artist_that_is/
+171. https://www.reddit.com/r/comicbooks/comments/duf5st/who_are_your_top_5_comic_book_writers_and_why/
+172. https://www.reddit.com/r/comicbooks/comments/baa66s/who_are_your_top_5_comic_book_writers_and_why/
