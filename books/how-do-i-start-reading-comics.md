@@ -17,6 +17,8 @@
     - [New 52](#New-52)
     - [DC Rebirth](#DC-Rebirth)
   - [Shops](#Shops)
+    - [World](#World)
+    - [Ukraine](#Ukraine)
   - [Best Youtube channels about comics](#Best-Youtube-channels-about-comics)
     - [Conclusion](#Conclusion)
 - [References](#References)
@@ -290,7 +292,7 @@ The latest jumping on point is DC Rebirth. All series were relaunched with the i
 
 ## Shops
 
-World:
+### World
 
 - [**Comixology**](https://www.comixology.com/) and [**Amazon**](https://smile.amazon.com/Comics-Graphic-Novels-Books/b?ie=UTF8&node=4366)
 
@@ -323,7 +325,15 @@ World:
 
 - Someone find [Ebay](https://www.ebay.com/) is pretty good, a lot of shops sell through there.
 
-Ukraine (частично магазины найдены при помощи [Source](https://kitchenriots.com/comic-store-ua/)):
+- [Wordery](https://wordery.com/)
+
+  > Wordery offers free worldwide shipping. However, at the moment there are no goods for sale in the store. The problem is with the pandemic. People say it's very convenient to order manga here (I think this how I found this web site).
+
+### Ukraine
+
+Comic shops:
+
+> Частично магазины найдены при помощи [Source](https://kitchenriots.com/comic-store-ua/)).
 
 - [**OnTheBus.com.ua**](https://www.onthebus.com.ua/), [comics in original](https://www.onthebus.com.ua/komiksy/angliyskiy/) - Odessa
 
@@ -368,6 +378,26 @@ Ukraine (частично магазины найдены при помощи [S
   > Заметил, что магазин специализируется больше на комиксах на украинском языке. Комиксов на английском почти нету, но среди тех, что есть (или хотя бы их страницы существуют) это Preacher и Hellblazer.
   >
   > Систему скидок не обнаружил. Бесплатная доставка от 800 гривен.
+
+Bookstores:
+
+- [lavkababuin](https://lavkababuin.com/)
+
+  > Выбор комиксов такой же огромный как и в магазинах выше. Однако, из-за того, что магазин специализируется на книгах (то есть люди не ищут комиксы), здесь можно найти уникальные комиксы на русском языке. Комиксов на английском почти нет. Стоимость комиксов чуть дороже чем в магазинах выше, обычно на 10-20 гривен.
+  >
+  > Систему скидок не обнаружил. Бесплатная доставка от 1200 гривен. На сайте удобно искать комиксы.
+
+- [yakaboo](https://www.yakaboo.ua/)
+
+  > Выбор комиксов такой же огромный как и в магазинах выше. Комиксов на английском мало. Комиксов на английском почти нет (больше чем в Лавкебабуин). Стоимость комиксов гораздо дороже, бывает аж на 50 гривен.
+  >
+  > Систему скидок не обнаружил. Бесплатная доставка от 1000 гривен. На сайте удобно искать комиксы.
+
+- [grenka](https://grenka.ua/)
+
+  > Grenka.ua – книжный mall Украины, где можно найти как полюбившуюся классику, так и редкие новинки, которые доставляют по всей Украине. Комиксов здесь много, наверное. Их сложно искать! Однако, цены на них обычно немного ниже чем в магазинах комиксов, до 10 гривен.
+  >
+  > В магазине действует скидка на первый заказ – необходимо только зарегистрироваться на сайте, а также продленный возврат товара – 21 день после покупки. Бесплатная доставка от 888 гривен. На сайте НЕ удобно искать комиксы (они находятся в нескольких категориях "книги/детские/комиксы/" или "игры/комиксы", а также что-то завялалось в худ. литературе). 
 
 ## Best Youtube channels about comics
 
@@ -473,7 +503,15 @@ For reviews and story breakdowns, I enjoy **ComicPop**!, *Caped Joel*, *Comicsto
 
 ### Conclusion
 
-Best channels: **ComicPop** (with their show Back Issues), **Strip Panel Naked** (in-depth analysis of comic art), *Comicstorian*, *Caped Joel*, *Comic tropes*, *Comics Explained*(?), *Nerdsync*(?), Linkara-AtopTheFourthWall , Earl Grey's panellogy, Cartoonist Kayfabe.
+Best shops:
+
+- World: Book Depository, Amazon.
+- Digital distribution: ComiXology, MarvelUnlimited.
+- Ukraine: 
+  - Comic shopes: OnTheBus, Anime-Market, Cosmic.
+  - Bookshopes: Lavkababuin, Yakaboo, Grenka.
+
+Best channels: **ComicPop** (with their show Back Issues), **Strip Panel Naked** (in-depth analysis of comic art), *Comicstorian*, *Caped Joel*, *Comic tropes*, *Comics Explained*, *Nerdsync*, Linkara-AtopTheFourthWall , Earl Grey's panellogy, Cartoonist Kayfabe.
 
 ## References
 
