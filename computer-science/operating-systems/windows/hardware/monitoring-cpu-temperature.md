@@ -89,5 +89,5 @@ Monitoring your temperatures is good, and something everyone should check on onc
 
 ## References
 
-1. [https://www.howtogeek.com/howto/windows-vista/ever-wonder-what-temperature-your-cpu-is-running-at/#:~:text=To%20find%20your%20CPU%20temperature,motherboard%20section%20for%20some%20PCs.](https://www.howtogeek.com/howto/windows-vista/ever-wonder-what-temperature-your-cpu-is-running-at/#:~:text=To find your CPU temperature,motherboard section for some PCs.)
+1. https://www.howtogeek.com/howto/windows-vista/ever-wonder-what-temperature-your-cpu-is-running-at/#:~:text=To%20find%20your%20CPU%20temperature,motherboard%20section%20for%20some%20PCs.
 

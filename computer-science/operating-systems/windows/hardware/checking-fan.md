@@ -32,11 +32,27 @@ But how can you know if something’s off with it? That’s what we’ll discuss
 
 <iframe title="How to quickly fix laptop cooling fan and resume normal operation of the computer MAH02617" width="1040" height="585" src="https://www.youtube.com/embed/1lxvmay2tn0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" style="box-sizing: inherit; border: 0px; font-size: 16.416px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; max-width: 100%; position: absolute; top: 0px; left: 0px; width: 624px; height: 351px;"></iframe>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Method 1:** The simplest method to test your fan is to listen. Yes, just listen to the laptop when you have it booted up. Most laptops have a standard noise when they’re working.
 
 But when the fan is starting, an additional noise starts, that you can hear easily. Make sure to move in a very quiet room and get your ear towards the laptop’s bottom and just behind the keyboard.
-
-<audio controls="" src="https://cdn-0.laptoplex.com/wp-content/uploads/2019/03/laptop-fan-sound.wav" style="box-sizing: inherit; display: inline-block; vertical-align: baseline; width: 624px; min-width: 300px;"></audio>
 
 *Listen to the above audio clip, this is how a laptop fan sounds; in case you’re not able to differentiate between different sounds.*
 
@@ -69,6 +85,8 @@ Yet these 2 methods are the most simple and easy ways to check if your laptop’
 ![speedfan software](https://cdn-0.laptoplex.com/wp-content/uploads/2019/08/Speedfan-Free-Software.png)
 
 The third and final process is to download free software called [SpeedFan](http://www.almico.com/speedfan.php).
+
+> People say that SpeedFan is bad. Check the "monitoring-cpu-temperature.md" for other options.
 
 It is a free program and can be downloaded via its original site or from other multi software sites too. What is the point of this software?
 
