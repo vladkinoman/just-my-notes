@@ -1,6 +1,73 @@
 # Simple commands for simple tasks
 
-## Check os version in Linux
+## Logs
+
+This will show the last of the logs of the previous boot:
+
+```bash
+$ journalctl -b -1 -e
+```
+
+You don't have to wait for the next crash. `journalctl --list-boots` will list boots (and their time/date), and you can adjust the `-b #` of `journalctl -b -1 -e` to select one.
+
+## Run programs in background from terminal
+
+I've recently come to like `setsid`. It starts off looking like you're just running something from the terminal but you can disconnect (close the terminal) and it just keeps going.
+
+This is because the command actually forks out and while the input comes through to the current terminal, it's owned by a completely different parent (that remains alive after you close the terminal).
+
+An example:
+
+```bash
+$ setsid gnome-calculator
+```
+
+We can use "&" instead of setsid:
+
+```Bash
+$ gnome-calculator &
+```
+
+I think it works the same way. TODO: check it.
+
+## Symbolic links
+
+How to create symbolic links to all files (class of files) in a directory?
+
+`ln` does take multiple arguments, but don't forget to give a target directory in that case.
+
+So, `.` is the target directory, so it should be as easy as
+
+```bsh
+ln -s ../source/*.bar .
+```
+
+From `man ln`; the command above uses the 3rd form:
+
+```bsh
+ln [OPTION]... [-T] TARGET LINK_NAME   (1st form)
+ln [OPTION]... TARGET                  (2nd form)
+ln [OPTION]... TARGET... DIRECTORY     (3rd form)
+ln [OPTION]... -t DIRECTORY TARGET...  (4th form)
+```
+
+> - In the 1st form, create a link to TARGET with the name LINK_NAME.
+> - In the 2nd form, create a link to TARGET in the current directory.
+> - In the 3rd and 4th forms, create links to each TARGET in DIRECTORY.
+
+In my own example, I couldn't create symbolic links in the current directory (the names are identical). So, I had to create a folder for those symbolic links:
+
+```bash 
+$ mkdir Links
+$ dir=$(pwd)/* # pwd helps you to get the path to the current directory
+$ echo $dir
+/mnt/1074261C742604D6/Images/Linux/2106257.png /mnt/1074261C742604D6/Images/Linux/25dda2c3ca716f7d23f486b46e2c0c72.png /mnt/1074261C742604D6/Images/Linux/59163.png /mnt/1074261C742604D6/Images/Linux/arch-linux-minimalism-4k-up.jpg....
+$ ln -s $dir ./Links
+```
+
+## System information
+
+### Check os version in Linux
 
 The procedure to find os name and version on Linux:
 
@@ -15,13 +82,13 @@ The procedure to find os name and version on Linux:
 
 > Also, don't forget about manual: '$ man cat'.
 
-## Check the Kernel Version in Linux
+### Check the Kernel Version in Linux
 
 The kernel is the core component of an operating system. It manages the system’s resources, and it is a bridge between your computer’s hardware and software.
 
 There are various reasons why you might need to know the version of the kernel that is running on your GNU/Linux operating system. Perhaps you’re debugging a hardware related issue or learned about a new security vulnerability affecting older kernel versions and you want to find out whether your kernel is vulnerable or not. Whatever the reason, it’s quite easy to determine the Linux kernel version from the command line.
 
-### Using the `uname` Command
+#### Using the `uname` Command
 
 The [`uname`](https://linuxize.com/post/uname-command-in-linux/) command displays several system information including, the Linux kernel architecture, name version, and release.
 
@@ -40,7 +107,7 @@ The output above shows that the Linux kernel is 64-bit and its version is `4.15.
 - `54` - Patch number.
 - `generic` - Distribution specific information.
 
-### Using `hostnamectl` command
+#### Using `hostnamectl` command
 
 The `hostnamectl` utility is part of systemd, and it is used to query and change the system hostname. It also displays the Linux distribution and kernel version:
 
@@ -63,7 +130,7 @@ $ hostnamectl | grep -i kernel
             Kernel: Linux 4.15.0-54-generic
 ```
 
-### Using `/proc/version` File
+#### Using `/proc/version` File
 
 The `/proc` directory contains virtual files with information about the [system memory](https://linuxize.com/post/free-command-in-linux/) , [CPU cores](https://linuxize.com/post/get-cpu-information-on-linux/) , [mounted filesystems](https://linuxize.com/post/how-to-mount-and-unmount-file-systems-in-linux/) , and more. Information about the running kernel is stored in the `/proc/version` virtual file.
 
@@ -75,11 +142,11 @@ $ cat /proc/version
 
 The output will look something like this:
 
-```output
+```
 Linux version 4.15.0-54-generic (buildd@lgw01-amd64-014) (gcc version 7.4.0 (Ubuntu 7.4.0-1ubuntu1~18.04.1)) #58-Ubuntu SMP Mon Jun 24 10:55:24 UTC 2019
 ```
 
-## Get all the information about the system using inxi
+### Get all the information about the system using inxi
 
 **Inxi** is a powerful and remarkable command line-system information script designed for both console and **IRC**(**Internet Relay Chat**). It can be employed to instantly deduce user system configuration and hardware information, and also functions as a debugging, and forum technical support tool.
 
@@ -194,39 +261,10 @@ We use the `-F` flag to show complete Inxi output. `z` is used for security reas
 -N     Show Network card information. With -x, shows PCI BusID, Port number.
 ```
 
-## Logs
-
-This will show the last of the logs of the previous boot:
-
-```bash
-$ journalctl -b -1 -e
-```
-
-You don't have to wait for the next crash. `journalctl --list-boots` will list boots (and their time/date), and you can adjust the `-b #` of `journalctl -b -1 -e` to select one.
-
-## Run programs in background from terminal
-
-I've recently come to like `setsid`. It starts off looking like you're just running something from the terminal but you can disconnect (close the terminal) and it just keeps going.
-
-This is because the command actually forks out and while the input comes through to the current terminal, it's owned by a completely different parent (that remains alive after you close the terminal).
-
-An example:
-
-```bash
-$ setsid gnome-calculator
-```
-
-We can use "&" instead of setsid:
-
-```Bash
-$ gnome-calculator &
-```
-
-I think it works the same way. TODO: check it.
-
 ## Source
 
-1.  https://www.cyberciti.biz/faq/how-to-check-os-version-in-linux-command-line/
-2.  https://linuxize.com/post/how-to-check-the-kernel-version-in-linux/
-3.  https://www.tecmint.com/inxi-command-to-find-linux-system-information/
 4.  https://askubuntu.com/questions/106351/running-programs-in-the-background-from-terminal
+2.  https://superuser.com/questions/633605/how-to-create-symbolic-links-to-all-files-class-of-files-in-a-directory
+3.  https://www.cyberciti.biz/faq/how-to-check-os-version-in-linux-command-line/
+4.  https://linuxize.com/post/how-to-check-the-kernel-version-in-linux/
+5.  https://www.tecmint.com/inxi-command-to-find-linux-system-information/
