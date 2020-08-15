@@ -178,6 +178,70 @@ DRI_PRIME=1 glxinfo | grep "OpenGL renderer"
 
 More information is on the Archlinux wiki [here](https://wiki.archlinux.org/index.php/PRIME).
 
+## PRIME
+
+Speaking of Archlinux and PRIME, there is a [nice tutorial](https://wiki.archlinux.org/index.php/PRIME#PRIME_GPU_offloading) about this technology.
+
+PRIME is a technology used to manage hybrid graphics found on recent desktops and laptops ([Optimus for NVIDIA](https://wiki.archlinux.org/index.php/NVIDIA_Optimus), AMD Dynamic Switchable Graphics for Radeon). **PRIME GPU offloading** and **Reverse PRIME** are an attempt to support muxless hybrid graphics in the Linux kernel.
+
+From that tutorial I used commands from the PRIME GPU offloading section. About it below.
+
+### PRIME GPU offloading section
+
+GPU-intensive applications should be rendered on the more powerful discrete card. The command `xrandr --setprovideroffloadsink provider sink` can be used to make a render offload provider send its output to the sink provider (the provider which has a display connected). The provider and sink identifiers can be numeric (0x7d, 0x56) or a case-sensitive name (Intel, radeon).
+
+> **Note:**
+>
+> - This setting is no longer necessary when using the default intel/modesetting driver from the official repos, as they have DRI3 enabled by default and will therefore automatically make these assignments. ExpliAbout it below.citly setting them again does no harm, though.
+> - GPU offloading is not supported by the closed-source drivers. To get PRIME to work you have to use the discrete card as the primary GPU (for the NVidia driver this is no longer the case, for more info see [#PRIME render offload](https://wiki.archlinux.org/index.php/PRIME#PRIME_render_offload) below.)
+
+Example:
+
+```bash
+$ xrandr --setprovideroffloadsink radeon Intel
+```
+
+You may also use provider index instead of provider name:
+
+```bash
+$ xrandr --setprovideroffloadsink 1 0
+```
+
+Now, you can use your discrete card for the applications who need it the most (for example games, 3D modellers...) by prepending the `DRI_PRIME=1` environment variable:
+
+```bash
+$ DRI_PRIME=1 glxinfo | grep "OpenGL renderer"
+OpenGL renderer string: Gallium 0.4 on AMD TURKS
+```
+
+Other applications will still use the less power-hungry integrated card. These settings are lost once the X server restarts, you may want to make a script and auto-run it at the startup of your desktop environment (alternatively, put it in `/etc/X11/xinit/xinitrc.d/`). This may reduce your battery life and increase heat though.
+
+This is how I enable discrete video card when launching Steam:
+
+```bash
+$ DRI_PRIME=1 steam
+```
+
+### Reverse PRIME
+
+If the second GPU has outputs that are not accessible by the primary GPU, you can use **Reverse PRIME** to make use of them. This will involve using the primary GPU to render the images, and then pass them off to the secondary GPU.
+
+In the scenario above, you would do
+
+```bash
+$ xrandr --setprovideroutputsource radeon Intel
+```
+
+When this is done, the discrete card's outputs should be available in xrandr, and you could do something like:
+
+```bash
+$ xrandr --output HDMI-1 --auto --above LVDS1
+```
+
+There may be a situation when the performance might be slow, because all the rendering for all outputs is done by the integrated Intel card. You can read more about this in the "Discrete card as primary GPU" section.
+
+As for Intel and AMD GPU video cards, you can read about them on the corresponding Archlinux pages: [Intel](https://wiki.archlinux.org/index.php/intel_graphics), [AMD GPU](https://wiki.archlinux.org/index.php/AMDGPU).
+
 ## References
 
 1. https://www.reddit.com/r/linux_gaming/comments/9iyj1n/amd_gpu_drivers/
@@ -187,3 +251,6 @@ More information is on the Archlinux wiki [here](https://wiki.archlinux.org/inde
 5. https://askubuntu.com/questions/1068343/switch-between-intel-amd-gpu-on-18-04
 6. https://askubuntu.com/questions/1038271/intel-amd-hybrid-graphics-ubuntu-18-04
 7. https://www.reddit.com/r/debian/comments/apispy/radeon_failed_vce_resume_110/
+8. https://wiki.archlinux.org/index.php/PRIME#PRIME_GPU_offloading
+9. https://wiki.archlinux.org/index.php/intel_graphics
+10. https://wiki.archlinux.org/index.php/AMDGPU
