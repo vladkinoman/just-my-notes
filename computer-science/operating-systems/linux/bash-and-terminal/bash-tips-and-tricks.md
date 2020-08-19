@@ -46,3 +46,45 @@ Using aliases:
 ```sh
 alias lazyman="git add . && git commit -a -m '$i' && git push -u origin master"
 ```
+
+## Shebang
+
+The `#!` sequence of symbols is called <u>shebang</u>. The shebang is what tells the kernel the file needs to be executed using an interpreter. 
+
+Sometimes might happen the next situation:
+
+```bash
+$ sudo: unable to execute ./script.sh: No such file or directory
+```
+
+This usually happens when the shebang (`#!`) line in your script is broken.
+
+When run without `sudo`, the message is a little more meaningful. But with `sudo` you get the message you got.
+
+For example:
+
+```bash
+$ cat test.sh
+#!/bin/foo
+echo bar
+
+$ ./test.sh
+bash: ./test.sh: /bin/foo: bad interpreter: No such file or directory
+
+$ bash test.sh
+bar
+
+$ sudo ./test.sh
+sudo: unable to execute ./test.sh: No such file or directory
+
+$ sudo bash ./test.sh
+bar
+```
+
+The `bad interpreter` message clearly indicates that it's the shebang which is faulty.
+
+> From [this discussion](https://unix.stackexchange.com/questions/144718/sudo-unable-to-execute-script-sh-no-such-file-or-directory#answer-144719):
+>
+> > This was the issue. There were hidden `^M` characters and the interpreter was reading it as part of the shebang line. I ran it through `dos2unix` and it fixed it right up. Thanks
+>
+> > In my case, line ending was set wrong, to CR-LF for Windows, should be LF for Linux. Can take a while before you find that out.
