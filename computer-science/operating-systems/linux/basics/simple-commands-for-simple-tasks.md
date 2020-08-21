@@ -1,3 +1,5 @@
+
+
 # Simple commands for simple tasks
 
 ## Logs
@@ -9,6 +11,30 @@ $ journalctl -b -1 -e
 ```
 
 You don't have to wait for the next crash. `journalctl --list-boots` will list boots (and their time/date), and you can adjust the `-b #` of `journalctl -b -1 -e` to select one.
+
+### How to find out from the logs what caused system shutdown?
+
+According to [this answer]():
+
+> Only root privileged programs can gracefully shutdown a system. So when a system shuts down in a normal way, it is either a user with root privileges or an acpi script. In both cases you can find out by checking the logs. An acpi shutdown can be caused by power button press, overheating or low battery (laptop). I forgot the third reason, UPS software when power supply fails, which will send an alert anyway.
+>
+> Recently I had a system that started repeatedly to power off ungracefully, turned out that it was overheating and the mobo was configured to just power off early. The system didn't have a chance to save logs, but fortunately monitoring the system's temperature showed it was starting to increase just before powering off.
+>
+> So if it is a normal shutdown it will be logged, if it is an intrusion... good luck, and if it is a cold shutdown your best chance to know is to control and monitor its environment.
+
+How to find out when shutdown occurred:
+
+Try the following commands:
+
+Display list of last reboot entries: `last reboot | less`
+
+Display list of last shutdown entries: `last -x | less`
+
+or more precisely: `last -x | grep shutdown | less`
+
+You won't know who did it however. If you want to know who did it, you will need to add a bit of code which means you'll know next time.
+
+It might be useful: [How to find out who or what halted my system](https://web.archive.org/web/20170904210829/http://scofaq.aplawrence.com:80/FAQ_scotec1haltcatch.html).
 
 ## Run programs in background from terminal
 
