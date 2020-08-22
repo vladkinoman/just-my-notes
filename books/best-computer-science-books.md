@@ -6,9 +6,9 @@
 
 > From the best to just the good.
 
-0. Algorithms by Cormen
+0. Introduction to Algorithms by Cormen, Leiserson, Rivest, Stein
 1. Algorithms: Design Manual by Skiena
-2. Algorithms by Sedgwick and Wayne
+2. Algorithms, 4th ed. by Sedgwick and Wayne
 3. Algorithm Design by Kleinberg and Tardos (best graph explanation)
 
 For fun (casual): Grokking Algorithms.
@@ -19,17 +19,17 @@ The Design and Analysis of Computer Algorithms by Aho, Hopkroft, Ullman
 
 Algorithms for Interviews by Aziz, Prakash
 
-Algorithms Notes for Professionals (free book)
+[Algorithms Notes for Professionals](https://books.goalkicker.com/AlgorithmsBook/) (free book)
 
 Code Complete by Steve McConnell
 
-Data Structures and Algorithms in Java Fourth Edition by Goodrich, Tamassia 
+Data Structures and Algorithms in Java, 4th ed. by Goodrich, Tamassia 
 
 Algorithms in a Nutshell by Heineman, Pollice, Selkow
 
 The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt, David Thomas
 
-The Art of Computer Programming (inc. vol 1-2 ) by Knuth
+The Art of Computer Programming (inc. vol 1-2) by Knuth
 
 Algorithms+Data Structures by Virt
 
@@ -41,7 +41,7 @@ Algorithms+Data Structures by Virt
 
 ##### Main books
 
-The C Programming Language (2nd ed.) by Kernighan, Ritchie
+The C Programming Language, 2nd ed. by Kernighan, Ritchie (my very first book on programming, which I read completely :black_heart:)
 
 ##### C Problems
 
@@ -49,7 +49,7 @@ The C Puzzle Book by Feuer
 
 ##### C Standards
 
-C11.pdf  C89-90_ANSI_ISO+9899-1990.pdf  C99.pdf
+C11, C99, C89-90 (this one is useful for K&R)
 
 #### C#
 
@@ -57,22 +57,23 @@ C11.pdf  C89-90_ANSI_ISO+9899-1990.pdf  C99.pdf
 
 ###### Beginner
 
-Albahari\ J.,\ Albahari\ B.\ -\ C#\ 5.0\ in\ a\ Nutshell,\ 5th\ Edition\ -\ 2012
-Andrew\ Troelsen.\ Pro\ C#\ 5.0\ and\ the\ .NET\ 4.5\ Framework.djvu
-C#6.0_Andrew_Troelsen.pdf
-Джозеф\ Албахари,\ Бен\ Албахари\ -\ C#\ 5.0.\ Карманный\ справочник\ -\ 2013.pdf
+C# 5.0 in a Nutshell, 5th ed. by Albahari J., Albahari B.
+
+C# 6.0 and the .NET 4.6 Framework by Troelson
 
 ###### Intermediate
 
-CLRviaC#_Richt.pdf
-Skit_D_-_S_Dlya_Professionalov_tonkosti_Programmirovania_tretye_Izdanie_-_2014.pdf
+CLR via C# by Richt
+
+C# in Depth, 4th ed. by Skeet
 
 #### Clojure
 
 ##### Main books
 
 The Joy of Clojure, 2nd Edition by Fogus, Houser
-Программирование на Clojure - 2013 от Эмерик Ч., Карпер Б., Гранд К. 
+
+Clojure Programming by Emerick, Carper, Grand
 
 #### Java
 
@@ -85,8 +86,10 @@ Thinking in Java, 4th ed. by Bruce Eckel
 ###### Intermediate
 
 Effective Java, 2nd ed. by Blokh
+
 Java Concurency In Practice Goetz, Peierls...
-Java Performance (2012) by Hunt, John
+
+Java Performance by Hunt, John
 
 ###### Advanced
 
@@ -96,62 +99,57 @@ Java Puzzlers by Bloch, Gafter
 
 ##### Main books
 
-eloquentjavascript_ru.pdf
-JavaScipt-all-in-one.url
-javascript_the_good_parts.pdf
-JavaScript\ Подробное\ руководство\ -\ Дэвид\ Флэнаган\ (2008).pdf
-[O`Reilly]\ -\ High\ Performance\ JavaScript\ -\ [Zakas].pdf
+[Eloquent JavaScript, 3rd edition by Haverbeke](https://eloquentjavascript.net/) (online book is free)
+
+JavaScript: The Good Parts by Crockford
+
+JavaScript: The Definitive Guide by Flanagan
+
+High Performance JavaScript by Zakas
 
 #### Lisp
 
 ##### Main books
 
-Мир Лиспа (тома 1-2) от Э.Хювёнен, И.Сеппянен
+Мир Лиспа (тома 1-2) от Хювёнен, Сеппянен
 
 #### PHP
 
 ##### Main books
 
-PHP5, 2 изд. от Котеров и Костарев
-Люк Веллинг, Лора Томсон -Разработка web-приложений с помощью\ PHP\ и\ MySQL\ (4\ издание)\ -\ 2010.rar
+PHP 5, 2 изд. от Котеров и Костарев
+
+PHP and MySQL Web Development, 4th ed by Welling, Thomson
 
 #### Python
 
 ##### Main books
 
-Fluent Python by Ramalho (the best book)
-Learning Python by Lutz
-Python4DataAnalysis.pdf
-Python\ for\ Data\ Analysis.pdf
-Python\ for\ Data\ Science
-where-python-is-used.png
-Бизли\ Д.\ -\ Python.\ Подробный\ справочник\ (4-е\ изд.)\ -\ 2010.pdf
-Лутц\ М.\ -\ Изучаем\ Python\ (4-е\ издание)-\ 2011.pdf
+0. Fluent Python by Ramalho
+1. Learning Python by Lutz (for beginners)
+2. Python Essential Reference, 4th ed. by Beazley
 
-./Python/Python for Data Science:
-programming.collective.intelligence.aug.2007.pdf
-Python\ и\ анализ\ данных.pdf
-Tobi_Segaran_-_Programmiruem_Kollektivny_Razum.pdf
+##### Python for Data Science
 
-./RegularExpr:
-Friedl_-_Mastering_Regular_Expressions_-_2_2003_RUS.djvu
+Python for Data Analysis by McKinney
 
-./Style of code:
-Мартин\ -\ Чистый\ код.2010.pdf
+Programming Collective Intelligence by Segaran
 
-./С++:
-[C++11][4ed]The\ C++\ Programming\ Language
-[C++11_C++14]Programming\ Principles\ and\ Practice\ Using\ C++,\ 2nd\ Edition\ -\ 2014
-[C++98][3ed]The\ C++\ Programming\ Language
+#### Regular expressions
 
-./С++/[C++11][4ed]The C++ Programming Language:
-[DJVU]The\ C++\ Programming\ Language\ -\ 4\ ed\ -\ 2013.djvu
-[PDF]The\ C++\ Programming\ Language\ [4th\ Edition]\ -\ Bjarne\ Stroustrup.pdf
+Mastering Regular Expressions by Friedl
 
-./С++/[C++11_C++14]Programming Principles and Practice Using C++, 2nd Edition - 2014:
-[ENG]Stroustrup\ B.\ -\ Programming\ Principles\ and\ Practice\ Using\ C++,\ 2nd\ Edition\ -\ 2014.pdf
-[RU]Страуструп\ Б.\ -\ Программирование.\ Принципы\ и\ практика\ с\ использованием\ C++\ (2е\ издание)\ -\ 2016.pdf
+#### Style of code 
 
-./С++/[C++98][3ed]The C++ Programming Language:
-[ENG]The_C++_Programming_Language__Stroustrup_.pdf
-[myRU]Bjarne_Stroustrup_-The_C++_programming_language_(ru).djvu
+Clean Code: A Handbook of Agile Software Craftsmanship by Martin
+
+#### С++
+
+##### Main books
+
+The C++ Programming Language, 4th ed. by Stroustrup (C++11)
+
+The C++ Programming Language, 3rd ed. by Stroustrup (C++ 98, the book I read during my university days :black_heart: )
+
+Programming Principles and Practice Using C++, 2nd ed. by Stroustrup (C++11, C++14)
+
