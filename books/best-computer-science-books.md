@@ -10,6 +10,7 @@
 1. Algorithms: Design Manual by Skiena
 2. Algorithms, 4th ed. by Sedgwick and Wayne
 3. Algorithm Design by Kleinberg and Tardos (best graph explanation)
+4. Programming Pearls, 2nd ed. by Jon Bentley (about the problems that programmers constantly face)
 
 For fun (casual): Grokking Algorithms.
 
@@ -33,9 +34,44 @@ The Art of Computer Programming (inc. vol 1-2) by Knuth
 
 Algorithms+Data Structures by Virt
 
-## Software engineering
+## Cellular Automata
 
-### Software development
+
+
+## Competitive Programming
+
+[Competitive Programmer’s Handbook by Laaksonen](https://cses.fi/book/index.php) (free book)
+
+## Computer Science
+
+Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb9b39be3221dc02c1b5d0712f9b9f03260e46/ComputerScienceOne.pdf), [2](http://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf), [3](http://cse.unl.edu/~cbourke/ComputerScienceThree.pdf) by Dr. Chris Bourke (free books in process).
+
+## Linux
+
+###### Beginner
+
+[The Linux Command Line by Shotts](http://linuxcommand.org/tlcl.php) (free book)
+
+[Linux Kernel in a Nutshell](http://www.kroah.com/lkn/) (free book)
+
+[Linux Inside](https://0xax.gitbooks.io/linux-insides/content/index.html) (free ebook)
+
+###### Intermediate
+
+
+
+###### Advanced
+
+[Linux Device Drivers, 3rd ed.](https://lwn.net/Kernel/LDD3/) (free book)
+
+## Theoretical Computer Science
+
+SICP by Abelson:
+
+- [Official website](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) (free ebook)
+- [Unofficial ebook version](https://sarabander.github.io/sicp/) (free ebook)
+
+## Programming Languages
 
 #### C
 
@@ -149,7 +185,7 @@ Clean Code: A Handbook of Agile Software Craftsmanship by Martin
 
 The C++ Programming Language, 4th ed. by Stroustrup (C++11)
 
-The C++ Programming Language, 3rd ed. by Stroustrup (C++ 98, the book I read during my university days :black_heart: )
+The C++ Programming Language, Special ed. by Stroustrup (C++ 98, the book I read during my university days :black_heart: )
 
 Programming Principles and Practice Using C++, 2nd ed. by Stroustrup (C++11, C++14)
 
