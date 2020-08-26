@@ -10,23 +10,37 @@
 
   >  Similar to the linuxjourney.com.
 
-- [The Linux Command Line](https://www.goodreads.com/book/show/11724436-the-linux-command-line)
+- [The Linux Command Line](http://linuxcommand.org/tlcl.php)
 
   ![Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344692678l/11724436.jpg)
 
-  > Bash basics.
+  > Bash basics. It's free.
 
+- [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
+
+  ![Cover](http://files.kroah.com/lkn/linux_kernel_in_a_nutshell_small.jpg)
+  
+  > A guide for beginners. It's free.
+  
+- [BashGuide](http://mywiki.wooledge.org/BashGuide)
+
+  > A guide for beginners who are interested in Bash. It's free. 
+  
 - [Linux insides [optional]](https://0xax.gitbooks.io/linux-insides/content/index.html) 
 
   > The book provides basics about linux kernel and helps people who are interested in linux kernel insides, and other low-level subject matter. Not finished Internet book.
 
-#### Books for medium level users
+### Books for medium level users
 
 - [Linux Bible](https://www.goodreads.com/book/show/13838572-linux-bible)
 
   ![Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355106656l/13838572.jpg)
 
   > It's the Bible! Comprehensive book for beginners.
+
+- [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
+
+  > It's free.
 
 ### Books for advanced users
 
@@ -42,11 +56,11 @@
 
   > "Linux Kernel Development" details the design and implementation of the Linux kernel, presenting the content in a manner that is beneficial to those writing and developing kernel code, as well as to programmers seeking to better understand the operating system and become more efficient and productive in their coding. This book is recommended wherever the words "for experienced users" meet.
 
-- [Linux Device Drivers](https://www.goodreads.com/book/show/263436.Linux_Device_Drivers)
+- [Linux Device Drivers](https://lwn.net/Kernel/LDD3/)
 
   ![Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428606016l/263436.jpg)
 
-  > For those who want to write drivers for this wonderful operating system!
+  > For those who want to write drivers for this wonderful operating system! It's free.
 
 ### Classic books
 
