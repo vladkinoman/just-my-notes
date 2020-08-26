@@ -6,7 +6,7 @@
 >
 > Normal - means a title that may be good, but not as good as **Bold** and *Italic* titles.
 >
-> ~~Comic~~ - I bought this comic.
+> ~~Comic~~ - I bought and/or started reading this comic (if I only read, then by subscription; so far I have only tried Marvel Unlimited).
 
 > [Conclusion](#Conclusion) ← this is your bro :)
 
@@ -8743,7 +8743,7 @@ Best comic books:
 
 Best single issues: 
 
-- **Action Comics #775 ("What's So Funny About Truth, Justice, and the American Way?")**, **Animal Man #5: The Coyote Gospel**, **Pax Americana**, **Age of Ultron #10AI**.
+- ~~**Action Comics #775 ("What's So Funny About Truth, Justice, and the American Way?")**~~, **Animal Man #5: The Coyote Gospel**, **Pax Americana**, **Age of Ultron #10AI**.
 - *Swamp Thing #21: The Anatomy Lesson*, *All-Star Superman #10*, *For The Man Who Has Everything*, *Detective Comics #826 "Slayride"* by Paul Dini and Don Kramer, *Batman and Robin #18* by Peter J. Tomasi, *Moon Knight #5 by Warren Ellis and Declan Shalvey*, *Watchmen #5 "Fearful Symmetry"* by Alan Moore, *Sandman issue #6 "24 Hours"* by Neil Gaiman, *Sandman #18 "A Dream of a Thousand Cats"* by Neil Gaiman, *Daredevil #28 "Underboss: Part Three"* by Brian Bendis and Alex Maleev (issue with no dialogue in it).
 - Saga of the Swamp Thing #32, Astro City V1 #1 "In Dreams" (best Superman issue which is not about Superman), Hellblazer #27- Hold Me, Daredevil #181 by Frank Miller, Uncanny X-Men Vol 1 #350 by Steve Seagle ( Gambit's greatest secret), Uncanny X-Men 245 by Chris Claremont, Doom Patrol #45, Locke and Key: Guide to the Known Keys by Joe Hill, Grayson #12 by Tim Seeley.
 
@@ -8761,7 +8761,7 @@ Best Image comics: **Saga**, **East of West**, **Invincible** by Robert Kirkman,
 >
 > There are many good comics published by Image publisher (and other small publishers)!
 
-Best Marvel comics: **Daredevil** by Bendis, **Hawkeye** by Matt Fraction, **FF / F4** by Jonathan Hickman, **Uncanny X-Force** by Rick Remender, *Avengers/New Avengers* by Jonathan Hickman, *Uncanny X-Men* by Chris Claremont (the greatest superhero soap opera ever told; inc. Days of Future Past, Dark Phoenix Saga, God Loves, Man Kills), *Vision* by Tom King, *Daredevil* by Frank Miller (inc. fantastic **Born Again**), *Astonishing X-men* by Joss Whedon, Immortal Iron Fist by Ed Brubaker/Matt Fraction/David Aja, X-Factor by Peter David (second run was hilarious, in the best way possible), Ultimate Spider-Man by Bendis, Daredevil by Mark Waid, Moon Knight by Moench/Ellis/Lemire, Punisher by Garth Ennis, Captain America by Ed Brubaker, Superior Spiderman, Venom by Rick Remender, Thor: God of Thunder by Jason Aaron (Walt Simonson's Thor can be good too), Incredible Hulk by Peter David, House of X and Powers of X by Jonathan Hickman (pretty fresh), Deadpool by Kelly and Duggan + Deadpool Kills the Marvel Universe by Cullen Bunn might be good too, Annihilation by Keith Giffen (classic space opera of good vs. evil), Silver Surfer by Dan Slott and Mike Allred, Alias by Bendis, Inhumans by Lee/Jenkins, Immortal Hulk by Al Ewing (fresh but it's top tier).
+Best Marvel comics: **Daredevil** by Bendis, **Hawkeye** by Matt Fraction, **FF / F4** by Jonathan Hickman, **Uncanny X-Force** by Rick Remender, *Avengers/New Avengers* by Jonathan Hickman, *Uncanny X-Men* by Chris Claremont (the greatest superhero soap opera ever told; inc. Days of Future Past, Dark Phoenix Saga, God Loves, Man Kills), *Vision* by Tom King, *Daredevil* by Frank Miller (inc. fantastic **Born Again**), *Astonishing X-men* by Joss Whedon, Immortal Iron Fist by Ed Brubaker/Matt Fraction/David Aja, X-Factor by Peter David (second run was hilarious, in the best way possible), Ultimate Spider-Man by Bendis, Daredevil by Mark Waid, Moon Knight by Moench/Ellis/Lemire, Punisher by Garth Ennis, Captain America by Ed Brubaker, Superior Spiderman, Venom by Rick Remender, Thor: God of Thunder by Jason Aaron (Walt Simonson's Thor can be good too), ~~Incredible Hulk by Peter David~~, House of X and Powers of X by Jonathan Hickman (pretty fresh), Deadpool by Kelly and Duggan + Deadpool Kills the Marvel Universe by Cullen Bunn might be good too, Annihilation by Keith Giffen (classic space opera of good vs. evil), Silver Surfer by Dan Slott and Mike Allred, Alias by Bendis, Inhumans by Lee/Jenkins, Immortal Hulk by Al Ewing (fresh but it's top tier).
 
 ---
 
@@ -8831,7 +8831,7 @@ Best Green Lantern comics: ~~*Green Lantern: Secret Origin*~~, *Green Lantern: R
 
 Best Hellboy comics: nearly all of it is written by Mike Mignola and nearly all of it is worth reading. Just start at the beginning with [Hellboy, Volume 1: *Seed of Destruction*](https://www.amazon.com/dp/1593070942) and follow the rest in [suggested reading order](http://www.multiversitycomics.com/annotations/hellboy-reading-order-2019/) (*Conqueror Worm* is the best story arc among them). Although, the best option would be to buy omnibuses. *Plague of Frogs* BPRD run is also recommended by people. Besides this spin-off, people also recommend these books: *Frankenstein Underground*, *Lobster Johnson*.
 
-Best Hulk comics: **Incredible Hulk Visionaries** (80s-90s) by Peter Devid (the best run), **Planet Hulk** and **World War Hulk** by Greg Pak, *Hulk the End* by Peter David (depressing af though), *Immortal Hulk* by Al Ewing, Incredible Hulk (1999-2007) by Bruce Jones, Hulk: Gray by Jeph Loeb, Ultimate Hulk Vs Wolverine by Damon Lindelof.
+Best Hulk comics: ~~**Incredible Hulk Visionaries** (80s-90s) by Peter Devid (the best run)~~, **Planet Hulk** and **World War Hulk** by Greg Pak, *Hulk the End* by Peter David (depressing af though), *Immortal Hulk* by Al Ewing, Incredible Hulk (1999-2007) by Bruce Jones, Hulk: Gray by Jeph Loeb, Ultimate Hulk Vs Wolverine by Damon Lindelof.
 
 > *Immortal Hulk* by Al Ewing (and its story arc) is chosen as the best Ongoing series in 2019 according to Reddit:
 >
