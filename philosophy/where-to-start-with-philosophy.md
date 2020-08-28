@@ -1,4 +1,4 @@
-# How do I start reading comics?
+# Where to start with philosophy
 
 ## Table of Contents
 
@@ -59,6 +59,8 @@ Another common question is whether philosophy is actually capable of accomplishi
 
 Additionally, the [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/) and the [Internet Encyclopedia of Philosophy](http://www.iep.utm.edu/) contain hundreds of articles on a wide variety of topics and philosophers.
 
+> Also, there are nice recommendations on awesome-philosophy repository: [here](https://github.com/HussainAther/awesome-philosophy#History-of-philosophy).
+
 ---
 
 ### Good General Overviews
@@ -110,6 +112,8 @@ For **existentialism and absurdism**, [Sartre's *Existentialism is a Humanism*](
 For **philosophy of science**, which is the study of what science is and how science comes to know things, [Mill's *A System of Logic* book III](http://www.earlymoderntexts.com/authors/mill), Popper's *Conjectures and Refutations*, [Kuhn's *The Structure of Scientific Revolutions*](http://smile.amazon.com/Structure-Scientific-Revolutions-50th-Anniversary/dp/0226458121/), and *For and Against Method* edited by Motterlini. Lots of people find Mill boring, though, and philosophy of science is rather new, so you might be better served by the textbooks or compilations listed below.
 
 For **feminism**, [Wollstonecraft's *A Vindication of the Rights of Women*](http://www.earlymoderntexts.com/authors/wollstonecraft), [Mill's (or Mill and Taylor Mill's) *The Subjection of Women*](http://www.earlymoderntexts.com/authors/mill), and [de Beauvoir's *The Second Sex*](https://smile.amazon.com/Second-Sex-Simone-Beauvoir/dp/030727778X/).
+
+> Also, I found [this document](https://docs.google.com/document/d/1TpHPEo3pG-QlB7dWCF-fcJFgayFmlQia-RjpKQGFP4A/edit#) from /r/Feminism while searching feminist literature on [this subreddit](https://www.reddit.com/r/Feminism/comments/6a5d9h/what_is_your_favourite_piece_of_feminist/).
 
 For **philosophy of religion**, Plato's *Euthyphro*, [Leibniz's *Making the Case for God*](http://www.earlymoderntexts.com/authors/leibniz), [Hume's *Dialogues Concerning Natural Religion* and *The Immortality of the Soul*](http://www.earlymoderntexts.com/authors/hume), and [Kant's *Religion Within the Boundaries of Bare Reason*](http://www.earlymoderntexts.com/authors/kant).
 
