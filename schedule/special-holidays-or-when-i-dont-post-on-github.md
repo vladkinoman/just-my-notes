@@ -1,5 +1,9 @@
 # Special holidays or when I don't post on GitHub
 
+I have to make at least two commits in various repositories on Monday, Tuesday, Thursday, Friday, and Saturday. Wednesday is the middle of the week, so I have to make at least one commit. Every Sunday is a reading day and a day for reviewing books/comics/films/games, so it is a day off.
+
+Holidays or special events:
+
 1. 1 January - "hungover".
 2. First day of the first month of the Chinese calendar (between 21 January and 20 February) - Chinese New Year.
 3. 5 February - Souls started as a genre (Demon Souls's release date).
@@ -30,20 +34,21 @@
 28. 30 July - Friendship Day.
 29. 5 August - Magic: The Gathering underwent a general release.
 30. 23 August - My birthday.
-31. 30 August - Operation Snake Eater (Metal Gear Solid 3 main events begin).
-32. 8 September - Star Trek Day, International Literacy Day.
-33. 12 September - Day of The Programmer (leap year), Video Games Day.
-34. 13 September (common) - Day of The Programmer.
-35. 22 September - F.R.I.E.N.D.S. Day (TV show started this day), Hobbit Day. Hobbit Day is a name used for September 22 in reference to its being the birthday of the hobbits Bilbo and Frodo Baggins, two fictional characters in J. R. R. Tolkien's popular set of books The Hobbit and The Lord of the Rings.
-36. 1 October - International Coffee Day.
-37. 4 October - Teacher's Day.
-38. 21 October - GTA started as a franchise (GTA Vice City and  GTA San Andreas are the games of my childhood).
-39. 23 October - The Great War (The Great War is the main event that precedes the events in Fallout series).
-40. 26 October - Witcher started as a franchise.
-41. 31 October - Halloween.
-42. 19 November - Half-Life started as a franchise.
-43. 21 November - Hitman started as a franchise.
-44. 26 November - Thanksgiving.
-45. ? December - The Game Awards.
-46. 28 December - International Cinema Day. On this day in 1895, the world's first commercial movie screening took place at the Grand Cafe in Paris. The film was made by Louis and Auguste Lumiere, two French brothers who developed a camera-projector called the Cinematographe.
-47. 31 December - preparation for New Year celebration.
+31. ? August - Gamescom.
+32. 30 August - Operation Snake Eater (Metal Gear Solid 3 main events begin).
+33. 8 September - Star Trek Day, International Literacy Day.
+34. 12 September - Day of The Programmer (leap year), Video Games Day.
+35. 13 September (common) - Day of The Programmer.
+36. 22 September - F.R.I.E.N.D.S. Day (TV show started this day), Hobbit Day. Hobbit Day is a name used for September 22 in reference to its being the birthday of the hobbits Bilbo and Frodo Baggins, two fictional characters in J. R. R. Tolkien's popular set of books The Hobbit and The Lord of the Rings.
+37. 1 October - International Coffee Day.
+38. 4 October - Teacher's Day.
+39. 21 October - GTA started as a franchise (GTA Vice City and  GTA San Andreas are the games of my childhood).
+40. 23 October - The Great War (The Great War is the main event that precedes the events in Fallout series).
+41. 26 October - Witcher started as a franchise.
+42. 31 October - Halloween.
+43. 19 November - Half-Life started as a franchise.
+44. 21 November - Hitman started as a franchise.
+45. 26 November - Thanksgiving.
+46. ? December - The Game Awards.
+47. 28 December - International Cinema Day. On this day in 1895, the world's first commercial movie screening took place at the Grand Cafe in Paris. The film was made by Louis and Auguste Lumiere, two French brothers who developed a camera-projector called the Cinematographe.
+48. 31 December - preparation for New Year celebration.
