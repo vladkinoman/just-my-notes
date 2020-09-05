@@ -60,7 +60,7 @@ Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb
 
 [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/) (free book)
 
-[Linux Inside](https://0xax.gitbooks.io/linux-insides/content/index.html) (free ebook)
+[Linux Inside](https://0xax.gitbooks.io/linux-insides/content/index.html) (free book)
 
 ###### Intermediate
 
@@ -78,10 +78,12 @@ Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb
 
 SICP by Abelson:
 
-- [Official website](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) (free ebook)
-- [Unofficial ebook version](https://sarabander.github.io/sicp/) (free ebook)
+- [Official website](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) (free book)
+- [Unofficial ebook version](https://sarabander.github.io/sicp/) (free book)
 
-## Programming Languages
+[Concepts, Techniques, and Models of Computer Programming by Peter Van](https://www.goodreads.com/book/show/772585.Concepts_Techniques_and_Models_of_Computer_Programming) Roy, Seif Haridi (almost like SICP but with additional chapters, there are no many places to buy this book - Amazon and bookdepository is what I found)
+
+## Programming Languages and Technologies
 
 #### C
 
@@ -127,9 +129,87 @@ C# in Depth, 4th ed. by Skeet
 
 ##### Main books
 
-The Joy of Clojure, 2nd Edition by Fogus, Houser
+[The Joy of Clojure](https://www.goodreads.com/book/show/8129142-the-joy-of-clojure), 2nd Edition by Fogus, Houser
 
-Clojure Programming by Emerick, Carper, Grand
+[Clojure Programming](https://www.goodreads.com/book/show/10883803-clojure-programming) by Emerick, Carper, Grand
+
+[Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/) by Daniel Higginbotham (free book, nice rating)
+
+#### Emacs Lisp
+
+##### Main books
+
+###### Beginner
+
+Мир Лиспа (тома 1-2) от Хювёнен, Сеппянен
+
+[GNU Emacs manual and its extras](https://www.gnu.org/software/emacs/manual/emacs.html) by Richard Stallman et al.
+
+###### Intermediate
+
+[Practical Common Lisp](http://www.gigamonkeys.com/book/) by Peter Seibel (free book, amazing)
+
+[Interpreting LISP](http://www.civilized.com/getlisp.html) by Gary D Knott (free book, it presents how LISP works and how to build a LISP interpreter)
+
+[GNU Emacs Lisp Reference Manual](https://www.gnu.org/software/emacs/manual/elisp.html) by Bil Lewis, Dan LaLiberte, Richard Stallman,
+the GNU Manual Group, et al.
+
+###### Advanced
+
+[Lisp Hackers](https://leanpub.com/lisphackers/read) by Vsevolod Dyomkin (free to read online, interviews with 100x More Productive Programmers)
+
+#### Git
+
+[Pro Git](https://git-scm.com/book/en/v2) by Scott Chacon, Ben Straub (free book, great)
+
+#### Go
+
+##### Main books
+
+###### Beginner
+
+[Go by Example](https://gobyexample.com/) by Mark McGranaghan (free book)
+
+[Effective Go](https://golang.org/doc/effective_go.html) by Google (free, great introduction according to the users of Goodreads)
+
+[Learn Go with tests](https://github.com/quii/learn-go-with-tests) by Chris James (free book on GitHub, great TDD book according to the users of Goodreads)
+
+[Building Web Apps with Go](https://github.com/codegangsta/bwag) by Jeremy Saenz (free book, could be bad according to Goodreads, short and have good exercises)
+
+[Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) by Suraj (free book, could be bad according to Goodreads, learn how to write webapps without a framework in Go)
+
+###### Intermediate
+
+[Go 101](https://github.com/go101/go101): a book focusing on Go syntax/semantics and all kinds of details by Tapir Liu (free book, nice rating on Goodreads)
+
+[Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) by astaxie
+
+> astaxie's book:
+>
+> - For those of you who are working with PHP/Python/Ruby, you will learn how to build a web application with Go.
+> - For those of you who are working with C/C++, you will know how the web works.
+
+[Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers) by Maor Zamski, Daniel Singer (free book)
+
+###### Advanced
+
+[Practical Cryptography With Go](https://leanpub.com/gocrypto/read) by Kyle Isom (free to read online)
+
+#### Haskell
+
+##### Main books
+
+###### Beginner
+
+[Learn You a Haskell](http://learnyouahaskell.com/) by Miran Lipovača (free to read online, amazing, it occupies the first place in [the list of the free books](https://www.goodreads.com/list/show/91537.free_programming_books))
+
+[Real World Haskell: Code You Can Believe In](http://book.realworldhaskell.org/) by Bryan O'Sullivan, John Goerzen, Donald Bruce Stewart (free to read online, there are some interesting apps you can create while reading the book)
+
+[Beautiful Code, Compelling Evidence](https://www.renci.org/wp-content/pub/tutorials/BeautifulCode.pdf)  by Jeff Heard (free, good short tutorial about data visualization with functional programming)
+
+###### Intermediate
+
+[Developing Web Applications with Haskell and Yesod](https://www.yesodweb.com/book) by Michael Snoyman (free to read online, could be bad according to Goodreads)
 
 #### HTML / CSS
 
@@ -247,11 +327,31 @@ High Performance JavaScript by Zakas
 
 [Vue.js: Up and Running: Building Accessible and Performant Web Apps](https://www.goodreads.com/book/show/39076585-vue-js) by Callum MacraeTesting [Vue. Js Applications](https://www.goodreads.com/book/show/40535888-testing-vue-js-applications) by Edd Yerburgh
 
-#### Emacs Lisp
+#### Julia
 
 ##### Main books
 
-Мир Лиспа (тома 1-2) от Хювёнен, Сеппянен
+###### Beginner
+
+[Julia By Example](https://github.com/samuelcolvin/JuliaByExample) by Samuel Colvin (free book)
+
+[Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) by Ben Lauwens, Allen Downey (free)
+
+[Julia Language a  Concise Tutorial](https://github.com/sylvaticus/juliatutorial) by Antonello Lobianco (free book, evolved into [Julia Quick Syntax Reference: A Pocket Guide for Data Science Programming](https://www.goodreads.com/book/show/51787222-julia-quick-syntax-reference))
+
+###### Intermediate
+
+[Julia for Machine Learning](https://www.goodreads.com/book/show/53999803-julia-for-machine-learning) by Zacharias Voulgaris
+
+[Hands-On Design Patterns and Best Practices with Julia: Proven solutions to common problems in software design for Julia 1.x](https://www.goodreads.com/book/show/51405203-hands-on-design-patterns-and-best-practices-with-julia) by Tom Kwong, Stefan Karpinski
+
+[Algorithms for Optimization](https://www.goodreads.com/book/show/42068848-algorithms-for-optimization) by Mykel J Kochenderfer, Tim A Wheeler
+
+[Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/h-Klok/StatsWithJuliaBook) by Yoni Nazarathy, Hayden Klok (free book)
+
+###### Advanced
+
+[Quantitative Economics with Julia](https://julia.quantecon.org/) by Jesse Perla, Thomas J. Sargent, John Stachurski (free book, lectures in Quantitative Economics, looks interesting, I familiar with some of those topics)
 
 #### PHP
 
@@ -261,13 +361,41 @@ PHP 5, 2 изд. от Котеров и Костарев
 
 PHP and MySQL Web Development, 4th ed by Welling, Thomson
 
+#### Maven
+
+##### Main books
+
+[Maven by Example](https://books.sonatype.com/mvnex-book/reference/public-book.html) by Timothy O'Brien, John Casey, Brian Fox (free book, a decent introduction)
+
+[Maven: The Complete Reference](https://books.sonatype.com/mvnref-book/reference/public-book.html) by Sonatype, Inc. (free book)
+
+#### NoSQL
+
+##### Main books
+
+[The Little MongoDB Book](https://github.com/karlseguin/the-little-mongodb-book) by Karl Seguin (free book, nice introduction) 
+
 #### Python
 
 ##### Main books
 
-0. Fluent Python by Ramalho
-1. Learning Python by Lutz (for beginners)
-2. Python Essential Reference, 4th ed. by Beazley
+###### Beginner
+
+Fluent Python by Ramalho
+
+Learning Python by Lutz (for beginners)
+
+Python Essential Reference, 4th ed. by Beazley
+
+[Python Programming for Economics and Finance](https://python-programming.quantecon.org/) by Thomas J. Sargent, John Stachurski (free book, a set of lectures on Python programming for economics and finance)
+
+###### Intermediate
+
+[Quantitative Economics with Python](https://python.quantecon.org/) by Thomas J. Sargent, John Stachurski (free book, a set of lectures on quantitative economic modeling)
+
+###### Advanced
+
+[Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/) by Thomas J. Sargent, John Stachurski (free book, a set of advanced lectures on quantitative economic modeling)
 
 ##### Python for Data Science
 
@@ -279,6 +407,25 @@ Programming Collective Intelligence by Segaran
 
 Mastering Regular Expressions by Friedl
 
+#### Rust
+
+
+
 #### Style of code 
 
 Clean Code: A Handbook of Agile Software Craftsmanship by Martin
+
+#### Vim
+
+##### Main books
+
+###### Beginner
+
+
+
+###### Intermediate
+
+
+
+###### Advanced
+
