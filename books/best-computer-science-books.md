@@ -20,6 +20,8 @@ The Design and Analysis of Computer Algorithms by Aho, Hopkroft, Ullman
 
 Algorithms for Interviews by Aziz, Prakash
 
+[Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) by Brad Miller and David Ranum, Luther College (free book, amazing interactive ebook)
+
 [Algorithms Notes for Professionals](https://books.goalkicker.com/AlgorithmsBook/) (free book)
 
 Code Complete by Steve McConnell
@@ -30,7 +32,7 @@ Algorithms in a Nutshell by Heineman, Pollice, Selkow
 
 The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt, David Thomas
 
-The Art of Computer Programming (inc. vol 1-2) by Knuth
+The Art of Computer Programming (inc. vol 1-2) by Knuth (classic)
 
 Algorithms+Data Structures by Virt
 
@@ -73,6 +75,8 @@ Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb
 [Linux Kernel Development](https://www.goodreads.com/book/show/8474434-linux-kernel-development)
 
 [Linux Device Drivers, 3rd ed.](https://lwn.net/Kernel/LDD3/) (free book)
+
+[Linux Firewalls: Enhancing Security with Nftables and Beyond](https://www.goodreads.com/book/show/23020808-linux-firewalls) by Steve Suehring
 
 ## Theoretical Computer Science
 
@@ -223,6 +227,8 @@ the GNU Manual Group, et al.
 
 Thinking in Java, 4th ed. by Bruce Eckel
 
+[Think Java: How to think like a computer scientist](https://greenteapress.com/wp/think-java-2e/) by Allen B. Downey (free book)
+
 ###### Intermediate
 
 Effective Java, 2nd ed. by Blokh
@@ -231,9 +237,27 @@ Java Concurency In Practice Goetz, Peierls...
 
 Java Performance by Hunt, John
 
+[Java Application Development on Linux](http://www.javalinuxbook.com/) by Carl Albing and Michael Schwarz (free book, hands-on guide to the full Java application development lifecycle on Linux, could be outdated)
+
 ###### Advanced
 
+[Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) by Katherine Stanley, Erin Schnabel, Michael Hofmann
+
+##### Problems
+
 Java Puzzlers by Bloch, Gafter
+
+##### Gradle
+
+[Gradle Succintly](https://www.syncfusion.com/ebooks/gradle_succinctly) by José Roberto Olivas Mendoza (free book, short introduction)
+
+[Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html) by Hans Dockter, Adam Murdoch (free book)
+
+##### Spring
+
+[Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/free-ebooks/building-applications-spring-5-and-vuejs-2) by James J. Ye (Packt account *required*)
+
+[Software Architecture with Spring 5.0](https://www.packtpub.com/free-ebooks/software-architecture-spring-50) by René Enríquez, Alberto Salazar (Packt account *required*, good)
 
 #### JavaScript
 
@@ -279,41 +303,41 @@ High Performance JavaScript by Zakas
 
 [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/) by Axel Rauschmayer (free book, covers advanced JavaScript topics, the book to read after “JavaScript for impatient programmers”)
 
-###### Angular.js
+##### Angular.js
 
 > Considering frameworks, I think it is better to read the official documentation and the MDN web docs. However, I think the next books are still good.
 
 [AngularJS Step by Logical Step]() by Nicholas Johnson (free book, old but could be good introduction)
 
-###### Backbone.js
+##### Backbone.js
 
 [Developing Backbone.js Applications](https://github.com/addyosmani/backbone-fundamentals) by Osmani (free book, slightly outdated, a light introduction to backbone, and a lot of extra information about history of MVC, testing tools for JS, module loaders, etc.)
 
-###### Ember.js
+##### Ember.js
 
 [Ember Tutorial](http://ember.vicramon.com/) by Vic Ramon (free book)
 
 [Ember.js Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md#ember-data) 
 
-###### Node.js
+##### Node.js
 
-<u>Beginner</u>
+###### Beginner
 
 [The Art of Node](https://github.com/maxogden/art-of-node) by Max Ogden (free book, a short introduction to Node.js)
 
 [Your First App: Node.js](https://github.com/jimschubert/yfa-nodejs-code) by Jim Schubert (free book, good but could be outdated)
 
-<u>Intemediate</u>
+###### Intemediate
 
 [Node.js Design Patterns](https://www.goodreads.com/book/show/24514193-node-js-design-patterns?ac=1&from_search=true&qid=AB7nUEyhS7&rank=2) by Mario Casciaro
 
-###### React.js
+##### React.js
 
-<u>Beginner</u>
+###### Beginner
 
 [React: Up and Running](https://www.goodreads.com/book/show/26177715-react) by Stoyan Stefanov
 
-<u>Intemediate</u>
+###### Intemediate
 
 [React In-depth](https://legacy.gitbook.com/book/developmentarc/react-indepth/details) by James Polanco, Aaron Pedersen (free book)
 
@@ -323,7 +347,7 @@ High Performance JavaScript by Zakas
 
 [Learn React Hooks: Build and refactor modern React.js applications using Hooks](https://www.goodreads.com/book/show/48611191-learn-react-hooks) by Daniel Bugl
 
-###### Vue.js
+##### Vue.js
 
 [Vue.js: Up and Running: Building Accessible and Performant Web Apps](https://www.goodreads.com/book/show/39076585-vue-js) by Callum MacraeTesting [Vue. Js Applications](https://www.goodreads.com/book/show/40535888-testing-vue-js-applications) by Edd Yerburgh
 
@@ -377,31 +401,139 @@ PHP and MySQL Web Development, 4th ed by Welling, Thomson
 
 #### Python
 
+> Here is a great resource for learning full stack python: [link](https://www.fullstackpython.com/).
+
 ##### Main books
 
 ###### Beginner
 
-Fluent Python by Ramalho
+[Automate the Boring Stuff with Python](http://automatetheboringstuff.com/) By Al Sweigart (free book, practical programming for total beginners, amazing, could be easy)
 
-Learning Python by Lutz (for beginners)
+[Think Python](https://greenteapress.com/wp/think-python-2e/), 2nd Edition by Allen B. Downey (free book, great, could be easy)
 
-Python Essential Reference, 4th ed. by Beazley
+Learning Python by Lutz
 
-[Python Programming for Economics and Finance](https://python-programming.quantecon.org/) by Thomas J. Sargent, John Stachurski (free book, a set of lectures on Python programming for economics and finance)
+[The Hitchhiker's Guide to Python: Best Practices for Development](https://docs.python-guide.org/) by Kenneth Reitz, Tanya Schlusser (free book, great)
+
+[Python for Everybody Exploring Data Using Python 3](https://www.py4e.com/book.php) by Dr. Charles R. Severance (free book, great)
+
+Fluent Python by Ramalho (people say that this is the best book on Python)
 
 ###### Intermediate
 
-[Quantitative Economics with Python](https://python.quantecon.org/) by Thomas J. Sargent, John Stachurski (free book, a set of lectures on quantitative economic modeling)
+[Python Essential Reference](https://www.goodreads.com/book/show/6666431-python-essential-reference), 4th ed. by Beazley (could be a bit outdated)
+
+[Python Pocket Reference](https://www.goodreads.com/book/show/583495.Python_Pocket_Reference) by Mark Lutz
+
+[Effective Python: 59 Specific Ways to Write Better Python](https://www.goodreads.com/book/show/23020812-effective-python) (Effective Software Development) by Brett Slatkin (concise, best practises, relevant topics)
+
+[Core Python Applications Programming](https://www.goodreads.com/book/show/13661037-core-python-applications-programming) by Wesley J. Chun (all topics, not in-depth)
+
+[The Python 3 Standard Library by Example](https://pymotw.com/3/) by Doug Hellmann (free book called Python 3 Module of the Week, good)
+
+[How to Make Mistakes in Python](https://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf) by Mike Pirnat (free book, a short read, but some good general types on avoiding issues, could be outdated)
+
+[The Little Book of Python Anti-Patterns](https://github.com/quantifiedcode/python-anti-patterns) by QuantifiedCode (free book, very useful list of python best practices, particularly useful as a reference to quote during reviews, a bit dated)
+
+[Python Practice Projects](http://pythonpracticeprojects.com/) (free book, interesting projects)
+
+[Modeling Creativity](https://www.clips.uantwerpen.be/sites/default/files/modeling-creativity.pdf) by Tom De Smedt (free book, how to construct computer models that exhibit creativity in an artistic context using Python, easy going, well explained)
+
+[Supporting Python 3: An in-depth guide](http://python3porting.com/) by Lennart Regebro (free book, short )
 
 ###### Advanced
 
-[Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/) by Thomas J. Sargent, John Stachurski (free book, a set of advanced lectures on quantitative economic modeling)
+##### Django
+
+[Tango With Django](https://www.tangowithdjango.com/) by Leif Azzopardi, David Maxwell (free book, a beginner's guide to web development using the popular Python-based web application framework, Django)
+
+[Test-Driven Web Development with Python](https://www.obeythetestinggoat.com/) by Harry Percival (free book, amazing!)
+
+> Here is a nice review on Percival's book: [link](https://www.goodreads.com/review/show/1006390605).
+
+##### Flask
+
+[The New And Improved Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by Miguel Grinberg (free book, amazing tutorial)
+
+##### Kivy
+
+##### Piramid
+
+##### Python for Artificial Intelligence
+
+[Programming Collective Intelligence: Building Smart Web 2.0 Applications
+by Toby Segaran](https://www.goodreads.com/book/show/1741472.Programming_Collective_Intelligence) by Toby Segaran (good but could be outdated)
 
 ##### Python for Data Science
 
-Python for Data Analysis by McKinney
+###### Beginner
 
-Programming Collective Intelligence by Segaran
+[Think Stats](https://greenteapress.com/wp/think-stats-2e/), 2 ed. by Allen B. Downey (free book, an introduction to Probability and Statistics for Python programmers)
+
+[Think Bayes](https://greenteapress.com/wp/think-bayes/) by Allen B. Downey (free book, very good Bayesian introduction, specially because it's light on mathematics and full of practical content)
+
+[Think DSP: Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/) by Allen B. Downey (free book, short, pragmatic)
+
+[Natural Language Processing with Python](https://www.nltk.org/book/) by Steven Bird, Ewan Klein, Edward Loper (free book, excellent intro to both Python programming and NLP, amazing!)
+
+[Programming Computer Vision with Python: Tools and algorithms for analyzing images](http://programmingcomputervision.com/) by Jan Erik Solem (free book, good introduction, outdated because it uses Python 2)
+
+###### Intermediate
+
+[Python Data Science Handbook: Tools and Techniques for Developers](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake Vanderplas (free book, IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and other related tools, amazing!)
+
+[Python for Data Analysis](https://www.goodreads.com/book/show/14744694-python-for-data-analysis) by Wes McKinney (amazing, more like a book about Pandas)
+
+[Scipy Lecture Notes](http://scipy-lectures.org/) by Gaël Varoquaux, Emmanuelle Gouillart, Olav Vahtras, Pierre de Buyl (free book, one document to learn numerics, science, and data with Python)
+
+###### Advanced
+
+[Hadoop with Python](https://www.oreilly.com/learning/hadoop-with-python) by Zachary Radtka, Donald Miner (free book)
+
+[Hands-On Genetic Algorithms with Python: Applying genetic algorithms to solve real-world deep learning and artificial intelligence problems](https://www.goodreads.com/book/show/51055573-hands-on-genetic-algorithms-with-python) by Eyal Wirsansky
+
+##### Python for Desktop
+
+> Here is a good tutorial about GTK 3 and Python: [link](https://python-gtk-3-tutorial.readthedocs.io).
+
+##### Python for Economics
+
+[Python Programming for Economics and Finance](https://python-programming.quantecon.org/) by Thomas J. Sargent, John Stachurski (free book, a set of lectures on Python programming for economics and finance)
+
+[Quantitative Economics with Python](https://python.quantecon.org/) by Thomas J. Sargent, John Stachurski (free book, a set of lectures on quantitative economic modeling)
+
+[Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/) by Thomas J. Sargent, John Stachurski (free book, a set of advanced lectures on quantitative economic modeling)
+
+##### Python for Game Development
+
+[Invent Your Own Computer Games with Python](https://inventwithpython.com/invent4thed) by Al Sweigart (free book, amazing)
+
+[Making Games with Python & Pygame](http://inventwithpython.com/pygame/) by Al Sweigart (free book, fun tour through pygame, nice examples)
+
+##### Python for Natural Science
+
+[Think Complexity: Complexity Science and Computational Modeling](https://greenteapress.com/wp/think-complexity-2e/) by Allen B. Downey (free book, an introduction to complexity science, which includes small world graphs, scale-free networks, cellular automata, fractals and pink noise, self-organized criticality, and agent-based models)
+
+[Modeling and Simulation in Python](https://greenteapress.com/wp/modsimpy/) by Allen B. Downey (free book, an introduction to physical modeling using a computational approach, models of discrete systems, like population growth, first-order systems, like epidemics and thermal systems, and second-order systems, like mechanical systems)
+
+[Python for Biologists: A Complete Programming Course for Beginners](https://www.goodreads.com/book/show/19662056-python-for-biologists)
+by Martin O. Jones (amazing for biologists)
+
+[Practical Computing for Biologists](https://www.goodreads.com/book/show/9658741-practical-computing-for-biologists) by Steven Haddock, Casey Dunn (amazing for biologists)
+
+[Biopython Tutorial and Cookbook](https://github.com/biopython/biopython) by Jeff Chang, Brad Chapman, Iddo Friedberg (free book, the goal of Biopython is to make it as easy as possible to use Python for bioinformatics by creating high-quality, reusable modules and classes)
+
+[Python in Hydrology](http://www.greenteapress.com/pythonhydro/pythonhydro.html) by Sat Kumar Tomer (free book, the book covers the basic applications of hydrology, and also the advanced topic like use of copula)
+
+##### Python for Security
+
+[Cracking Codes with Python: An Introduction to Building and Breaking Ciphers](https://inventwithpython.com/cracking/) by Al Sweigart (free book, amazing)
+
+[Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers](https://www.goodreads.com/book/show/16192263-violent-python) by T.J. O'Connor (great book according to Goodreads, for beginner scripters seeking an intro to some useful python libraries)
+
+> Here is a good review: [link](https://www.goodreads.com/review/show/1188376116).
+
+[Black Hat Python: Python Programming for Hackers and Pentesters](https://www.goodreads.com/book/show/22299369-black-hat-python) by Justin Seitz (good but controversial)
 
 #### Regular expressions
 
@@ -409,7 +541,11 @@ Mastering Regular Expressions by Friedl
 
 #### Rust
 
+> There are many good free books in the official Rust documentation: [link](https://doc.rust-lang.org/stable/).
 
+[Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf) by Jim Blandy (free book, very short and well written book showing the main strengths of Rust)
+
+[Programming Rust: Fast, Safe Systems Development](https://www.goodreads.com/book/show/25550614-programming-rust) by Jim Blandy (outstanding deep coverage of a complex language that is not easy to learn)
 
 #### Style of code 
 
@@ -421,11 +557,10 @@ Clean Code: A Handbook of Agile Software Craftsmanship by Martin
 
 ###### Beginner
 
-
+[A Byte of Vim](https://vim.swaroopch.com/byte-of-vim.pdf) by Swaroop C.H. (free book, good introduction to Vim)
 
 ###### Intermediate
 
+[Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/) by Steve Losh (free book, good according to Goodreads, awesome book to build skills on developing plugins for the Vim text editor)
 
-
-###### Advanced
-
+[Vim Recipes: A Cookbook For The Vim Text Editor](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf) by Dan Marsh (free book)
