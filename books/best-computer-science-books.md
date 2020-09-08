@@ -1,20 +1,22 @@
 # Best Computer Science Books
 
+[TOC]
+
 ## Algorithms and Data Structures
 
 ### Main books
 
-> From the best to just the good.
+Introduction to Algorithms by Cormen, Leiserson, Rivest, Stein
 
-0. Introduction to Algorithms by Cormen, Leiserson, Rivest, Stein
-1. Algorithms: Design Manual by Skiena
-2. Algorithms, 4th ed. by Sedgwick and Wayne
-3. Algorithm Design by Kleinberg and Tardos (best graph explanation)
-4. Programming Pearls, 2nd ed. by Jon Bentley (about the problems that programmers constantly face)
+Algorithms: Design Manual by Skiena
 
-For fun (casual): Grokking Algorithms.
+Algorithms, 4th ed. by Sedgwick and Wayne
 
-### Worth mentioning
+Algorithm Design by Kleinberg and Tardos (best graph explanation)
+
+Programming Pearls, 2nd ed. by Jon Bentley (about the problems that programmers constantly face)
+
+Grokking Algorithms (for fun, casual)
 
 The Design and Analysis of Computer Algorithms by Aho, Hopkroft, Ullman
 
@@ -22,11 +24,7 @@ Algorithms for Interviews by Aziz, Prakash
 
 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) by Brad Miller and David Ranum, Luther College (free book, amazing interactive ebook)
 
-[Algorithms Notes for Professionals](https://books.goalkicker.com/AlgorithmsBook/) (free book)
-
 Code Complete by Steve McConnell
-
-Data Structures and Algorithms in Java, 4th ed. by Goodrich, Tamassia 
 
 Algorithms in a Nutshell by Heineman, Pollice, Selkow
 
@@ -50,9 +48,64 @@ Algorithms+Data Structures by Virt
 
 [Competitive Programmer’s Handbook by Laaksonen](https://cses.fi/book/index.php) (free book)
 
+## Computer Graphics
+
+[Game Programming Patterns](http://gameprogrammingpatterns.com/) - Bob Nystrom (free book)
+
 ## Computer Science
 
 Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb9b39be3221dc02c1b5d0712f9b9f03260e46/ComputerScienceOne.pdf), [2](http://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf), [3](http://cse.unl.edu/~cbourke/ComputerScienceThree.pdf) by Dr. Chris Bourke (free books in process).
+
+## Cryptocurrency
+
+[Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder (PDF)
+
+[Mastering Bitcoin - Unlocking digital currencies](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos
+
+## Data Mining
+
+### Main books
+
+#### Beginner
+
+[A Programmer's Guide to Data Mining: The Ancient Art of the Numerati](http://guidetodatamining.com/) by Ron Zacharski (free book, practical approach with Python)
+
+#### Intermediate
+
+[Mining of Massive Datasets](http://www.mmds.org/) by Anand Rajaraman, Jeffrey D. Ullman (free book, great!)
+
+[School of Data Handbook](http://schoolofdata.org/handbook/) (free book, a supplement for courses)
+
+#### Advanced
+
+[Theory and Applications for Advanced Text Mining](http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining) by Shigeaki Sakurai (free book)
+
+## DevOps
+
+[DevOps: The Ops Perspective](https://www.gitbook.com/book/devopscollective/devops-the-ops-perspective/details) (free book)
+
+[DevOps For Dummies (IBM Edition)](https://devops.com/downloads/devops-dummies-3rd-edition/) by Sanjeev Sharma (free book, explains the basics of devops quite well but reads like an ad for IBM and their products)
+
+[Continuous Testing For Dummies (IBM Edition)](https://www.ibm.com/cloud/devops) by Marianne Hollier
+and Allan Wagner (free book, don't know how is it good)
+
+[Effective DevOps with AWS, Second Edition](https://www.packtpub.com/free-ebooks/effective-devops-aws-second-edition) by Yogesh Raheja, Giuseppe Borgese, Nathaniel Felsen (Packt account *required*)
+
+
+
+## IoT
+
+[Internet of Things in 5 Days](https://github.com/marcozennaro/IPv6-WSN-book/tree/master/Releases) by Antonio Linan Colina, Alvaro Vives, Marco Zennaro, Antoine Bagula, Ermanno Pietrosemoli (free book, mediocre)
+
+[Mastering Internet of Things](https://www.packtpub.com/free-ebooks/mastering-internet-things) by Peter Waher (free book but Packt account *required*, too much emphasis on the author`s proprietary framework and too little on IoT principles, design patterns)
+
+## Licensing
+
+[Creative Commons: a user guide](http://www.aliprandi.org/cc-user-guide/) - Simone Aliprandi
+
+[Open Source Licensing Software Freedom and Intellectual Property Law](http://rosenlaw.com/oslbook/) - Lawrence Rosen
+
+[The Public Domain: Enclosing the Commons of the Mind](http://www.thepublicdomain.org/download/) - James Boyle
 
 ## Linux
 
@@ -78,14 +131,27 @@ Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb
 
 [Linux Firewalls: Enhancing Security with Nftables and Beyond](https://www.goodreads.com/book/show/23020808-linux-firewalls) by Steve Suehring
 
-## Theoretical Computer Science
+## Mathematics
 
-SICP by Abelson:
+## Open Source Ecosystem
 
-- [Official website](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) (free book)
-- [Unofficial ebook version](https://sarabander.github.io/sicp/) (free book)
 
-[Concepts, Techniques, and Models of Computer Programming by Peter Van](https://www.goodreads.com/book/show/772585.Concepts_Techniques_and_Models_of_Computer_Programming) Roy, Seif Haridi (almost like SICP but with additional chapters, there are no many places to buy this book - Amazon and bookdepository is what I found)
+
+## Operating Systems
+
+###### Beginner
+
+[Think OS A Brief Introduction to Operating Systems](https://github.com/AllenDowney/ThinkOS) by Allen B. Downey (free book, short, informative, and seemingly incomplete - without some figures, version 0.7.4)
+
+[The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/) by Allen B. Downey (free book, learn about software synchronization by solving a series of puzzles, easy, amazing!)
+
+###### Intermediate
+
+
+
+###### Advanced
+
+
 
 ## Programming Languages and Technologies
 
@@ -216,6 +282,8 @@ the GNU Manual Group, et al.
 [Developing Web Applications with Haskell and Yesod](https://www.yesodweb.com/book) by Michael Snoyman (free to read online, could be bad according to Goodreads)
 
 #### HTML / CSS
+
+[Dive Into HTML5](http://diveinto.html5doctor.com/) by Mark Pilgrim (free book, [PDF](http://mislav.net/2011/10/dive-into-html5/))
 
 [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/) by Josh Marinacci (free book)
 
@@ -564,3 +632,58 @@ Clean Code: A Handbook of Agile Software Craftsmanship by Martin
 [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/) by Steve Losh (free book, good according to Goodreads, awesome book to build skills on developing plugins for the Vim text editor)
 
 [Vim Recipes: A Cookbook For The Vim Text Editor](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf) by Dan Marsh (free book)
+
+## Raspberry Pi
+
+[Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE/read) - Malcolm Maclean (HTML)
+
+[Raspberry Pi Users Guide - (2012)](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) - Eben Upton (PDF)
+
+[The Official Raspberry Pi Project Book](https://www.raspberrypi.org/magpi-issues/Projects_Book_v1.pdf) (PDF)
+
+## Reverse Engineering
+
+[Hacking the Xbox: An Introduction to Reverse Engineering](https://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang (free book, great!)
+
+[Reverse Engineering for Beginners](http://beginners.re/) - Dennis Yurichev (free book, topics discussed: x86/x64, ARM/ARM64, MIPS, Java/JVM, recommended if you are into hacking, reverse engineering, debugging, and are not afraid from assembler)
+
+[BIOS Disassembly Ninjutsu Uncovered 1st Edition](http://bioshacking.blogspot.co.uk/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html) - Darmawan Salihun (PDF)
+
+## Software Architecture
+
+
+
+## Theoretical Computer Science
+
+SICP by Abelson:
+
+- [Official website](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) (free book)
+- [Unofficial ebook version](https://sarabander.github.io/sicp/) (free book)
+
+[Concepts, Techniques, and Models of Computer Programming](https://www.goodreads.com/book/show/772585.Concepts_Techniques_and_Models_of_Computer_Programming) by Peter Van Roy, Seif Haridi (almost like SICP but with additional chapters, there are no many places to buy this book - Amazon and bookdepository is what I found)
+
+## Web and Networking
+
+### Main books
+
+#### Beginner
+
+[HTTP Succinctly]() by Scott Allen (free book, equipped with the information in this book, you’ll be able to write better web apps and services, and debug them when something goes wrong, good but could be outdated)
+
+[Introduction to HTTP](https://launchschool.com/books/http) by Launch School (free book, this book will help beginners understand how web applications work, and why building robust and secure web applications is so challenging, good book!)
+
+[HTTP2 Explained](http://daniel.haxx.se/http2/) by Daniel Stenberg (free book)
+
+[HTTP3 Explained](https://daniel.haxx.se/http3-explained/) by Daniel Stenberg (free book)
+
+[Understanding IP Addressing: Everything you ever wanted to know](http://pages.di.unipi.it/ricci/501302.pdf) (free book)
+
+#### Intermediate
+
+[High Performance Browser Networking](https://hpbn.co/) by Ilya Grigorik (free book, super detailed look at the elements that go in to browser performance; this isn't about concatenating your JavaScript, it's about latency and what causes it (and how to deal with it), amazing!)
+
+[RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) by Leonard Richardson, Sam Ruby (free book, could be outdated)
+
+[RESTful Web Services Cookbook](https://www.goodreads.com/book/show/7533499-restful-web-services-cookbook) by Subbu Allamaraju (100 recipes to help you take advantage of REST, HTTP, and the infrastructure of the Web)
+
+[Distributed Systems For Fun and Profit](http://book.mixu.net/distsys/single-page.html) by Mikito Takada (free book, manages to pack an enormous amount of information about core distributed system concepts, offers concise and clear explanations and, even more importantly, links and references to many important works and papers on distributed systems,amazing!)
