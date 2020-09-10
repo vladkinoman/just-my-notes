@@ -140,8 +140,6 @@ Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb
 
 [Database Fundamentals](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) by Neeraj Sharma, Liviu Perniu, Raul F. Chong, Abhishek Iyer, Chaitali Nandan, Adi-Cristina Mitea, Mallarswami Nonvinkere, Mirela Danubianu (free book for the community by community)
 
-[Database Explorations: Essays on the Third Manifesto and Related Topics](http://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf) by C.J. Date, Hugh Darwen (free book)
-
 [Databases, Types, and The Relational Model: The Third Manifesto](http://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf) by C.J. Date (free book)
 
 [Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design](https://www.goodreads.com/book/show/150062.Database_Design_for_Mere_Mortals) by Michael J. Hernandez (good)
@@ -149,6 +147,8 @@ Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb
 #### Intermediate
 
 [Foundations of Databases](http://webdam.inria.fr/Alice/)  by Richard G. Hull, Serge Abiteboul (free book; great!)
+
+[Database Explorations: Essays on the Third Manifesto and Related Topics](http://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf) by C.J. Date, Hugh Darwen (free book)
 
 [Readings in Database Systems, 5th Ed.](http://www.redbook.io/) by Joseph M. Hellerstein, Michael Stonebraker (free book; a relatively quick read of a collection of commentaries about foundational and state of the art papers on database design and problems; perfect!)
 
@@ -223,7 +223,23 @@ and Allan Wagner (free book; don't know how is it good)
 
 [Linux Firewalls: Enhancing Security with Nftables and Beyond](https://www.goodreads.com/book/show/23020808-linux-firewalls) by Steve Suehring
 
-## ***Mathematics***
+## Mathematics
+
+### Graph Theory
+
+[Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/) (free book; introduction)
+
+### Number Theory
+
+[An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) by Leo Moser (free book)
+
+[Number Theory](https://github.com/holdenlee/number-theory) by Holden Lee (free book; more in-depth approach)
+
+### Proofs
+
+[Introduction to Proofs](http://joshua.smcvt.edu/proofs/) by Jim Hefferon (free book)
+
+[Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/) by Richard Hammack (free book; it is an introduction to the standard methods of proving mathematical theorems; amazing!)
 
 ## ***Open Source Ecosystem***
 
@@ -767,6 +783,8 @@ SICP by Abelson:
 - [Unofficial ebook version](https://sarabander.github.io/sicp/) (free book)
 
 [Concepts, Techniques, and Models of Computer Programming](https://www.goodreads.com/book/show/772585.Concepts_Techniques_and_Models_of_Computer_Programming) by Peter Van Roy, Seif Haridi (almost like SICP but with additional chapters; there are no many places to buy this book - Amazon and Bookdepository is what I found)
+
+[Introduction to Theory of Computation](http://cglab.ca/~michiel/TheoryOfComputation/) - Anil Maheshwari and Michiel Smid (PDF)
 
 ## Web and Networking
 
