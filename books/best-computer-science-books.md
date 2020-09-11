@@ -225,15 +225,65 @@ and Allan Wagner (free book; don't know how is it good)
 
 ## Mathematics
 
+### Algebra
+
+[Abstract Algebra: Theory and Applications](http://abstract.ups.edu/) by Thomas W. Judson (free book; good)
+
+[Advanced Algebra](http://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) by Anthony W. Knapp (free book) 
+
+[Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) (free book)
+
+### Applied Math
+
+[Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html) by Alan B. Downey (free book)
+
+### Geometry
+
+[Plane Geometry (1913)](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) by George Wentworth and David Eugene Smith
+
+[Analytic Geometry (1922)](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) by Lewis Parker Siceloff, George Wentworth, David Eugene Smith (free book; it is Coordinate Geometry in a Plane; the information in this book is what I learned during the Algebra class)
+
+[Coordinate Geometry (1911)](http://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf) by Henry Buchard Fine and Henry Dallas Thompson (free book; Coordinate Geometry in a Plane and Coordinate Geometry in Space)
+
+[Shape Interrogation For Computer Aided Design And Manufacturing (Mathematics And Visualization)](http://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/) by Nicholas M. Patrikalakis, Takashi Maekawa, Wonjoon Cho (free book; a book about Computational Geometry)
+
+> Shape interrogation is the process of extraction of information from a geometric model. It is a fundamental component of Computer Aided Design and Manufacturing (CAD/CAM) systems. This book provides a bridge between the areas geometric modeling and solid modeling
+
 ### Graph Theory
 
 [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/) (free book; introduction)
+
+[Category Theory for the Sciences](https://mitpress.ublish.com/ereader/77/?preview#page/Cover) by David I. Spivak (free book; it includes elements of graph theory in its axioms and can have even wider applications; this book is made for scientists so it is not as heavy on the proofs but more oriented for applications)
+
+### Mathematical Analysis
+
+[Complex Analysis](https://people.math.gatech.edu/~cain/winter99/complex.html) by George Cain (free book)
+
+[Calculus](http://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf) by Gilbert Strang (free book; good!)
+
+[Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) by Silvanus P. Thompson (free book; amazing!)
 
 ### Number Theory
 
 [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) by Leo Moser (free book)
 
 [Number Theory](https://github.com/holdenlee/number-theory) by Holden Lee (free book; more in-depth approach)
+
+### Probability and Statistics
+
+[Collaborative Statistics](http://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9) by Barbara Illowsky and Susan Dean (free book; a textbook for learners of elementary statistics; this book contains theory, practice problems, labs, and projects)
+
+[Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) by Cameron Davidson-Pilon (free book; great!)
+
+[CK-12 Probability and Statistics - Advanced](http://www.ck12.org/book/Probability-and-Statistics---Advanced-%28Second-Edition%29/) (free book)
+
+[Computational and Inferential Thinking. The Foundations of Data Science](https://www.inferentialthinking.com/) by Ani Adhikari, John DeNiro (free book; it teaches you python from scratch , which is relevant to data science)
+
+[Concepts & Applications of Inferential Statistics](http://vassarstats.net/textbook/) by (free book)
+
+[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook) - Stephen Boyd and Lieven Vandenberghe
+
+
 
 ### Proofs
 
@@ -784,7 +834,9 @@ SICP by Abelson:
 
 [Concepts, Techniques, and Models of Computer Programming](https://www.goodreads.com/book/show/772585.Concepts_Techniques_and_Models_of_Computer_Programming) by Peter Van Roy, Seif Haridi (almost like SICP but with additional chapters; there are no many places to buy this book - Amazon and Bookdepository is what I found)
 
-[Introduction to Theory of Computation](http://cglab.ca/~michiel/TheoryOfComputation/) - Anil Maheshwari and Michiel Smid (PDF)
+[Introduction to Theory of Computation](http://cglab.ca/~michiel/TheoryOfComputation/) - Anil Maheshwari and Michiel Smid (free book)
+
+[Theory of Computation, Making Connections](http://joshua.smcvt.edu/computation/) by Jim Hefferon (free book)
 
 ## Web and Networking
 
