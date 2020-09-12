@@ -223,6 +223,38 @@ and Allan Wagner (free book; don't know how is it good)
 
 [Linux Firewalls: Enhancing Security with Nftables and Beyond](https://www.goodreads.com/book/show/23020808-linux-firewalls) by Steve Suehring
 
+## Machine Learning
+
+[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (free book; amazing, one of the best!)
+
+[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman (free book; amazing!)
+
+[Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) by Garrett Thomas (free book; short)
+
+[Foundations of Machine Learning, Second Edition](https://mitpress.ublish.com/ereader/7093/?preview=#page/Cover) by Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar (free book; good)
+
+[Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) by David Barber (free bool; comprehensive and coherent, it develops everything from basic reasoning to advanced techniques within the framework of graphical models; good!)
+
+[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard S. Sutton, Andrew G. Barto (free book; good!)
+
+[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar (free book; a guide for making Black Box models explainable; good)
+
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen (free book; good!)
+
+[Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville (free book; amazing!)
+
+[Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf) by Eli Stevens, Luca Antiga, Thomas Viehmann (free book; good!)
+
+[Learn Tensorflow](https://bitbucket.org/hrojas/learn-tensorflow) by Hernan Rojas (free book)
+
+[Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) by Carl Edward Rasmussen, Christopher K.I. Williams (free book; a meh... book - Gaussian processes are essentially understanding, the conditional and marginal densities of a normal distribution, felt it was badly written;good)
+
+[Machine Learning for Data Streams](https://moa.cms.waikato.ac.nz/book-html/) by Albert Bifet, Ricard Gavaldà, Geoff Holmes, Bernhard Pfahringer (free book)
+
+[Speech and Language Processing (3rd Edition Draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) - Daniel Jurafsky, James H. Martin (free book; good!)
+
+[The LION Way: Machine Learning plus Intelligent Optimization](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) - Roberto Battiti, Mauro Brunato (free book; learning and Intelligent Optimization (LION) is the combination of learning from data and optimization applied to solve complex and dynamic problems; the LION way is about increasing the automation level and connecting data directly to decisions and actions)
+
 ## Mathematics
 
 ### Algebra
@@ -236,6 +268,8 @@ and Allan Wagner (free book; don't know how is it good)
 [Linear Algebra](http://joshua.smcvt.edu/linearalgebra) by Jim Hefferon (free book; good)
 
 ### Applied Math
+
+[The Nature of Code: Simulating Natural Systems with Processing](http://natureofcode.com/book/) (free book; this book focuses on a range of programming strategies and techniques behind computer simulations of natural systems, from elementary concepts in mathematics and physics to more advanced algorithms that enable sophisticated visual results; readers will progress from building a basic physics engine to creating intelligent moving objects and complex systems, setting the foundation for further experiments in generative design; subjects covered include forces, trigonometry, fractals, cellular automata, self-organization, and genetic algorithms ;amazing!)
 
 [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html) by Alan B. Downey (free book)
 
