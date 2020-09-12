@@ -231,11 +231,29 @@ and Allan Wagner (free book; don't know how is it good)
 
 [Advanced Algebra](http://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) by Anthony W. Knapp (free book) 
 
-[Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) (free book)
+[Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) (free book; comprehensive)
+
+[Linear Algebra](http://joshua.smcvt.edu/linearalgebra) by Jim Hefferon (free book; good)
 
 ### Applied Math
 
 [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html) by Alan B. Downey (free book)
+
+[Power Programming with Mathematica](http://mathematica.stackexchange.com/questions/16485/are-you-interested-in-purchasing-david-wagners-power-programming-with-mathemat/22724) by David B. Wagner (free book)
+
+[Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) by H. E. Licks (free book)
+
+[Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf) by Brendan Fong and David I. Spivak (free book)
+
+[Convex Optimization](https://web.stanford.edu/~boyd/cvxbook) by Stephen Boyd and Lieven Vandenberghe (free book)
+
+### Combinatorics
+
+[Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/) (free book; introduction)
+
+[Category Theory for the Sciences](https://mitpress.ublish.com/ereader/77/?preview#page/Cover) by David I. Spivak (free book; it includes elements of graph theory in its axioms and can have even wider applications; this book is made for scientists so it is not as heavy on the proofs but more oriented for applications)
+
+[Magic Squares and Cubes (1917)](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) by W. S. Anderson (free book; good!)
 
 ### Geometry
 
@@ -249,12 +267,6 @@ and Allan Wagner (free book; don't know how is it good)
 
 > Shape interrogation is the process of extraction of information from a geometric model. It is a fundamental component of Computer Aided Design and Manufacturing (CAD/CAM) systems. This book provides a bridge between the areas geometric modeling and solid modeling
 
-### Graph Theory
-
-[Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/) (free book; introduction)
-
-[Category Theory for the Sciences](https://mitpress.ublish.com/ereader/77/?preview#page/Cover) by David I. Spivak (free book; it includes elements of graph theory in its axioms and can have even wider applications; this book is made for scientists so it is not as heavy on the proofs but more oriented for applications)
-
 ### Mathematical Analysis
 
 [Complex Analysis](https://people.math.gatech.edu/~cain/winter99/complex.html) by George Cain (free book)
@@ -263,19 +275,47 @@ and Allan Wagner (free book; don't know how is it good)
 
 [Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) by Silvanus P. Thompson (free book; amazing!)
 
+[Differential Equations (1922)](http://djm.cc/library/Differential_Equations_Phillips_edited.pdf) by H. B. Phillips (free book)
+
+[Multivariable Calculus](https://people.math.gatech.edu/~cain/notes/calculus.html) by George Cain and James Herod (free book)
+
 ### Number Theory
 
 [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) by Leo Moser (free book)
 
 [Number Theory](https://github.com/holdenlee/number-theory) by Holden Lee (free book; more in-depth approach)
 
+### Optimization
+
+[Essentials of Metaheuristics](http://cs.gmu.edu/~sean/book/metaheuristics/) by Sean Luke (free book; good!)
+
+[Knapsack Problems - Algorithms and Computer Implementations](http://www.or.deis.unibo.it/knapsack.html) by Silvano Martello and Paolo Toth (free book; a state of art examination on exact and approximate algorithms for a number of important NP-hard problems in the field of integer linear programming, which the authors refer to as knapsack;good)
+
 ### Probability and Statistics
+
+[Probability and Statistics Cookbook](http://statistics.zone/) (free book; a succinct representation of various topics in probability theory and statistics; it provides a comprehensive mathematical reference reduced to its essence, rather than aiming for elaborate explanations; looks fantastic!)
+
+[Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) by Jonathan Weisberg (free book; this textbook is for introductory philosophy courses on probability and inductive logic; good)
+
+[Statistical Thinking for the 21st Century](https://statsthinking21.org/) by Russell A. Poldrack (free book;  a systematic way of thinking about how we describe the world and use data make decisions and predictions, all in the context of the inherent uncertainty that exists in the real world)
+
+[Think Stats](https://greenteapress.com/wp/think-stats-2e/), 2 ed. by Allen B. Downey (free book; an introduction to Probability and Statistics for Python programmers)
+
+[Think Bayes](https://greenteapress.com/wp/think-bayes/) by Allen B. Downey (free book; very good Bayesian introduction, specially because it's light on mathematics and full of practical content)
+
+[Statistics Done Wrong](http://www.statisticsdonewrong.com/) by Alex Reinhart (free book; "Statistics Done Wrong" comes to the rescue with cautionary tales of all-too-common statistical fallacies; it'll help you see where and why researchers often go wrong and teach you the best practices for avoiding their mistakes; amazing!)
 
 [Collaborative Statistics](http://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9) by Barbara Illowsky and Susan Dean (free book; a textbook for learners of elementary statistics; this book contains theory, practice problems, labs, and projects)
 
 [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) by Cameron Davidson-Pilon (free book; great!)
 
-[CK-12 Probability and Statistics - Advanced](http://www.ck12.org/book/Probability-and-Statistics---Advanced-%28Second-Edition%29/) (free book)
+[Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) (free book)
+
+[Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) by Charles M. Grinstead and J. Laurie Snell (free book; good)
+
+[Introduction to Statistical Thought](http://people.math.umass.edu/~lavine/Book/book.html) by Michael Lavine (free book)
+
+[Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) by Yuen-Kwok Chan (free book)
 
 [Computational and Inferential Thinking. The Foundations of Data Science](https://www.inferentialthinking.com/) by Ani Adhikari, John DeNiro (free book; it teaches you python from scratch , which is relevant to data science)
 
@@ -283,7 +323,7 @@ and Allan Wagner (free book; don't know how is it good)
 
 [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook) - Stephen Boyd and Lieven Vandenberghe
 
-
+[Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb) by Susan Holmes and Wolfgang Huber (free book; great)
 
 ### Proofs
 
@@ -291,9 +331,29 @@ and Allan Wagner (free book; don't know how is it good)
 
 [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/) by Richard Hammack (free book; it is an introduction to the standard methods of proving mathematical theorems; amazing!)
 
-## ***Open Source Ecosystem***
+## Open Source Ecosystem
 
+[Free as in Freedom: Richard Stallman and the free software revolution](https://archive.org/details/faif-2.0) by Sam Williams (free book)
 
+[Free Software, Free Society: Selected Essays of Richard M. Stallman](http://shop.fsf.org/product/free-software-free-society-2/) (free book)
+
+[Free for All](https://unglue.it/work/136445/) by Peter Wayner (free book; how a loose-knit group of programmers, dreamers, philosophers, geniuses and fools discovered the fact that that they could write better software in less time by just giving it all away; follow the ecstasy, the triumphs, the battles, the failures, the treachery, the cooperation, the wrong turns, the teamwork, the struggles, and the backbiting on the road to triumph and total global domination)
+
+[Getting started with Open source development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf)  (free book)
+
+[How to get started with open source](https://opensource.com/resources/ebook/how-get-started-open-source) (free book)
+
+[Open Advice: FOSS: What We Wish We Had Known When We Started](http://open-advice.org/) (free book)
+
+[The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](http://www.aosabook.org/en/index.html) (free book; looks interesting)
+
+[theopensourceway guidebook](https://github.com/theopensourceway/guidebook) (free book; unfinished)
+
+[The Art of Community](http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf) by Jono Bacon (free book)
+
+[Open source in Brazil](https://www.oreilly.com/ideas/open-source-in-brazil) by Andy Oram (more like an article)
+
+[Data Journalism Handbook](http://datajournalismhandbook.org/) (free book)
 
 ## Operating Systems
 
@@ -795,13 +855,21 @@ Clean Code: A Handbook of Agile Software Craftsmanship by Martin
 
 [Vim Recipes: A Cookbook For The Vim Text Editor](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf) by Dan Marsh (free book)
 
-## ***Raspberry Pi***
+## Raspberry Pi
 
-[Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE/read) by Malcolm Maclean (free book)
+[Raspberry Pi: QuickStart v1](https://www.raspberrypi.org/magpi-issues/QuickStart_v1.pdf) (free book)
+
+[Raspberry Pi: Beginners Book v1](Beginners_Book_v1.pdf) (free book)
+
+[Raspberry Pi: Beginners Guide v2](https://www.raspberrypi.org/magpi-issues/Beginners_Guide_v2.pdf) (free book)
 
 [Raspberry Pi Users Guide - (2012)](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) by Eben Upton (free book)
 
+[Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE/read) by Malcolm Maclean (free book)
+
 [The Official Raspberry Pi Project Book](https://www.raspberrypi.org/magpi-issues/Projects_Book_v1.pdf) (free book)
+
+[RPi_GUI-Programming_DIGITAL.pdf](https://www.raspberrypi.org/magpi-issues/RPi_GUI-Programming_DIGITAL.pdf) (free book; this book is for beginners; there is an introduction to GTK - Chapter 13)
 
 ## Reverse Engineering
 
