@@ -68,7 +68,9 @@
 
 [Jewels of Stringology: Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) by Maxime Crochemore, Wojciech Rytter (free book; I think this is the old version)
 
-[The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/confirmation/kademlia_protocol_succinctly) Marc Clifton (free book; with its novel XOR-based metric topology, Kademlia is the first peer-to-peer system to combine provable consistency and performance, latency-minimizing routing, and a symmetric, unidirectional topology; on The Kademlia Protocol Succinctly, author Marc Clifton leads readers through the positive aspects of Kademlia’s decentralized specifications.)
+[The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/confirmation/kademlia_protocol_succinctly) Marc Clifton (free book; with its novel XOR-based metric topology, Kademlia is the first peer-to-peer system to combine provable consistency and performance, latency-minimizing routing, and a symmetric, unidirectional topology; on The Kademlia Protocol Succinctly, author Marc Clifton leads readers through the positive aspects of Kademlia’s decentralized specifications)
+
+[Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) by Tony Hoare (free book; an ALGEBRA for thinking about concurrency and nondeterminism in programs; the foundation of modern designs for communicating between threads; good!) 
 
 ## Cellular Automata
 
@@ -83,6 +85,32 @@
 ## Competitive Programming
 
 [Competitive Programmer’s Handbook by Laaksonen](https://cses.fi/book/index.php) (free book)
+
+## Computer Science
+
+Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb9b39be3221dc02c1b5d0712f9b9f03260e46/ComputerScienceOne.pdf), [2](http://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf), [3](http://cse.unl.edu/~cbourke/ComputerScienceThree.pdf) by Dr. Chris Bourke (free books *in process*)
+
+[A Mathematical Theory of Communication](https://archive.org/details/bstj27-4-623) by Claude E.Shannon (free book)
+
+[Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/) Michiel Smid (free book)
+
+[Philosophy of Computer Science](http://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) by William J. Rapaport (free book; rhe book also introduces Computer Ethics and the Philosophy of Artificial Intelligence; about)
+
+[Culture and Empire: Digital Revolution](https://web.archive.org/web/20160705073503/https://www.gitbook.com/download/pdf/book/hintjens/culture-empire) by by Pieter Hintjens (free book; each chapter has an overarching theme, but the author jumps from thought to thought within them in a somewhat bewildering way at points; overall, it gathers a lot of troubling pieces together to form an incredibly dark view of present surveillance society; good)
+
+[How to Become a Programmer](http://softwarebyrob.wpengine.netdna-cdn.com/assets/Software_by_Rob _How_to_Become_a _Programmer_1.0.pdf) by Rob Walling (free book; short and good)
+
+[Foundations of Programming](http://openmymind.net/FoundationsOfProgramming.pdf) by Karl Seguin (free book; it is a good and easy read for all levels of programming; beginners might learn about the foundations of the stuff they take for granted, like heap/stack, while more advanced developers can start thinking about structured ways of doing work, like DDD and automated unit testing; neither chapter is a complete new revelation, but taken together, they do present a clear picture of programming from Karl Seguin's perspective and can surprise you on matters you thought you had complete control over)
+
+[Principles of Computer System Design](http://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/part_ii_open_5_0.pdf) (free book; a good introduction to computer system: a great overview of all about a computer starting from file system and operating system to network; it is a useful book for a first sight to computer system even though is to much generic in explaining some particular; too verbose)
+
+## Containers
+
+[Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) by Andrew Odewahn
+
+[Docker Cookbook, Second Edition](https://www.packtpub.com/free-ebooks/docker-cookbook-second-edition) by Ken Cochrane, Jeeva S. Chelladhurai, Neependra K Khare (Packt account *required*; pragmatic and helpful; system agnostic; there are well defined examples later in the book)
+
+[Kubernetes Cookbook, Second Edition](https://www.packtpub.com/free-ebooks/kubernetes-cookbook-second-edition) - Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu (Packt account *required*; how to automate and manage your Linux containers and improve the overall performance of your system; pretty beginner level introduction; could be outdated)
 
 ## Graphics Programming
 
@@ -108,21 +136,7 @@
 
 [WebGL Insights](http://webglinsights.com/) by Patrick Cozzi and Contributors (free book; it shares experience-backed lessons learned by the WebGL community)
 
-## Computer Science
-
-Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb9b39be3221dc02c1b5d0712f9b9f03260e46/ComputerScienceOne.pdf), [2](http://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf), [3](http://cse.unl.edu/~cbourke/ComputerScienceThree.pdf) by Dr. Chris Bourke (free books *in process*)
-
-[A Mathematical Theory of Communication](https://archive.org/details/bstj27-4-623) by Claude E.Shannon (free book)
-
-[Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/) Michiel Smid (free book)
-
-## Containers
-
-[Docker Jumpstart](http://odewahn.github.io/docker-jumpstart/) by Andrew Odewahn
-
-[Docker Cookbook, Second Edition](https://www.packtpub.com/free-ebooks/docker-cookbook-second-edition) by Ken Cochrane, Jeeva S. Chelladhurai, Neependra K Khare (Packt account *required*; pragmatic and helpful; system agnostic; there are well defined examples later in the book)
-
-[Kubernetes Cookbook, Second Edition](https://www.packtpub.com/free-ebooks/kubernetes-cookbook-second-edition) - Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu (Packt account *required*; how to automate and manage your Linux containers and improve the overall performance of your system; pretty beginner level introduction; could be outdated)
+[Procedural Content Generation in Games](http://pcgbook.com/) by Noor Shaker, Julian Togelius, Mark Nelson (free book; a great entry point to procedural content generation; good!)
 
 ## Cryptocurrency
 
@@ -186,6 +200,8 @@ and Allan Wagner (free book; don't know how is it good)
 ## Graphical User Interface
 
 [The GLib/GTK+ Development Platform](https://people.gnome.org/~swilmet/glib-gtk-dev-platform.pdf) by Sébastien Wilmet (free book *in progress*; short)
+
+[Designing Interfaces: Patterns for Effective Interaction Design]() by by Jenifer Tidwell (free book; the book is basically an encyclopedia of UI design patterns, or maybe "mini patterns"; good)
 
 ## IoT
 
@@ -913,19 +929,64 @@ Clean Code: A Handbook of Agile Software Craftsmanship by Martin
 
 [BIOS Disassembly Ninjutsu Uncovered 1st Edition](http://bioshacking.blogspot.co.uk/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html) by Darmawan Salihun (free book)
 
-## ***Security***
+## Security
 
+[Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) by Ross J. Anderson (free book; an impressive technical book that looks at security in all its forms (physical, computer based, social) and shows you the various ways security can be implemented and compromised; whether you are interested in general security or only in one aspect of security, this is a good book to read, and after reading it, you will get a very good idea of how hard it actually is to make a system secure and why you must hire very capable people to do it and to avoid 'snake-oil' security implementations; good!)
 
+[Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html) (free book; a good book for self learning and also class study; the concepts are very well explained; good!)
 
-## ***Software Engineering***
+[A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/) by Dan Boneh, Victor Shoup (free book; uncompleted)
 
-Code Complete2 by McConnell; 
+[CryptoParty Handbook](https://unglue.it/work/141611/) by Adam Hyde, Marta Peirano, Asher Wolf, Julian Oliver, etc. (free book; CryptoParty is a decentralized, global initiative to introduce the most basic cryptography software and the fundamental concepts of their operation to the general public, such as the Tor anonymity network, public key encryption (PGP/GPG), and OTR (Off The Record messaging); a practical guide (emails, vpns, etc.))
 
-Design Patterns by Erich Gamma et al; 
+[How to deal with Passwords](https://github.com/MHM5000/pass) (free book; github repository with advice)
 
-Pragmatic Programmer, by Hunt and Thomas; 
+[OWASP Testing Guide 4.0](https://www.owasp.org/images/1/19/OTGv4.pdf) by Matteo Meucci (free book)
 
-Patterns of Enterprise Application Architecture by Martin Fowler
+## Software Architecture
+
+[Code Complete 2](https://www.goodreads.com/book/show/22006920-code-complete-2nd-second-edition-text-only) by Steve McConnell (the book provides guidelines and hints about how to write your code and why; amazing!; you must read this!)
+
+[Design Patterns](https://www.goodreads.com/book/show/85009.Design_Patterns) by Erich Gamma et al (amazing!; you must read this!)
+
+[Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) by Andy Hunt, Dave Thomas (the book is good for new programmers; amazing!; you must read this!)
+
+[Patterns of Enterprise Application Architecture](https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture) by Martin Fowler, David Rice, Matthew Foemmel, Edward Hieatt, Robert Mee, Randy Stafford (could be outdated; relational databases still play a large role in many enterprise applications, but this material either predates or ignores other types of storage like distributed file systems (e.g., HDFS) and key-value storage (e.g., Redis); and with so many web applications using cloud services, horizontal scaling is practically a must for anything serious; this is a book you might want on your shelf because people may occasionally mention some of the patterns it describes (such as Active Record and Unit of Work; also, many of the patterns in the general section at the end of the book are quite good); amazing!)
+
+[Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) by Launch School (free book)
+
+[Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) by Roy Thomas Fielding (free book; this paper describes, among other things, the principles behind REST, the architecture of the World Wide Web; the academic jargon was pretty frustrating; good)
+
+[Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly) by Floyd Marinescu (free book; it is an easy to read summary that explains the main points of Domain-Driven Design; without the repetition and only small but meaningful examples you can get up to speed in no time and start exploring the topic on your own with real code; if you made your own experiences and like to go a bit deeper in certain points you still can go for the book of Eric Evans; good)
+
+[DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org/) by Markus Voelter (free book; this book is about creating domain-specific languages; it covers three main aspects: DSL design, DSL implementation and software engineering with DSLs; the book only looks at external DSLs and focuses mainly on textual syn-
+tax; good!)
+
+[How to Design Programs](http://www.htdp.org/) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi (free book; unlike other introductory books, it focuses on the program design process; this approach fosters a variety of skills--critical reading, analytical thinking, creative synthesis, and attention to detail--that are important for everyone, not just future computer programmers; a true gem if you are learning to program, but a bit too slow-paced if you already are a proficient programmer; good!)
+
+[Kanban and Scrum - making the most of both](http://www.infoq.com/minibooks/kanban-scrum-minibook) by by Henrik Kniberg, Mattias Skarin (free book; a short and colloquial introduction to Kanban, and/but mostly by comparing it to Scrump; if you're considering switching your shop to "Agile" methods, and/or are dissatisfied with the more traditional (!?!?) Scrum: give this a read;good!)
+
+[Microservices AntiPatterns and Pitfalls](https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf) by Mark Richards (free book; not a book per se, but a paper about the tendencies that lead to microservices to fail; good!)
+
+[Microservices vs. Service-Oriented Architecture](https://www.oreilly.com/programming/free/files/microservices-vs-service-oriented-architecture.pdf) by Mark Richards (free book; good!)
+
+[Migrating to Cloud-Native Application Architectures](https://www.nginx.com/resources/library/cloud-native-applications/#download) by Matt Stine (free book; there are not much "cookbook" portion, the rest is all quite useful, content-rich, and clearly written; good!)
+
+[Migrating to Microservice Databases](https://developers.redhat.com/books/migrating-microservice-databases-relational-monolith-distributed-data) by Edson Yanaga (free book; short book reviewing different approaches to binding microservices to databases, including questions of evolving schemas, multiple versions, etc; not so much new for experienced architect, but could be useful for people who worked mostly with "legacy" architectures)
+
+[Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) by S. Demeyer, S. Ducasse and O. Nierstrasz (free book; refactoring Legacy code is as important as the subject is dry, therefore not well considered. This is the subject of this book where a 9 step process is proposed; each step, embedded in a chapter, take the shape of a pattern language; because that's it: a patterns book; unfortunately, the angle doesn't catch us even if this choice is a good one for the subject; good)
+
+[Patterns Principles and Practices of Domain Driven Design](https://www.goodreads.com/book/show/25531393-patterns-principles-and-practices-of-domain-driven-design) by Scott Millett (this book distils the ideas and theories of the Domain-Driven Design (DDD) philosophy into a practical play-book that you can leverage to simplify application development for complex problem domains; good!)
+
+[Reactive Microsystems: The Evolution of Microservices at Scale](https://www.lightbend.com/ebooks/reactive-microsystems-evolution-of-microservices-scalability-oreilly) by by Jonas Bonér (free book; good!)
+
+[Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2) (free book; this book aims to give you a head start by providing a detailed down-to-earth account of how one Swedish company implemented Scrum and XP with a team of approximately 40 people and how they continuously improved their process over a year's time; amazing!)
+
+[Serverless apps: Architecture, patterns, and Azure implementation](https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/) by Jeremy Likness (free book)
+
+[Serverless Design Patterns and Best Practices](https://www.packtpub.com/free-ebooks/serverless-design-patterns-and-best-practices) by Brian Zambrano (Packt account required; get started with designing your serverless application using optimum design patterns and industry standard practices)
+
+[Site Reliability Engineering](https://landing.google.com/sre/book/index.html) by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy (free book; amazing)
 
 ## Theoretical Computer Science
 
