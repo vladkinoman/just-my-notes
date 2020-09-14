@@ -241,6 +241,8 @@ and Allan Wagner (free book; don't know how is it good)
 
 ## Machine Learning
 
+### Introduction to ML
+
 [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (free book; amazing, one of the best!)
 
 [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman (free book; amazing!)
@@ -251,9 +253,19 @@ and Allan Wagner (free book; don't know how is it good)
 
 [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) by David Barber (free bool; comprehensive and coherent, it develops everything from basic reasoning to advanced techniques within the framework of graphical models; good!)
 
-[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard S. Sutton, Andrew G. Barto (free book; good!)
+### Advanced ML
 
 [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar (free book; a guide for making Black Box models explainable; good)
+
+[Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) by Carl Edward Rasmussen, Christopher K.I. Williams (free book; a meh... book - Gaussian processes are essentially understanding, the conditional and marginal densities of a normal distribution, felt it was badly written;good)
+
+[Machine Learning for Data Streams](https://moa.cms.waikato.ac.nz/book-html/) by Albert Bifet, Ricard Gavaldà, Geoff Holmes, Bernhard Pfahringer (free book)
+
+[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/bookdraft2017nov5.pdf) by Richard S. Sutton, Andrew G. Barto (free book; good!)
+
+[The LION Way: Machine Learning plus Intelligent Optimization](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) - Roberto Battiti, Mauro Brunato (free book; learning and Intelligent Optimization (LION) is the combination of learning from data and optimization applied to solve complex and dynamic problems; the LION way is about increasing the automation level and connecting data directly to decisions and actions)
+
+### Deep Learning
 
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen (free book; good!)
 
@@ -261,15 +273,13 @@ and Allan Wagner (free book; don't know how is it good)
 
 [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf) by Eli Stevens, Luca Antiga, Thomas Viehmann (free book; good!)
 
-[Learn Tensorflow](https://bitbucket.org/hrojas/learn-tensorflow) by Hernan Rojas (free book)
-
-[Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) by Carl Edward Rasmussen, Christopher K.I. Williams (free book; a meh... book - Gaussian processes are essentially understanding, the conditional and marginal densities of a normal distribution, felt it was badly written;good)
-
-[Machine Learning for Data Streams](https://moa.cms.waikato.ac.nz/book-html/) by Albert Bifet, Ricard Gavaldà, Geoff Holmes, Bernhard Pfahringer (free book)
+### Natural Language Processing
 
 [Speech and Language Processing (3rd Edition Draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) - Daniel Jurafsky, James H. Martin (free book; good!)
 
-[The LION Way: Machine Learning plus Intelligent Optimization](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) - Roberto Battiti, Mauro Brunato (free book; learning and Intelligent Optimization (LION) is the combination of learning from data and optimization applied to solve complex and dynamic problems; the LION way is about increasing the automation level and connecting data directly to decisions and actions)
+### Tools
+
+[Learn Tensorflow](https://bitbucket.org/hrojas/learn-tensorflow) by Hernan Rojas (free book)
 
 ## Mathematics
 
@@ -411,23 +421,65 @@ and Allan Wagner (free book; don't know how is it good)
 
 [Think OS A Brief Introduction to Operating Systems](https://github.com/AllenDowney/ThinkOS) by Allen B. Downey (free book; short; informative; and seemingly incomplete - without some figures, version 0.7.4)
 
-[The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/) by Allen B. Downey (free book; learn about software synchronization by solving a series of puzzles; easy; amazing!)
+[The little book about OS development](http://littleosbook.github.io/) by Erik Helin, Adam Renberg (free book; good)
+
+[How to write a simple operating system in assembly language](http://mikeos.sourceforge.net/write-your-own-os.html) by Mike Saunders  (free book)
+
+[Writing a Simple Operating System from Scratch](http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) by Nick Blundell (free book)
+
+[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (free book)
 
 ###### Intermediate
 
+[The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/) by Allen B. Downey (free book; learn about software synchronization by solving a series of puzzles; easy; amazing!)
 
+[Project Oberon: The Design of an Operating System, a Compiler, and a Computer](http://people.inf.ethz.ch/wirth/ProjectOberon/index.html) by Niklaus Wirth & Jürg Gutknecht (free book)
+
+[Practical File System Design: The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) by Dominic Giampaolo (free book)
 
 ###### Advanced
 
+[The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/) by Eric S. Raymond (free book)
 
+[Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) by Max Hailperin (free book)
 
-## Programming Languages and Technologies
+[Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2012/xv6.html) 
 
 #### C
 
 ##### Main books
 
+###### Beginner
+
 The C Programming Language, 2nd ed. by Kernighan, Ritchie (my very first book on programming, which I read completely :black_heart:)
+
+[Essential C]() by Nick Parlante (free book; short review of all the important C programming concepts for beginners)
+
+[Everything you need to know about pointers in C](http://boredzo.org/pointers/) by Peter Hosey (free book)
+
+[Build Your Own Lisp](http://www.buildyourownlisp.com/) by Daniel Holden (free book; if you’ve ever wondered how to build your own programming language or wanted to learn C but weren’t sure where to start, this is the book for you; good!; people say that this one is even more than good)
+
+###### Intermediate
+
+[Deep C](http://www.slideshare.net/olvemaudal/deep-c) by Olve Maudal (free book; great presentation about C language; there are many cool things to learn for beginners)
+
+[Functional C (1997)](https://research.utwente.nl/files/5128727/book.pdf) by Pieter H. Hartel, Henk Muller (free book; this book provided the world with the single greatest definition of what function programming is and how it differs from imperative programming; it gives concrete explanations of things missing in C from an ML perspective (such as modules) and how to live without them; good!)
+
+> Here is a good review of this books: [link](https://www.goodreads.com/review/show/1125317632?book_show_action=true&from_review_page=1).
+
+[Beej's Guide to Network Programming - Using Internet Sockets](http://beej.us/guide/bgnet/) by B. Hall (free book; good)
+
+[Modern C](https://modernc.gforge.inria.fr/) by Jens Gustedt (free book; the idea of the book is excellent and all the tips and programming practices he shows in code are very updated and recommended; the prose is a bit dense sometimes and the code examples too thick with the explanations left for other parts of the book, which results in a kind of convoluted reading experience; also the exercises are not very enlightening and look like an afterthought, at least in the edition as of the time of this review)
+
+[The little book about OS development](http://littleosbook.github.io/) by Erik Helin, Adam Renberg (free book; good)
+
+###### Advanced
+
+[The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) by Craig A. Finseth (free book; this book covers all aspects of creating a character-based text editor; in the process, it discusses many aspects of creating a large application program including user interface, speed/memory/I/O tradeoffs, and many other considerations; good)
+
+[Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) by Ben Klemens (free book; a bridge between quantitative scientists and computer programmers; using C to do statistic, the author even wrote his own library/framework; so, the book will teach you a lot; good)
+
+[TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm) (free book)
 
 ##### Problems
 
@@ -441,11 +493,40 @@ C11, C99, C89-90 (this one is useful for K&R)
 
 ##### Main books
 
+###### Beginner
+
 The C++ Programming Language, 4th ed. by Stroustrup (C++11)
 
 The C++ Programming Language, Special ed. by Stroustrup (C++ 98; the book I read during my university days :black_heart: )
 
 Programming Principles and Practice Using C++, 2nd ed. by Stroustrup (C++11, C++14)
+
+[Introduction to Design Patterns in C++ with Qt 4](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf) (free book; good introduction to QT; good)
+
+[Open Data Structures: An Introduction](http://opendatastructures.org/) by Pat Morin (free book; Open Data Structures covers the implementation and analysis of data structures for sequences (lists), queues, priority queues, unordered dictionaries, ordered dictionaries, and graphs; focusing on a mathematically rigorous approach that is fast, practical, and efficient, Morin clearly and briskly presents instruction along with source code.)
+
+###### Intermediate
+
+[CS106X Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/) (free book for the course;  it gives students opportunities to practice and learn with engaging graphical assignments; it's one the best introductory book, simple and very amusing and totally not boring;
+great effort with codes snippets and exercises, this course is just perfect; it doesn't feature modern C++(C++11 - C++17 ) or STL; it's around thousand pages but it's an easy read; good!)
+
+[Elements of Programming](http://elementsofprogramming.com/) by Alexander Stepanov and Paul McJones (free book; the name is misleading, it's more like a theoretical background beyond STL; you might enjoy the combination of math theory and applying it to practical coding; usually stuff like this doesn't have as much application to real life (see Z Notation); there are cool examples of applying elegant C++ templates)
+
+[C++ Annotations](https://fbb-git.gitlab.io/cppannotations/) by Frank Brokken (free book; this book is intended for knowledgeable users of C (or any other language using a C-like grammar, like Perl or Java) who would like to know more about, or make the transition to, C++; good)
+
+[C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html) (free book)
+
+[How to make an Operating System](https://www.gitbook.com/book/samypesse/how-to-create-an-operating-system/details) by Samy Pesse (free book)
+
+[Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) by Br. David Carlson and Br. Isidore Minerd (free book; I don't know much about this book)
+
+###### Advanced
+
+[Matters Computational: Ideas, Algorithms, Source Code](https://www.jjj.de/fxt/fxtbook.pdf) by Jörg Arndt (free book; aimed at anyone with an interest in computation and algorithms, this comprehensive text explains underlying principles, presents the algorithms, and discusses various optimization techniques as well as the performance of a number of implementations)
+
+[The Boost C++ libraries](http://theboostcpplibraries.com/) (free book; good reference; this book is well worth the price - it will give you a short readable description and examples of a boost libraries that may solve a problem without you having to wade through the details in the boost online documentation;  C++11 changes are flagged in the text to alert you the you may wish to use a newer compiler to implement your program; good)
+
+[The Ultimate Question of Programming, Refactoring, and Everything](https://software.intel.com/content/www/us/en/develop/articles/the-ultimate-question-of-programming-refactoring-and-everything.html) (free book; in this article you will find 42 recommendations about coding in C++ that can help a programmer avoid a lot of errors, save time and effort; the author is Andrey Karpov - technical director of "Program Verification Systems", a team of developers, working on PVS-Studio static code analyzer; having checked a large number of open source projects, we have seen a large variety of ways to shoot yourself in the foot; every recommendation is given with a practical example, which proves the currentness of this question; these tips are intended for C/C++ programmers, but usually they are universal, and may be of interest for developers using other languages; good)
 
 #### C#
 
@@ -945,6 +1026,8 @@ Clean Code: A Handbook of Agile Software Craftsmanship by Martin
 
 ## Software Architecture
 
+### Main books
+
 [Code Complete 2](https://www.goodreads.com/book/show/22006920-code-complete-2nd-second-edition-text-only) by Steve McConnell (the book provides guidelines and hints about how to write your code and why; amazing!; you must read this!)
 
 [Design Patterns](https://www.goodreads.com/book/show/85009.Design_Patterns) by Erich Gamma et al (amazing!; you must read this!)
@@ -953,40 +1036,68 @@ Clean Code: A Handbook of Agile Software Craftsmanship by Martin
 
 [Patterns of Enterprise Application Architecture](https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture) by Martin Fowler, David Rice, Matthew Foemmel, Edward Hieatt, Robert Mee, Randy Stafford (could be outdated; relational databases still play a large role in many enterprise applications, but this material either predates or ignores other types of storage like distributed file systems (e.g., HDFS) and key-value storage (e.g., Redis); and with so many web applications using cloud services, horizontal scaling is practically a must for anything serious; this is a book you might want on your shelf because people may occasionally mention some of the patterns it describes (such as Active Record and Unit of Work; also, many of the patterns in the general section at the end of the book are quite good); amazing!)
 
-[Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) by Launch School (free book)
+[How to Design Programs: An Introduction to Programming and Computing](http://www.htdp.org/) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi (free book; more like a book on programming; unlike other introductory books, it focuses on the program design process; this approach fosters a variety of skills--critical reading, analytical thinking, creative synthesis, and attention to detail--that are important for everyone, not just future computer programmers; a true gem if you are learning to program, but a bit too slow-paced if you already are a proficient programmer; good!)
 
-[Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) by Roy Thomas Fielding (free book; this paper describes, among other things, the principles behind REST, the architecture of the World Wide Web; the academic jargon was pretty frustrating; good)
+### API
+
+[Web API Design: Crafting Interfaces that Developers Love](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) by Brian Mulloy (free book; a good short starting point for RESR; if you are already familiar with REST best practices, it does not bring much new stuff; if you want to dig a little bit deeper, look at [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md))
+
+> Speaking of [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md), I found [this repository](https://github.com/zalando/restful-api-guidelines). I think it is similar to Microsoft's guidelines.
+
+[Working with Web APIs](https://launchschool.com/books/working_with_apis) by Launch School (free book; this book covers the basics of how web APIs work, how to interact with them, and what to think about when building your own; after reading this book and finishing its associated course, you will be able to work with web APIs in your own projects and even build your own APIs)
+
+[Your API Is Bad](https://leanpub.com/yourapiisbad/read) by Paddy Foran (free book)
+
+### Architectures
+
+#### Domain Driven Design
 
 [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly) by Floyd Marinescu (free book; it is an easy to read summary that explains the main points of Domain-Driven Design; without the repetition and only small but meaningful examples you can get up to speed in no time and start exploring the topic on your own with real code; if you made your own experiences and like to go a bit deeper in certain points you still can go for the book of Eric Evans; good)
 
 [DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org/) by Markus Voelter (free book; this book is about creating domain-specific languages; it covers three main aspects: DSL design, DSL implementation and software engineering with DSLs; the book only looks at external DSLs and focuses mainly on textual syn-
 tax; good!)
 
-[How to Design Programs](http://www.htdp.org/) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi (free book; unlike other introductory books, it focuses on the program design process; this approach fosters a variety of skills--critical reading, analytical thinking, creative synthesis, and attention to detail--that are important for everyone, not just future computer programmers; a true gem if you are learning to program, but a bit too slow-paced if you already are a proficient programmer; good!)
-
-[Kanban and Scrum - making the most of both](http://www.infoq.com/minibooks/kanban-scrum-minibook) by by Henrik Kniberg, Mattias Skarin (free book; a short and colloquial introduction to Kanban, and/but mostly by comparing it to Scrump; if you're considering switching your shop to "Agile" methods, and/or are dissatisfied with the more traditional (!?!?) Scrum: give this a read;good!)
+#### Microservices
 
 [Microservices AntiPatterns and Pitfalls](https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf) by Mark Richards (free book; not a book per se, but a paper about the tendencies that lead to microservices to fail; good!)
 
 [Microservices vs. Service-Oriented Architecture](https://www.oreilly.com/programming/free/files/microservices-vs-service-oriented-architecture.pdf) by Mark Richards (free book; good!)
 
-[Migrating to Cloud-Native Application Architectures](https://www.nginx.com/resources/library/cloud-native-applications/#download) by Matt Stine (free book; there are not much "cookbook" portion, the rest is all quite useful, content-rich, and clearly written; good!)
-
-[Migrating to Microservice Databases](https://developers.redhat.com/books/migrating-microservice-databases-relational-monolith-distributed-data) by Edson Yanaga (free book; short book reviewing different approaches to binding microservices to databases, including questions of evolving schemas, multiple versions, etc; not so much new for experienced architect, but could be useful for people who worked mostly with "legacy" architectures)
-
-[Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) by S. Demeyer, S. Ducasse and O. Nierstrasz (free book; refactoring Legacy code is as important as the subject is dry, therefore not well considered. This is the subject of this book where a 9 step process is proposed; each step, embedded in a chapter, take the shape of a pattern language; because that's it: a patterns book; unfortunately, the angle doesn't catch us even if this choice is a good one for the subject; good)
-
-[Patterns Principles and Practices of Domain Driven Design](https://www.goodreads.com/book/show/25531393-patterns-principles-and-practices-of-domain-driven-design) by Scott Millett (this book distils the ideas and theories of the Domain-Driven Design (DDD) philosophy into a practical play-book that you can leverage to simplify application development for complex problem domains; good!)
-
 [Reactive Microsystems: The Evolution of Microservices at Scale](https://www.lightbend.com/ebooks/reactive-microsystems-evolution-of-microservices-scalability-oreilly) by by Jonas Bonér (free book; good!)
 
-[Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2) (free book; this book aims to give you a head start by providing a detailed down-to-earth account of how one Swedish company implemented Scrum and XP with a team of approximately 40 people and how they continuously improved their process over a year's time; amazing!)
+#### Network-based Apps Architectures
+
+[Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) by Roy Thomas Fielding (free book; this paper describes, among other things, the principles behind REST, the architecture of the World Wide Web; the academic jargon was pretty frustrating; good)
+
+[Site Reliability Engineering](https://landing.google.com/sre/book/index.html) by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy (free book; amazing)
+
+#### Serverless Architectures
 
 [Serverless apps: Architecture, patterns, and Azure implementation](https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/) by Jeremy Likness (free book)
 
 [Serverless Design Patterns and Best Practices](https://www.packtpub.com/free-ebooks/serverless-design-patterns-and-best-practices) by Brian Zambrano (Packt account required; get started with designing your serverless application using optimum design patterns and industry standard practices)
 
-[Site Reliability Engineering](https://landing.google.com/sre/book/index.html) by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy (free book; amazing)
+### Design Patterns
+
+[Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) by S. Demeyer, S. Ducasse and O. Nierstrasz (free book; refactoring Legacy code is as important as the subject is dry, therefore not well considered; this is the subject of this book where a 9 step process is proposed; each step, embedded in a chapter, take the shape of a pattern language; because that's it: a patterns book; unfortunately, the angle doesn't catch us even if this choice is a good one for the subject; good)
+
+[Patterns Principles and Practices of Domain Driven Design](https://www.goodreads.com/book/show/25531393-patterns-principles-and-practices-of-domain-driven-design) by Scott Millett (this book distils the ideas and theories of the Domain-Driven Design (DDD) philosophy into a practical play-book that you can leverage to simplify application development for complex problem domains; good!)
+
+[Software Architecture Patterns](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf) Mark Richards (free book; nice and quick overview of some software architecture patterns; Microservices Architecture is just some kind of high-level summary)
+
+### Software Development Methodologies
+
+[Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) by Launch School (free book)
+
+[Kanban and Scrum - making the most of both](http://www.infoq.com/minibooks/kanban-scrum-minibook) by Henrik Kniberg, Mattias Skarin (free book; a short and colloquial introduction to Kanban, and/but mostly by comparing it to Scrump; if you're considering switching your shop to "Agile" methods, and/or are dissatisfied with the more traditional (!?!?) Scrum: give this a read;good!)
+
+[Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2) (free book; this book aims to give you a head start by providing a detailed down-to-earth account of how one Swedish company implemented Scrum and XP with a team of approximately 40 people and how they continuously improved their process over a year's time; amazing!)
+
+### Software Modernization
+
+[Migrating to Cloud-Native Application Architectures](https://www.nginx.com/resources/library/cloud-native-applications/#download) by Matt Stine (free book; there are not much "cookbook" portion, the rest is all quite useful, content-rich, and clearly written; good!)
+
+[Migrating to Microservice Databases](https://developers.redhat.com/books/migrating-microservice-databases-relational-monolith-distributed-data) by Edson Yanaga (free book; short book reviewing different approaches to binding microservices to databases, including questions of evolving schemas, multiple versions, etc; not so much new for experienced architect, but could be useful for people who worked mostly with "legacy" architectures)
 
 ## Theoretical Computer Science
 
