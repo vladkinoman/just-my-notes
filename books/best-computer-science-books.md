@@ -1,6 +1,6 @@
 # Best Computer Science Books
 
-> "legend!" absolutely legendary book (>=5000 on GoodReads). I mark it with **Bold** and Upper Case.
+> "legend!" absolutely legendary book (>=4000 on GoodReads). I mark it with **Bold** and Upper Case.
 >
 > "amazing!" means a book that people mention a lot and like it (>=500 on GoodReads). I mark it with **Bold** font.
 >
@@ -16,19 +16,19 @@
 
 ## The best authors
 
-[Alfred V. Aho](https://www.goodreads.com/author/show/64964.Alfred_V_Aho), [John E. Hopcroft](https://www.goodreads.com/author/show/32737.John_E_Hopcroft), [Jeffrey D. Ullman](https://www.goodreads.com/author/show/48051.Jeffrey_D_Ullman) - Algorithms, Compilers, Theory of Computation
+[Alfred V. Aho](https://www.goodreads.com/author/show/64964.Alfred_V_Aho) ([official webpage](https://web.archive.org/web/20200723193235/http://www.cs.columbia.edu/~aho/)), [John E. Hopcroft](https://www.goodreads.com/author/show/32737.John_E_Hopcroft) ([official webpage](https://www.cs.cornell.edu/jeh/)), [Jeffrey D. Ullman](https://www.goodreads.com/author/show/48051.Jeffrey_D_Ullman) ([official webpage](http://infolab.stanford.edu/~ullman/)) - Algorithms, Compilers, Theory of Computation
 
-Donald Knuth - "The Art of Computer Programming" series, "Concrete Math"
+[Donald Knuth](https://www.goodreads.com/author/show/64941.Donald_Ervin_Knuth) ([official webpage](https://web.archive.org/web/20200201180455/https://www-cs-faculty.stanford.edu/~knuth/)) - "The Art of Computer Programming" series, "Concrete Math"
 
-Tony Hoare - author of "QuickSort" algorithm; concurrency and nondeterminism in programs
+[Tony Hoare](https://www.cs.ox.ac.uk/people/tony.hoare/) - author of "QuickSort" algorithm; concurrency and nondeterminism in programs
 
-Niklaus Wirth - Pascal, Algorithms
+[Niklaus Wirth](https://people.inf.ethz.ch/wirth/) - Pascal, Oberon, Algorithms
 
-Alan B. Downey - good and pragmatic Introductions to many languages, free and open source books
+[Alan B. Downey](https://www.goodreads.com/author/show/5725109.Allen_B_Downey) ([official webpage](http://www.allendowney.com/wp/)) - good and pragmatic Introductions to many languages, free and open source books
 
 Brian W. Kernighan - C, Unix
 
-Alexander Stepanov - C++, STL library
+[Alexander Stepanov](http://stepanovpapers.com/) - C++, STL library
 
 Bjarne Stroustrup - C++ language creator
 
@@ -40,9 +40,11 @@ Addy Osmani - JavaScript, Web
 
 Kyle Simpson - JavaScript, "You Don't Know JS" series
 
-Al Sweigart - Python
+Al Sweigart - Python, pragmatic and practical introductions to Python's areas of use, free books
 
 Martin Fowler - Software Architecture, Design Patterns
+
+[Mark Richards](https://www.developertoarchitect.com/mark-richards.html) - Software Architecture, Microservices, good and pragmatic Introductions, free books
 
 ## Algorithms and Data Structures
 
@@ -114,6 +116,24 @@ Martin Fowler - Software Architecture, Design Patterns
 
 [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) by Tony Hoare (free book; an ALGEBRA for thinking about concurrency and nondeterminism in programs; the foundation of modern designs for communicating between threads; good) 
 
+## Artificial Intelligence
+
+### Main books
+
+**[Artificial Intelligence: A Modern Approach](https://www.goodreads.com/book/show/27543.Artificial_Intelligence) by Stuart Russell, Peter Norvig (amazing!)**
+
+[Artificial Intelligence: A Guide to Intelligent Systems](https://www.goodreads.com/book/show/83881.Artificial_Intelligence) by Michael Negnevitsky (this title shows students how to build intelligent systems drawing on techniques from knowledge-based systems, neural networks, fuzzy systems, evolutionary computation and now also intelligent agents; the principles behind these techniques are explained without resorting to complex mathematics; good)
+
+[Problem-solving methods in Artificial Intelligence](https://www.goodreads.com/book/show/7140394-problem-solving-methods-in-artificial-intelligence) by Nils J. Nilsson (I think this book was used by our lecturer during the first course of AI at university; can't say it is good but there are nice examples on the 8 puzzle)
+
+### Expert Systems
+
+[Expert Systems: Principles and Programming](https://www.goodreads.com/book/show/466635.Expert_Systems) by Joseph C. Giarratano, Gary D. Riley (good; a lot of water)
+
+### Recommender Systems
+
+[Practical Recommender Systems](https://www.goodreads.com/book/show/28510003-practical-recommender-systems) by Kim Falk (I have the 1st chapter on my GoogleDisk; good)
+
 ## Cellular Automata
 
 **[Introduction to the Theory of Computation](https://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation?ac=1&from_search=true&qid=7qhPgSyNjk&rank=1) by Michael Sipser (amazing!)**
@@ -129,6 +149,8 @@ Martin Fowler - Software Architecture, Design Patterns
 [Competitive Programmer’s Handbook](https://cses.fi/book/index.php) by Laaksonen (free book; good)
 
 ## Computer Science
+
+**[CODE: THE HIDDEN LANGUAGE OF COMPUTER HARDWARE AND SOFTWARE](https://www.goodreads.com/book/show/44882.Code) BY CHARLES PETZOLD (legend!)**
 
 Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb9b39be3221dc02c1b5d0712f9b9f03260e46/ComputerScienceOne.pdf), [2](http://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf), [3](http://cse.unl.edu/~cbourke/ComputerScienceThree.pdf) by Dr. Chris Bourke (free books *in process*)
 
@@ -153,6 +175,8 @@ Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb
 [Docker Cookbook](https://www.packtpub.com/free-ebooks/docker-cookbook-second-edition), 2nd ed. by Ken Cochrane, Jeeva S. Chelladhurai, Neependra K Khare (Packt account *required*; pragmatic and helpful; system agnostic; there are well defined examples later in the book)
 
 [Kubernetes Cookbook](https://www.packtpub.com/free-ebooks/kubernetes-cookbook-second-edition), 2nd ed. by Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu (Packt account *required*; how to automate and manage your Linux containers and improve the overall performance of your system; pretty beginner level introduction; could be outdated)
+
+
 
 ## Graphics Programming
 
@@ -245,6 +269,14 @@ and Allan Wagner (free book; don't know how is it good)
 
 [Effective DevOps with AWS, Second Edition](https://www.packtpub.com/free-ebooks/effective-devops-aws-second-edition) by Yogesh Raheja, Giuseppe Borgese, Nathaniel Felsen (Packt account *required*)
 
+## Formal methods
+
+Proving Programs Correct by Robert Anderson (can't say it was a good book)
+
+[The Science of Programming](https://www.goodreads.com/book/show/1823706.The_Science_of_Programming) by David Gries
+
+[Logic in Computer Science: Modelling and Reasoning about Systems](https://www.goodreads.com/book/show/151847.Logic_in_Computer_Science) by Michael Huth, Mark Ryan (very well written; gives required for formal verification background; contains good exercises for self study)
+
 ## Graphical User Interface
 
 [The GLib/GTK+ Development Platform](https://people.gnome.org/~swilmet/glib-gtk-dev-platform.pdf) by Sébastien Wilmet (free book *in progress*; short)
@@ -265,7 +297,9 @@ and Allan Wagner (free book; don't know how is it good)
 
 ## Linux
 
-###### Beginner
+### Main books
+
+#### Beginner
 
 **[How Linux Works: What Every Superuser Should Know](https://www.goodreads.com/book/show/514432.How_Linux_Works) by Brian Ward (amazing)**
 
@@ -275,11 +309,11 @@ and Allan Wagner (free book; don't know how is it good)
 
 [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/index.html) (free book)
 
-###### Intermediate
+#### Intermediate
 
 [Linux Bible](https://www.goodreads.com/book/show/13838572-linux-bible) by Christopher Negus, Christine Bresnahan (good!)
 
-###### Advanced
+#### Advanced
 
 **[The Linux Programming Interface: A Linux and Unix System Programming Handbook](https://www.goodreads.com/book/show/7672214-the-linux-programming-interface?ac=1&from_search=true) by Michael Kerrisk (amazing!)**
 
@@ -289,19 +323,29 @@ and Allan Wagner (free book; don't know how is it good)
 
 [Linux Firewalls: Enhancing Security with Nftables and Beyond](https://www.goodreads.com/book/show/23020808-linux-firewalls) by Steve Suehring (good)
 
+[Linux From Scratch](http://www.linuxfromscratch.org/lfs/view/stable/), v.10.0 by Gerard Beekmans (free book; Linux From Scratch describes the process of creating your own Linux system from scratch from an already installed Linux distribution, using nothing but the source code of software that you need; good) [[RU](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html) - v6.8]
+
 ## Machine Learning
 
 ### Introduction to ML
 
 **[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (free book; amazing!, one of the best!)**
 
-**[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman (free book; amazing!)**
+[Applied Predictive Modeling](https://www.goodreads.com/book/show/17299542-applied-predictive-modeling) by Max Kuhn, Kjell Johnson (this book is best seen as a sequel to An Introduction to Statistical Learning: With Applications; do note that the coverage of algorithms is shallower and less mathematical than ISLR, if that's not what you want, consider reading The Elements of Statistical Learning: Data Mining, Inference, and Prediction instead; good!)
+
+**[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman (free book; 1st book (in sequence of reading) on my GoogleDrive; amazing!)**
 
 [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) by Garrett Thomas (free book; short)
 
 [Foundations of Machine Learning, Second Edition](https://mitpress.ublish.com/ereader/7093/?preview=#page/Cover) by Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar (free book; good)
 
 [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) by David Barber (free book; comprehensive and coherent, it develops everything from basic reasoning to advanced techniques within the framework of graphical models; good!)
+
+**[Pattern Recognition and Machine Learning](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning) by Christopher M. Bishop (2nd book on my GoogleDrive; the book is mainly about Bayesian approach, and many important techniques are missing; “Inconsistent difficulty”, too much time spent on simple things and very short time spent on complicated stuff; lack of techniques demonstration on real world problems; amazing!)**
+
+[Learning From Data: A Short Course](https://www.goodreads.com/book/show/15706459-learning-from-data) by Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin (3rd book on my GoogleDrive; good!)
+
+[Neural Networks: A Comprehensive Foundation](https://www.goodreads.com/book/show/391008.Neural_Networks) by Simon Haykin (found this book on my GoogleDrive; this text provides many case studies to illustrate their real-life, practical applications; good!)
 
 ### Advanced ML
 
@@ -322,6 +366,12 @@ and Allan Wagner (free book; don't know how is it good)
 **[Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville (free book; amazing!)**
 
 [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf) by Eli Stevens, Luca Antiga, Thomas Viehmann (free book; good!)
+
+### Computer Vision
+
+[Computer Vision: Algorithms and Applications](http://szeliski.org/Book/), 2nd ed. by Richard Szeliski (free book, draft; good!)
+
+[Programming Computer Vision with Python: Tools and algorithms for analyzing images](http://programmingcomputervision.com/) by Jan Erik Solem (free book; good introduction; outdated because it uses Python 2; good)
 
 ### Natural Language Processing
 
@@ -356,6 +406,8 @@ and Allan Wagner (free book; don't know how is it good)
 [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf) by Brendan Fong and David I. Spivak (free book)
 
 [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook) by Stephen Boyd and Lieven Vandenberghe (free book; good!)
+
+**[Fundamentals of Physics](https://www.goodreads.com/book/show/202485.Fundamentals_of_Physics) by David Halliday, Robert Resnick, Jearl Walker (amazing!)**
 
 ### Combinatorics
 
@@ -455,7 +507,7 @@ and Allan Wagner (free book; don't know how is it good)
 
 [Open Advice: FOSS: What We Wish We Had Known When We Started](http://open-advice.org/) (free book)
 
-[The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](http://www.aosabook.org/en/index.html) (free book; looks interesting)
+[The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](http://www.aosabook.org/en/index.html) (free book; looks interesting) [[RU](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)]
 
 [theopensourceway guidebook](https://github.com/theopensourceway/guidebook) (free book; unfinished)
 
@@ -467,7 +519,11 @@ and Allan Wagner (free book; don't know how is it good)
 
 ## Operating Systems
 
-###### Beginner
+### Main books
+
+#### Beginner
+
+**[Modern Operating Systems](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems) by Andrew S. Tanenbaum, Herbert Bos (the book gives a solid conceptual overview of operating system design, including detailed case studies of Unix/Linux and Windows 2000; the book I read during my university days :black_heart:; amazing!)**
 
 [Think OS A Brief Introduction to Operating Systems](https://github.com/AllenDowney/ThinkOS) by Allen B. Downey (free book; short; informative; and seemingly incomplete - without some figures, version 0.7.4)
 
@@ -479,7 +535,7 @@ and Allan Wagner (free book; don't know how is it good)
 
 [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) (free book)
 
-###### Intermediate
+#### Intermediate
 
 [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores/) by Allen B. Downey (free book; learn about software synchronization by solving a series of puzzles; easy; good)
 
@@ -487,7 +543,7 @@ and Allan Wagner (free book; don't know how is it good)
 
 [Practical File System Design: The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) by Dominic Giampaolo (free book)
 
-###### Advanced
+#### Advanced
 
 [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/) by Eric S. Raymond (free book)
 
@@ -495,13 +551,23 @@ and Allan Wagner (free book; don't know how is it good)
 
 [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2012/xv6.html) 
 
-#### C
+## Programming languages
 
-##### Main books
+### Programming paradigms
 
-###### Beginner
+#### Objected-Oriented Programming
 
-~~**[THE C PROGRAMMING LANGUAGE](https://www.goodreads.com/book/show/515601.The_C_Programming_Language), 2ND ED. BY KERNIGHAN, RITCHIE (MY VERY FIRST BOOK ON PROGRAMMING, WHICH I READ COMPLETELY :BLACK_HEART:; LEGEND!)**~~
+**[Object-Oriented Analysis and Design with Applications](https://www.goodreads.com/book/show/424923.Object_Oriented_Analysis_and_Design_with_Applications) by Grady Booch, Robert A. Maksimchuk, Michael W. Engle, Bobbi J. Young, Jim Conallen, Kelli A. Houston (amazing!)**
+
+[An Introduction to Object-Oriented Programming](https://www.goodreads.com/book/show/1454571.An_Introduction_to_Object_Oriented_Programming) by Timothy A. Budd (good)
+
+### C
+
+#### Main books
+
+##### Beginner
+
+~~**[THE C PROGRAMMING LANGUAGE](https://www.goodreads.com/book/show/515601.The_C_Programming_Language), 2ND ED. BY KERNIGHAN, RITCHIE (MY VERY FIRST BOOK ON PROGRAMMING, WHICH I READ COMPLETELY :black_heart:; LEGEND!)**~~
 
 [Essential C]() by Nick Parlante (free book; short review of all the important C programming concepts for beginners)
 
@@ -509,7 +575,7 @@ and Allan Wagner (free book; don't know how is it good)
 
 [Build Your Own Lisp](http://www.buildyourownlisp.com/) by Daniel Holden (free book; if you’ve ever wondered how to build your own programming language or wanted to learn C but weren’t sure where to start, this is the book for you; good!; people say that this one is even more than good)
 
-###### Intermediate
+##### Intermediate
 
 [Deep C](http://www.slideshare.net/olvemaudal/deep-c) by Olve Maudal (free book; great presentation about C language; there are many cool things to learn for beginners)
 
@@ -523,7 +589,7 @@ and Allan Wagner (free book; don't know how is it good)
 
 [The little book about OS development](http://littleosbook.github.io/) by Erik Helin, Adam Renberg (free book; good)
 
-###### Advanced
+##### Advanced
 
 [The Craft of Text Editing or A Cookbook for an Emacs](http://www.finseth.com/craft/) by Craig A. Finseth (free book; this book covers all aspects of creating a character-based text editor; in the process, it discusses many aspects of creating a large application program including user interface, speed/memory/I/O tradeoffs, and many other considerations; good)
 
@@ -531,19 +597,19 @@ and Allan Wagner (free book; don't know how is it good)
 
 [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm) (free book)
 
-##### Problems
+#### Problems
 
 The C Puzzle Book by Feuer
 
-##### Standards
+#### Standards
 
 C11, C99, C89-90 (this one is useful for K&R)
 
-#### С++
+### С++
 
-##### Main books
+#### Main books
 
-###### Beginner
+##### Beginner
 
 **[The C++ Programming Language](https://www.goodreads.com/book/show/112251.The_C_Programming_Language), 4th ed. by Bjarne Stroustrup (C++11; amazing!)**
 
@@ -555,7 +621,7 @@ C11, C99, C89-90 (this one is useful for K&R)
 
 [Open Data Structures: An Introduction](http://opendatastructures.org/) by Pat Morin (free book; Open Data Structures covers the implementation and analysis of data structures for sequences (lists), queues, priority queues, unordered dictionaries, ordered dictionaries, and graphs; focusing on a mathematically rigorous approach that is fast, practical, and efficient, Morin clearly and briskly presents instruction along with source code)
 
-###### Intermediate
+##### Intermediate
 
 [CS106X Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/) (free book for the course;  it gives students opportunities to practice and learn with engaging graphical assignments; it's one the best introductory book, simple and very amusing and totally not boring;
 great effort with codes snippets and exercises, this course is just perfect; it doesn't feature modern C++(C++11 - C++17 ) or STL; it's around thousand pages but it's an easy read; good!)
@@ -570,7 +636,7 @@ great effort with codes snippets and exercises, this course is just perfect; it 
 
 [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) by Br. David Carlson and Br. Isidore Minerd (free book; I don't know much about this book)
 
-###### Advanced
+##### Advanced
 
 [Matters Computational: Ideas, Algorithms, Source Code](https://www.jjj.de/fxt/fxtbook.pdf) by Jörg Arndt (free book; aimed at anyone with an interest in computation and algorithms, this comprehensive text explains underlying principles, presents the algorithms, and discusses various optimization techniques as well as the performance of a number of implementations)
 
@@ -578,11 +644,11 @@ great effort with codes snippets and exercises, this course is just perfect; it 
 
 [The Ultimate Question of Programming, Refactoring, and Everything](https://software.intel.com/content/www/us/en/develop/articles/the-ultimate-question-of-programming-refactoring-and-everything.html) (free book; in this article you will find 42 recommendations about coding in C++ that can help a programmer avoid a lot of errors, save time and effort; the author is Andrey Karpov - technical director of "Program Verification Systems", a team of developers, working on PVS-Studio static code analyzer; having checked a large number of open source projects, we have seen a large variety of ways to shoot yourself in the foot; every recommendation is given with a practical example, which proves the currentness of this question; these tips are intended for C/C++ programmers, but usually they are universal, and may be of interest for developers using other languages; good)
 
-#### C#
+### C#
 
-##### Main books
+#### Main books
 
-###### Beginner
+##### Beginner
 
 [C# 5.0 in a Nutshell](https://www.goodreads.com/book/show/13592460-c-5-0-in-a-nutshell), 5th ed. by Albahari J., Albahari B. (good!)
 
@@ -590,15 +656,15 @@ great effort with codes snippets and exercises, this course is just perfect; it 
 
 [The Yellow Book](http://www.csharpcourse.com/) by Rob Miles (free book; programming with C# for beginners; good!)
 
-###### Intermediate
+##### Intermediate
 
 **[CLR via C#](https://www.goodreads.com/book/show/7121415-clr-via-c) by Jeffrey Richter (amazing!)**
 
 **[C# in Depth](https://www.goodreads.com/book/show/7789280-c-in-depth), 4th ed. by Jon Skeet (amazing!)**
 
-#### Clojure
+### Clojure
 
-##### Main books
+#### Main books
 
 **[The Joy of Clojure](https://www.goodreads.com/book/show/8129142-the-joy-of-clojure), 2nd Edition by Michael Fogus, Chris Houser (amazing!)**
 
@@ -606,17 +672,17 @@ great effort with codes snippets and exercises, this course is just perfect; it 
 
 [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/) by Daniel Higginbotham (free book; good!)
 
-#### Emacs Lisp
+### Emacs Lisp
 
-##### Main books
+#### Main books
 
-###### Beginner
+##### Beginner
 
 Мир Лиспа (тома 1-2) от Хювёнен, Сеппянен
 
 [GNU Emacs manual and its extras](https://www.gnu.org/software/emacs/manual/emacs.html) by Richard Stallman et al.
 
-###### Intermediate
+##### Intermediate
 
 **[Practical Common Lisp](http://www.gigamonkeys.com/book/) by Peter Seibel (free book; amazing!)**
 
@@ -625,19 +691,19 @@ great effort with codes snippets and exercises, this course is just perfect; it 
 [GNU Emacs Lisp Reference Manual](https://www.gnu.org/software/emacs/manual/elisp.html) by Bil Lewis, Dan LaLiberte, Richard Stallman,
 the GNU Manual Group, et al.
 
-###### Advanced
+##### Advanced
 
 [Lisp Hackers](https://leanpub.com/lisphackers/read) by Vsevolod Dyomkin (free to read online; interviews with 100x More Productive Programmers; good)
 
-#### Git
+### Git
 
 **[Pro Git](https://git-scm.com/book/en/v2) by Scott Chacon, Ben Straub (free book; amazing!)**
 
-#### Go
+### Go
 
-##### Main books
+#### Main books
 
-###### Beginner
+##### Beginner
 
 [Go by Example](https://gobyexample.com/) by Mark McGranaghan (free book)
 
@@ -649,7 +715,7 @@ the GNU Manual Group, et al.
 
 [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) by Suraj (free book; could be bad according to Goodreads; learn how to write webapps without a framework in Go)
 
-###### Intermediate
+##### Intermediate
 
 [Go 101](https://github.com/go101/go101): a book focusing on Go syntax/semantics and all kinds of details by Tapir Liu (free book; good)
 
@@ -662,15 +728,15 @@ the GNU Manual Group, et al.
 
 [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers) by Maor Zamski, Daniel Singer (free book)
 
-###### Advanced
+##### Advanced
 
 [Practical Cryptography With Go](https://leanpub.com/gocrypto/read) by Kyle Isom (free to read online)
 
-#### Haskell
+### Haskell
 
-##### Main books
+#### Main books
 
-###### Beginner
+##### Beginner
 
 **[Learn You a Haskell](http://learnyouahaskell.com/) by Miran Lipovača (free book; it occupies the first place in [the list of the free books](https://www.goodreads.com/list/show/91537.free_programming_books); amazing!)**
 
@@ -678,27 +744,27 @@ the GNU Manual Group, et al.
 
 [Beautiful Code, Compelling Evidence](https://www.renci.org/wp-content/pub/tutorials/BeautifulCode.pdf)  by Jeff Heard (free; good short tutorial about data visualization with functional programming)
 
-###### Intermediate
+##### Intermediate
 
 [Developing Web Applications with Haskell and Yesod](https://www.yesodweb.com/book) by Michael Snoyman (free to read online; could be bad according to Goodreads)
 
-#### HTML / CSS
+### HTML / CSS
 
 [Dive Into HTML5](http://diveinto.html5doctor.com/) by Mark Pilgrim (free book; good)
 
 [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/) by Josh Marinacci (free book)
 
-#### Java
+### Java
 
-##### Main books
+#### Main books
 
-###### Beginner
+##### Beginner
 
 **[Thinking in Java](https://www.goodreads.com/book/show/71672.Thinking_in_Java), 4th ed. by Bruce Eckel (amazing!)**
 
 [Think Java: How to think like a computer scientist](https://greenteapress.com/wp/think-java-2e/) by Allen B. Downey (free book; good!)
 
-###### Intermediate
+##### Intermediate
 
 **[EFFECTIVE JAVA](https://www.goodreads.com/book/show/34927404-effective-java), 2ND ED. BY JOSHUA BLOCH (LEGEND!)**
 
@@ -708,31 +774,31 @@ the GNU Manual Group, et al.
 
 [Java Application Development on Linux](http://www.javalinuxbook.com/) by Carl Albing and Michael Schwarz (free book; hands-on guide to the full Java application development lifecycle on Linux; could be outdated)
 
-###### Advanced
+##### Advanced
 
 [Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) by Katherine Stanley, Erin Schnabel, Michael Hofmann
 
-##### Problems
+#### Problems
 
 **[Java Puzzlers: Traps, Pitfalls, and Corner Cases](https://www.goodreads.com/book/show/127931.Java_Puzzlers) by Joshua Bloch, Neal Gafter (amazing!)**
 
-##### Gradle
+#### Gradle
 
 [Gradle Succintly](https://www.syncfusion.com/ebooks/gradle_succinctly) by José Roberto Olivas Mendoza (free book; short introduction)
 
 [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html) by Hans Dockter, Adam Murdoch (free book)
 
-##### Spring
+#### Spring
 
 [Building Applications with Spring 5 and Vue.js 2](https://www.packtpub.com/free-ebooks/building-applications-spring-5-and-vuejs-2) by James J. Ye (Packt account *required*)
 
 [Software Architecture with Spring 5.0](https://www.packtpub.com/free-ebooks/software-architecture-spring-50) by René Enríquez, Alberto Salazar (Packt account *required*; good)
 
-#### JavaScript
+### JavaScript
 
-##### Main books
+#### Main books
 
-###### Beginner
+##### Beginner
 
 [Learning Web App Development](https://www.goodreads.com/book/show/18167211-learning-web-app-development?ac=1&from_search=true&qid=1yzlp0Gkid&rank=1) by Semmy Purewal (a very comprehensive book on front end web application development using HTML, CSS, Javascript; great for beginners; good)
 
@@ -744,7 +810,7 @@ the GNU Manual Group, et al.
 
 > Here is a negative review on Osmani's book: [link](https://www.goodreads.com/review/show/409144271?book_show_action=true&from_review_page=1).
 
-###### Intermediate
+##### Intermediate
 
 **[JAVASCRIPT: THE GOOD PARTS](https://www.goodreads.com/book/show/2998152-javascript) BY DOUGLAS CROCKFORD (LEGEND!)**
 
@@ -760,7 +826,7 @@ the GNU Manual Group, et al.
 
 [Neural Networks with JavaScript Succinctly](https://www.syncfusion.com/ebooks/neural-networks-with-javascript-succinctly) by McCaffrey (free book; I don't know how good it is)
 
-###### Advanced
+##### Advanced
 
 **[High Performance JavaScript](https://www.goodreads.com/book/show/7008656-high-performance-javascript) by Zakas (amazing!)**
 
@@ -772,25 +838,25 @@ the GNU Manual Group, et al.
 
 [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/) by Axel Rauschmayer (free book; covers advanced JavaScript topics, the book to read after “JavaScript for impatient programmers”)
 
-##### Angular.js
+#### Angular.js
 
 > Considering frameworks, I think it is better to read the official documentation and the MDN web docs. However, I think the next books are still good.
 
 [AngularJS Step by Logical Step]() by Nicholas Johnson (free book; old but could be good introduction)
 
-##### Backbone.js
+#### Backbone.js
 
 [Developing Backbone.js Applications](https://github.com/addyosmani/backbone-fundamentals) by Osmani (free book; slightly outdated; a light introduction to backbone, and a lot of extra information about history of MVC, testing tools for JS, module loaders, etc.)
 
-##### Ember.js
+#### Ember.js
 
 [Ember Tutorial](http://ember.vicramon.com/) by Vic Ramon (free book)
 
 [Ember.js Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md#ember-data) 
 
-##### Node.js
+#### Node.js
 
-###### Beginner
+##### Beginner
 
 [The Art of Node](https://github.com/maxogden/art-of-node) by Max Ogden (free book; a short introduction to Node.js)
 
@@ -798,17 +864,17 @@ the GNU Manual Group, et al.
 
 [Node.js in Action](https://www.goodreads.com/book/show/13355765-node-js-in-action) by Mike Cantelon, T.J. Holowaychuk (good!)
 
-###### Intemediate
+##### Intemediate
 
 [Node.js Design Patterns](https://www.goodreads.com/book/show/24514193-node-js-design-patterns?ac=1&from_search=true&qid=AB7nUEyhS7&rank=2) by Mario Casciaro (good!)
 
-##### React.js
+#### React.js
 
-###### Beginner
+##### Beginner
 
 [React: Up and Running](https://www.goodreads.com/book/show/26177715-react) by Stoyan Stefanov (good!)
 
-###### Intemediate
+##### Intemediate
 
 [React In-depth](https://legacy.gitbook.com/book/developmentarc/react-indepth/details) by James Polanco, Aaron Pedersen (free book; good)
 
@@ -818,19 +884,19 @@ the GNU Manual Group, et al.
 
 [Learn React Hooks: Build and refactor modern React.js applications using Hooks](https://www.goodreads.com/book/show/48611191-learn-react-hooks) by Daniel Bugl (good)
 
-##### Three.js
+#### Three.js
 
 .
 
-##### Vue.js
+#### Vue.js
 
 [Vue.js: Up and Running: Building Accessible and Performant Web Apps](https://www.goodreads.com/book/show/39076585-vue-js) by Callum MacraeTesting [Vue. Js Applications](https://www.goodreads.com/book/show/40535888-testing-vue-js-applications) by Edd Yerburgh (good)
 
-#### Julia
+### Julia
 
-##### Main books
+#### Main books
 
-###### Beginner
+##### Beginner
 
 [Julia By Example](https://github.com/samuelcolvin/JuliaByExample) by Samuel Colvin (free book)
 
@@ -838,7 +904,7 @@ the GNU Manual Group, et al.
 
 [Julia Language a  Concise Tutorial](https://github.com/sylvaticus/juliatutorial) by Antonello Lobianco (free book; evolved into [Julia Quick Syntax Reference: A Pocket Guide for Data Science Programming](https://www.goodreads.com/book/show/51787222-julia-quick-syntax-reference))
 
-###### Intermediate
+##### Intermediate
 
 [Julia for Machine Learning](https://www.goodreads.com/book/show/53999803-julia-for-machine-learning) by Zacharias Voulgaris (good)
 
@@ -848,39 +914,39 @@ the GNU Manual Group, et al.
 
 [Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence](https://github.com/h-Klok/StatsWithJuliaBook) by Yoni Nazarathy, Hayden Klok (free book)
 
-###### Advanced
+##### Advanced
 
 [Quantitative Economics with Julia](https://julia.quantecon.org/) by Jesse Perla, Thomas J. Sargent, John Stachurski (free book; lectures in Quantitative Economics; looks interesting; I familiar with some of those topics)
 
-#### PHP
+### PHP
 
-##### Main books
+#### Main books
 
 [PHP 5](https://www.goodreads.com/book/show/14625135-php-5), 2 изд. от Котеров и Костарев (good)
 
 **[PHP and MySQL Web Development](https://www.goodreads.com/book/show/40540.PHP_and_MySQL_Web_Development), 4th ed by Welling, Thomson (amazing!)**
 
-#### Maven
+### Maven
 
-##### Main books
+#### Main books
 
 [Maven by Example](https://books.sonatype.com/mvnex-book/reference/public-book.html) by Timothy O'Brien, John Casey, Brian Fox (free book; a decent introduction)
 
 [Maven: The Complete Reference](https://books.sonatype.com/mvnref-book/reference/public-book.html) by Sonatype, Inc. (free book)
 
-#### NoSQL
+### NoSQL
 
-##### Main books
+#### Main books
 
 [The Little MongoDB Book](https://github.com/karlseguin/the-little-mongodb-book) by Karl Seguin (free book, nice introduction; good!) 
 
-#### Python
+### Python
 
 > Here is a great resource for learning full stack python: [link](https://www.fullstackpython.com/).
 
-##### Main books
+#### Main books
 
-###### Beginner
+##### Beginner
 
 **[Automate the Boring Stuff with Python](http://automatetheboringstuff.com/) By Al Sweigart (free book; practical programming for total beginners; could be too easy; amazing!)**
 
@@ -894,7 +960,7 @@ the GNU Manual Group, et al.
 
 **[Fluent Python: Clear, Concise, and Effective Programming](https://www.goodreads.com/book/show/22800567-fluent-python) by Luciano Ramalho (people say that this is the best book on Python; amazing!)**
 
-###### Intermediate
+##### Intermediate
 
 [Python Essential Reference](https://www.goodreads.com/book/show/6666431-python-essential-reference), 4th ed. by Beazley (could be a bit outdated; good!)
 
@@ -916,9 +982,11 @@ the GNU Manual Group, et al.
 
 [Supporting Python 3: An in-depth guide](http://python3porting.com/) by Lennart Regebro (free book; short )
 
-###### Advanced
+##### Advanced
 
-##### Django
+.
+
+#### Django
 
 [Tango With Django](https://www.tangowithdjango.com/) by Leif Azzopardi, David Maxwell (free book; a beginner's guide to web development using the popular Python-based web application framework, Django)
 
@@ -926,26 +994,26 @@ the GNU Manual Group, et al.
 
 > Here is a nice review on Percival's book: [link](https://www.goodreads.com/review/show/1006390605).
 
-##### Flask
+#### Flask
 
 [The New And Improved Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by Miguel Grinberg (free book; good tutorial)
 
-##### Kivy
+#### Kivy
 
 .
 
-##### Piramid
+#### Piramid
 
 .
 
-##### Python for Artificial Intelligence
+#### Python for Artificial Intelligence
 
 **[Programming Collective Intelligence: Building Smart Web 2.0 Applications
 by Toby Segaran](https://www.goodreads.com/book/show/1741472.Programming_Collective_Intelligence) by Toby Segaran (could be outdated; amazing!)**
 
-##### Python for Data Science
+#### Python for Data Science
 
-###### Beginner
+##### Beginner
 
 [Think Stats](https://greenteapress.com/wp/think-stats-2e/), 2 ed. by Allen B. Downey (free book; an introduction to Probability and Statistics for Python programmers; good!)
 
@@ -957,7 +1025,7 @@ by Toby Segaran](https://www.goodreads.com/book/show/1741472.Programming_Collect
 
 [Programming Computer Vision with Python: Tools and algorithms for analyzing images](http://programmingcomputervision.com/) by Jan Erik Solem (free book; good introduction; outdated because it uses Python 2; good)
 
-###### Intermediate
+##### Intermediate
 
 [Python Data Science Handbook: Tools and Techniques for Developers](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake Vanderplas (free book; IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and other related tools; good!)
 
@@ -965,23 +1033,23 @@ by Toby Segaran](https://www.goodreads.com/book/show/1741472.Programming_Collect
 
 [Scipy Lecture Notes](http://scipy-lectures.org/) by Gaël Varoquaux, Emmanuelle Gouillart, Olav Vahtras, Pierre de Buyl (free book; one document to learn numerics, science, and data with Python)
 
-###### Advanced
+##### Advanced
 
 [Hadoop with Python](https://www.oreilly.com/learning/hadoop-with-python) by Zachary Radtka, Donald Miner (free book; good)
 
 [Hands-On Genetic Algorithms with Python: Applying genetic algorithms to solve real-world deep learning and artificial intelligence problems](https://www.goodreads.com/book/show/51055573-hands-on-genetic-algorithms-with-python) by Eyal Wirsansky
 
-##### Python for Desktop
+#### Python for Desktop
 
 > Here is a good tutorial about GTK 3 and Python: [link](https://python-gtk-3-tutorial.readthedocs.io).
 
-##### Python for Economics
+#### Python for Economics
 
 [Quantitative Economics with Python](https://python.quantecon.org/) by Thomas J. Sargent, John Stachurski (free book; a set of lectures on quantitative economic modeling)
 
 [Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/) by Thomas J. Sargent, John Stachurski (free book; a set of advanced lectures on quantitative economic modeling)
 
-##### Python for Game Development
+#### Python for Game Development
 
 [Invent Your Own Computer Games with Python](https://inventwithpython.com/invent4thed) by Al Sweigart (free book; looks interesting; good!)
 
@@ -989,7 +1057,7 @@ by Toby Segaran](https://www.goodreads.com/book/show/1741472.Programming_Collect
 
 [Program Arcade Games With Python And Pygame](http://programarcadegames.com/) by Paul Craven (free book; I heard people recommend this too; good)
 
-##### Python for Natural Science
+#### Python for Natural Science
 
 [Think Complexity: Complexity Science and Computational Modeling](https://greenteapress.com/wp/think-complexity-2e/) by Allen B. Downey (free book; an introduction to complexity science, which includes small world graphs, scale-free networks, cellular automata, fractals and pink noise, self-organized criticality, and agent-based models; good!)
 
@@ -1004,7 +1072,7 @@ by Martin O. Jones (for biologists; good)
 
 [Python in Hydrology](http://www.greenteapress.com/pythonhydro/pythonhydro.html) by Sat Kumar Tomer (free book; the book covers the basic applications of hydrology, and also the advanced topic like use of copula)
 
-##### Python for Security
+#### Python for Security
 
 [Cracking Codes with Python: An Introduction to Building and Breaking Ciphers](https://inventwithpython.com/cracking/) by Al Sweigart (free book; good)
 
@@ -1014,11 +1082,11 @@ by Martin O. Jones (for biologists; good)
 
 [Black Hat Python: Python Programming for Hackers and Pentesters](https://www.goodreads.com/book/show/22299369-black-hat-python) by Justin Seitz (controversial; good!)
 
-#### Regular expressions
+### Regular expressions
 
 **[Mastering Regular Expressions](https://www.goodreads.com/book/show/583628.Mastering_Regular_Expressions) by Friedl (amazing!)**
 
-#### Rust
+### Rust
 
 > There are many good free books in the official Rust documentation: [link](https://doc.rust-lang.org/stable/).
 
@@ -1026,19 +1094,19 @@ by Martin O. Jones (for biologists; good)
 
 [Programming Rust: Fast, Safe Systems Development](https://www.goodreads.com/book/show/25550614-programming-rust) by Jim Blandy (outstanding deep coverage of a complex language that is not easy to learn; good!)
 
-#### Style of code 
+### Style of code 
 
 **[CLEAN CODE: A HANDBOOK OF AGILE SOFTWARE CRAFTSMANSHIP](https://www.goodreads.com/book/show/3735293-clean-code) BY ROBERT C. MARTIN (LEGEND!)**
 
-#### Vim
+### Vim
 
-##### Main books
+#### Main books
 
-###### Beginner
+##### Beginner
 
 [A Byte of Vim](https://vim.swaroopch.com/byte-of-vim.pdf) by Swaroop C.H. (free book; good introduction to Vim; good)
 
-###### Intermediate
+##### Intermediate
 
 [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/) by Steve Losh (free book; awesome book to build skills on developing plugins for the Vim text editor; good)
 
@@ -1086,19 +1154,21 @@ by Martin O. Jones (for biologists; good)
 
 ### Main books
 
-[Code Complete 2](https://www.goodreads.com/book/show/22006920-code-complete-2nd-second-edition-text-only) by Steve McConnell (the book provides guidelines and hints about how to write your code and why; amazing!; you must read this!)
+**[CODE COMPLETE](https://www.goodreads.com/book/show/22006920-code-complete-2nd-second-edition-text-only), 2ND ED. BY STEVE MCCONNELL (THE BOOK PROVIDES GUIDELINES AND HINTS ABOUT HOW TO WRITE YOUR CODE AND WHY; LEGEND!)**
 
-[Design Patterns](https://www.goodreads.com/book/show/85009.Design_Patterns) by Erich Gamma et al (amazing!; you must read this!)
+**[DESIGN PATTERNS](https://www.goodreads.com/book/show/85009.Design_Patterns) BY ERICH GAMMA, RALPH JOHNSON, JOHN VLISSIDES, RICHARD HELM (LEGEND!)**
 
-[Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) by Andy Hunt, Dave Thomas (the book is good for new programmers; amazing!; you must read this!)
+**[PRAGMATIC PROGRAMMER](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) BY ANDY HUNT, DAVE THOMAS (THE BOOK IS GOOD FOR NEW PROGRAMMERS; LEGEND!)**
 
-[Patterns of Enterprise Application Architecture](https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture) by Martin Fowler, David Rice, Matthew Foemmel, Edward Hieatt, Robert Mee, Randy Stafford (could be outdated; relational databases still play a large role in many enterprise applications, but this material either predates or ignores other types of storage like distributed file systems (e.g., HDFS) and key-value storage (e.g., Redis); and with so many web applications using cloud services, horizontal scaling is practically a must for anything serious; this is a book you might want on your shelf because people may occasionally mention some of the patterns it describes (such as Active Record and Unit of Work; also, many of the patterns in the general section at the end of the book are quite good); amazing!)
+**[Patterns of Enterprise Application Architecture](https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture) by Martin Fowler, David Rice, Matthew Foemmel, Edward Hieatt, Robert Mee, Randy Stafford (could be outdated; relational databases still play a large role in many enterprise applications, but this material either predates or ignores other types of storage like distributed file systems (e.g., HDFS) and key-value storage (e.g., Redis); and with so many web applications using cloud services, horizontal scaling is practically a must for anything serious; this is a book you might want on your shelf because people may occasionally mention some of the patterns it describes (such as Active Record and Unit of Work; also, many of the patterns in the general section at the end of the book are quite good); amazing!)**
 
 [How to Design Programs: An Introduction to Programming and Computing](http://www.htdp.org/) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi (free book; more like a book on programming; unlike other introductory books, it focuses on the program design process; this approach fosters a variety of skills--critical reading, analytical thinking, creative synthesis, and attention to detail--that are important for everyone, not just future computer programmers; a true gem if you are learning to program, but a bit too slow-paced if you already are a proficient programmer; good!)
 
+**[UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.goodreads.com/book/show/85001.UML_Distilled) by Martin Fowler (amazing!)**
+
 ### API
 
-[Web API Design: Crafting Interfaces that Developers Love](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) by Brian Mulloy (free book; a good short starting point for RESR; if you are already familiar with REST best practices, it does not bring much new stuff; if you want to dig a little bit deeper, look at [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md))
+[Web API Design: Crafting Interfaces that Developers Love](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) by Brian Mulloy (free book; a good short starting point for RESR; if you are already familiar with REST best practices, it does not bring much new stuff; if you want to dig a little bit deeper, look at [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md); good)
 
 > Speaking of [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md), I found [this repository](https://github.com/zalando/restful-api-guidelines). I think it is similar to Microsoft's guidelines.
 
@@ -1110,24 +1180,24 @@ by Martin O. Jones (for biologists; good)
 
 #### Domain Driven Design
 
-[Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly) by Floyd Marinescu (free book; it is an easy to read summary that explains the main points of Domain-Driven Design; without the repetition and only small but meaningful examples you can get up to speed in no time and start exploring the topic on your own with real code; if you made your own experiences and like to go a bit deeper in certain points you still can go for the book of Eric Evans; good)
+[Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly) by Floyd Marinescu (free book; it is an easy to read summary that explains the main points of Domain-Driven Design; without the repetition and only small but meaningful examples you can get up to speed in no time and start exploring the topic on your own with real code; if you made your own experiences and like to go a bit deeper in certain points you still can go for the book of Eric Evans; good!)
 
 [DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org/) by Markus Voelter (free book; this book is about creating domain-specific languages; it covers three main aspects: DSL design, DSL implementation and software engineering with DSLs; the book only looks at external DSLs and focuses mainly on textual syn-
-tax; good!)
+tax; good)
 
 #### Microservices
 
-[Microservices AntiPatterns and Pitfalls](https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf) by Mark Richards (free book; not a book per se, but a paper about the tendencies that lead to microservices to fail; good!)
+[Microservices AntiPatterns and Pitfalls](https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf) by Mark Richards (free book; not a book per se, but a paper about the tendencies that lead to microservices to fail; good)
 
-[Microservices vs. Service-Oriented Architecture](https://www.oreilly.com/programming/free/files/microservices-vs-service-oriented-architecture.pdf) by Mark Richards (free book; good!)
+[Microservices vs. Service-Oriented Architecture](https://www.oreilly.com/programming/free/files/microservices-vs-service-oriented-architecture.pdf) by Mark Richards (free book; good)
 
-[Reactive Microsystems: The Evolution of Microservices at Scale](https://www.lightbend.com/ebooks/reactive-microsystems-evolution-of-microservices-scalability-oreilly) by by Jonas Bonér (free book; good!)
+[Reactive Microsystems: The Evolution of Microservices at Scale](https://www.lightbend.com/ebooks/reactive-microsystems-evolution-of-microservices-scalability-oreilly) by by Jonas Bonér (free book; good)
 
 #### Network-based Apps Architectures
 
 [Architectural Styles and the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) by Roy Thomas Fielding (free book; this paper describes, among other things, the principles behind REST, the architecture of the World Wide Web; the academic jargon was pretty frustrating; good)
 
-[Site Reliability Engineering](https://landing.google.com/sre/book/index.html) by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy (free book; amazing)
+**[Site Reliability Engineering](https://landing.google.com/sre/book/index.html) by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy (free book; amazing!)**
 
 #### Serverless Architectures
 
@@ -1141,32 +1211,36 @@ tax; good!)
 
 [Patterns Principles and Practices of Domain Driven Design](https://www.goodreads.com/book/show/25531393-patterns-principles-and-practices-of-domain-driven-design) by Scott Millett (this book distils the ideas and theories of the Domain-Driven Design (DDD) philosophy into a practical play-book that you can leverage to simplify application development for complex problem domains; good!)
 
-[Software Architecture Patterns](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf) Mark Richards (free book; nice and quick overview of some software architecture patterns; Microservices Architecture is just some kind of high-level summary)
+[Software Architecture Patterns](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf) by Mark Richards (free book; nice and quick overview of some software architecture patterns; Microservices Architecture is just some kind of high-level summary; good!)
 
 ### Software Development Methodologies
 
 [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) by Launch School (free book)
 
-[Kanban and Scrum - making the most of both](http://www.infoq.com/minibooks/kanban-scrum-minibook) by Henrik Kniberg, Mattias Skarin (free book; a short and colloquial introduction to Kanban, and/but mostly by comparing it to Scrump; if you're considering switching your shop to "Agile" methods, and/or are dissatisfied with the more traditional (!?!?) Scrum: give this a read;good!)
+**[Kanban and Scrum - making the most of both](http://www.infoq.com/minibooks/kanban-scrum-minibook) by Henrik Kniberg, Mattias Skarin (free book; a short and colloquial introduction to Kanban, and/but mostly by comparing it to Scrump; if you're considering switching your shop to "Agile" methods, and/or are dissatisfied with the more traditional (!?!?) Scrum: give this a read; amazing!)**
 
-[Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2) (free book; this book aims to give you a head start by providing a detailed down-to-earth account of how one Swedish company implemented Scrum and XP with a team of approximately 40 people and how they continuously improved their process over a year's time; amazing!)
+**[Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2) by Henrik Kniberg (free book; this book aims to give you a head start by providing a detailed down-to-earth account of how one Swedish company implemented Scrum and XP with a team of approximately 40 people and how they continuously improved their process over a year's time; amazing!)** [[RU](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf)]
 
 ### Software Modernization
 
-[Migrating to Cloud-Native Application Architectures](https://www.nginx.com/resources/library/cloud-native-applications/#download) by Matt Stine (free book; there are not much "cookbook" portion, the rest is all quite useful, content-rich, and clearly written; good!)
+[Migrating to Cloud-Native Application Architectures](https://www.nginx.com/resources/library/cloud-native-applications/#download) by Matt Stine (free book; there are not much "cookbook" portion, the rest is all quite useful, content-rich, and clearly written; good)
 
-[Migrating to Microservice Databases](https://developers.redhat.com/books/migrating-microservice-databases-relational-monolith-distributed-data) by Edson Yanaga (free book; short book reviewing different approaches to binding microservices to databases, including questions of evolving schemas, multiple versions, etc; not so much new for experienced architect, but could be useful for people who worked mostly with "legacy" architectures)
+[Migrating to Microservice Databases](https://developers.redhat.com/books/migrating-microservice-databases-relational-monolith-distributed-data) by Edson Yanaga (free book; short book reviewing different approaches to binding microservices to databases, including questions of evolving schemas, multiple versions, etc; not so much new for experienced architect, but could be useful for people who worked mostly with "legacy" architectures; good)
 
 ## Theoretical Computer Science
 
-SICP by Abelson:
+**[STRUCTURE AND INTERPRETATION OF COMPUTER PROGRAMS](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs) BY HAROLD ABELSON, GERALD JAY SUSSMAN, JULIE SUSSMAN (FREE BOOK; LEGEND!)**
 
-- [Official website](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) (free book)
-- [Unofficial ebook version](https://sarabander.github.io/sicp/) (free book)
+>Links:
+>
+>- [Official website](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
+>- [Unofficial ebook version](https://sarabander.github.io/sicp/)
 
-[Concepts, Techniques, and Models of Computer Programming](https://www.goodreads.com/book/show/772585.Concepts_Techniques_and_Models_of_Computer_Programming) by Peter Van Roy, Seif Haridi (almost like SICP but with additional chapters; there are no many places to buy this book - Amazon and Bookdepository is what I found)
+[Concepts, Techniques, and Models of Computer Programming](https://www.goodreads.com/book/show/772585.Concepts_Techniques_and_Models_of_Computer_Programming) by Peter Van Roy, Seif Haridi (almost like SICP but with additional chapters; there are no many places to buy this book - Amazon and Bookdepository is what I found; good!)
 
-[Introduction to Theory of Computation](http://cglab.ca/~michiel/TheoryOfComputation/) - Anil Maheshwari and Michiel Smid (free book)
+**[Introduction to the Theory of Computation](https://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation?ac=1&from_search=true&qid=7qhPgSyNjk&rank=1) by Michael Sipser (amazing!)**
+
+[Introduction to Theory of Computation](http://cglab.ca/~michiel/TheoryOfComputation/) by Anil Maheshwari and Michiel Smid (free book)
 
 [Theory of Computation, Making Connections](http://joshua.smcvt.edu/computation/) by Jim Hefferon (free book)
 
@@ -1178,29 +1252,33 @@ SICP by Abelson:
 
 [HTTP Succinctly]() by Scott Allen (free book; equipped with the information in this book; you’ll be able to write better web apps and services, and debug them when something goes wrong; good but could be outdated)
 
-[Introduction to HTTP](https://launchschool.com/books/http) by Launch School (free book; this book will help beginners understand how web applications work, and why building robust and secure web applications is so challenging; good book!)
+[Introduction to HTTP](https://launchschool.com/books/http) by Launch School (free book; this book will help beginners understand how web applications work, and why building robust and secure web applications is so challenging; good)
 
-[HTTP2 Explained](http://daniel.haxx.se/http2/) by Daniel Stenberg (free book)
+[HTTP2 Explained](http://daniel.haxx.se/http2/) by Daniel Stenberg (free book; good)
 
 [HTTP3 Explained](https://daniel.haxx.se/http3-explained/) by Daniel Stenberg (free book)
 
 [Understanding IP Addressing: Everything you ever wanted to know](http://pages.di.unipi.it/ricci/501302.pdf) (free book)
 
+[IPv6 Essentials](https://www.goodreads.com/book/show/1159889.IPv6_Essentials) by Silvia Hagen (good)
+
 #### Intermediate
 
-[High Performance Browser Networking](https://hpbn.co/) by Ilya Grigorik (free book; super detailed look at the elements that go in to browser performance; this isn't about concatenating your JavaScript; it's about latency and what causes it (and how to deal with it); amazing!)
+**[High Performance Browser Networking](https://hpbn.co/) by Ilya Grigorik (free book; super detailed look at the elements that go in to browser performance; this isn't about concatenating your JavaScript; it's about latency and what causes it (and how to deal with it); amazing!)**
 
-[RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) by Leonard Richardson, Sam Ruby (free book; could be outdated)
+**[RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) by Leonard Richardson, Sam Ruby (free book; could be outdated; amazing!)**
 
-[RESTful Web Services Cookbook](https://www.goodreads.com/book/show/7533499-restful-web-services-cookbook) by Subbu Allamaraju (100 recipes to help you take advantage of REST, HTTP, and the infrastructure of the Web)
+[RESTful Web Services Cookbook](https://www.goodreads.com/book/show/7533499-restful-web-services-cookbook) by Subbu Allamaraju (100 recipes to help you take advantage of REST, HTTP, and the infrastructure of the Web; good!)
 
-[Distributed Systems For Fun and Profit](http://book.mixu.net/distsys/single-page.html) by Mikito Takada (free book; manages to pack an enormous amount of information about core distributed system concepts, offers concise and clear explanations and, even more importantly, links and references to many important works and papers on distributed systems; amazing!)
+[Distributed Systems For Fun and Profit](http://book.mixu.net/distsys/single-page.html) by Mikito Takada (free book; manages to pack an enormous amount of information about core distributed system concepts, offers concise and clear explanations and, even more importantly, links and references to many important works and papers on distributed systems; good!)
 
 ## Conclusion
 
 ### Legend! books
 
 **[INTRODUCTION TO ALGORITHMS](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms) BY THOMAS H. CORMEN, CHARLES E. LEISERSON, RONALD L. RIVEST, CLIFFORD STEIN (LEGEND!)**
+
+**[CODE: THE HIDDEN LANGUAGE OF COMPUTER HARDWARE AND SOFTWARE](https://www.goodreads.com/book/show/44882.Code) BY CHARLES PETZOLD (legend!)**
 
 ~~**[THE C PROGRAMMING LANGUAGE](https://www.goodreads.com/book/show/515601.The_C_Programming_Language), 2ND ED. BY KERNIGHAN, RITCHIE (MY VERY FIRST BOOK ON PROGRAMMING, WHICH I READ COMPLETELY :BLACK_HEART:; LEGEND!)**~~
 
@@ -1210,7 +1288,13 @@ SICP by Abelson:
 
 **[CLEAN CODE: A HANDBOOK OF AGILE SOFTWARE CRAFTSMANSHIP](https://www.goodreads.com/book/show/3735293-clean-code) BY ROBERT C. MARTIN (LEGEND!)**
 
+**[CODE COMPLETE](https://www.goodreads.com/book/show/22006920-code-complete-2nd-second-edition-text-only), 2ND ED. BY STEVE MCCONNELL (THE BOOK PROVIDES GUIDELINES AND HINTS ABOUT HOW TO WRITE YOUR CODE AND WHY; LEGEND!)**
 
+**[DESIGN PATTERNS](https://www.goodreads.com/book/show/85009.Design_Patterns) BY ERICH GAMMA, RALPH JOHNSON, JOHN VLISSIDES, RICHARD HELM (LEGEND!)**
+
+**[PRAGMATIC PROGRAMMER](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) BY ANDY HUNT, DAVE THOMAS (THE BOOK IS GOOD FOR NEW PROGRAMMERS; LEGEND!)**
+
+**[STRUCTURE AND INTERPRETATION OF COMPUTER PROGRAMS (SICP)](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs) BY HAROLD ABELSON, GERALD JAY SUSSMAN, JULIE SUSSMAN (FREE BOOK; LEGEND!)**
 
 ### Amazing! books
 
@@ -1225,6 +1309,10 @@ SICP by Abelson:
 **[Programming Pearls](https://www.goodreads.com/book/show/52084.Programming_Pearls), 2nd ed. by Jon Bentley (about the problems that programmers constantly face; amazing!)**
 
 **[The Art of Computer Programming](https://www.goodreads.com/book/show/112247.The_Art_of_Computer_Programming_Volume_1) (inc. vol 1) by Donald Knuth (classic; amazing!)**
+
+---
+
+**[Artificial Intelligence: A Modern Approach](https://www.goodreads.com/book/show/27543.Artificial_Intelligence) by Stuart Russell, Peter Norvig (amazing!)**
 
 ---
 
@@ -1258,15 +1346,27 @@ SICP by Abelson:
 
 **[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman (free book; amazing!)**
 
+**[Pattern Recognition and Machine Learning](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning) by Christopher M. Bishop (2nd book on my GoogleDrive; the book is mainly about Bayesian approach, and many important techniques are missing; “Inconsistent difficulty”, too much time spent on simple things and very short time spent on complicated stuff; lack of techniques demonstration on real world problems; amazing!)**
+
 **[Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville (free book; amazing!)**
 
 ---
+
+**[Fundamentals of Physics](https://www.goodreads.com/book/show/202485.Fundamentals_of_Physics) by David Halliday, Robert Resnick, Jearl Walker (amazing!)**
 
 **[Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) by Silvanus P. Thompson (free book; amazing!)**
 
 ---
 
 **[Statistics Done Wrong](http://www.statisticsdonewrong.com/) by Alex Reinhart (free book; "Statistics Done Wrong" comes to the rescue with cautionary tales of all-too-common statistical fallacies; it'll help you see where and why researchers often go wrong and teach you the best practices for avoiding their mistakes; amazing!)**
+
+---
+
+**[Modern Operating Systems](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems) by Andrew S. Tanenbaum, Herbert Bos (the book gives a solid conceptual overview of operating system design, including detailed case studies of Unix/Linux and Windows 2000; the book I read during my university days :black_heart:; amazing!)**
+
+---
+
+**[Object-Oriented Analysis and Design with Applications](https://www.goodreads.com/book/show/424923.Object_Oriented_Analysis_and_Design_with_Applications) by Grady Booch, Robert A. Maksimchuk, Michael W. Engle, Bobbi J. Young, Jim Conallen, Kelli A. Houston (amazing!)**
 
 ---
 
@@ -1353,3 +1453,22 @@ by Toby Segaran](https://www.goodreads.com/book/show/1741472.Programming_Collect
 
 ---
 
+**[Patterns of Enterprise Application Architecture](https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture) by Martin Fowler, David Rice, Matthew Foemmel, Edward Hieatt, Robert Mee, Randy Stafford (could be outdated; relational databases still play a large role in many enterprise applications, but this material either predates or ignores other types of storage like distributed file systems (e.g., HDFS) and key-value storage (e.g., Redis); and with so many web applications using cloud services, horizontal scaling is practically a must for anything serious; this is a book you might want on your shelf because people may occasionally mention some of the patterns it describes (such as Active Record and Unit of Work; also, many of the patterns in the general section at the end of the book are quite good); amazing!)**
+
+**[UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.goodreads.com/book/show/85001.UML_Distilled) by Martin Fowler (amazing!)**
+
+**[Site Reliability Engineering](https://landing.google.com/sre/book/index.html) by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy (free book; amazing!)**
+
+**[Kanban and Scrum - making the most of both](http://www.infoq.com/minibooks/kanban-scrum-minibook) by Henrik Kniberg, Mattias Skarin (free book; a short and colloquial introduction to Kanban, and/but mostly by comparing it to Scrump; if you're considering switching your shop to "Agile" methods, and/or are dissatisfied with the more traditional (!?!?) Scrum: give this a read; amazing!)**
+
+**[Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2) (free book; this book aims to give you a head start by providing a detailed down-to-earth account of how one Swedish company implemented Scrum and XP with a team of approximately 40 people and how they continuously improved their process over a year's time; amazing!)**
+
+---
+
+**[Introduction to the Theory of Computation](https://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation?ac=1&from_search=true&qid=7qhPgSyNjk&rank=1) by Michael Sipser (amazing!)**
+
+---
+
+**[High Performance Browser Networking](https://hpbn.co/) by Ilya Grigorik (free book; super detailed look at the elements that go in to browser performance; this isn't about concatenating your JavaScript; it's about latency and what causes it (and how to deal with it); amazing!)**
+
+**[RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) by Leonard Richardson, Sam Ruby (free book; could be outdated; amazing!)**
