@@ -1,8 +1,8 @@
 # Best Computer Science Books
 
-> "legend!" absolutely legendary book (>=4000 on GoodReads). I mark it with **Bold** and Upper Case.
+> "legend!" absolutely legendary book (>=3900 on GoodReads). I mark it with **Bold** and Upper Case.
 >
-> "amazing!" means a book that people mention a lot and like it (>=500 on GoodReads). I mark it with **Bold** font.
+> "amazing!" means a book that people mention a lot and like it (>=499 on GoodReads). I mark it with **Bold** font.
 >
 > "good!" means a book that people do not mention as much as "amazing!" book but they like it (>=100 on GoodReads).
 >
@@ -98,6 +98,8 @@ Martin Fowler - Software Architecture, Design Patterns
 
 [Algorithms+Data Structures](https://www.goodreads.com/book/show/300093.Algorithms_Plus_Data_Structures_Equals_Programs) by Niklaus Wirth (I think the book has interesting examples; good!)
 
+> I think [this](http://people.inf.ethz.ch/wirth/AD.pdf) is the free version of the book. Probably, they differ in names.
+
 [Geometry Algorithms](http://geomalgorithms.com/) by Dan Sunday (free book)
 
 #### Advanced
@@ -152,6 +154,47 @@ Martin Fowler - Software Architecture, Design Patterns
 
 **[CODE: THE HIDDEN LANGUAGE OF COMPUTER HARDWARE AND SOFTWARE](https://www.goodreads.com/book/show/44882.Code) BY CHARLES PETZOLD (legend!)**
 
+**[ALGORITHMS TO LIVE BY: THE COMPUTER SCIENCE OF HUMAN DECISIONS](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) BY BRIAN CHRISTIAN, TOM GRIFFITHS (IN THIS BOOK THE AUTHORS EXPLAIN FAMOUS ALGORITHMS IN REAL WORLD CONTEXT; LEGEND!)**
+
+> Found a nice review [here](https://www.goodreads.com/review/show/2451098052?book_show_action=true&from_review_page=1). Here are the notes from this review, which are the notes from the book:
+>
+> (1) Optimal Stopping
+> (2) Old people don't lose memory - they have so much of it that it slows their system.
+> (3) Procrastination can be seen as an efficient scheduling problem with wrong priority.
+> (4) Predictive Models - Gaussian, Power Law, Erlang
+> (5) Over-fitting - "It really is true that a company will build whatever the CEO decides to measure".
+> (6) Penalize complexity - Occam's Razor Principle
+> (7) "A bit of conservative, a certain bias in favor of history, can buffer us against the boom and bust cycle of fads"
+>
+> (8)Over-fitting Examples - Military Training, taste buds
+> (9) Early Stopping - Appropriate for Uncertainty
+> (10) "The prefect is the enemy of the good."
+> (11) Continuous Relaxation for discrete optimization.
+> (12) Lagrangian Relaxation - "You don't HAVE to obey the law. There are consequences to everything and you get to decide whether you want to face those.
+>
+> (13) Random Sampling - Miller Rabin Primality Test
+> (14) Charity - GiveDirectly uses random samples of review
+> (15) Bloom filters for search engine crawls.
+> (16) Simulated Annealing - Random restart hill climbing.
+> (17) Randomness - heart of creativity?
+> (18) Networking - Circuit Switching -> Packet Switching
+> (19) Exponential backoff
+> (20) AIMD - Additive Increase Multiplicative Decrease, TCP's Sawtooth
+> (21) Game Theory - Price of Anarchy. Selfish routing only has 4/3 as it's price of Anarchy that's how internet is working fine (infact 33% close to optimal).
+>
+> (22) Price of Anarchy is very high in case of Prisoner's Dilemma.
+> (23) Tragedy of Commons - Pollution, Climate Change, Number of Vacations employees use etc.,
+> (24) Game Theory - Information Cascade.
+> (25) Vickrey Auction
+
+**[The Self-Taught Programmer: The Definitive Guide to Programming Professionally](https://www.goodreads.com/book/show/37859274-the-self-taught-programmer) by Cory Althoff (amazing!)**
+
+**[Discrete Mathematics and Its Applications](https://www.goodreads.com/book/show/1800803.Discrete_Mathematics_and_Its_Applications) by Kenneth H. Rosen (found this one on my GoogleDrive; amazing!)**
+
+[Discrete Mathematics with Applications](https://www.goodreads.com/book/show/478566.Discrete_Mathematics_with_Applications) by Susanna S. Epp (found this one on my GoogleDrive; good!)
+
+[Discrete Mathematics for Computing](https://www.goodreads.com/book/show/28790.Discrete_Mathematics_for_Computing) by Rod Haggarty (found this one on my GoogleDrive; good)
+
 Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb9b39be3221dc02c1b5d0712f9b9f03260e46/ComputerScienceOne.pdf), [2](http://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf), [3](http://cse.unl.edu/~cbourke/ComputerScienceThree.pdf) by Dr. Chris Bourke (free books *in process*)
 
 [A Mathematical Theory of Communication](https://archive.org/details/bstj27-4-623) by Claude E.Shannon (free book)
@@ -175,6 +218,26 @@ Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb
 [Docker Cookbook](https://www.packtpub.com/free-ebooks/docker-cookbook-second-edition), 2nd ed. by Ken Cochrane, Jeeva S. Chelladhurai, Neependra K Khare (Packt account *required*; pragmatic and helpful; system agnostic; there are well defined examples later in the book)
 
 [Kubernetes Cookbook](https://www.packtpub.com/free-ebooks/kubernetes-cookbook-second-edition), 2nd ed. by Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu (Packt account *required*; how to automate and manage your Linux containers and improve the overall performance of your system; pretty beginner level introduction; could be outdated)
+
+## Games for Programmers
+
+### Chess
+
+#### Introduction to Chess
+
+[Modern Ideas in Chess](https://www.goodreads.com/book/show/1867367.Modern_Ideas_in_Chess) by Richard Réti (a good book both for amateurs and experts; good)
+
+> Here is the interactive version of the book: [link](http://www.openchessbooks.org/reti-mic/chapter1/combination.html).
+
+[Chess Fundamentals](https://www.gutenberg.org/ebooks/33870) by José Raúl Capablanca (free book; Chess Fundamentals, though normally for the beginning player, contains valuable insights that will benefit players at all levels of understanding, including masters; good!)
+
+> Here is the interactive version of the book (unfinished but it's okay I think): [link](http://www.openchessbooks.org/capablanca-cf/chapter1/some_simple_mates.html).
+
+**[My System](https://www.goodreads.com/book/show/1430989.My_System) by Aron Nimzovitch, Philip Hereford  (found this one on my GoogleDrive; My System describes a theory of chess; it also describes the character and genius of its author; It is a very readable book, for Nimzovich's methods sparkle with humor, pungent originality, and witty explanations; one of the most influential chess books ever written; controversy still rages as to whether Nimzovitch actually invented the ideas described here, but he was certainly the person who popularized them; And his writing style. If nothing else, it's memorable; amazing!)**
+
+#### Endspiel
+
+[Chess Endings: Essential Knowledge](https://www.goodreads.com/book/show/85136.Chess_Endings) by Yuri Averbakh, P.H. Clarke (found this one on my GoogleDrive; people say that this is the best book on Chess ending phase; good)
 
 
 
@@ -228,6 +291,8 @@ Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb
 
 [Databases, Types, and The Relational Model: The Third Manifesto](http://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf) by C.J. Date (free book)
 
+[An Introduction to Database Systems](https://www.goodreads.com/book/show/236664.An_Introduction_to_Database_Systems) by C.J. Date (found this one [ru] on my GoogleDrive; good!)
+
 [Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design](https://www.goodreads.com/book/show/150062.Database_Design_for_Mere_Mortals) by Michael J. Hernandez (good!)
 
 #### Intermediate
@@ -247,6 +312,8 @@ Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb
 #### Beginner
 
 [A Programmer's Guide to Data Mining: The Ancient Art of the Numerati](http://guidetodatamining.com/) by Ron Zacharski (free book; practical approach with Python; good)
+
+[Handbook of Statistical Analysis and Data Mining Applications](https://www.goodreads.com/book/show/6056058-handbook-of-statistical-analysis-and-data-mining-applications-with-dvd) by Robert A. Nisbet, Gary Miner, John F. Elder IV (found this book on my GoogleDrive; good)
 
 #### Intermediate
 
@@ -279,9 +346,17 @@ Proving Programs Correct by Robert Anderson (can't say it was a good book)
 
 ## Graphical User Interface
 
+**[DON'T MAKE ME THINK, REVISITED: A COMMON SENSE APPROACH TO WEB USABILITY](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) BY STEVE KRUG (DON'T MAKE ME THINK IS A SOLID, LAYMAN'S TERMS EXAMINATION OF UI DESIGN AND USABILITY ISSUES, PARTICULARLY AS THOSE ISSUES APPLY TO WEB SITES; STEVE KRUG PRESENTS US WITH A PLAIN-ENGLISH APPROACH THAT JUST ABOUT ANY WEB PROFESSIONAL CAN QUICKLY AND EASILY DIGEST AND THEN RAPIDLY APPLY TO HIS WORK FOR MAXIMUM EFFECTIVENESS; LEGEND!)**
+
 [The GLib/GTK+ Development Platform](https://people.gnome.org/~swilmet/glib-gtk-dev-platform.pdf) by Sébastien Wilmet (free book *in progress*; short)
 
 **[Designing Interfaces: Patterns for Effective Interaction Design](https://designinginterfaces.com/) by by Jenifer Tidwell (free book; the book is basically an encyclopedia of UI design patterns, or maybe "mini patterns"; amazing!)**
+
+## Interview
+
+~~**[How Would You Move Mount Fuji? Microsoft's Cult of the Puzzle--How the World's Smartest Companies Select the Most Creative Thinkers](https://www.goodreads.com/book/show/205266.How_Would_You_Move_Mount_Fuji_Microsoft_s_Cult_of_the_Puzzle_How_the_World_s_Smartest_Companies_Select_the_Most_Creative_Thinkers) by William Poundstone (I don't like it like a book, but there are interesting problems, and some stories were good; amazing!)**~~
+
+**[CRACKING THE CODING INTERVIEW: 150 PROGRAMMING QUESTIONS AND SOLUTIONS](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview) BY GAYLE LAAKMANN MCDOWELL (LEGEND!)**
 
 ## IoT
 
@@ -319,11 +394,21 @@ Proving Programs Correct by Robert Anderson (can't say it was a good book)
 
 **[Linux Kernel Development](https://www.goodreads.com/book/show/8474434-linux-kernel-development) by Robert Love (amazing!)**
 
+[Linux System Programming: Talking Directly to the Kernel and C Library](https://www.goodreads.com/book/show/17152734-linux-system-programming) by Robert Love (good!)
+
 [Linux Device Drivers](https://lwn.net/Kernel/LDD3/), 3rd ed. by Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman (free book; good!)
 
 [Linux Firewalls: Enhancing Security with Nftables and Beyond](https://www.goodreads.com/book/show/23020808-linux-firewalls) by Steve Suehring (good)
 
 [Linux From Scratch](http://www.linuxfromscratch.org/lfs/view/stable/), v.10.0 by Gerard Beekmans (free book; Linux From Scratch describes the process of creating your own Linux system from scratch from an already installed Linux distribution, using nothing but the source code of software that you need; good) [[RU](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html) - v6.8]
+
+### Linux Exams
+
+[RHCSA/RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300), 6th Edition](https://www.goodreads.com/book/show/9879184-rhcsa-rhce-red-hat-linux-certification-study-guide-exams-ex200-ex300) by Michael Jang (good!)
+
+[Comptia Linux+ Complete Study Guide Authorized Courseware, 2nd Edition (Lx0-101 and Lx0-102)](https://www.goodreads.com/book/show/16219705-comptia-linux-complete-study-guide-authorized-courseware-2nd-edition, 2nd Edition (Lx0-101 and Lx0-102)) by Roderick W. Smith (good)
+
+[Comptia Linux+ Powered by Linux Professional Institute Study Guide: Exam Lx0-103 and Exam Lx0-104](https://www.goodreads.com/book/show/23368775-comptia-linux-powered-by-linux-professional-institute-study-guide) by Roderick W. Smith, Christine Bresnahan, Richard Blum (good)
 
 ## Machine Learning
 
@@ -383,6 +468,10 @@ Proving Programs Correct by Robert Anderson (can't say it was a good book)
 
 ## Mathematics
 
+### About Math
+
+**[What Is Mathematics?: An Elementary Approach to Ideas and Methods](https://www.goodreads.com/book/show/584620.What_Is_Mathematics_) by Richard Courant, Herbert Robbins (amazing!)**
+
 ### Algebra
 
 [Abstract Algebra: Theory and Applications](http://abstract.ups.edu/) by Thomas W. Judson (free book; good)
@@ -409,13 +498,33 @@ Proving Programs Correct by Robert Anderson (can't say it was a good book)
 
 **[Fundamentals of Physics](https://www.goodreads.com/book/show/202485.Fundamentals_of_Physics) by David Halliday, Robert Resnick, Jearl Walker (amazing!)**
 
+[Modern Control Systems](https://www.goodreads.com/book/show/1758729.Modern_Control_Systems) by Richard C. Dorf, Robert H. Bishop (found this one [ru] on my GoogleDisk; good!)
+
 ### Combinatorics
 
+[Introductory Graph Theory](https://www.goodreads.com/book/show/388047.Introductory_Graph_Theory) by Gary Chartrand (good!)
+
+[Graph Theory](https://www.goodreads.com/book/show/388052.Graph_Theory) by Reinhard Diestel (good)
+
 [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/) (free book; introduction)
+
+[Mapas del metro y redes neuronales : la teoría de grafos](https://www.goodreads.com/book/show/17567810-mapas-del-metro-y-redes-neuronales) by Claudi Alsina (found the Russian version of this book on Khizha's website; good)
 
 [Category Theory for the Sciences](https://mitpress.ublish.com/ereader/77/?preview#page/Cover) by David I. Spivak (free book; it includes elements of graph theory in its axioms and can have even wider applications; this book is made for scientists so it is not as heavy on the proofs but more oriented for applications; good)
 
 [Magic Squares and Cubes (1917)](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) by W. S. Anderson (free book; good)
+
+[Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) by Philippe Flajolet, Robert Sedgewick (free book; good)
+
+### Dynamical Systems
+
+[Regularity and Complexity in Dynamical Systems](https://www.goodreads.com/book/show/14378019-regularity-and-complexity-in-dynamical-systems) by Albert C.J. Luo (found this one on my GoogleDrive; perhaps, this book was recommended by prof. Belozerov)
+
+[Intro to Fractals & Chaos](https://www.goodreads.com/book/show/2531539.Intro_to_Fractals_Chaos) by Richard M. Crownover
+
+### Game Theory
+
+[Game Theory](https://www.goodreads.com/book/show/469850.Game_Theory) by Guillermo Owen (found this one [ru] on my GoogleDisk; good)
 
 ### Geometry
 
@@ -447,11 +556,19 @@ Proving Programs Correct by Robert Anderson (can't say it was a good book)
 
 [Number Theory](https://github.com/holdenlee/number-theory) by Holden Lee (free book; more in-depth approach)
 
+### Numerical Methods
+
+[Numerical Methods in Engineering & Science](https://www.goodreads.com/book/show/24843926-numerical-methods-in-engineering-science) by B.S. Grewal (good!)
+
+[Numerical Methods for Scientists and Engineers](https://www.goodreads.com/book/show/613422.Numerical_Methods_for_Scientists_and_Engineers) by Richard Hamming (found this one on my GoogleDrive; good)
+
 ### Optimization
 
 [Essentials of Metaheuristics](http://cs.gmu.edu/~sean/book/metaheuristics/) by Sean Luke (free book; good!)
 
 [Knapsack Problems - Algorithms and Computer Implementations](http://www.or.deis.unibo.it/knapsack.html) by Silvano Martello and Paolo Toth (free book; a state of art examination on exact and approximate algorithms for a number of important NP-hard problems in the field of integer linear programming, which the authors refer to as knapsack; good)
+
+[Combinatorial Optimization: Algorithms and Complexity](https://www.goodreads.com/book/show/138564.Combinatorial_Optimization) by Christos H. Papadimitriou, Kenneth Steiglitz (found this one (ru) on my GoogleDrive; good!)
 
 ### Probability and Statistics
 
@@ -492,6 +609,8 @@ Proving Programs Correct by Robert Anderson (can't say it was a good book)
 [Introduction to Proofs](http://joshua.smcvt.edu/proofs/) by Jim Hefferon (free book)
 
 [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/) by Richard Hammack (free book; it is an introduction to the standard methods of proving mathematical theorems; good!)
+
+**[How to Prove It: A Structured Approach](https://www.goodreads.com/book/show/739735.How_to_Prove_It) by Daniel J. Velleman (amazing!)**
 
 ## Open Source Ecosystem
 
@@ -543,6 +662,12 @@ Proving Programs Correct by Robert Anderson (can't say it was a good book)
 
 [Practical File System Design: The Be File System](http://www.nobius.org/~dbg/practical-file-system-design.pdf) by Dominic Giampaolo (free book)
 
+**[The Design of the UNIX Operating System](https://www.goodreads.com/book/show/337343.The_Design_of_the_UNIX_Operating_System) by Maurice J. Bach (amazing!)**
+
+**[UNIX and Linux System Administration Handbook](https://www.goodreads.com/book/show/8772005-unix-and-linux-system-administration-handbook) by Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley (amazing!)**
+
+**[Unix Network Programming, Volume 1: Networking APIs - Sockets and XTI](https://www.goodreads.com/book/show/258607.Unix_Network_Programming_Volume_1) by W. Richard Stevens (volumes 2-3 are also good; amazing!)**
+
 #### Advanced
 
 [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/) by Eric S. Raymond (free book)
@@ -553,13 +678,17 @@ Proving Programs Correct by Robert Anderson (can't say it was a good book)
 
 ## Programming languages
 
-### Programming paradigms
+### Programming Paradigms
 
 #### Objected-Oriented Programming
 
 **[Object-Oriented Analysis and Design with Applications](https://www.goodreads.com/book/show/424923.Object_Oriented_Analysis_and_Design_with_Applications) by Grady Booch, Robert A. Maksimchuk, Michael W. Engle, Bobbi J. Young, Jim Conallen, Kelli A. Houston (amazing!)**
 
 [An Introduction to Object-Oriented Programming](https://www.goodreads.com/book/show/1454571.An_Introduction_to_Object_Oriented_Programming) by Timothy A. Budd (good)
+
+### Type Theory
+
+**[Types and Programming Languages](https://www.goodreads.com/book/show/112252.Types_and_Programming_Languages) by Benjamin C. Pierce (found this one [ru] on my GoogleDrive - we read it during "Fundamentals of Informatics" course; very good introduction into theory of types; useful if your dealing with modern software development tools, like Kotlin, Facebook's Flow, Haskell, Typescript; could be hard if you don't know how to do proofs ([this](https://www.goodreads.com/book/show/1758526.Language__Proof_and_Logic_Text_and_CD) should cover you); amazing!)**
 
 ### C
 
@@ -622,6 +751,8 @@ C11, C99, C89-90 (this one is useful for K&R)
 [Open Data Structures: An Introduction](http://opendatastructures.org/) by Pat Morin (free book; Open Data Structures covers the implementation and analysis of data structures for sequences (lists), queues, priority queues, unordered dictionaries, ordered dictionaries, and graphs; focusing on a mathematically rigorous approach that is fast, practical, and efficient, Morin clearly and briskly presents instruction along with source code)
 
 ##### Intermediate
+
+**[Effective C++: 55 Specific Ways to Improve Your Programs and Designs](https://www.goodreads.com/book/show/105125.Effective_C_) by Scott Meyers (easy to follow book; very CLEAR explanations without a bunch of fluff; great answers to the whys that you ask when designing software; amazing!)**
 
 [CS106X Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/) (free book for the course;  it gives students opportunities to practice and learn with engaging graphical assignments; it's one the best introductory book, simple and very amusing and totally not boring;
 great effort with codes snippets and exercises, this course is just perfect; it doesn't feature modern C++(C++11 - C++17 ) or STL; it's around thousand pages but it's an easy read; good!)
@@ -1162,9 +1293,17 @@ by Martin O. Jones (for biologists; good)
 
 **[Patterns of Enterprise Application Architecture](https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture) by Martin Fowler, David Rice, Matthew Foemmel, Edward Hieatt, Robert Mee, Randy Stafford (could be outdated; relational databases still play a large role in many enterprise applications, but this material either predates or ignores other types of storage like distributed file systems (e.g., HDFS) and key-value storage (e.g., Redis); and with so many web applications using cloud services, horizontal scaling is practically a must for anything serious; this is a book you might want on your shelf because people may occasionally mention some of the patterns it describes (such as Active Record and Unit of Work; also, many of the patterns in the general section at the end of the book are quite good); amazing!)**
 
+[Pattern Hatching: Design Patterns Applied](https://www.goodreads.com/book/show/85063.Pattern_Hatching) by John M. Vlissides (found this one on my GoogleDrive; this book was recommended by Alexander Khizha for the second course work; John Vlissides goes through design of an imaginary file system, exploring and applying design patterns; good)
+
 [How to Design Programs: An Introduction to Programming and Computing](http://www.htdp.org/) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi (free book; more like a book on programming; unlike other introductory books, it focuses on the program design process; this approach fosters a variety of skills--critical reading, analytical thinking, creative synthesis, and attention to detail--that are important for everyone, not just future computer programmers; a true gem if you are learning to program, but a bit too slow-paced if you already are a proficient programmer; good!)
 
+**[REFACTORING: IMPROVING THE DESIGN OF EXISTING CODE](https://www.goodreads.com/book/show/44936.Refactoring) BY MARTIN FOWLER (LEGEND!)**
+
+**[WORKING EFFECTIVELY WITH LEGACY CODE](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) BY MICHAEL C. FEATHERS (LEGEND!)**
+
 **[UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.goodreads.com/book/show/85001.UML_Distilled) by Martin Fowler (amazing!)**
+
+**[THE MYTHICAL MAN-MONTH: ESSAYS ON SOFTWARE ENGINEERING](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) BY FREDERICK P. BROOKS JR. (A COLLECTION OF ESSAYS ON THE MANAGEMENT AND PLANNING OF GOOD SOFTWARE ENGINEERING; LEGEND!)**
 
 ### API
 
@@ -1179,6 +1318,8 @@ by Martin O. Jones (for biologists; good)
 ### Architectures
 
 #### Domain Driven Design
+
+**[DOMAIN-DRIVEN DESIGN: TACKLING COMPLEXITY IN THE HEART OF SOFTWARE](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) BY ERIC EVANS (LEGEND!)**
 
 [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly) by Floyd Marinescu (free book; it is an easy to read summary that explains the main points of Domain-Driven Design; without the repetition and only small but meaningful examples you can get up to speed in no time and start exploring the topic on your own with real code; if you made your own experiences and like to go a bit deeper in certain points you still can go for the book of Eric Evans; good!)
 
@@ -1205,7 +1346,13 @@ tax; good)
 
 [Serverless Design Patterns and Best Practices](https://www.packtpub.com/free-ebooks/serverless-design-patterns-and-best-practices) by Brian Zambrano (Packt account required; get started with designing your serverless application using optimum design patterns and industry standard practices)
 
+#### Test Driven Development
+
+**[Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development) by Kent Beck (amazing!)**
+
 ### Design Patterns
+
+**[HEAD FIRST DESIGN PATTERNS](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns) BY ERIC FREEMAN, KATHY SIERRA, BERT BATES, ELISABETH ROBSON (HEAD FIRST DESIGN PATTERNS IS A GREAT WAY TO GET A GOOD OVERVIEW ABOUT DESIGN PATTERNS; LEGEND!)**
 
 [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) by S. Demeyer, S. Ducasse and O. Nierstrasz (free book; refactoring Legacy code is as important as the subject is dry, therefore not well considered; this is the subject of this book where a 9 step process is proposed; each step, embedded in a chapter, take the shape of a pattern language; because that's it: a patterns book; unfortunately, the angle doesn't catch us even if this choice is a good one for the subject; good)
 
@@ -1217,9 +1364,23 @@ tax; good)
 
 [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) by Launch School (free book)
 
+**[SCRUM: THE ART OF DOING TWICE THE WORK IN HALF THE TIME](https://www.goodreads.com/book/show/19288230-scrum) BY JEFF SUTHERLAND (LEGEND!)**
+
 **[Kanban and Scrum - making the most of both](http://www.infoq.com/minibooks/kanban-scrum-minibook) by Henrik Kniberg, Mattias Skarin (free book; a short and colloquial introduction to Kanban, and/but mostly by comparing it to Scrump; if you're considering switching your shop to "Agile" methods, and/or are dissatisfied with the more traditional (!?!?) Scrum: give this a read; amazing!)**
 
 **[Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2) by Henrik Kniberg (free book; this book aims to give you a head start by providing a detailed down-to-earth account of how one Swedish company implemented Scrum and XP with a team of approximately 40 people and how they continuously improved their process over a year's time; amazing!)** [[RU](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf)]
+
+**[PEOPLEWARE: PRODUCTIVE PROJECTS AND TEAMS](https://www.goodreads.com/book/show/18224718-peopleware) BY TOM DEMARCO (LEGEND!)**
+
+**[Rapid Development: Taming Wild Software Schedules](https://www.goodreads.com/book/show/93892.Rapid_Development) by Steve McConnell (amazing!)**
+
+**[Soft Skills: The Software Developer's Life Manual](https://www.goodreads.com/book/show/23232941-soft-skills) by John Z. Sonmez (amazing!)**
+
+**[CODERS AT WORK: REFLECTIONS ON THE CRAFT OF PROGRAMMING](https://www.goodreads.com/book/show/6713575-coders-at-work) BY PETER SEIBEL (LEGEND!)**
+
+### Software Deployment
+
+**[Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/book/show/8686650-continuous-delivery) by Jez Humble, David Farley (the best book about Deployment; filled with lots of good advice for improvement and automation of a deployment process; amazing!)**
 
 ### Software Modernization
 
@@ -1280,6 +1441,12 @@ tax; good)
 
 **[CODE: THE HIDDEN LANGUAGE OF COMPUTER HARDWARE AND SOFTWARE](https://www.goodreads.com/book/show/44882.Code) BY CHARLES PETZOLD (legend!)**
 
+**[ALGORITHMS TO LIVE BY: THE COMPUTER SCIENCE OF HUMAN DECISIONS](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) BY BRIAN CHRISTIAN, TOM GRIFFITHS (IN THIS BOOK THE AUTHORS EXPLAIN FAMOUS ALGORITHMS IN REAL WORLD CONTEXT; LEGEND!)**
+
+**[DON'T MAKE ME THINK, REVISITED: A COMMON SENSE APPROACH TO WEB USABILITY](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) BY STEVE KRUG (DON'T MAKE ME THINK IS A SOLID, LAYMAN'S TERMS EXAMINATION OF UI DESIGN AND USABILITY ISSUES, PARTICULARLY AS THOSE ISSUES APPLY TO WEB SITES; STEVE KRUG PRESENTS US WITH A PLAIN-ENGLISH APPROACH THAT JUST ABOUT ANY WEB PROFESSIONAL CAN QUICKLY AND EASILY DIGEST AND THEN RAPIDLY APPLY TO HIS WORK FOR MAXIMUM EFFECTIVENESS; LEGEND!)**
+
+**[CRACKING THE CODING INTERVIEW: 150 PROGRAMMING QUESTIONS AND SOLUTIONS](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview) BY GAYLE LAAKMANN MCDOWELL (LEGEND!)**
+
 ~~**[THE C PROGRAMMING LANGUAGE](https://www.goodreads.com/book/show/515601.The_C_Programming_Language), 2ND ED. BY KERNIGHAN, RITCHIE (MY VERY FIRST BOOK ON PROGRAMMING, WHICH I READ COMPLETELY :BLACK_HEART:; LEGEND!)**~~
 
 **[EFFECTIVE JAVA](https://www.goodreads.com/book/show/34927404-effective-java), 2ND ED. BY JOSHUA BLOCH (LEGEND!)**
@@ -1293,6 +1460,22 @@ tax; good)
 **[DESIGN PATTERNS](https://www.goodreads.com/book/show/85009.Design_Patterns) BY ERICH GAMMA, RALPH JOHNSON, JOHN VLISSIDES, RICHARD HELM (LEGEND!)**
 
 **[PRAGMATIC PROGRAMMER](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) BY ANDY HUNT, DAVE THOMAS (THE BOOK IS GOOD FOR NEW PROGRAMMERS; LEGEND!)**
+
+**[REFACTORING: IMPROVING THE DESIGN OF EXISTING CODE](https://www.goodreads.com/book/show/44936.Refactoring) BY MARTIN FOWLER (LEGEND!)**
+
+**[WORKING EFFECTIVELY WITH LEGACY CODE](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) BY MICHAEL C. FEATHERS (LEGEND!)**
+
+**[THE MYTHICAL MAN-MONTH: ESSAYS ON SOFTWARE ENGINEERING](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) BY FREDERICK P. BROOKS JR. (A COLLECTION OF ESSAYS ON THE MANAGEMENT AND PLANNING OF GOOD SOFTWARE ENGINEERING; LEGEND!)**
+
+**[DOMAIN-DRIVEN DESIGN: TACKLING COMPLEXITY IN THE HEART OF SOFTWARE](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) BY ERIC EVANS (LEGEND!)**
+
+**[HEAD FIRST DESIGN PATTERNS](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns) BY ERIC FREEMAN, KATHY SIERRA, BERT BATES, ELISABETH ROBSON (HEAD FIRST DESIGN PATTERNS IS A GREAT WAY TO GET A GOOD OVERVIEW ABOUT DESIGN PATTERNS; LEGEND!)**
+
+**[SCRUM: THE ART OF DOING TWICE THE WORK IN HALF THE TIME](https://www.goodreads.com/book/show/19288230-scrum) BY JEFF SUTHERLAND (LEGEND!)**
+
+**[PEOPLEWARE: PRODUCTIVE PROJECTS AND TEAMS](https://www.goodreads.com/book/show/18224718-peopleware) BY TOM DEMARCO (LEGEND!)**
+
+**[CODERS AT WORK: REFLECTIONS ON THE CRAFT OF PROGRAMMING](https://www.goodreads.com/book/show/6713575-coders-at-work) BY PETER SEIBEL (LEGEND!)**
 
 **[STRUCTURE AND INTERPRETATION OF COMPUTER PROGRAMS (SICP)](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs) BY HAROLD ABELSON, GERALD JAY SUSSMAN, JULIE SUSSMAN (FREE BOOK; LEGEND!)**
 
@@ -1324,11 +1507,23 @@ tax; good)
 
 ---
 
+**[Discrete Mathematics and Its Applications](https://www.goodreads.com/book/show/1800803.Discrete_Mathematics_and_Its_Applications) by Kenneth H. Rosen (found this one on my GoogleDrive; amazing!)**
+
+---
+
+**[My System](https://www.goodreads.com/book/show/1430989.My_System) by Aron Nimzovitch, Philip Hereford  (My System describes a theory of chess; it also describes the character and genius of its author; It is a very readable book, for Nimzovich's methods sparkle with humor, pungent originality, and witty explanations; one of the most influential chess books ever written; controversy still rages as to whether Nimzovitch actually invented the ideas described here, but he was certainly the person who popularized them; And his writing style. If nothing else, it's memorable; amazing!)**
+
+---
+
 **[Game Programming Patterns](http://gameprogrammingpatterns.com/) by Bob Nystrom (free book; game programming patterns that make code cleaner, easier to understand, and faster; amazing!)**
 
 ---
 
 **[Designing Interfaces: Patterns for Effective Interaction Design](https://designinginterfaces.com/) by by Jenifer Tidwell (free book; the book is basically an encyclopedia of UI design patterns, or maybe "mini patterns"; amazing!)**
+
+---
+
+~~**[How Would You Move Mount Fuji? Microsoft's Cult of the Puzzle--How the World's Smartest Companies Select the Most Creative Thinkers](https://www.goodreads.com/book/show/205266.How_Would_You_Move_Mount_Fuji_Microsoft_s_Cult_of_the_Puzzle_How_the_World_s_Smartest_Companies_Select_the_Most_Creative_Thinkers) by William Poundstone (I don't like it like a book, but there are interesting problems, and some stories were good; amazing!)**~~
 
 ---
 
@@ -1352,6 +1547,8 @@ tax; good)
 
 ---
 
+**[What Is Mathematics?: An Elementary Approach to Ideas and Methods](https://www.goodreads.com/book/show/584620.What_Is_Mathematics_) by Richard Courant, Herbert Robbins (amazing!)**
+
 **[Fundamentals of Physics](https://www.goodreads.com/book/show/202485.Fundamentals_of_Physics) by David Halliday, Robert Resnick, Jearl Walker (amazing!)**
 
 **[Calculus Made Easy](http://www.gutenberg.org/ebooks/33283) by Silvanus P. Thompson (free book; amazing!)**
@@ -1362,7 +1559,17 @@ tax; good)
 
 ---
 
+**[How to Prove It: A Structured Approach](https://www.goodreads.com/book/show/739735.How_to_Prove_It) by Daniel J. Velleman (amazing!)**
+
+---
+
 **[Modern Operating Systems](https://www.goodreads.com/book/show/166195.Modern_Operating_Systems) by Andrew S. Tanenbaum, Herbert Bos (the book gives a solid conceptual overview of operating system design, including detailed case studies of Unix/Linux and Windows 2000; the book I read during my university days :black_heart:; amazing!)**
+
+**[The Design of the UNIX Operating System](https://www.goodreads.com/book/show/337343.The_Design_of_the_UNIX_Operating_System) by Maurice J. Bach (amazing!)**
+
+**[UNIX and Linux System Administration Handbook](https://www.goodreads.com/book/show/8772005-unix-and-linux-system-administration-handbook) by Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley (amazing!)**
+
+**[Unix Network Programming, Volume 1: Networking APIs - Sockets and XTI](https://www.goodreads.com/book/show/258607.Unix_Network_Programming_Volume_1) by W. Richard Stevens (volumes 2-3 are also good; amazing!)**
 
 ---
 
@@ -1370,7 +1577,13 @@ tax; good)
 
 ---
 
+**[Types and Programming Languages](https://www.goodreads.com/book/show/112252.Types_and_Programming_Languages) by Benjamin C. Pierce (amazing!)**
+
+---
+
 **[The C++ Programming Language](https://www.goodreads.com/book/show/112251.The_C_Programming_Language), 4th ed. by Bjarne Stroustrup (C++11; amazing!)**
+
+**[Effective C++: 55 Specific Ways to Improve Your Programs and Designs](https://www.goodreads.com/book/show/105125.Effective_C_) by Scott Meyers (easy to follow book; very CLEAR explanations without a bunch of fluff; great answers to the whys that you ask when designing software; amazing!)**
 
 ---
 
@@ -1459,9 +1672,13 @@ by Toby Segaran](https://www.goodreads.com/book/show/1741472.Programming_Collect
 
 **[Site Reliability Engineering](https://landing.google.com/sre/book/index.html) by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy (free book; amazing!)**
 
+**[Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development) by Kent Beck (amazing!)**
+
 **[Kanban and Scrum - making the most of both](http://www.infoq.com/minibooks/kanban-scrum-minibook) by Henrik Kniberg, Mattias Skarin (free book; a short and colloquial introduction to Kanban, and/but mostly by comparing it to Scrump; if you're considering switching your shop to "Agile" methods, and/or are dissatisfied with the more traditional (!?!?) Scrum: give this a read; amazing!)**
 
 **[Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2) (free book; this book aims to give you a head start by providing a detailed down-to-earth account of how one Swedish company implemented Scrum and XP with a team of approximately 40 people and how they continuously improved their process over a year's time; amazing!)**
+
+**[Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/book/show/8686650-continuous-delivery) by Jez Humble, David Farley (the best book about Deployment; filled with lots of good advice for improvement and automation of a deployment process; amazing!)**
 
 ---
 
