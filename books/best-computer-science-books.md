@@ -9,6 +9,8 @@
 > "good" does not mean the most popular book, but it has a good rating among a small number of reviews (<100 on GoodReads).
 >
 > ~~Book~~ - I finished reading this book.
+>
+> "found this one on my GoogleDrive" - old book, perhaps, I used it in the university.
 
 > [Conclusion](#Conclusion) ← this is your bro :)
 
@@ -16,35 +18,37 @@
 
 ## The best authors
 
-[Alfred V. Aho](https://www.goodreads.com/author/show/64964.Alfred_V_Aho) ([official webpage](https://web.archive.org/web/20200723193235/http://www.cs.columbia.edu/~aho/)), [John E. Hopcroft](https://www.goodreads.com/author/show/32737.John_E_Hopcroft) ([official webpage](https://www.cs.cornell.edu/jeh/)), [Jeffrey D. Ullman](https://www.goodreads.com/author/show/48051.Jeffrey_D_Ullman) ([official webpage](http://infolab.stanford.edu/~ullman/)) - Algorithms, Compilers, Theory of Computation
+[John E. Hopcroft](https://www.goodreads.com/author/show/32737.John_E_Hopcroft) ([official webpage](https://www.cs.cornell.edu/jeh/)), [Alfred V. Aho](https://www.goodreads.com/author/show/64964.Alfred_V_Aho) ([official webpage](https://web.archive.org/web/20200723193235/http://www.cs.columbia.edu/~aho/)), [Jeffrey D. Ullman](https://www.goodreads.com/author/show/48051.Jeffrey_D_Ullman) ([official webpage](http://infolab.stanford.edu/~ullman/)) - Algorithms, Compilers, Theory of Computation
 
 [Donald Knuth](https://www.goodreads.com/author/show/64941.Donald_Ervin_Knuth) ([official webpage](https://web.archive.org/web/20200201180455/https://www-cs-faculty.stanford.edu/~knuth/)) - "The Art of Computer Programming" series, "Concrete Math"
 
 [Tony Hoare](https://www.cs.ox.ac.uk/people/tony.hoare/) - author of "QuickSort" algorithm; concurrency and nondeterminism in programs
 
-[Niklaus Wirth](https://people.inf.ethz.ch/wirth/) - Pascal, Oberon, Algorithms
+[Niklaus Wirth](https://www.goodreads.com/author/show/32682.Niklaus_Wirth) ([official webpage](https://people.inf.ethz.ch/wirth/)) - Pascal, Oberon, Algorithms
 
 [Alan B. Downey](https://www.goodreads.com/author/show/5725109.Allen_B_Downey) ([official webpage](http://www.allendowney.com/wp/)) - good and pragmatic Introductions to many languages, free and open source books
 
-Brian W. Kernighan - C, Unix
+[Brian W. Kernighan](https://www.goodreads.com/author/show/153350.Brian_W_Kernighan) ([official webpage](https://www.cs.princeton.edu/~bwk/)) - C, Unix
 
 [Alexander Stepanov](http://stepanovpapers.com/) - C++, STL library
 
-Bjarne Stroustrup - C++ language creator
+[Bjarne Stroustrup](https://www.goodreads.com/author/show/64947.Bjarne_Stroustrup) ([official webpage](https://www.stroustrup.com/)) - C++ language creator
 
-Bruce Eckel - Java, C++
+[Bruce Eckel](https://www.goodreads.com/author/show/40523.Bruce_Eckel) ([official webpage](https://www.bruceeckel.com/)) - Java, C++
 
-Joshua Bloch - Java, one of the developers of the language
+[Joshua Bloch](https://www.goodreads.com/author/show/60805.Joshua_Bloch) ([github webpage](https://github.com/jbloch)) - Java, one of the developers of the language
 
-Addy Osmani - JavaScript, Web
+[Addy Osmani](https://www.goodreads.com/author/show/4731125.Addy_Osmani) ([official webpage](https://addyosmani.com/)) - JavaScript, Web
 
-Kyle Simpson - JavaScript, "You Don't Know JS" series
+[Kyle Simpson](https://www.goodreads.com/author/show/5333816.Kyle_Simpson) ([official webpage](https://me.getify.com/)) - JavaScript, "You Don't Know JS" series
 
-Al Sweigart - Python, pragmatic and practical introductions to Python's areas of use, free books
+[Al Sweigart](https://www.goodreads.com/author/show/4079189.Al_Sweigart) ([official webpage](https://alsweigart.com/))- Python, pragmatic and practical introductions to Python's areas of use, free books
 
-Martin Fowler - Software Architecture, Design Patterns
+[Martin Fowler](https://www.goodreads.com/author/show/25215.Martin_Fowler) ([official webpage](https://martinfowler.com/)) - Software Architecture, Design Patterns
 
-[Mark Richards](https://www.developertoarchitect.com/mark-richards.html) - Software Architecture, Microservices, good and pragmatic Introductions, free books
+[Mark Richards](https://www.goodreads.com/author/show/19751098.Mark_Richards) ([official webpage](https://www.developertoarchitect.com/mark-richards.html)) - Software Architecture, Microservices, good and pragmatic Introductions, free books
+
+[Grady Booch](https://www.goodreads.com/author/show/32713.Grady_Booch) ([official webpage](https://researcher.watson.ibm.com/researcher/view.php?person=us-gbooch)) - Object-Oriented Programming, UML developer
 
 ## Algorithms and Data Structures
 
@@ -220,6 +224,14 @@ Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb
 [Kubernetes Cookbook](https://www.packtpub.com/free-ebooks/kubernetes-cookbook-second-edition), 2nd ed. by Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu (Packt account *required*; how to automate and manage your Linux containers and improve the overall performance of your system; pretty beginner level introduction; could be outdated)
 
 ## Games for Programmers
+
+### About Games
+
+[Playing to Win: Becoming the Champion](https://www.goodreads.com/book/show/18171.Playing_to_Win) by David Sirlin (found this book in the days when I played Gwent; this very short book about playing games like Street Fighter, Chess, and Magic the Gathering, at the highest tournament levels; a lot of great advice written clearly and usefully, cleverly laid out and accessible; good!)
+
+### Card Games
+
+.
 
 ### Chess
 
@@ -1293,17 +1305,11 @@ by Martin O. Jones (for biologists; good)
 
 **[Patterns of Enterprise Application Architecture](https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture) by Martin Fowler, David Rice, Matthew Foemmel, Edward Hieatt, Robert Mee, Randy Stafford (could be outdated; relational databases still play a large role in many enterprise applications, but this material either predates or ignores other types of storage like distributed file systems (e.g., HDFS) and key-value storage (e.g., Redis); and with so many web applications using cloud services, horizontal scaling is practically a must for anything serious; this is a book you might want on your shelf because people may occasionally mention some of the patterns it describes (such as Active Record and Unit of Work; also, many of the patterns in the general section at the end of the book are quite good); amazing!)**
 
-[Pattern Hatching: Design Patterns Applied](https://www.goodreads.com/book/show/85063.Pattern_Hatching) by John M. Vlissides (found this one on my GoogleDrive; this book was recommended by Alexander Khizha for the second course work; John Vlissides goes through design of an imaginary file system, exploring and applying design patterns; good)
-
-[How to Design Programs: An Introduction to Programming and Computing](http://www.htdp.org/) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi (free book; more like a book on programming; unlike other introductory books, it focuses on the program design process; this approach fosters a variety of skills--critical reading, analytical thinking, creative synthesis, and attention to detail--that are important for everyone, not just future computer programmers; a true gem if you are learning to program, but a bit too slow-paced if you already are a proficient programmer; good!)
-
 **[REFACTORING: IMPROVING THE DESIGN OF EXISTING CODE](https://www.goodreads.com/book/show/44936.Refactoring) BY MARTIN FOWLER (LEGEND!)**
 
 **[WORKING EFFECTIVELY WITH LEGACY CODE](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) BY MICHAEL C. FEATHERS (LEGEND!)**
 
-**[UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.goodreads.com/book/show/85001.UML_Distilled) by Martin Fowler (amazing!)**
-
-**[THE MYTHICAL MAN-MONTH: ESSAYS ON SOFTWARE ENGINEERING](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) BY FREDERICK P. BROOKS JR. (A COLLECTION OF ESSAYS ON THE MANAGEMENT AND PLANNING OF GOOD SOFTWARE ENGINEERING; LEGEND!)**
+[How to Design Programs: An Introduction to Programming and Computing](http://www.htdp.org/) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi (free book; more like a book on programming; unlike other introductory books, it focuses on the program design process; this approach fosters a variety of skills--critical reading, analytical thinking, creative synthesis, and attention to detail--that are important for everyone, not just future computer programmers; a true gem if you are learning to program, but a bit too slow-paced if you already are a proficient programmer; good!)
 
 ### API
 
@@ -1346,13 +1352,15 @@ tax; good)
 
 [Serverless Design Patterns and Best Practices](https://www.packtpub.com/free-ebooks/serverless-design-patterns-and-best-practices) by Brian Zambrano (Packt account required; get started with designing your serverless application using optimum design patterns and industry standard practices)
 
-#### Test Driven Development
+#### UML
 
-**[Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development) by Kent Beck (amazing!)**
+**[UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.goodreads.com/book/show/85001.UML_Distilled) by Martin Fowler (amazing!)**
 
 ### Design Patterns
 
 **[HEAD FIRST DESIGN PATTERNS](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns) BY ERIC FREEMAN, KATHY SIERRA, BERT BATES, ELISABETH ROBSON (HEAD FIRST DESIGN PATTERNS IS A GREAT WAY TO GET A GOOD OVERVIEW ABOUT DESIGN PATTERNS; LEGEND!)**
+
+[Pattern Hatching: Design Patterns Applied](https://www.goodreads.com/book/show/85063.Pattern_Hatching) by John M. Vlissides (found this one on my GoogleDrive; this book was recommended by Alexander Khizha for the second course work; John Vlissides goes through design of an imaginary file system, exploring and applying design patterns; good)
 
 [Object-Oriented Reengineering Patterns](http://scg.unibe.ch/download/oorp/) by S. Demeyer, S. Ducasse and O. Nierstrasz (free book; refactoring Legacy code is as important as the subject is dry, therefore not well considered; this is the subject of this book where a 9 step process is proposed; each step, embedded in a chapter, take the shape of a pattern language; because that's it: a patterns book; unfortunately, the angle doesn't catch us even if this choice is a good one for the subject; good)
 
@@ -1360,7 +1368,11 @@ tax; good)
 
 [Software Architecture Patterns](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf) by Mark Richards (free book; nice and quick overview of some software architecture patterns; Microservices Architecture is just some kind of high-level summary; good!)
 
-### Software Development Methodologies
+### Test Driven Development
+
+**[Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development) by Kent Beck (amazing!)**
+
+### Software Development Methodologies and Project Management
 
 [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) by Launch School (free book)
 
@@ -1376,8 +1388,6 @@ tax; good)
 
 **[Soft Skills: The Software Developer's Life Manual](https://www.goodreads.com/book/show/23232941-soft-skills) by John Z. Sonmez (amazing!)**
 
-**[CODERS AT WORK: REFLECTIONS ON THE CRAFT OF PROGRAMMING](https://www.goodreads.com/book/show/6713575-coders-at-work) BY PETER SEIBEL (LEGEND!)**
-
 ### Software Deployment
 
 **[Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/book/show/8686650-continuous-delivery) by Jez Humble, David Farley (the best book about Deployment; filled with lots of good advice for improvement and automation of a deployment process; amazing!)**
@@ -1387,6 +1397,12 @@ tax; good)
 [Migrating to Cloud-Native Application Architectures](https://www.nginx.com/resources/library/cloud-native-applications/#download) by Matt Stine (free book; there are not much "cookbook" portion, the rest is all quite useful, content-rich, and clearly written; good)
 
 [Migrating to Microservice Databases](https://developers.redhat.com/books/migrating-microservice-databases-relational-monolith-distributed-data) by Edson Yanaga (free book; short book reviewing different approaches to binding microservices to databases, including questions of evolving schemas, multiple versions, etc; not so much new for experienced architect, but could be useful for people who worked mostly with "legacy" architectures; good)
+
+### Stories and Practices
+
+**[THE MYTHICAL MAN-MONTH: ESSAYS ON SOFTWARE ENGINEERING](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) BY FREDERICK P. BROOKS JR. (A COLLECTION OF ESSAYS ON THE MANAGEMENT AND PLANNING OF GOOD SOFTWARE ENGINEERING; LEGEND!)**
+
+**[CODERS AT WORK: REFLECTIONS ON THE CRAFT OF PROGRAMMING](https://www.goodreads.com/book/show/6713575-coders-at-work) BY PETER SEIBEL (LEGEND!)**
 
 ## Theoretical Computer Science
 
@@ -1439,13 +1455,21 @@ tax; good)
 
 **[INTRODUCTION TO ALGORITHMS](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms) BY THOMAS H. CORMEN, CHARLES E. LEISERSON, RONALD L. RIVEST, CLIFFORD STEIN (LEGEND!)**
 
+---
+
 **[CODE: THE HIDDEN LANGUAGE OF COMPUTER HARDWARE AND SOFTWARE](https://www.goodreads.com/book/show/44882.Code) BY CHARLES PETZOLD (legend!)**
 
 **[ALGORITHMS TO LIVE BY: THE COMPUTER SCIENCE OF HUMAN DECISIONS](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by) BY BRIAN CHRISTIAN, TOM GRIFFITHS (IN THIS BOOK THE AUTHORS EXPLAIN FAMOUS ALGORITHMS IN REAL WORLD CONTEXT; LEGEND!)**
 
+---
+
 **[DON'T MAKE ME THINK, REVISITED: A COMMON SENSE APPROACH TO WEB USABILITY](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) BY STEVE KRUG (DON'T MAKE ME THINK IS A SOLID, LAYMAN'S TERMS EXAMINATION OF UI DESIGN AND USABILITY ISSUES, PARTICULARLY AS THOSE ISSUES APPLY TO WEB SITES; STEVE KRUG PRESENTS US WITH A PLAIN-ENGLISH APPROACH THAT JUST ABOUT ANY WEB PROFESSIONAL CAN QUICKLY AND EASILY DIGEST AND THEN RAPIDLY APPLY TO HIS WORK FOR MAXIMUM EFFECTIVENESS; LEGEND!)**
 
+---
+
 **[CRACKING THE CODING INTERVIEW: 150 PROGRAMMING QUESTIONS AND SOLUTIONS](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview) BY GAYLE LAAKMANN MCDOWELL (LEGEND!)**
+
+---
 
 ~~**[THE C PROGRAMMING LANGUAGE](https://www.goodreads.com/book/show/515601.The_C_Programming_Language), 2ND ED. BY KERNIGHAN, RITCHIE (MY VERY FIRST BOOK ON PROGRAMMING, WHICH I READ COMPLETELY :BLACK_HEART:; LEGEND!)**~~
 
@@ -1454,6 +1478,8 @@ tax; good)
 **[JAVASCRIPT: THE GOOD PARTS](https://www.goodreads.com/book/show/2998152-javascript) BY DOUGLAS CROCKFORD (LEGEND!)**
 
 **[CLEAN CODE: A HANDBOOK OF AGILE SOFTWARE CRAFTSMANSHIP](https://www.goodreads.com/book/show/3735293-clean-code) BY ROBERT C. MARTIN (LEGEND!)**
+
+---
 
 **[CODE COMPLETE](https://www.goodreads.com/book/show/22006920-code-complete-2nd-second-edition-text-only), 2ND ED. BY STEVE MCCONNELL (THE BOOK PROVIDES GUIDELINES AND HINTS ABOUT HOW TO WRITE YOUR CODE AND WHY; LEGEND!)**
 
@@ -1465,8 +1491,6 @@ tax; good)
 
 **[WORKING EFFECTIVELY WITH LEGACY CODE](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code) BY MICHAEL C. FEATHERS (LEGEND!)**
 
-**[THE MYTHICAL MAN-MONTH: ESSAYS ON SOFTWARE ENGINEERING](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) BY FREDERICK P. BROOKS JR. (A COLLECTION OF ESSAYS ON THE MANAGEMENT AND PLANNING OF GOOD SOFTWARE ENGINEERING; LEGEND!)**
-
 **[DOMAIN-DRIVEN DESIGN: TACKLING COMPLEXITY IN THE HEART OF SOFTWARE](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) BY ERIC EVANS (LEGEND!)**
 
 **[HEAD FIRST DESIGN PATTERNS](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns) BY ERIC FREEMAN, KATHY SIERRA, BERT BATES, ELISABETH ROBSON (HEAD FIRST DESIGN PATTERNS IS A GREAT WAY TO GET A GOOD OVERVIEW ABOUT DESIGN PATTERNS; LEGEND!)**
@@ -1475,7 +1499,11 @@ tax; good)
 
 **[PEOPLEWARE: PRODUCTIVE PROJECTS AND TEAMS](https://www.goodreads.com/book/show/18224718-peopleware) BY TOM DEMARCO (LEGEND!)**
 
+**[THE MYTHICAL MAN-MONTH: ESSAYS ON SOFTWARE ENGINEERING](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month) BY FREDERICK P. BROOKS JR. (A COLLECTION OF ESSAYS ON THE MANAGEMENT AND PLANNING OF GOOD SOFTWARE ENGINEERING; LEGEND!)**
+
 **[CODERS AT WORK: REFLECTIONS ON THE CRAFT OF PROGRAMMING](https://www.goodreads.com/book/show/6713575-coders-at-work) BY PETER SEIBEL (LEGEND!)**
+
+---
 
 **[STRUCTURE AND INTERPRETATION OF COMPUTER PROGRAMS (SICP)](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs) BY HAROLD ABELSON, GERALD JAY SUSSMAN, JULIE SUSSMAN (FREE BOOK; LEGEND!)**
 
@@ -1668,9 +1696,9 @@ by Toby Segaran](https://www.goodreads.com/book/show/1741472.Programming_Collect
 
 **[Patterns of Enterprise Application Architecture](https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture) by Martin Fowler, David Rice, Matthew Foemmel, Edward Hieatt, Robert Mee, Randy Stafford (could be outdated; relational databases still play a large role in many enterprise applications, but this material either predates or ignores other types of storage like distributed file systems (e.g., HDFS) and key-value storage (e.g., Redis); and with so many web applications using cloud services, horizontal scaling is practically a must for anything serious; this is a book you might want on your shelf because people may occasionally mention some of the patterns it describes (such as Active Record and Unit of Work; also, many of the patterns in the general section at the end of the book are quite good); amazing!)**
 
-**[UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.goodreads.com/book/show/85001.UML_Distilled) by Martin Fowler (amazing!)**
-
 **[Site Reliability Engineering](https://landing.google.com/sre/book/index.html) by Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy (free book; amazing!)**
+
+**[UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.goodreads.com/book/show/85001.UML_Distilled) by Martin Fowler (amazing!)**
 
 **[Test Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development) by Kent Beck (amazing!)**
 
