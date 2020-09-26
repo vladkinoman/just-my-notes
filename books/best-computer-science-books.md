@@ -142,19 +142,11 @@
 
 ## Cellular Automata
 
-<<<<<<< HEAD
 **[Introduction to the Theory of Computation](https://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation?ac=1&from_search=true&qid=7qhPgSyNjk&rank=1) by Michael Sipser (amazing!)**
 
 **[Introduction to Automata Theory, Languages, and Computation](https://www.goodreads.com/book/show/1384026.Introduction_to_Automata_Theory_Languages_and_Computation?ac=1&from_search=true&qid=6WfnUxx4rN&rank=1) by by John E. Hopcroft, Rajeev Motwani, Jeffrey D. Ullman (amazing!)**
 
 **[A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) by Stephen Wolfram (free book; amazing!)**
-=======
-[Introduction to the Theory of Computation](https://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation?ac=1&from_search=true&qid=7qhPgSyNjk&rank=1) by Sipser
-
-[Introduction to Automata Theory, Languages, and Computation](https://www.goodreads.com/book/show/1384026.Introduction_to_Automata_Theory_Languages_and_Computation?ac=1&from_search=true&qid=6WfnUxx4rN&rank=1) by Hopcroft, Motwani, Ullman
-
-[A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) by Stephen Wolfram (free book)
->>>>>>> be0ad55... Add the best JavaScript/frameworks books
 
 > Nice review on Wolfram's book: [link](https://www.goodreads.com/review/show/499603520?book_show_action=true&from_review_page=1).
 
@@ -402,25 +394,13 @@ Proving Programs Correct by Robert Anderson (can't say it was a good book)
 
 [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/) by Greg Kroah-Hartman (free book; good)
 
-<<<<<<< HEAD
 [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/index.html) (free book)
 
 #### Intermediate
-=======
-[Linux Bible](https://www.goodreads.com/book/show/13838572-linux-bible)
->>>>>>> be0ad55... Add the best JavaScript/frameworks books
 
 [Linux Bible](https://www.goodreads.com/book/show/13838572-linux-bible) by Christopher Negus, Christine Bresnahan (good!)
 
-<<<<<<< HEAD
 #### Advanced
-=======
-[The Linux Programming Interface: A Linux and Unix System Programming Handbook](https://www.goodreads.com/book/show/7672214-the-linux-programming-interface?ac=1&from_search=true)
-
-[Linux Kernel Development](https://www.goodreads.com/book/show/8474434-linux-kernel-development)
-
-[Linux Device Drivers, 3rd ed.](https://lwn.net/Kernel/LDD3/) (free book)
->>>>>>> be0ad55... Add the best JavaScript/frameworks books
 
 **[The Linux Programming Interface: A Linux and Unix System Programming Handbook](https://www.goodreads.com/book/show/7672214-the-linux-programming-interface?ac=1&from_search=true) by Michael Kerrisk (amazing!)**
 
@@ -436,37 +416,15 @@ Proving Programs Correct by Robert Anderson (can't say it was a good book)
 
 ### Linux Exams
 
-<<<<<<< HEAD
 [RHCSA/RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300), 6th Edition](https://www.goodreads.com/book/show/9879184-rhcsa-rhce-red-hat-linux-certification-study-guide-exams-ex200-ex300) by Michael Jang (good!)
-=======
-##### Problems
->>>>>>> be0ad55... Add the best JavaScript/frameworks books
 
 [Comptia Linux+ Complete Study Guide Authorized Courseware, 2nd Edition (Lx0-101 and Lx0-102)](https://www.goodreads.com/book/show/16219705-comptia-linux-complete-study-guide-authorized-courseware-2nd-edition, 2nd Edition (Lx0-101 and Lx0-102)) by Roderick W. Smith (good)
 
-<<<<<<< HEAD
 [Comptia Linux+ Powered by Linux Professional Institute Study Guide: Exam Lx0-103 and Exam Lx0-104](https://www.goodreads.com/book/show/23368775-comptia-linux-powered-by-linux-professional-institute-study-guide) by Roderick W. Smith, Christine Bresnahan, Richard Blum (good)
-=======
-##### Standards
->>>>>>> be0ad55... Add the best JavaScript/frameworks books
 
 ## Machine Learning
 
-<<<<<<< HEAD
 ### Introduction to ML
-=======
-#### С++
-
-##### Main books
-
-The C++ Programming Language, 4th ed. by Stroustrup (C++11)
-
-The C++ Programming Language, Special ed. by Stroustrup (C++ 98, the book I read during my university days :black_heart: )
-
-Programming Principles and Practice Using C++, 2nd ed. by Stroustrup (C++11, C++14)
-
-#### C#
->>>>>>> be0ad55... Add the best JavaScript/frameworks books
 
 **[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (free book; amazing!, one of the best!)**
 
@@ -490,15 +448,7 @@ Programming Principles and Practice Using C++, 2nd ed. by Stroustrup (C++11, C++
 
 [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar (free book; a guide for making Black Box models explainable; good)
 
-<<<<<<< HEAD
 [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) by Carl Edward Rasmussen, Christopher K.I. Williams (free book; a meh... book - Gaussian processes are essentially understanding, the conditional and marginal densities of a normal distribution, felt it was badly written; good)
-=======
-#### HTML / CSS
-
-[HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/) by Josh Marinacci (free book)
-
-#### Java
->>>>>>> be0ad55... Add the best JavaScript/frameworks books
 
 [Machine Learning for Data Streams](https://moa.cms.waikato.ac.nz/book-html/) by Albert Bifet, Ricard Gavaldà, Geoff Holmes, Bernhard Pfahringer (free book)
 
@@ -522,107 +472,15 @@ Programming Principles and Practice Using C++, 2nd ed. by Stroustrup (C++11, C++
 
 ### Natural Language Processing
 
-<<<<<<< HEAD
 [Speech and Language Processing (3rd Edition Draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky, James H. Martin (free book; good!)
 
 ### Tools
-=======
-###### Beginner
-
-[Learning Web App Development](https://www.goodreads.com/book/show/18167211-learning-web-app-development?ac=1&from_search=true&qid=1yzlp0Gkid&rank=1) by Semmy Purewal (a very comprehensive book on front end web application development using HTML, CSS, Javascript. Great for beginners)
-
-[Eloquent JavaScript, 3rd edition by Haverbeke](https://eloquentjavascript.net/) (online book is free and it has a command line)
->>>>>>> be0ad55... Add the best JavaScript/frameworks books
 
 [Learn Tensorflow](https://bitbucket.org/hrojas/learn-tensorflow) by Hernan Rojas (free book)
 
-<<<<<<< HEAD
 ## Mathematics
 
 ### About Math
-=======
-[Learning Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Osmani
-
-> Here is a negative review on Osmani's book: [link](https://www.goodreads.com/review/show/409144271?book_show_action=true&from_review_page=1).
-
-###### Intermediate
-
-JavaScript: The Good Parts by Crockford
-
-[JavaScript for Impatient Programmers](https://exploringjs.com/impatient-js/index.html) by Axel Rauschmayer (free book)
-
-[The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/) by Archibald (free book)
-
-[Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/tech/JsFrontendApp/book/) by Wagner (free book)
-
-[Javascript Challenges](https://github.com/tcorral/javascript-challenges-book) by Tom Corral (free book)
-
-[Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) by Lonsdorf (free book, great btw)
-
-[Neural Networks with JavaScript Succinctly](https://www.syncfusion.com/ebooks/neural-networks-with-javascript-succinctly) by McCaffrey (free book, I don't know how good it is)
-
-###### Advanced
-
-High Performance JavaScript by Zakas
-
-[JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/) by Ivo Wetzel, Zhang Yi Jiang (free ebook, growing collection of documentation about quirky parts of JS) [[RU ver.]](https://bonsaiden.github.io/JavaScript-Garden/ru/)
-
-[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson (free book series, this is a series of books diving deep into the core mechanisms of the JavaScript language)
-
-[Build a JavaScript framework](https://s3.amazonaws.com/dailyjs/files/build-a-javascript-framework.pdf) (free book)
-
-[Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/) by Axel Rauschmayer (free book, covers advanced JavaScript topics, the book to read after “JavaScript for impatient programmers”)
-
-###### Angular.js
-
-> Considering frameworks, I think it is better to read the official documentation and the MDN web docs. However, I think the next books are still good.
-
-[AngularJS Step by Logical Step]() by Nicholas Johnson (free book, old but could be good introduction)
-
-###### Backbone.js
-
-[Developing Backbone.js Applications](https://github.com/addyosmani/backbone-fundamentals) by Osmani (free book, slightly outdated, a light introduction to backbone, and a lot of extra information about history of MVC, testing tools for JS, module loaders, etc.)
-
-###### Ember.js
-
-[Ember Tutorial](http://ember.vicramon.com/) by Vic Ramon (free book)
-
-[Ember.js Style Guide](https://github.com/DockYard/styleguides/blob/master/engineering/ember.md#ember-data) 
-
-###### Node.js
-
-<u>Beginner</u>
-
-[The Art of Node](https://github.com/maxogden/art-of-node) by Max Ogden (free book, a short introduction to Node.js)
-
-[Your First App: Node.js](https://github.com/jimschubert/yfa-nodejs-code) by Jim Schubert (free book, good but could be outdated)
-
-<u>Intemediate</u>
-
-[Node.js Design Patterns](https://www.goodreads.com/book/show/24514193-node-js-design-patterns?ac=1&from_search=true&qid=AB7nUEyhS7&rank=2) by Mario Casciaro
-
-###### React.js
-
-<u>Beginner</u>
-
-[React: Up and Running](https://www.goodreads.com/book/show/26177715-react) by Stoyan Stefanov
-
-<u>Intemediate</u>
-
-[React In-depth](https://legacy.gitbook.com/book/developmentarc/react-indepth/details) by James Polanco, Aaron Pedersen (free book)
-
-[Fullstack React: The Complete Guide to ReactJS and Friends](https://www.goodreads.com/book/show/32705383-fullstack-react) by Anthony Accomazzo (Goodreads Author), Ari Lerner, David Guttman, Nate Murray, Clay Allsopp, Tyler McGinnis
-
-[Pro MERN Stack: Full Stack Web App Development with Mongo, Express, React, and Node](https://www.goodreads.com/book/show/34651799-pro-mern-stack) by Vasan Subramanian
-
-[Learn React Hooks: Build and refactor modern React.js applications using Hooks](https://www.goodreads.com/book/show/48611191-learn-react-hooks) by Daniel Bugl
-
-###### Vue.js
-
-[Vue.js: Up and Running: Building Accessible and Performant Web Apps](https://www.goodreads.com/book/show/39076585-vue-js) by Callum MacraeTesting [Vue. Js Applications](https://www.goodreads.com/book/show/40535888-testing-vue-js-applications) by Edd Yerburgh
-
-#### Emacs Lisp
->>>>>>> be0ad55... Add the best JavaScript/frameworks books
 
 **[What Is Mathematics?: An Elementary Approach to Ideas and Methods](https://www.goodreads.com/book/show/584620.What_Is_Mathematics_) by Richard Courant, Herbert Robbins (amazing!)**
 
@@ -1846,7 +1704,6 @@ by Toby Segaran](https://www.goodreads.com/book/show/1741472.Programming_Collect
 
 **[Kanban and Scrum - making the most of both](http://www.infoq.com/minibooks/kanban-scrum-minibook) by Henrik Kniberg, Mattias Skarin (free book; a short and colloquial introduction to Kanban, and/but mostly by comparing it to Scrump; if you're considering switching your shop to "Agile" methods, and/or are dissatisfied with the more traditional (!?!?) Scrum: give this a read; amazing!)**
 
-<<<<<<< HEAD
 **[Scrum and XP from the Trenches](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2) (free book; this book aims to give you a head start by providing a detailed down-to-earth account of how one Swedish company implemented Scrum and XP with a team of approximately 40 people and how they continuously improved their process over a year's time; amazing!)**
 
 **[Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/book/show/8686650-continuous-delivery) by Jez Humble, David Farley (the best book about Deployment; filled with lots of good advice for improvement and automation of a deployment process; amazing!)**
@@ -1860,6 +1717,3 @@ by Toby Segaran](https://www.goodreads.com/book/show/1741472.Programming_Collect
 **[High Performance Browser Networking](https://hpbn.co/) by Ilya Grigorik (free book; super detailed look at the elements that go in to browser performance; this isn't about concatenating your JavaScript; it's about latency and what causes it (and how to deal with it); amazing!)**
 
 **[RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) by Leonard Richardson, Sam Ruby (free book; could be outdated; amazing!)**
-=======
-Clean Code: A Handbook of Agile Software Craftsmanship by Martin
->>>>>>> be0ad55... Add the best JavaScript/frameworks books
