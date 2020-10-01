@@ -308,3 +308,20 @@ The **time complexity** of an algorithm estimates how much time the algorithm wi
 The time complexity of an algorithm is denoted O ( · · · ) where the three dots represent some function.
 
 Looks like "Order of magnitude" = "Order of growth". 
+
+## Sorting
+
+A useful concept when analyzing sorting algorithms is an **inversion**: a pair of array elements (array[a], array[b]) such that a < b and array[a] > array[b], i.e., the elements are in the wrong order. For example, the array
+
+```
+1 | 2 | 2 | 6 | 3 | 5 | 9 | 8
+```
+
+has three inversions: (6, 3), (6, 5) and (9, 8). An array is completely sorted when there are no inversions. On the other hand, if the array elements are in the reverse order, the number of inversions is the largest possible:
+$$
+1 + 2 + ... + (n-1) = \frac{n(n-1)}{2} = O (n^2)
+$$
+Swapping a pair of consecutive elements that are in the wrong order removes
+exactly one inversion from the array. Hence, if a sorting algorithm can only swap
+consecutive elements, each swap removes <u>at most</u> one inversion, and the time
+complexity of the algorithm is at least O(n^2).
