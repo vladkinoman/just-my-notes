@@ -103,7 +103,50 @@ Note: of course, all these changes are done locally, you should `git push` after
 
 Note2: if working on a branch and you need to force push, you should absolutely avoid `git push --force` because this may overwrite other branches (if you have made changes in them, even if your current checkout is on another branch). Prefer to **always specify the remote branch when you force push**: `git push --force origin your_branch`.
 
+## Rewriting history in Git
+
+> Dangerous zone! :fire: :radioactive:
+
+**Issue**
+
+After git pushing to Github, I notice that I have two accounts with identical names: vladkinoman and vladkinoman. Using git show, I found that my commits have different emails:
+
+- `vladkinoman@github.com`
+- `vladbeklenyshchev@gmail.com` - my primary email, this is what I want to see in the history of the repository.
+
+**Solution**
+
+The problem is the email specified in the config files. I changed my login on Github. After that, I probably forgot to introduce myself to the system.
+
+I had many similar occurrences in the history. Plus, this is my personal repository, so I decided to rewrite the history.
+
+We can use "filter-branch" command. It allows you to batch-process a (potentially large) number of commits with a script. You can run the below sample script in your repository (filling in real values for the old and new email and name):
+
+```bash
+$ git filter-branch --env-filter '
+WRONG_EMAIL="wrong@example.com"
+NEW_NAME="New Name Value"
+NEW_EMAIL="correct@example.com"
+
+if [ "$GIT_COMMITTER_EMAIL" = "$WRONG_EMAIL" ]
+then
+    export GIT_COMMITTER_NAME="$NEW_NAME"
+    export GIT_COMMITTER_EMAIL="$NEW_EMAIL"
+fi
+if [ "$GIT_AUTHOR_EMAIL" = "$WRONG_EMAIL" ]
+then
+    export GIT_AUTHOR_NAME="$NEW_NAME"
+    export GIT_AUTHOR_EMAIL="$NEW_EMAIL"
+fi
+' --tag-name-filter cat -- --branches --tags
+```
+
+The same warning applies to this method as to the others mentioned: **you are rewriting history with this command**, creating new commit objects along the way!
+
+Preferably, you should only do this in repositories that haven't been published / shared, yet. In any other case you should **use it with extreme care** - and only if you're aware of the side effects!
+
 ## References
 
 1. https://devconnected.com/how-to-undo-last-git-commit/#:~:text=The%20easiest%20way%20to%20undo,removed%20from%20your%20Git%20history
 2. https://stackoverflow.com/questions/2938301/remove-specific-commit
+3. https://www.git-tower.com/learn/git/faq/change-author-name-email/
