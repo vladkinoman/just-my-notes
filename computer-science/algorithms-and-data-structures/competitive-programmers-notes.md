@@ -556,3 +556,220 @@ int k = x+1;
 ```
 
 Note that unlike in the ordinary binary search, here it is not allowed that consecutive values of the function are equal. In this case it would not be possible to know how to continue the search.
+
+## Data structures 
+
+### Dynamic arrays
+
+A **dynamic array** is an array whose size can be changed during the execution of the program. The most popular dynamic array in C++ is the `vector` structure, which can be used almost like an ordinary array.
+
+```c++
+vector<int> v;
+v.push_back(3); // [3]
+v.push_back(2); // [3,2]
+v.push_back(5); // [3,2,5]
+```
+
+After this, the elements can be accessed like in an ordinary array:
+
+```c++
+cout << v[0] << "\n"; // 3
+cout << v[1] << "\n"; // 2
+cout << v[2] << "\n"; // 5
+```
+
+The function `size` returns the number of elements in the vector. The following code iterates through the vector and prints all elements in it:
+
+```c++
+for (int i = 0; i < v.size(); i++) {
+	cout << v[i] << "\n";
+}
+```
+
+A shorter way to iterate through a vector is as follows (for each):
+
+```c++
+for (auto x : v) {
+	cout << x << "\n";
+}
+```
+
+The function `back` returns the last element in the vector, and the function `pop_back` <u>removes</u> the lase elements:
+
+```c++
+vector<int> v;
+v.push_back(5);
+v.push_back(2);
+cout << v.back() << "\n"; // 2
+v.pop_back();
+cout << v.back() << "\n"; // 5
+```
+
+The following code creates a vector with five elements:
+
+```c++
+vector<int> v = {2,4,2,5,1};
+```
+
+Another way to create a vector is to give the number of elements and the initial value for each element:
+
+```c++
+// size 10, initial value 0
+vector<int> v(10);
+```
+
+```c++
+// size 10, initial value 5
+vector<int> v(10, 5);
+```
+
+The internal implementation of a vector uses an ordinary array. If the size of the vector increases and the array becomes too small, a new array is allocated and all the elements are moved to the new array. However, this does not happen often and the average time complexity of `push_back` is O (1).
+
+The `string` structure is also a dynamic array that can be used almost like a vector. In addition, there is special syntax for strings that is not available in other data structures. Strings can be combined using the `+` symbol. The function `substr(k,x)` returns the substring that begins at position k and has length x, and the function `find(t)` finds the position of the first occurrence of a substring t .
+
+```c++
+string a = "hatti";
+string b = a+a;
+cout << b << "\n"; // hattihatti
+b[5] = ’v’;
+cout << b << "\n"; // hattivatti
+string c = b.substr(3,4);
+cout << c << "\n"; // tiva
+```
+
+### Set structures
+
+A **set** is a data structure that maintains a collection of elements. The basic operations of sets are element insertion, search and removal.
+
+The C++ standard library contains two set implementations: The structure `set` is based on a **balanced binary tree** and its operations work in O (log n) time. The structure `unordered_set` uses **hashing**, and its operations work in O (1) time on average.
+
+The choice of which set implementation to use is often a matter of taste. The benefit of the `set` structure is that it maintains the order of the elements and provides functions that are not available in `unordered_set` . On the other hand, `unordered_set` can be more efficient.
+
+```c++
+set<int> s;
+s.insert(3);
+s.insert(2);
+s.insert(5);
+cout << s.count(3) << "\n"; // 1 - the element is in the set
+cout << s.count(4) << "\n"; // 0
+s.erase(3); // remove the element from the set
+s.insert(4);
+cout << s.count(3) << "\n"; // 0
+cout << s.count(4) << "\n"; // 1
+```
+
+A set can be used mostly like a vector, but it is not possible to access the elements using the [] notation. The following code creates a set, prints the number of elements in it, and then iterates through all the elements:
+
+```c++
+set<int> s = {2,5,6,8};
+cout << s.size() << "\n"; // 4
+for (auto x : s) {
+	cout << x << "\n";
+}
+```
+
+An important property of sets is that all their elements are *distinct*. Thus, the function count always returns either 0 (the element is not in the set) or 1 (the element is in the set), and the function insert never adds an element to the set if it is already there. The following code illustrates this:
+
+```c++
+set<int> s;
+s.insert(5);
+s.insert(5);
+s.insert(5);
+cout << s.count(5) << "\n"; // 1
+```
+
+C++ also contains the structures `multiset` and `unordered_multiset` that otherwise work like `set` and `unordered_set` but they can contain multiple instances of an element. For example, in the following code all three instances of the number 5 are added to a multiset:
+
+```c++
+multiset<int> s;
+s.insert(5);
+s.insert(5);
+s.insert(5);
+cout << s.count(5) << "\n"; // 3
+```
+
+The function erase removes all instances of an element from a multiset:
+
+```c++
+s.erase(5);
+cout << s.count(5) << "\n"; // 0
+```
+
+Often, only one instance should be removed, which can be done as follows:
+
+```c++
+s.erase(s.find(5));
+cout << s.count(5) << "\n"; // 2
+```
+
+### Map structures
+
+A **map** is a generalized array that consists of key-value-pairs. While the keys in an ordinary array are always the consecutive integers 0, 1, . . . , n − 1, where n is the size of the array, the keys in a map can be of any data type and they do not have to be consecutive values.
+
+The C++ standard library contains two map implementations that correspond to the set implementations: the structure `map` is based on a **balanced binary tree** and accessing elements takes O (log n) time, while the structure `unordered_map` uses **hashing** and accessing elements takes O (1) time on average.
+
+```c++
+map<string,int> m;
+m["monkey"] = 4;
+m["banana"] = 3;
+m["harpsichord"] = 9;
+cout << m["banana"] << "\n"; // 3
+```
+
+If the value of a key is requested but the map does not contain it, the key is automatically added to the map with a default value. For example, in the following code, the key "aybabtu" with value 0 is added to the map.
+
+```c++
+map<string,int> m;
+cout << m["aybabtu"] << "\n"; // 0
+```
+
+The function count checks if a key exists in a map:
+
+```c++
+if (m.count("aybabtu")) {
+	// key exists
+}
+```
+
+The following code prints all the keys and values in a map:
+
+```c++
+for (auto x : m) {
+	cout << x.first << " " << x.second << "\n";
+}
+```
+
+### Iterators and ranges
+
+
+
+### Other structures
+
+
+
+#### Bitset
+
+
+
+#### Deque
+
+
+
+#### Stack
+
+
+
+#### Queue
+
+
+
+#### Priority queue
+
+
+
+#### Policy-based data structures
+
+
+
+### Comparison to sorting
+
