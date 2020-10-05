@@ -507,7 +507,7 @@ auto b = upper_bound(array, array+n, x);
 cout << b-a << "\n";
 ```
 
-Using equal_range , the code becomes shorter:
+Using `equal_range`, the code becomes shorter:
 
 ```c++
 auto r = equal_range(array, array+n, x);
@@ -741,35 +741,272 @@ for (auto x : m) {
 
 ### Iterators and ranges
 
+Many functions in the C++ standard library operate with iterators. An **iterator** is a variable that points to an element in a data structure.
 
+The iterator `begin` points to the first element in the data structure, and the iterator `end` points to the position *after* the last element.
+
+```c++
+{ 3, 4, 6, 8, 12, 13, 14, 17 }
+  ↑							↑
+  s.begin()					s.end()
+```
+
+Note the asymmetry in the iterators: `s.begin()` points to an element in the data structure, while `s.end()` points outside the data structure. Thus, the range defined by the iterators is *half-open*.
+
+#### Working with rangers
+
+Usually, we want to process all elements in a data structure, so the iterators `begin` and `end` are given for the function.
+
+```c++
+sort(v.begin(), v.end());
+reverse(v.begin(), v.end());
+random_shuffle(v.begin(), v.end());
+```
+
+These functions can also be used with an ordinary array. In this case. the functions are given pointers to the array instead of iterators:
+
+```c++
+sort(a, a+n);
+reverse(a, a+n);
+random_shuffle(a, a+n);
+```
+
+#### Set iterators
+
+Iterators are often used to access elements of a set. The following code creates an iterator it that points to the smallest element in a set:
+
+```c++
+set<int>::iterator it = s.begin();
+```
+
+A shorter way to write the code is as follows:
+
+```c++
+auto it = s.begin();
+```
+
+Iterators can be moved using the operators `++` (forward) and `--` (backward), meaning that the iterator moves to the next or previous element in the set.
+
+The following code prints the largest element in the set:
+
+```c++
+auto it = s.end(); it--;
+cout << *it << "\n";
+```
+
+The function `find(x)` returns an iterator that points to an element whose value is x. However, if the set does not contain x , the iterator will be end.
+
+```c++
+auto it = s.find(x);
+if (it == s.end()) {
+	// x is not found
+}
+```
+
+The function `lower_bound(x)` returns an iterator to the smallest element in the set whose value is *at least x*, and the function `upper_bound(x)` returns an iterator to the smallest element in the set whose value is *larger than x*. In both functions, if such an element does not exist, the return value is `end`. These functions are
+not supported by the `unordered_set` structure which does not maintain the order of the elements.
+
+For example, the following code finds the element nearest to *x*:
+
+```c++
+// assume that the set is not empty
+auto it = s.lower_bound(x);
+if (it == s.begin()) {
+    cout << *it << "\n";
+} else if (it == s.end()) {
+    it--;
+    cout << *it << "\n";
+} else {
+    // if none of the previous cases hold, the element nearest to x
+    // is either the element that corresponds to `it` or the prev element
+    int a = *it; it--;
+    int b = *it;
+    if ( x-b < a-x) cout << b << "\n";
+    else cout << a << "\n";
+}
+```
 
 ### Other structures
 
-
-
 #### Bitset
 
+A **bitset** is an array whose each value is either 0 or 1. For example, the following code creates a bitset that contains 10 elements:
 
+```c++
+bitset<10> s;
+s[1] = 1;
+s[3] = 1;
+s[4] = 1;
+s[7] = 1;
+cout << s[4] << "\n"; //1
+cout << s[5] << "\n"; //0
+```
+
+The benefit of using bitsets is that they require less memory than ordinary arrays, because each element in a bitset only uses one bit of memory. For example, if n bits are stored in an int array, 32n bits of memory will be used, but a corresponding bitset only requires n bits of memory. In addition, the values of a bitset can be efficiently manipulated using bit operators, which makes it possible
+to optimize algorithms using bit sets.
+
+The following code shows another way to create the above bitset:
+
+```c++
+bitset<10> s(string("0010011010")); // from right to left
+cout << s[4] << "\n"; // 1
+cout << s[5] << "\n"; // 0
+```
+
+The function `count` returns the number of <u>ones</u> in the bitset:
+
+```c++
+bitset<10> s(string("0010011010"));
+cout << s.count() << "\n"; // 4
+```
+
+The following code shows examples of using bit operations:
+
+```c++
+bitset<10> a(string("0010110110"));
+bitset<10> b(string("1011011000"));
+cout << (a&b) << "\n"; // 0010010000
+cout << (a|b) << "\n"; // 1011111110
+cout << (a^b) << "\n"; // 1001101110
+```
 
 #### Deque
 
+A **deque** is a dynamic array whose size can be efficiently changed at both ends of the array. Like a vector, a deque provides the functions `push_back` and `pop_back` , but it also includes the functions `push_front` and `pop_front` which are not available in a vector.
 
+The internal implementation of a deque is more complex than that of a vector, and for this reason, <u>a deque is slower than a vector</u>. Still, both adding and removing elements take O(1) time on average at both ends.
 
 #### Stack
 
+A **stack** is a data structure that provides two O (1) time operations: adding an element to the top, and removing an element from the top. It is only possible to access the top element of a stack.
 
+````c++
+stack<int> s;
+s.push(3);
+s.push(2);
+s.push(5);
+cout << s.top(); // 5
+s.pop();
+cout << s.top(); // 2
+````
 
 #### Queue
 
+A **queue** also provides two O (1) time operations: adding an element to the end of the queue, and removing the first element in the queue. It is only possible to access the first and last element of a queue.
 
+```c++
+queue<int> q;
+q.push(3);
+q.push(2);
+q.push(5);
+cout << q.front(); // 3
+q.pop();
+cout << q.front(); // 2
+```
 
 #### Priority queue
 
+A **priority queue** maintains a set of elements. The supported operations are insertion and, depending on the type of the queue, retrieval and removal of either the minimum or maximum element. Insertion and removal take O (log n) time, and retrieval takes O (1) time.
 
+While an ordered set efficiently supports all the operations of a priority queue, the benefit of using a priority queue is that <u>it has smaller constant factors</u>. A priority queue is usually implemented using a *heap structure* that is much simpler than a balanced binary tree used in an ordered set.
+
+By default, the elements in a C++ priority queue are sorted in decreasing order, and it is possible to find and remove the largest element in the queue. The following code illustrates this:
+
+```c++
+priority_queue<int> q;
+q.push(3);
+q.push(5);
+q.push(7);
+q.push(2); // 7 5 3 2
+cout << q.top() << "\n"; // 7
+q.pop();
+cout << q.top() << "\n"; // 5
+q.pop();
+q.push(6);
+cout << q.top() << "\n"; // 6
+q.pop(); // 3 2
+```
+
+If we want to create a priority queue that supports finding and removing <u>the smallest element,</u> we can do it as follows:
+
+```c++
+priority_queue<int,vector<int>,greater<int>> q; // TODO: think about it 
+```
 
 #### Policy-based data structures
 
+The g++ compiler also supports some data structures that are not part of the C++ standard library. Such structures are called *policy-based* data structures. To use these structures, the following lines must be added to the code:
 
+```c++
+#include <ext/pb_ds/assoc_container.hpp>
+using namespace __gnu_pbds;
+```
+
+After this, we can define a data structure `indexed_set` that is like `set` but can be indexed like an array. The definition for int values is as follows:
+
+```c++
+typedef tree<int,null_type,less<int>,rb_tree_tag,
+			tree_order_statistics_node_update> indexed_set;
+```
+
+Now we can create a set as follows:
+
+```c++
+indexed_set s;
+s.insert(2);
+s.insert(3);
+s.insert(7);
+s.insert(9);
+```
+
+The speciality of this set is that we have access to the indices that the elements would have in a sorted array. The function `find_by_order` returns an iterator to the element at a given position:
+
+```c++
+auto x = s.find_by_order(2);
+cout << *x << "\n"; // 7
+```
+
+And the function `order_of_key` returns the position of a given element:
+
+```c++
+cout << s.order_of_key(7) << "\n"; // 2
+```
+
+If the element does not appear in the set, we get the position that the element would have in the set (the element is not inserted in the set at the same time):
+
+```c++
+cout << s.order_of_key(6) << "\n"; // 2
+cout << s.order_of_key(8) << "\n"; // 3
+```
+
+Both the functions work in <u>logarithmic time</u>.
 
 ### Comparison to sorting
 
+It is often possible to solve a problem using either data structures or sorting. Sometimes there are remarkable differences in the actual efficiency of these approaches, which may be hidden in their time complexities.
+
+Let us consider a problem where we are given two lists A and B that <u>both</u> contain n elements. Our task is to calculate the number of elements that belong to both of the lists. For example, for the lists:
+$$
+A = [ 5, 2, 8, 9, 4]\ and\ B = [ 3, 2, 9, 5, 1],
+$$
+the answer is 3 because the numbers 2, 5 and 9 belong to both of the lists.
+
+> I think there was an error: there were 4 elements in the set B.
+
+A straightforward solution to the problem is to go through all pairs of elements in O(n^2), but next we will focus on more efficient algorithms.
+
+#### Algorithm 1
+
+We construct a set of the elements that appear in A, and after this, we iterate through the elements of B and check for each elements if it also belongs to A .
+
+This is efficient because the elements of A are in a set. Using the set structure, the time complexity of the algorithm is O (n log n).
+
+#### Algorithm 2
+
+It is not necessary to maintain an ordered set, so instead of the set structure we can also use the `unordered_set` structure. This is an easy way to make the algorithm more efficient, because we only have to change the underlying data structure (we use hashing now). The time complexity of the new algorithm is O (n).
+
+#### Algorithm 3
+
+Instead of data structures, we can use sorting. First, we sort both lists A and B. After this, we iterate through both the lists at the same time and find the common elements. The time complexity of sorting is O (n log n), and the rest of the algorithm works in O (n) time, so the total time complexity is O (n log n).
+
+This is the most effective algorithm. It only uses half the time compared to Algorithm 2 (the book tells us why by showing the table). Sorting is a simple procedure and it is done only once at the beginning of Algorithm 3, and the rest of the algorithm works in linear time. On the other hand, Algorithm 1 maintains a complex balanced binary tree during the whole algorithm.
