@@ -39,6 +39,12 @@ return vector<int>() = {-1};
 return new vector<int>(){-1};
 ```
 
+A simple way to return a new vector of 2 (or more elements) is next:
+
+```c++
+return {1, 2}; // it's vector<int>
+```
+
 This is how you can assign elements in vector declared with new:
 
 ```c++
@@ -65,7 +71,20 @@ A multidimensional std::vector is also passed to a function in a similar way a 1
 void f(const std::vector<std::vector<int>> &v);
 ```
 
+How to copy a vector?
 
+- Calling the copy constructor directly: `vector<int> new_(original);`. This is even simpler than using `std::copy` to walk the entire vector from start to finish to `std::back_insert` them into the new vector.
+- Using a `=` operator: `a = b;`. Where `a` and `b` are vectors. We can use the public member function `std::vector::operator=` of the container `std::vector` for assigning values from a vector to another. In fact the approach is passing by value, the compiler calls the copy constructor, and then swapping that newly created element. It is better to call the copy constructor directly to achieve the same effect[3].
+- Using the assign operator: `new_vector.assign(old_vector.begin(),old_vector.end()); `. Don't know anything about it. This may be an unnecessary way to copy a vector.
+
+Caution:
+
+- You should not use `std::vector::swap` to copy vectors, it would change the "original" vector.
+
+- Deep or shallow copy? If the elements in the source vector are pointers to other data, then a deep copy is wanted sometimes. A deep copy, meaning that fields are dereferenced: rather than references to objects being copied, new copy objects are created for any referenced objects, and references to these placed in B.
+
+
+  Actually, there is no currently a built-in way in C++ to do a deep copy. All of the ways mentioned above are <u>shallow</u>. If a deep copy is necessary, you can traverse a vector and make copy of the references manually. Alternatively, an iterator can be considered for traversing.
 
 The most useful methods:
 
@@ -200,7 +219,7 @@ exception
 
 ## Sorting
 
-#### 
+ 
 
 ## Searching
 
@@ -210,9 +229,9 @@ exception
 
 ## References
 
-https://www.codesdope.com/cpp-stdvector/
+1. https://www.codesdope.com/cpp-stdvector/
 
-https://www.geeksforgeeks.org/stdmin-in-cpp/ 
-
-https://stackoverflow.com/questions/681772/equivalent-of-illegalargumentexception-of-java-in-c#answer-681799 
+2. https://www.geeksforgeeks.org/stdmin-in-cpp/ 
+3. https://stackoverflow.com/questions/644673/is-it-more-efficient-to-copy-a-vector-by-reserving-and-copying-or-by-creating-a?answertab=votes#tab-top
+4. https://stackoverflow.com/questions/681772/equivalent-of-illegalargumentexception-of-java-in-c#answer-681799 
 
