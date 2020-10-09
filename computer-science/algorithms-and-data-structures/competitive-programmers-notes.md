@@ -870,6 +870,8 @@ cout << (a|b) << "\n"; // 1011111110
 cout << (a^b) << "\n"; // 1001101110
 ```
 
+> Found out about the function which gives you the index of the first set bit: `_Find_first()`. See [libstdc++ documentation](https://gcc.gnu.org/onlinedocs/gcc-10.2.0/libstdc++/api/a01465.html#ga6e02d58f0dc8e29529bc5bb4bda868c9).
+
 #### Deque
 
 A **deque** is a dynamic array whose size can be efficiently changed at both ends of the array. Like a vector, a deque provides the functions `push_back` and `pop_back` , but it also includes the functions `push_front` and `pop_front` which are not available in a vector.
@@ -1010,3 +1012,152 @@ It is not necessary to maintain an ordered set, so instead of the set structure 
 Instead of data structures, we can use sorting. First, we sort both lists A and B. After this, we iterate through both the lists at the same time and find the common elements. The time complexity of sorting is O (n log n), and the rest of the algorithm works in O (n) time, so the total time complexity is O (n log n).
 
 This is the most effective algorithm. It only uses half the time compared to Algorithm 2 (the book tells us why by showing the table). Sorting is a simple procedure and it is done only once at the beginning of Algorithm 3, and the rest of the algorithm works in linear time. On the other hand, Algorithm 1 maintains a complex balanced binary tree during the whole algorithm.
+
+## Complete search
+
+The idea of **complete search** is to generate all possible solutions to the given problem using brute force, and then select the best solution or count the number of solutions, depending on the problem.
+
+If complete search is too slow, other techniques, such as greedy algs or dynamic programming, may be needed.
+
+### Generating subsets of a set of n elements
+
+#### Method 1 - recursive search
+
+Method 1 is to perform a recursive search. The search begins when the function is called with parameter 0 (cause we use set {0, 1, ..., n - 1}):
+
+```c++
+void search(int k) {
+    if (k == n) {
+        // process subset
+    } else {
+        search(k+1);
+        subset.push_back(k);
+        search(k+1);
+        subset.pop_back();
+    }
+}
+```
+
+The function decides whether to include the element k in the subset or not, and in both cases, then calls itself with parameter k+1.
+
+```
+							search(0)(n=3)
+                  /(k is not included)     \(k is included)
+     ......................................................
+search(3) search(3) ..........................search(3) search(3)
+   ∅		{2}	    {1}  {1,2}	{0} {0,2}	   {0,1}	 {0,1,2}
+```
+
+#### Method 2 - generating subsets as bit sequences
+
+Another way to generate subsets is based on the bit representation of integers. Each subset of a set of n elements can be represented as a sequence of n bits, which corresponds to an integer between 0...(2^n) - 1. The ones in the bit sequence indicate which elements are included in the subset. For example, the bit representation of 25 is 11001, which corresponds to the subset {0, 3, 4}.
+
+The following code shows how we can find the elements of a subset that corresponds to a bit sequence. When processing each subset, the code builds a vector that contains the elements in the subset.
+
+```c++
+// going through the subsets of a set of n elements
+// look at 1<<n like 2^n, n = 2 => b < 4, n = 3 => b < 8 
+for (int b = 0; b < (1<<n); b++) {
+	// process the subset
+    vector<int> subset;
+	for (int i = 0; i < n; i++) {
+		if (b&(1<<i)) subset.push_back(i);
+	}
+}
+```
+
+### Generating permutations
+
+We are given the set {0, 1, 2}. We need to get (0, 1, 2), (0, 2, 1), (1, 0, 2), (1, 2, 0), (2, 0, 1) and (2, 1, 0). 
+
+#### Method 1 - recursive search
+
+```c++
+void search() {
+    if (permutation.size() == n) {
+    	// process permutation
+    } else {
+    for (int i = 0; i < n; i++) {
+            // the array `chosen` indicates which elements  
+        	//  are already included in the permutation.
+            if (chosen[i]) continue;
+            chosen[i] = true;
+        	// each function call adds a new element to permutation
+            permutation.push_back(i);
+            search();
+            chosen[i] = false;
+            permutation.pop_back();
+    	}
+    }
+}
+```
+
+#### Method 2 - go through the permutations iteratively
+
+Another method for generating permutations is to begin with the permutation {0, 1, ..., n - 1} and repeatedly use a function that constructs the next permutation in increasing order. The C++ standard library contains the function `next_permutation` that can be used for this:
+
+```C++
+vector<int> permutation;
+for (int i = 0; i < n; i++) {
+    permutation.push_back(i);
+}
+do {
+    // process permutation
+} while (next_permutation(permutation.begin(), permutation.end()));
+```
+
+### Backtracking
+
+A **backtracking** algorithm begins with an empty solution and extends the solution step by step. The search recursively goes through all different ways how a solution can be constructed.
+
+As an example, consider the problem of calculating the number of ways n queens can be placed on an n × n chessboard so that no two queens attack each other. For example, when n = 4, there are two possible solutions:
+
+```
+|   | Q |   |   |		|   | Q |   |   |
+|   |   |   | Q |		| Q |   |   |   |
+| Q |   |   |   |		|   |   |   | Q |
+|   |   | Q |   |		|   | Q |   |   |
+```
+
+The algorithm can be implemented as follows:
+
+```c++
+// the search begins by calling search(0)
+void search(int y) {
+   	if (y == n) {
+        // the solution has been found
+        count++;
+        return;
+    }
+    // the rows and columns are numbered from 0 to n − 1
+    for (int x = 0; x < n; x++) {
+        if (column[x] || diag1[x+y] || diag2[x-y+n-1]) continue;
+        // place a queen on row y
+        column[x] = diag1[x+y] = diag2[x-y+n-1] = 1;
+        search(y+1);
+        // did not go well
+        column[x] = diag1[x+y] = diag2[x-y+n-1] = 0;
+    }
+}
+```
+
+The array `column` keeps track of columns that contain a queen, and the arrays `diag1` and `diag2` keep track of diagonals. It is not allowed to add another queen to a column or diagonal that already contains a queen. The columns and diagonals of the 4 x 4 board are numbered as follows:
+
+```
+| 0 | 1 | 2 | 3 |		| 0 | 1 | 2 | 3 |		| 3 | 4 | 5 | 6 | 
+| 0 | 1 | 2 | 3 |		| 1 | 2 | 3 | 4 |		| 2 | 3 | 4 | 5 | 
+| 0 | 1 | 2 | 3 |		| 2 | 3 | 4 | 5 |		| 1 | 2 | 3 | 4 | 
+| 0 | 1 | 2 | 3 |		| 3 | 4 | 5 | 6 | 		| 0 | 1 | 2 | 3 | 
+	  column				  diag1					  diag2
+```
+
+Let q(n) denote the number of ways to place n queens on an n x n chessboard. The above backtracking algorithm tells us that, for example, q(8) = 92. When n increases, the search quickly becomes slow, because the number of solutions increases exponentially. For example, calculating q(16) = 14772512 using the above algorithm already takes about a minute on a modern computer.
+
+## Greedy algorithms
+
+>  TODO
+
+## Dynamic programming
+
+> TODO
+
