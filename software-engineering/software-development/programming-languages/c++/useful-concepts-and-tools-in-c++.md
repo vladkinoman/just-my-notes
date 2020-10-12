@@ -213,6 +213,36 @@ exception
         underflow_error
 ```
 
+### numeric
+
+There are two interesting functions from this module:
+
+- `accumulate(first, last, sum)` returns the sum of all the values lying in a range between **[first, last)** with the variable `sum` (initial value of the sum). Use:
+
+  ```c++
+  int sum = accumulate(v.begin(), v.end(), 0);
+  ```
+
+- `partial_sum(first, last, b)` function assigns partial sum of the corresponding elements of an array to every position of the second array.It returns the partial sum of all the set of values lying between **[first, last)** and stores it in another array b. For example, if x represents an element in **[first, last)** and y represents an element in result, the ys can be calculated as:
+
+  ```
+  y0 = x0 
+  y1 = x0 + x1 
+  y2 = x0 + x1 + x2 
+  y3 = x0 + x1 + x2 + x3 
+  y4 = x0 + x1 + x2 + x3 + x4
+  ...........................
+  y_{n-1} = x0 + x1 + x2 + x3 + x4 + .... + x_{n-1}
+  ```
+
+  Use:
+
+  ```c++
+  partial_sum(v.begin(), v.begin()+n, partial_sums_arr.begin());
+  ```
+
+Plus, there are two variations of these functions with the fourth parameter where you can pass the function. This function can apply an additional operation on parameters.
+
 ## Copying
 
 
