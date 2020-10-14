@@ -116,9 +116,15 @@ edu/princeton/cs/algs4/DijkstraUndirectedSP.class
 edu/princeton/cs/algs4/SegmentTree.class
 ```
 
+You can find whatever you want using the next command: `:vimgrep /int someFunction()/ ../**/*.java`[[link](https://stackoverflow.com/questions/20803550/find-files-with-grep-and-open-in-editor)]. If you want to go back, press the following combination: `CTRL-^`[[link](https://stackoverflow.com/questions/19971023/how-to-go-back-to-previous-opened-file-in-vim)].
+
+> Also, there is an interesting way to print all the files you need from that archive but I couldn't find the script. Here is the info on how to do it with tar: [link](https://stackoverflow.com/questions/13983365/grep-from-tar-gz-without-extracting-faster-one).
+
 You can edit it and save (:x), too.
 
 Now, suppose you need to find a file, for example, "Stack". In normal mode you can search forwards by pressing `/` (or `<kDivide>`) then typing your search pattern [5]. In our case this could be `/Stack`. Our cursor points out first occurrence of a word Stack. Press `Enter`. Now, we want to find the next occurrence. In order to do this press `*` button as it was mentioned in [5].
+
+> The other buttons would be next: `n` to search for the next occurrence or uppercase `N` to search in the opposite direction. Found this one [here](https://linuxize.com/post/vim-search/).
 
 Lets suppose that we want to sort .jar file in Vim editor. You can actually do it the following way:
 
