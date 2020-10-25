@@ -145,8 +145,29 @@ The same warning applies to this method as to the others mentioned: **you are re
 
 Preferably, you should only do this in repositories that haven't been published / shared, yet. In any other case you should **use it with extreme care** - and only if you're aware of the side effects!
 
+## Add all files to a commit except a single file
+
+**For a file**
+
+```bash
+git add -u
+git reset -- main/dontcheckmein.txt
+```
+
+**For a folder**
+
+```bash
+git add -u
+git reset -- main/*
+```
+
+The -u option updates the index just where it already has an entry matching `<pathspec>`. This removes as well as modifies index entries to match the working tree, but adds no new files. If no `<pathspec>` is given when -u option is used, all tracked files in the entire working tree are updated (old versions of Git used to limit the update to the current directory and its subdirectories).
+
+-u is used to reference your current branch you're pushing to. You will no longer need to type `git push origin master` in your next push, just `git push` and git will know that is it in master branch.
+
 ## References
 
 1. https://devconnected.com/how-to-undo-last-git-commit/#:~:text=The%20easiest%20way%20to%20undo,removed%20from%20your%20Git%20history
 2. https://stackoverflow.com/questions/2938301/remove-specific-commit
 3. https://www.git-tower.com/learn/git/faq/change-author-name-email/
+4. https://stackoverflow.com/questions/4475457/add-all-files-to-a-commit-except-a-single-file
