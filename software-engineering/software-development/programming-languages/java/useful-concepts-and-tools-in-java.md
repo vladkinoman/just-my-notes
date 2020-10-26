@@ -185,6 +185,10 @@ The most useful methods:
 
 ## Copying
 
+You can't use variable assignment like you did in C++. This method has side effects as changes to the element of an array reflects on both the places. To prevent this side effect following are the better ways to copy the array elements.
+
+You can create a new array of the same length and copy each element, but this is a boring way to make a copy. There are nice instruments below.
+
 ### Make a copy of an array
 
 > Nice explanation from [this website]( https://www.journaldev.com/753/java-copy-array-array-copy-java ).
@@ -221,6 +225,88 @@ int[] c = Arrays.copyOf(a, a.length);
 **System.arraycopy(source, 3, destination, 2, 5)** will copy 5 elements from source to destination, beginning from 3rd index of source to 2nd index of destination.
 
 ## Sorting
+
+### Sort int array in reverse order
+
+In Java, it's easy to sort an array, you just need to call the Arrays.sort() method with a Comparator which can sort the array in the order you want but it highly depends upon which type of object is stored in the array.
+
+For example, you can sort an object array in decreasing or reverse order, just provide a Comparator with the opposite order. You can even use Collections.reverseOrder() if you want to sort an array in the decreasing order, which returns a reverse Comparator to sort objects in the order opposite of their natural ordering defined by the compareTo() method.
+
+Unfortunately, **for a primitive array, there is no direct way to sort in descending order**. The Arrays.sort() method which is used to sort a primitive array in Java doesn't accept a boolean to sort the primitive array in reverse order.
+
+That will work fine with Integer array (Objects and other wrapper types) but will not work with an int array. The only way to sort a primitive array in descending order is first sorted the array in ascending order and then reverse the array in place. This is also true for two-dimensional primitive arrays.
+
+```java
+Arrays.sort(arr);
+reverse(arr);
+```
+
+Where `reverse` has the following implementation:
+
+```java
+private static void reverseArray(int[] arr) {
+        for(int i = 0; i < arr.length / 2; i++) {
+            int temp = arr[i];
+            arr[i] = arr[arr.length - i - 1];
+            arr[arr.length - i - 1] = temp;
+        }
+    }
+```
+
+To reverse an int array, you swap items up until you reach the midpoint (`arr.length/2`).
+
+> **Application** 
+>
+> I used this approach in [this](https://github.com/vladkinoman/coding-challenges/blob/master/HackerRank/076-largest-permutation/java/Solution.java) coding challenge.
+
+---
+
+With [Commons.Lang](http://commons.apache.org/lang/), you could simply use
+
+```java
+ ArrayUtils.reverse(int[] array)
+```
+
+Most of the time, it's quicker and more bug-safe to stick with easily available libraries already unit-tested and user-tested when they take care of your problem.
+
+With Guava:
+
+```java
+Collections.reverse(Ints.asList(array));
+```
+
+---
+
+In case of **Java 8** we can also use `IntStream` to reverse the array of integers as:
+
+```java
+int[] sample = new int[]{1,2,3,4,5};
+int size = sample.length;
+int[] reverseSample = IntStream.range(0,size).map(i -> sample[size-i-1]).toArray(); //Output: [5, 4, 3, 2, 1]
+```
+
+This approach is even more concise:
+
+```java
+int[] a = {8, 6, 7, 5, 3, 0, 9};
+int[] b = IntStream.rangeClosed(1, a.length).map(i -> a[a.length-i]).toArray();
+```
+
+---
+
+Also, there is an interesting approach for numbers!
+
+1. multiply the Array by -1 (for each element)
+2. sort
+3. multiply once again with -1 (for each element)
+
+Literally spoken:
+
+```java
+array = -Arrays.sort(-array) 
+```
+
+> This method is actually creative if we are sorting numbers, even though it is not generic and could cause problems for overflow. So, it'll **fail** for `Integer.MIN_VALUE` (or whichever primitive is used). Would be better to `sort()`, then `reverse()`, but you'll have to do the reversing yourself, since they didn't add `Arrays.reverse()`
 
 ### Sort 2D array
 
@@ -423,31 +509,22 @@ Note: This approach works for the matrix n x m where 2 <= n. The algorithm can b
 
 ## References
 
-https://www.geeksforgeeks.org/list-interface-java-examples/
-
-https://www.baeldung.com/java-arraylist 
-
-https://www.geeksforgeeks.org/biginteger-class-in-java/ 
-
-https://stackoverflow.com/questions/5785745/make-copy-of-an-array
-
-https://stackoverflow.com/questions/15452429/java-arrays-sort-2d-array
-
-https://www.geeksforgeeks.org/arrays-binarysearch-java-examples-set-1/
-
-https://www.geeksforgeeks.org/arrays-binarysearch-in-java-with-examples-set-2-search-in-subarray/ 
-
-https://www.geeksforgeeks.org/collections-binarysearch-java-examples/ 
-
-https://www.geeksforgeeks.org/search-element-sorted-matrix/
-
-https://www.geeksforgeeks.org/search-in-a-row-wise-and-column-wise-sorted-2d-array-using-divide-and-conquer-algorithm/ 
-
-https://stackoverflow.com/questions/4421479/binary-search-in-2d-array 
-
-https://stackoverflow.com/questions/8234915/binary-search-in-2-dimensional-array-with-duplicates-java
-
-https://stackoverflow.com/q/2457792/9842375#answer-2458113 
+1. https://www.geeksforgeeks.org/list-interface-java-examples/
+2. https://www.baeldung.com/java-arraylist 
+3. https://www.geeksforgeeks.org/biginteger-class-in-java/ 
+4. https://stackoverflow.com/questions/5785745/make-copy-of-an-array
+5. https://www.java67.com/2016/07/how-to-sort-array-in-descending-order-in-java.html
+6. https://stackoverflow.com/questions/2137755/how-do-i-reverse-an-int-array-in-java
+7. https://stackoverflow.com/questions/1694751/java-array-sort-descending
+8. https://stackoverflow.com/questions/15452429/java-arrays-sort-2d-array
+9. https://www.geeksforgeeks.org/arrays-binarysearch-java-examples-set-1/
+10. https://www.geeksforgeeks.org/arrays-binarysearch-in-java-with-examples-set-2-search-in-subarray/ 
+11. https://www.geeksforgeeks.org/collections-binarysearch-java-examples/ 
+12. https://www.geeksforgeeks.org/search-element-sorted-matrix/
+13. https://www.geeksforgeeks.org/search-in-a-row-wise-and-column-wise-sorted-2d-array-using-divide-and-conquer-algorithm/ 
+14. https://stackoverflow.com/questions/4421479/binary-search-in-2d-array 
+15. https://stackoverflow.com/questions/8234915/binary-search-in-2-dimensional-array-with-duplicates-java
+16. https://stackoverflow.com/q/2457792/9842375#answer-2458113 
 
  
 
