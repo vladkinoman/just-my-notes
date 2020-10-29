@@ -3,17 +3,19 @@
 ## Table of Contents
 
 1. [Collections](#collections)
-   * [std:vector](#stdvector).
-   * [std:list](#stdlist).
-   * [std:map](#stdmap).
-   * [std:unordered_map](#stdunordered_map).
+   * [std:vector](#stdvector)
+   * [std:list](#stdlist)
+   * [std:map](#stdmap)
+   * [std:unordered_map](#stdunordered_map)
    * [std:set](#stdset)
    * [std:unordered_set](#stdunordered_set)
 2. [Algorithms](#algorithms).
    * [std::min](#stdmin)
 3. [Iterating](#Iterating)
-4. [Useful classes and modules](#useful-classes-and-modules).
-   * [stdexcept](#stdexcept).
+4. [Useful classes and modules](#useful-classes-and-modules)
+   * [stdexcept](#stdexcept)
+   * [numeric](#numeric)
+   * [functional function objects and predicates](#functional-function-objects-and-predicates)
 5. [Coping](#copying).
 6. [Sorting](#sorting).
 7. [Searching](#searching).
@@ -458,19 +460,101 @@ There are two interesting functions from this module:
 
 Plus, there are two variations of these functions with the fourth parameter where you can pass the function. This function can apply an additional operation on parameters.
 
+### functional, function objects and predicates
+
+#### Predicates and how to use them
+
+Predicates in C++ are function objects (functors) which return boolean value.
+
+We usually use them in algorithms to describe conditions they need to keep.
+
+**Example "Migrating birds" (HackerRank)**
+
+In this example I sort a vector collection which consists of pointers to `bird_type` struct:
+
+```C++
+template<class T> struct bird_type
+{
+	T type_number;
+	T sights;
+};
+```
+
+Sorting should depend upon `sights` field. So, we compare two of those properties each time. If they are equal then we should compare corresponding `type_number` fields and choose the smallest `type_number` value. We could achieve this goal via Predicates. To set up them we need to create a structure (or maybe class?) which will inherits `binary_function` class from `<functional>` module. And then we need to overload operator '()' with two formal parameters because we set up 'binary function'. We can do this in the following way:
+
+```C++
+template <class T> struct bird_type_less
+	: public binary_function<T, T, bool>
+{
+	bool operator()(const T& x, const T& y) const
+	{
+		return x->sights < y->sights
+			|| x->sights == y->sights && x->type_number > y->type_number;
+	}
+};
+```
+
+Then we can use Predicate (our structure with overloaded operator ()) in algorithms function. That's how we use our predicate in sort function to sort vector of `bird_type<int>*` elements:
+
+```C++
+// Complete the migratoryBirds function below.
+int migratoryBirds(vector<int> arr) 
+{	
+	/* ... */
+
+	vector<bird_type<int>*> v(number_of_types);
+	for (int i = 0; i < number_of_types; i++)
+		v[i] = new bird_type<int>{i + 1, 0};
+	
+	/* ... */
+ 	
+ 	sort(v.begin(), v.end(), bird_type_less<bird_type<int>*>());
+	
+```
+
+Problems with solution:
+
+1. Somehow I can't divide this program into modules. I have a Linkage error.
+
+TODO: figure out how to solve problem.
+
 ## Copying
 
 
 
 ## Sorting
 
- 
+We can sort containers and arrays using `sort` function, which takes an iterators on the beginning and the end, and a comparator if we need it. I have already gave an example on how to use a comparator with sort function, but let's give another example.
+
+**Example "Luck Balance" (HackerRank)**
+
+We need to sort a two dimensional vector `vv` by the second parameter in ascending order and by the first parameter in decreasing order when the two second parameters are equal. 
+
+This is a typical situation when predicates come in handy. We create a structure which inherits [binary_function](http://www.cplusplus.com/reference/functional/binary_function/) base class and has method which returns bool. 
+
+```c++
+template <class T> struct comp_luck_and_importance
+    : public binary_function<T, T, bool> {
+    bool operator()(const T& x, const T& y) const {
+        return x[1] < y[1] || x[1] == y[1] && x[0] > y[0];
+    }
+};
+```
+
+After that, we need to pass the comparator as the third parameter to the sort function in the following way:
+
+```c++
+// Complete the luckBalance function below.
+int luckBalance(int k, vector<vector<int>> contests) {
+    vector<vector<int>> vv = contests;
+    sort(vv.begin(), vv.end(), comp_luck_and_importance<vector<int>>());
+ 	// ... processing
+}
+```
 
 ## Searching
 
-
-
-
+TODO: find(v.begin(), v.end(), key)
 
 ## References
 
