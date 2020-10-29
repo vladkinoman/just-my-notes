@@ -1,8 +1,8 @@
 # just-my-notes
 
-## bookmarks
+## bookmarks and subscriptions
 
-This is where I store bookmarks from my browser (mostly from Brave) and subscriptions of the *Youtube subscription manager* (extension for Chrome/Brave and Firefox).
+This is where I store bookmarks from my browser (mostly from Brave) and subscriptions of the *Youtube subscription manager* (extension for Chrome/Brave and Firefox). Also, I will include here the best web sites for self-study.
 
 ## books
 
@@ -18,14 +18,14 @@ This folder contains primarily all my notes collected during my university studi
 
 Subfolders:
 
-- **algorithms-and-data-structures**: notes on algorithms and data structures that every serious programmer needs to know, most of the notes were wrote down during Algorithms, Part 1 course on [Coursera](https://www.coursera.org/learn/algorithms-part1).
-- **artificial-intelligence**: consists of notes on expert systems, neural networks, etc.
-- **computer-networks**: about a client-server interaction, the OSI model, proxy servers, etc.
-- **data-analysis**: basic terms of the discipline.
-- **databases**: notes on SQL and No-SQL databases, and the underlying mathematics.
-- **history**: short and simple history of computer science.
-- **operating-systems**: notes on Linux and Windows operating systems.
-- **theory-of-programming**: the science of programming, notes on programming paradigms, types in pl, simple programming language formalization, etc.
+- **algorithms-and-data-structures**. Notes on algorithms and data structures that every serious programmer needs to know, most of the notes were wrote down during Algorithms, Part 1 course on [Coursera](https://www.coursera.org/learn/algorithms-part1).
+- **artificial-intelligence**. Consists of notes on expert systems, neural networks, etc.
+- **computer-networks**. About a client-server interaction, the OSI model, proxy servers, etc.
+- **data-analysis**. Basic terms of the discipline.
+- **databases**. Notes on SQL and No-SQL databases, and the underlying mathematics.
+- **history**. Short and simple history of computer science.
+- **operating-systems**. Notes on Linux and Windows operating systems.
+- **theory-of-programming**. The science of programming, notes on programming paradigms, types in pl, simple programming language formalization, etc.
 
 ## donations
 
@@ -37,15 +37,17 @@ This folder contains my notes I wrote while studying English.
 
 Subfolders:
 
-- **courses**: notes I wrote while studying various courses on websites like [Coursera](https://www.coursera.org). 
-- **grammar**: contains general notes on grammar. 
-- **grammarway**: notes I wrote while reading the "GrammarWay 4" book. There will be summaries of the passed units, essays, and solutions for some exercises.
-
-TODO: Also, a folder for the lessons with a tutor will be added later.
+- **courses**. Notes I wrote while studying various courses on websites like [Coursera](https://www.coursera.org). 
+- **grammar**. Contains general notes on grammar. 
+- **grammarway**. Notes I wrote while reading the "GrammarWay 4" book. There will be summaries of the passed units, essays, and solutions for some exercises.
 
 ## games
 
 This folder contains thematic notes on game/level design, various game configurations, notes on terminology in the game industry, easter eggs from the games, and notes I wrote while watching different playthroughs.
+
+## hardware
+
+This folder contains notes about different hardware specifications, and notes on how I solve issues when I encountered with them while using different operating systems and other software.
 
 ## job
 
@@ -57,15 +59,10 @@ This folder contains notes which I wrote during my math studies. It might be var
 
 Subfolders:
 
-- **combinatorics**: combinatorics with in-depth study :)
-- **discrete-math**: many discrete math subjects with general information, such as the theory of sets, combinatorics, graph theory, Boolean algebra, etc.
-- **simple-math**: arithmetic, linear algebra, geometry, etc.
-
-TODO: add **theory-of-probabilities** folder after studying the combinatorics.
-
-## office
-
-Notes on the use of various office software such as Microsoft Excel, Google Sheets, OpenOffice, LibreOffice. There will also be notes on working with frameworks like Google Apps Script.
+- **combinatorics**.
+- **discrete-math**. Many discrete math subjects with general information, such as the theory of sets, combinatorics, graph theory, Boolean algebra, etc.
+- **simple-math**. Arithmetic, linear algebra, geometry, etc.
+- **statistics**.
 
 ## philosophy
 
@@ -83,27 +80,24 @@ This folder contains my notes I wrote while studying Russian. I know the languag
 
 This folder contains my notes on schedule, how I set it up, what kind of holidays I think are right for me and so on.
 
-## software 
+## software
 
 Notes on the use of various software for development, multimedia software, editors, etc.
+
+Subfolders:
+
+- **editors**.
+- **file-managers**.
+- **game-launchers**.
+- **ide**.
+- **office**. Notes on the use of various office software such as Microsoft Excel, Google Sheets, OpenOffice, LibreOffice. There will also be notes on working with frameworks like Google Apps Script.
+- **screenshot-managers**.
 
 ## software-engineering
 
 This folder contains notes on the process of software engineering.
 
-> What signs like `!` mean, see below in the paragraph "Marks".
-
 Subfolders:
-
-- **!types-of-software-development**: general information and terminology from the various fields of software engineering.
-
-  Subfolders:
-
-  - **3d-game-development**: notes on 3D (inc. AutoCAD) and game development.
-  - **data-science**: notes on app development for solving problems of data science fields such as machine learning.
-  - **enterprise**: notes on desktop and enterprise app development.
-  - **mobile-development**: notes on Android and iOS mobile development.
-  - **web-development**: notes on back-end, front-end and full-stack web development.
 
 - **dev-management**: notes on product/project/team management, use of Kanban method, use of Agile methodologies, etc.
 
@@ -119,11 +113,21 @@ Subfolders:
 
   Subfolders:
 
-  - **_git**: notes on the use of my favorite version control system.
-  - **programming-languages**: there are so many programming languages, so I decided to create  one folder where I will track my favorite ones. I will write down Pros&Cons, contradictory language features and their use, cheatsheets, Q/As, and comparisons between languages.
+  - **git**: notes on the use of my favorite version control system.
+  
+  - **programming-languages**: there are so many programming languages, so I decided to create  one folder where I will track my favorite ones. I will write down Pros&Cons, contradictory language features and their use, Q/As, and comparisons between languages.
+  
+  - **types-of-software-development**: general information and terminology from the various fields of software engineering.
+  
+    Subfolders:
+  
+    - **3d-game-development**: notes on 3D (inc. AutoCAD) and game development.
+    - **data-science**: notes on app development for solving problems of data science fields such as machine learning.
+    - **enterprise**: notes on desktop and enterprise app development.
+    - **mobile-development**: notes on Android and iOS mobile development.
+    - **web-development**: notes on back-end, front-end and full-stack web development.
+  
   - **software-testing**: notes on the software testing process, which includes Design by Contract and Unit testing.
-
-TODO: consider adding a folder **DevOps** in **!types-of-software-development** (or should I add it to the folder **dev-management**?). 
 
 ## Dependencies
 
@@ -157,5 +161,4 @@ I made a decision to add this paragraph to track files whose topics overlap with
 
 ## Marks
 
-`!`, `_` symbols allow quick access to folders with general information when using file managers or Linux terminal. `!` means directory with general information which isn't a part of the main topic (current folder). `_` means directory with specific information which isn't a part of the main topic (current folder).
-
+`_` symbol allow quick access to folders and files with general and the most useful information when using file managers or Linux terminal.
