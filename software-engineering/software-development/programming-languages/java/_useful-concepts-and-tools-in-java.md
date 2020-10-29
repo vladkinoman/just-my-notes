@@ -347,6 +347,23 @@ Arrays.sort(obstacles, new java.util.Comparator<int[]>() {
 });
 ```
 
+#### Sort 2D array by the second parameter in ascending order and by the first parameter in decreasing order when the two second parameters are equal
+
+> Done this in the Luck Balance coding challenge (HackerRank).
+
+```java
+java.util.Arrays.sort(aa, new java.util.Comparator<int[]>() {
+    public int compare(int[] a, int[] b) {
+        int cmp_importance = Integer.compare(a[1], b[1]);
+        if (cmp_importance < 0 || cmp_importance > 0) {
+            return cmp_importance;
+        } else return -Integer.compare(a[0], b[0]);
+    }
+});
+```
+
+Let's look at the `-Integer.compare(a[0], b[0]);` line. In order to get descending order, I think you can do comparison in any manner. You can swap the elements in the following way: `Integer.compare(b[0], a[0])`. Or you can apply [subtraction](https://stackoverflow.com/questions/61088123/how-to-sort-two-dimensional-array-using-comparator-in-java) instead of `compare`.
+
 ## Searching
 
 ### Binary search in Java
