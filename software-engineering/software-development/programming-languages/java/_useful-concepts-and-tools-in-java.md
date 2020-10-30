@@ -349,9 +349,9 @@ Arrays.sort(obstacles, new java.util.Comparator<int[]>() {
 
 #### Sort 2D array by the second parameter in ascending order and by the first parameter in decreasing order when the two second parameters are equal
 
-> Done this in the Luck Balance coding challenge (HackerRank).
+> Done this in the coding challenge Luck Balance (HackerRank).
 
-```java
+```javascript
 java.util.Arrays.sort(aa, new java.util.Comparator<int[]>() {
     public int compare(int[] a, int[] b) {
         int cmp_importance = Integer.compare(a[1], b[1]);
@@ -362,7 +362,38 @@ java.util.Arrays.sort(aa, new java.util.Comparator<int[]>() {
 });
 ```
 
-Let's look at the `-Integer.compare(a[0], b[0]);` line. In order to get descending order, I think you can do comparison in any manner. You can swap the elements in the following way: `Integer.compare(b[0], a[0])`. Or you can apply [subtraction](https://stackoverflow.com/questions/61088123/how-to-sort-two-dimensional-array-using-comparator-in-java) instead of `compare`.
+Let's look at the line `-Integer.compare(a[0], b[0]);`. In order to get descending order, I think you can do comparison in any manner. You can swap the elements in the following way: `Integer.compare(b[0], a[0])`. Or you can apply [subtraction](https://stackoverflow.com/questions/61088123/how-to-sort-two-dimensional-array-using-comparator-in-java) instead of `compare`.
+
+#### Using streams for sorting
+
+Suppose an ArrayList given and we want to sort it in descending order. We can use for it `java.util.stream.Stream.sorted(Comparator)` method. What to do with the comparator in Java 8?
+
+You can use [`Comparator.reverseOrder()`](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html#reverseOrder--) to have a comparator giving the reverse of the natural ordering.
+
+If you want to reverse the ordering of an existing comparator, you can use [`Comparator.reversed()`](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html#reversed--).
+
+Sample code:
+
+```java
+Stream.of(1, 4, 2, 5)
+    .sorted(Comparator.reverseOrder()); 
+    // stream is now [5, 4, 2, 1]
+
+Stream.of("foo", "test", "a")
+    .sorted(Comparator.comparingInt(String::length).reversed()); 
+    // stream is now [test, foo, a], sorted by descending length
+```
+
+---
+
+You can also use [Comparator.comparing(Function, Comparator)](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html#comparing-java.util.function.Function-java.util.Comparator-)
+It is convenient to chain comparators when necessary, e.g.:
+
+```java
+Comparator<SomeEntity> ENTITY_COMPARATOR = comparing(SomeEntity::getProperty1, reverseOrder())
+        .thenComparingInt(SomeEntity::getProperty2)
+        .thenComparing(SomeEntity::getProperty3, reverseOrder());
+```
 
 ## Searching
 
@@ -534,14 +565,15 @@ Note: This approach works for the matrix n x m where 2 <= n. The algorithm can b
 6. https://stackoverflow.com/questions/2137755/how-do-i-reverse-an-int-array-in-java
 7. https://stackoverflow.com/questions/1694751/java-array-sort-descending
 8. https://stackoverflow.com/questions/15452429/java-arrays-sort-2d-array
-9. https://www.geeksforgeeks.org/arrays-binarysearch-java-examples-set-1/
-10. https://www.geeksforgeeks.org/arrays-binarysearch-in-java-with-examples-set-2-search-in-subarray/ 
-11. https://www.geeksforgeeks.org/collections-binarysearch-java-examples/ 
-12. https://www.geeksforgeeks.org/search-element-sorted-matrix/
-13. https://www.geeksforgeeks.org/search-in-a-row-wise-and-column-wise-sorted-2d-array-using-divide-and-conquer-algorithm/ 
-14. https://stackoverflow.com/questions/4421479/binary-search-in-2d-array 
-15. https://stackoverflow.com/questions/8234915/binary-search-in-2-dimensional-array-with-duplicates-java
-16. https://stackoverflow.com/q/2457792/9842375#answer-2458113 
+9. https://stackoverflow.com/questions/32995559/reverse-a-comparator-in-java-8
+10. https://www.geeksforgeeks.org/arrays-binarysearch-java-examples-set-1/
+11. https://www.geeksforgeeks.org/arrays-binarysearch-in-java-with-examples-set-2-search-in-subarray/ 
+12. https://www.geeksforgeeks.org/collections-binarysearch-java-examples/ 
+13. https://www.geeksforgeeks.org/search-element-sorted-matrix/
+14. https://www.geeksforgeeks.org/search-in-a-row-wise-and-column-wise-sorted-2d-array-using-divide-and-conquer-algorithm/ 
+15. https://stackoverflow.com/questions/4421479/binary-search-in-2d-array 
+16. https://stackoverflow.com/questions/8234915/binary-search-in-2-dimensional-array-with-duplicates-java
+17. https://stackoverflow.com/q/2457792/9842375#answer-2458113 
 
  
 
