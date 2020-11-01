@@ -10,6 +10,8 @@
 3. [Coping](#copying)
    - [Make a copy of an array](#Make-a-copy-of-an-array)
 4. [Sorting](#sorting)
+   - [Sorting with Comparable and Comparator](#Sorting-with-Comparable-and-Comparator)
+   - [Sort int array in reverse order](#Sort-int-array-in-reverse-order)
    - [Sort 2D array](#sort-2D-array)
      - [Sort 2D array only by the first element](#Sort-2D-array-only-by-the-first-element)
      - [Sort 2D array by the first and the second elements](#Sort-2D-array-by-the-first-and-the-second-elements)
@@ -225,6 +227,177 @@ int[] c = Arrays.copyOf(a, a.length);
 **System.arraycopy(source, 3, destination, 2, 5)** will copy 5 elements from source to destination, beginning from 3rd index of source to 2nd index of destination.
 
 ## Sorting
+
+### Sorting with Comparable and Comparator
+
+If we sort a Java List with a custom object, then we should implement Comparable interface :
+
+```java
+class Simpson implements Comparable<Simpson> {
+    String name;
+
+    Simpson(String name) {
+        this.name = name;
+    }
+
+    @Override
+    public int compareTo(Simpson simpson) {
+        return this.name.compareTo(simpson.name);
+    }
+}
+...
+    List<SimpsonCharacter> simpsons = new ArrayList<>();
+    simpsons.add(new SimpsonCharacter("Homer "));
+    simpsons.add(new SimpsonCharacter("Marge "));
+    simpsons.add(new SimpsonCharacter("Bart "));
+    simpsons.add(new SimpsonCharacter("Lisa "));
+
+    Collections.sort(simpsons);
+    simpsons.stream().map(s -> s.name).forEach(System.out::print);
+```
+
+In Java, we can sort an array with any type we want as long as it implements the `Comparable` interface. Keep in mind that custom objects must implement `Comparable` in order to be sorted, even as an array.
+
+If the Simpson object wasn’t implementing `Comparable`, a [ClassCastException](https://doc.bccnsoft.com/docs/jdk8u12-docs/api/java/lang/ClassCastException.html) would be thrown.
+
+`TreeMap` uses the `compareTo()` method implemented by the `Comparable` interface. Each element in the resulting `Map` is sorted by its key.
+
+The `Set` interface is responsible for storing unique values, but when we use the [TreeSet](https://docs.oracle.com/javase/7/docs/api/java/util/TreeSet.html) implementation, inserted elements will be automatically sorted as we add them.
+
+---
+
+What if we didn’t want to use the same `compareTo()` method from the class? Could we override the `Comparable` method to use a different logic?
+
+```java
+public class BadExampleOfComparable {
+
+    public static void main(String... args) {
+        List<SimpsonCharacter> characters = new ArrayList<>();
+
+        SimpsonCharacter homer = new SimpsonCharacter("Homer") {
+            @Override
+            public int compareTo(SimpsonCharacter simpson) {
+                return this.name.length() - (simpson.name.length());
+            }
+        };
+
+        SimpsonCharacter moe = new SimpsonCharacter("Moe") {
+            @Override
+            public int compareTo(SimpsonCharacter simpson) {
+                return this.name.length() - (simpson.name.length());
+            }
+        };
+
+        characters.add(homer);
+        characters.add(moe);
+
+        Collections.sort(characters);
+
+        System.out.println(characters);
+    }
+
+}
+```
+
+As you can see, this code is complicated and includes a lot of repetition. We had to override the `compareTo()` method twice for the same logic. If there were more elements we would have to replicate the logic for each object.
+
+Fortunately, we have the [Comparator](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html) interface, which lets us detach the `compareTo()` logic from Java classes. Consider the same example above rewritten using `Comparator`:
+
+```java
+public class GoodExampleOfComparator {
+
+    public static void main(String... args) {
+        List<SimpsonCharacter> characters = new ArrayList<>();
+
+        SimpsonCharacter homer = new SimpsonCharacter("Homer");
+        SimpsonCharacter moe = new SimpsonCharacter("Moe");
+
+        characters.add(homer);
+        characters.add(moe);
+
+        Collections.sort(characters, (Comparator.<SimpsonCharacter>
+                        comparingInt(character1 -> character1.name.length())
+                        .thenComparingInt(character2 -> character2.name.length())));
+
+        System.out.println(characters);
+    }
+}
+```
+
+Use `Comparable` when there is a single, default comparison for your object. Use `Comparator`when you need to work around an existing `compareTo()`, or when you need to use specific logic in a more flexible way. `Comparator` detaches the sorting logic from your object and contains the `compareTo()` logic within your `sort()` method.
+
+In this next example, we use an anonymous inner class to compare the value of objects. An *anonymous inner class*, in this case, is any class that implements `Comparator`. Using it means we are not bound to instantiating a named class implementing an interface; instead, we implement the `compareTo()` method inside the anonymous inner class.
+
+```java
+public class MarvelComparator {
+
+    public static void main(String... comparator) {
+        List<String> marvelHeroes = new ArrayList<>();
+
+        marvelHeroes.add("SpiderMan ");
+        marvelHeroes.add("Wolverine ");
+        marvelHeroes.add("Xavier ");
+        marvelHeroes.add("Cyclops ");
+
+
+        Collections.sort(marvelHeroes, new Comparator<String>() {
+            @Override
+            public int compare(String hero1, String hero2) {
+                return hero1.compareTo(hero2);
+            }
+        });
+
+        Collections.sort(marvelHeroes, (m1, m2) -> m1.compareTo(m2));
+
+        Collections.sort(marvelHeroes, Comparator.naturalOrder());
+
+        marvelHeroes.forEach(System.out::print);
+    }
+}
+```
+
+### Using Comparator with lambda expressions
+
+Anonymous inner classes are verbose, which can cause problems in our code. In the `Comparator` interface, we can use lambda expressions to simplify and make the code easier to read. For example, we could change this:
+
+```java
+Collections.sort(marvel, new Comparator<String>() {
+            @Override
+            public int compare(String hero1, String hero2) {
+                return hero1.compareTo(hero2);
+            }
+        });
+```
+
+to this:
+
+```java
+Collections.sort(marvel, (m1, m2) -> m1.compareTo(m2));
+```
+
+Less code and the same result!
+
+The output of this code would be:
+
+```java
+Cyclops SpiderMan Wolverine Xavier 
+```
+
+We could make the code even simpler by changing this:
+
+```java
+Collections.sort(marvel, (m1, m2) -> m1.compareTo(m2));
+```
+
+to this:
+
+```java
+Collections.sort(marvel, Comparator.naturalOrder());
+```
+
+---
+
+Many core Java classes and objects implement the `Comparable` interface, which means we don’t have to implement the `compareTo()` logic for those classes. Here are a few familiar examples:
 
 ### Sort int array in reverse order
 
@@ -561,19 +734,20 @@ Note: This approach works for the matrix n x m where 2 <= n. The algorithm can b
 2. https://www.baeldung.com/java-arraylist 
 3. https://www.geeksforgeeks.org/biginteger-class-in-java/ 
 4. https://stackoverflow.com/questions/5785745/make-copy-of-an-array
-5. https://www.java67.com/2016/07/how-to-sort-array-in-descending-order-in-java.html
-6. https://stackoverflow.com/questions/2137755/how-do-i-reverse-an-int-array-in-java
-7. https://stackoverflow.com/questions/1694751/java-array-sort-descending
-8. https://stackoverflow.com/questions/15452429/java-arrays-sort-2d-array
-9. https://stackoverflow.com/questions/32995559/reverse-a-comparator-in-java-8
-10. https://www.geeksforgeeks.org/arrays-binarysearch-java-examples-set-1/
-11. https://www.geeksforgeeks.org/arrays-binarysearch-in-java-with-examples-set-2-search-in-subarray/ 
-12. https://www.geeksforgeeks.org/collections-binarysearch-java-examples/ 
-13. https://www.geeksforgeeks.org/search-element-sorted-matrix/
-14. https://www.geeksforgeeks.org/search-in-a-row-wise-and-column-wise-sorted-2d-array-using-divide-and-conquer-algorithm/ 
-15. https://stackoverflow.com/questions/4421479/binary-search-in-2d-array 
-16. https://stackoverflow.com/questions/8234915/binary-search-in-2-dimensional-array-with-duplicates-java
-17. https://stackoverflow.com/q/2457792/9842375#answer-2458113 
+5. https://www.infoworld.com/article/3323403/java-challengers-5-sorting-with-comparable-and-comparator-in-java.html
+6. https://www.java67.com/2016/07/how-to-sort-array-in-descending-order-in-java.html
+7. https://stackoverflow.com/questions/2137755/how-do-i-reverse-an-int-array-in-java
+8. https://stackoverflow.com/questions/1694751/java-array-sort-descending
+9. https://stackoverflow.com/questions/15452429/java-arrays-sort-2d-array
+10. https://stackoverflow.com/questions/32995559/reverse-a-comparator-in-java-8
+11. https://www.geeksforgeeks.org/arrays-binarysearch-java-examples-set-1/
+12. https://www.geeksforgeeks.org/arrays-binarysearch-in-java-with-examples-set-2-search-in-subarray/ 
+13. https://www.geeksforgeeks.org/collections-binarysearch-java-examples/ 
+14. https://www.geeksforgeeks.org/search-element-sorted-matrix/
+15. https://www.geeksforgeeks.org/search-in-a-row-wise-and-column-wise-sorted-2d-array-using-divide-and-conquer-algorithm/ 
+16. https://stackoverflow.com/questions/4421479/binary-search-in-2d-array 
+17. https://stackoverflow.com/questions/8234915/binary-search-in-2-dimensional-array-with-duplicates-java
+18. https://stackoverflow.com/q/2457792/9842375#answer-2458113 
 
  
 
