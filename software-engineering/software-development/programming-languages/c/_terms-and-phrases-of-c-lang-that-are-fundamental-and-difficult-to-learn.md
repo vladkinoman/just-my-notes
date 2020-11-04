@@ -1,59 +1,72 @@
-# Термины и фразы языка C, которые являются фундаментальными и сложными в изучении
+# Terms and phrases of C lang that are fundamental and difficult to learn
 
-## Лексемы
+## Table of Contents
 
-Лексема (token) - символ или последовательность символов. Это всё то, из чего состоит программа.
+1. [Tokens](#Tokens)
+2. [Objects and types](#Objects-and-types)
+3. [Expressions](#Expressions)
+4. [Runtime Errors](#Runtime-Errors)
 
-> По завершении работы препроцессора программа разбивается на лексемы: идентификаторы, ключевые слова, константы, строковые литералы, знаки операций и прочие разделители.
+## Tokens
 
-> Прочие разделители - разделители лексем: горизонтальные таб, вертик. таб, символ заверш. строки, комментарии, пробелы и т.д. Они отбрасываются (cast aside) компилятором.
+**Token** (ru: лексема) is a symbol or a sequence of symbols. This is all that the program is made of.
 
-> Расширенные наборы символов для азиатских стран: строковая константа - L'...', строковый литерал L "...".
+> Upon completion of the preprocessor, a program is broken down into tokens: identifiers, keywords, constants, string literals, operation symbols and other separators.
 
-Литерал (literal) - фиксированное значение, которое не может быть изменено программой. 
-Пример: `ch = 'r'`.
+> Other separators are token separators: horizontal tabs, vertical tabs, end of line characters, comments, spaces etc. They are cast aside by the compiler.
+>
+> Extended character sets for Asian countries: string constant — L'...', string token — L "...".
 
-## Объекты и типы
+**Literal** is a fixed value, which can't be modified by the program. Example: `ch = 'r'`.
 
-Переменная (объект) - именованный участок в памяти. 
+## Objects and types
 
-> Интерпретировать её в программе можно в зависимости от:
-> 1. Класса памяти - определяет время жизни и контекст объекта.
-> 2. Типа данных - смысл вкладываемый в данные объекта.
+**Variable** (object) is a named place in memory.
 
-Классы памяти в C по K&R: автоматический (auto & register) и статический (static & extern) + Khizha: динамический класс памяти.
+> You can interpret it in the program depending on the:
+>
+>  1. Memory class — determines the life time and the context of an object.
+>  2. Data type — the meaning invested in the object data.
 
-Расширение целочисленного типа (integer promotion) - итерация приведения операнда к int (или unsigned int) если тип int (unsigned int) позволяет представить все значения исходного типа операнда . char, short, int, integer bit field, все либо signed либо нет, а также объект enum типа - все могут применяться в выражениях, где разрешены int. Это возможно из-за IP. По сути, после компиляции IP и происходит для всех вышеперечисленных типов.
+Memory classes in C according to K&R: automatic (auto & register) and static (static & extern) + according to A. Khizha: dynamic (C++ only?).
 
-Конгруэнтный тип - имеющий тоже двоичное представление.
+**Integer Promotion** (IP, ru: расширение целочисленного типа) is an iteration of the operand conversion to int (or unsigned int) if the int type (unsigned int) allows representing all values of the original operand type. char, short, int, integer bit field, all either signed or not, and enum type object — all can be used in expressions where int is allowed. This is possible due to IP. Essentially, once the IP has been compiled, this is the case for all the above types. Essentially, once you compile, IP occurs for all of the types listed above.
 
-> Объекты типа char имеют наименее строгие требования к выравниванию. Выравнивание используется когда нужно поместить в адреса очень требовательный тип! Выравнивание регулируется с помощью typedef и union.
+**Congruent type** is the type that also has binary representation.
 
-> Приведение типов применяется к указателям явным образом и даже приспособлено к неудачному системному интерфейсу.
+> Char objects have the least stringent alignment requirements. Alignment is used when a very demanding type needs to be placed in addresses! Alignment is regulated with the help of typedef and union.
 
-> Преобразования указатель в указатель требуют явного приведения типов!.
+> Type conversion applies to pointers explicitly and is even adapted to the unsuccessful system interface.
 
-> Значение объекта типа void нельзя использовать (x = void f), явно или неявно привести к другому типу. Однако, можно приводить указатели на объекты к void * без потери информации. void * можно также употреблять совместно с указателями любого типа в = и <= как угодно.
+> Pointer to pointer conversions require explicit type conversion!
 
-TODO: Неполный тип - 
+> The value of an object of the void type cannot be used (x = void f), and it cannot be explicitly or implicitly cast to another type. However, it is possible to cast pointers to objects to void * without losing information. void * can also be used together with pointers of any type in = and <= as you wish.
 
-## Выражения
+TODO: Incomplete type (ru: неполный тип). 
 
-Выражение - композиция операторов (символов типа "+, -"), переменных и литералов. 
+## Expressions
 
-> Выражение может иметь значение (например, выражение присваивания). Такие выражения могут участвовать в других выражениях, так как их значения будут использоваться.
+**Expression** is a composition of operators (symbols like "+, -"), variables and literals.
 
-Выражения в C/С++ могут быть двух типов: lvalue и rvalue.
+> An expression may have a value (e.g. an assignment expression). Such expressions may participate in other expressions, as their values will be used.
 
-lvalue (в Си устаревшее: left-side value (именующее выражение), в C++: locator value) - объект (переменная), который занимает идентифицированное место в памяти или это выражение, обозначающее объект или ссылающееся на него. 
-Пример: `int a; // a - lvalue, у а есть адресс`.
+Expressions in C/C++ can be of two types: lvalue and rvalue.
 
-> Идентификатор - lvalue если он ссылается на объект и если его тип арифметический, struct, union или указатель.
+**lvalue** ((old) left-side value (naming expression) in C, locator value in C++) is an object (variable) that occupies an identified place in memory or is an expression that denotes or refers to an object. Example: 
 
-rvalue - всё, что не является lvalue. rvalue - это временное значение, которое не сохранится за пределами выражения, которое его использует. 
-Пример: `3 // это просто значение`.
+```c
+int a; // a is lvalue, and has an address.
+```
 
-modifiable lvalue - модифицированное lvalue: не массив, не неполный тип, не имеет спецификатора const, не является struct или union с полями const.
+> Identifier is lvalue if it refers to an object and if its type is arithmetic, struct, union or pointer.
+
+**rvalue** is everything that is not lvalue. rvalue is a temporary value that will not be retained outside the expression that uses it. Example: 
+
+```c
+3 // it is simply a value
+```
+
+**modifiable lvalue** is not an array, not an incomplete type, does not have a const specifier, is not struct or union with const fields.
 
 ## Runtime Errors
 While solving the problems on an online Judge, many runtime errors can be faced, which are not clear by the message which comes with them. Lets try to understand these errors.
