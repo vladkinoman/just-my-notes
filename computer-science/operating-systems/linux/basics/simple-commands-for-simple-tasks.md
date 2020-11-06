@@ -1,5 +1,3 @@
-
-
 # Simple commands for simple tasks
 
 ## Logs
@@ -287,10 +285,47 @@ We use the `-F` flag to show complete Inxi output. `z` is used for security reas
 -N     Show Network card information. With -x, shows PCI BusID, Port number.
 ```
 
-## Source
+## Log out
 
-4.  https://askubuntu.com/questions/106351/running-programs-in-the-background-from-terminal
-2.  https://superuser.com/questions/633605/how-to-create-symbolic-links-to-all-files-class-of-files-in-a-directory
-3.  https://www.cyberciti.biz/faq/how-to-check-os-version-in-linux-command-line/
-4.  https://linuxize.com/post/how-to-check-the-kernel-version-in-linux/
-5.  https://www.tecmint.com/inxi-command-to-find-linux-system-information/
+### Sleep/hibernate
+
+The command for Suspend (Sleep) is
+
+```bash
+sudo pm-suspend
+```
+
+The command for Hibernate is
+
+```bash
+sudo pm-hibernate
+```
+
+> Note that Hibernation mode is not compatible with all hardware, please test this before using it.
+
+The command for the hibrid of them both is
+
+```bash
+sudo pm-suspend-hybrid
+```
+
+The hybrid command saves the session to the Hard Disk (safer storage place), but the system will stay running, allowing for faster resume. This does **not** mean you can turn off your computer and have your session saved. You will need to use the regular hibernate command for that.
+
+These commands are provided by the package [pm-utils](https://apps.ubuntu.com/cat/applications/pm-utils/). Man pages: [link](http://manpages.ubuntu.com/manpages/precise/man8/pm-action.8.html).
+
+If you have problems with those commands, please see the source. It states that
+
+> On some hardware putting the video card in the suspend state and recovering from it needs some special quirk handling. With the --quirk-* options of the pm-suspend and pm-suspend-hybrid commands you can select which quirks should be used.
+
+A list of these quirks, and what they mean can be found [here](http://manpages.ubuntu.com/manpages/precise/man8/pm-action.8.html#contenttoc3).
+
+## References
+
+1. https://askubuntu.com/questions/106351/running-programs-in-the-background-from-terminal
+2. https://superuser.com/questions/633605/how-to-create-symbolic-links-to-all-files-class-of-files-in-a-directory
+3. https://www.cyberciti.biz/faq/how-to-check-os-version-in-linux-command-line/
+4. https://linuxize.com/post/how-to-check-the-kernel-version-in-linux/
+5. https://www.tecmint.com/inxi-command-to-find-linux-system-information/
+6. https://askubuntu.com/questions/181390/what-is-the-command-for-sleep-hibernate
+7. https://apps.ubuntu.com/cat/applications/pm-utils/
+8. http://manpages.ubuntu.com/manpages/precise/man8/pm-action.8.html
