@@ -1,49 +1,90 @@
-# Термины и фразы языка Java, которые являются фундаментальными и сложными в изучении
+# Terms and phrases of Java that are fundamental and difficult to learn
 
-> Многое взято с курса Coursera Algorithms: Part 1 и книги Algorithms by Sedgwick and Wayne.
+> A lot was taken from Coursera Algorithms: Part 1 and Algorithms by Sedgwick and Wayne.
 
-## Структура Java программы
+## Table of Contents
 
-Структура Java программы:
-- примитивные типы
-- операторы (инструкции)
-- массивы
-- статические методы позволяют нам инкапсулировать и повторно использовать код и разрабатывать программы как набор независимых модулей.
-> У класса со статическими методами не может быть экземпляров.
-- строки
-- input/output - взаимодействие между программами и внешним миром
-- абстракция данных: расширяет обособление (encapsulation) и повторное использование кода (reuse), что позволяет определить не примитивные типы, поддерживая ООП
+- [Structure of a Java program](#Structure-of-a-Java-program)
+- [Data abstraction](#Data-abstraction)
+- [Inheritance](#Inheritance)
+- [References](#References)
 
-## Абстракция данных
+## Structure of a Java program
 
-Абстрактный тип данных - тип данных, представление которого скрыто от клиента. Думай об ADT как об абстрактном понятии (не путайте его с абстрактным классом в Java), которое представляет некоторую модель данных, структура которой определяет только основные характеристики данных и операции, которые можно над ними выполнять. Например, Interfaces List, Map и т.д. То есть для клиента хорошими примерами буквально могут быть интерфейсы, с какими данными они работают и операции доступные над этими данными.
+- primitive data types  (integers, real numbers, booleans, characters) and expressions (a literal, a variable, or a sequence of operations on literals and/or variables that produces a value).
+- statements (ru: операторы, инструкции) are declarations, assignments, initializing declarations, implicit assignments (e.g. i++), conditionals, loops, break and continue, for notation, single statement blocks.  
+- arrays
 
-Реализациями АТД могут быть: определение типа данных или библиотека статических методов (функций). Поэтому стоит различать метод экземпляра и статический метод. Метод инкапсулирует вычисление, которое определено как последовательность операторов.
+  > **Is an array a primitive type or an object in Java?**
+  >
+  > An **[array in Java](https://www.geeksforgeeks.org/arrays-in-java/) is an object**.
+  >
+  > - In Java, there is a class for every array type, so there’s a class for int[] and similarly for float, double etc.
+  >
+  > - The direct superclass of an array type is **Object**. Every array type implements the interfaces Cloneable and java.io.Serializable.
+  > - In the Java programming language, arrays are objects (§[4.3.1](http://docs.oracle.com/javase/specs/jls/se7/html/jls-4.html#jls-4.3.1)), are dynamically created, and may be assigned to variables of type Object (§4.3.2). All methods of class Object may be invoked on an array.
+  >
+  > For every array type corresponding classes are available and these classes are the part of java language and not available to the programmer level. To know the class of any array, we can go with the following approach:
+  >
+  > ```java
+  >  int[] x = new int[3]; 
+  >  System.out.println(x.getClass().getName());
+  > ```
+  >
+  > What we got:
+  >
+  > ```bash
+  > [I
+  > ```
+  >
+  > **[I** this is the class for this array, one **[** (square bracket) because it is one dimensional and **I** for integer data type.
+- static methods allow us to encapsulate and reuse code and develop programs as a set of independent modules. A *method* encapsulates a computation that is defined as a sequence of statements. 
 
-Реализация АТД в виде Java-класса (определение типа данных) - это практически построение библиотеки статических методов с учетом того, что мы связываем данные с реализациями функций и скрываем представление данных от клиента. Создание АТД включает понимание и разработку API.
+  > A class with static methods cannot have instances. 
+- strings
+- input/output is the interaction between the programs and the outside world.
+- abstract data types (ADTs). Data abstraction expands <u>encapsulation</u> and <u>code reuse</u>, which allows to define non-primitive types by supporting OOP.
+- APIs. To specify the behavior of an abstract data type, we use an *application programming interface* (API), which is a list of *constructors* and *instance methods* (operations), with an informal description of the effect of each,
 
-> Из всего вышеперечисленного вытекает, что определение типа данных - реализация в виде класса, у которого могут быть объекты, а эти объекты могут содержать значения этого типа данных :)
+## Data abstraction
 
-API - это способ документирования или описания поведения АТД. API отделяет клиента от реализации: клиент ничего не знает о реализации, а реализация не учитывает особенностей клиента.
+Abstract data type is the type of data whose representation is hidden from the client. Think of ADT as an abstract concept (do not confuse it with an abstract class in Java), which represents some data model, the structure of which defines only the basic characteristics of data and operations that can be performed on them. For example, Interfaces `List`, `Map`, etc. That is, for the client, good examples can literally be the interfaces, with what data they work and the operations available on these data.
 
-## Инкапсуляция и модульное программирование
+ADT implementations can be data type definition or library of static methods (functions). Therefore it is worth to distinguish between an instance method and a static method. The method encapsulates a calculation which is defined as a sequence of operators.
 
-Инкапсуляция - это способ в языке программирования поместить Типы Данных внутри их реализаций и разграничить реализации клиентов и Типов Данных. Инкапсуляция изолирует операции с ТД.
+Implementation of ADT in the form of a Java class (data type definition) is practically building a library of static methods, taking into account that we link data with the implementation of functions and hide the presentation of data from the client. Creating an ATD involves understanding and development of the API.
 
-Инкапсуляция делает возможным модульное программирование:
-- позволяет независимо разрабатывать код клиента и код реализации
-- позволяет подставлять улучшенные реализации без влияния на код клиента.
-- позволяет поддерживать еще ненаписанные программы.
+> From all the above it follows that the definition of a <u>data type is</u> an implementation in the form of <u>a class that can have objects</u>, and these <u>objects can contain values of this data type</u> :)
 
-Парадигма модульного программирования (modular programming) - метод или способ мышления, который применяется к программам и состоит в том, чтобы разбивать большие ПО на малые и независимые модули.
+The API is a way to document or describe ADT behavior. The API separates the client from the implementation: the client knows nothing about the implementation and the implementation does not take into account the client's specifics.
 
-Библиотеки статических методов позволяют осуществлять модульное программирование, где мы создаем библиотеки статических методов (модули) и статический метод в одной библиотеке могут вызывать статические методы, определенные в других библиотеки. Это позволяет нам:
-- Работать с модулями разумного размера, даже в программе с участием большого количество кода
-- Раздавать и повторно использовать код без необходимости его повторной реализации.
-- Легко заменять улучшенные реализации.
-- Разрабатывать подходящие абстрактные модели для решения проблем программирования
-- Локализовать отладку (unit testing)
+## Encapsulation and module programming
 
-## Наследование
+Encapsulation is a way to place Data Types within their implementations in a programming language and separate implementations of clients and Data Types. Encapsulation isolates operations on DT.
 
-*Fragile base class problem* - фундаментальная проблема ООП, которая состоит в том что производные классы сильно зависят от базового класса и при изменении реализации последнего могут возникнуть ошибки в его наследниках.
+Encapsulation makes modular programming possible:
+
+- enables independent development of the client code and the implementation code.
+- allows you to substitute improved implementations without affecting the client code.
+- allows you to support programs that have not yet been written.
+
+Modular programming is a method or way of thinking that applies to programs and is to break down large software into small and independent modules.
+
+Static method libraries enable modular programming, where we create static method libraries (modules) and static method in one library can call static methods defined in other libraries. This allows us:
+
+- Work with modules of reasonable size, even in a program involving a large amount of code
+- Distribute and reuse the code without having to implement it again.
+- Easily replace improved implementations.
+- Develop suitable abstract models to solve programming problems.
+- Localize debugging (unit testing)
+
+## Inheritance
+
+*Fragile base class problem* is the fundamental problem of OOP. It consists in the fact that derived classes are highly dependent on the base class, and when the latter's implementation changes, errors may occur in its inheritors.
+
+## References
+
+1. https://algs4.cs.princeton.edu/11model/
+2. https://www.geeksforgeeks.org/array-primitive-type-object-java/?ref=lbp
+3. http://docs.oracle.com/javase/specs/jls/se7/html/jls-4.html#jls-4.3.1
+4. https://algs4.cs.princeton.edu/12oop/
