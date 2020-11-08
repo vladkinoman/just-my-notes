@@ -64,8 +64,63 @@ Big-O notation is certainly the most common (usually Computer Science research s
 
 Theta notation is used to describe the asymptotic behavior of a class of functions. It can be used for many things including time complexity and memory complexity. It can be used for average case complexity just like for worst case complexity[1].
 
+### Big Omega notation
+
+Sometimes, we want to say that an algorithm takes *at least* a certain amount of time, without providing an upper bound. We use big-Ω notation.
+
+If a running time is Ω(*f*(*n*)), then for large enough *n*, the running time is at least *k*⋅*f*(*n*) for some constant *k*. Here's how to think of a running time that is Ω(*f*(*n*)):
+
+![img](file:///D:/Books/0HTML%20articles/Programming/Algorithms/Big-%CE%A9%20(Big-Omega)%20notation%20(article)%20_%20Khan%20Academy_files/c02e6916d15bacae7a936381af8c6e5a0068f4fd.png)
+
+We say that the running time is "big-Ω of *f*(*n*)". We use big-Ω notation for **asymptotic lower bounds**, since it bounds the growth of the running time from below for large enough input sizes.
+
+Just as Θ(*f*(*n*)) automatically implies O(*f*(*n*)), it also automatically implies Ω(*f*(*n*)).  So we can say that the worst-case running time of binary search is Ω(log*n*).
+
+> **Why it is correct?**
+>
+> When we use asymptotic notation, unless stated otherwise, we are talking about **worst-case running time**. The worst-case running time for binary search is log(n).
+>
+> Recall:
+>
+> - if f(n) is O(g(n)) this means that f(n) grows asymptotically no faster than g(n)
+> - if f(n) is Ω(g(n)) this means that f(n) grows asymptotically no slower than g(n)
+> - if f(n) is Θ(g(n)) this means that f(n) grows asymptotically at the same rate as g(n).
+>
+> As a result:
+> if f(n) is Θ(g(n)) it is growing asymptotically at the same rate as g(n). So we can say that f(n) is not growing asymptotically slower or faster than g(n). But from the above, we can see this means that f(n) is Ω(g(n)) and f(n) is O(g(n)).
+>
+> Think of O as an upperbound, and Ω as a lower bound. These bounds can be tight or loose,but we prefer to make them tight as possible. If we have tight bounds where O and Ω have the same growth rate then we precisely know the growth rate. If we can precisely give the growth rate then we know Θ.
+>
+> An analogy is the height of a neighbour.
+>
+> - We can immediately say that the height of our neighbour is upper bounded by 1 million kilometers. 
+> - We can also say that the height of our neighbour is lower bounded by 1 nanometer.
+>
+> These statements aren't very useful, because these bounds are so loose. However if we gave a lower bound for the height of our neighbour at 5' 5", and an upper bound of 5' 10" we would have a much better idea of how tall our neighbour was. If we had a lower bound of 5' 8" and an upper bound of 5' 8" we could then say that our neighbour is 5' 8".
+>
+> So for log(n) we could say:
+>
+> - log(n) is O(n^n) since log(n) grows asymptotically no faster than n^n
+> - log(n) is O(n) since log(n) grows asymptotically no faster than n
+> - log(n) is O(log(n)) since log(n) grows asymptotically no faster than log(n)
+>
+> We went from loose upper bounds to a tight upper bound.
+>
+> - log(n) is Ω(1) since log(n) grows asymptotically no slower than 1
+> - log(n) is Ω(log(log(n))) since log(n) grows asymptotically no slower than log(log(n))
+> - log(n) is Ω(log(n)) since log(n) grows asymptotically no slower than log(n)
+>
+> We went from loose lower bounds to a tight lower bound.
+>
+> Since we have log(n) is O(log(n)) and Ω(log(n)) we can say that log(n) is Θ(log(n)).
+
+We can also make correct, but imprecise, statements using big-Ω notation. For example, if you really do have a million dollars in your pocket, you can truthfully say "I have an amount of money in my pocket, and it's **at least** 10 dollars." That is correct, but certainly not very precise. Similarly, we can correctly but imprecisely say that the worst-case running time of binary search is Ω(1), because we know that it takes **at least** constant time.
+
+Of course, typically, when we are talking about algorithms, we try to describe their running time as precisely as possible.
+
 ## References
 
 1. https://stackoverflow.com/questions/39138236/is-theta-notation-called-the-average-case
 2. https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-8-efficiency-and-order-of-growth/MIT6_00SCS11_rec04.pdf
 3. https://everythingwhat.com/why-do-we-use-big-o-notation
+4. https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-omega-notation
