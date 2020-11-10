@@ -8,6 +8,7 @@
 - [Installing deb packages](#Installing-deb-packages)
 - [Installing tar archive](#Installing-tar-archive)
 - [Uninstalling packages](#Uninstalling-packages)
+  - [Uninstalling packages that were installed from the tar archives](#Uninstalling-packages-that-were-installed-from-the-tar-archives)
   - [How to uninstall a package installed with pip install --user](#How-to-uninstall-a-package-installed-with-pip-install---user)
 - [Updating packages](#Updating-packages)
   - [How to update everything in Ubuntu?](#How-to-update-everything-in-Ubuntu?)
@@ -147,6 +148,29 @@ dpkg -S /path/to/file
 
 Yes, lower-level `dpkg`-commands can be used (advanced), or GUI tools like Muon, Synaptic, Software Center, etc. **There's no single 'correct way' of removing applications or performing other tasks interacting with your package management.**
 
+### Uninstalling packages that were installed from the tar archives
+
+> TL;DR: with your own hands! :laughing:
+
+#### Telegram example
+
+This Telegram app just installs a `.desktop` file, its icon and a folder where it saves its data:
+
+Remove the folder with the Telegram and Updater file.
+
+Then run:
+
+```bash
+rm -Rf \
+  ~/.local/share/icons/telegram.png \ 
+  ~/.local/share/applications/telegramdesktop.desktop \
+  ~/.local/share/TelegramDesktop
+```
+
+#### An easy way to remove programs installed from source in Linux
+
+> TODO: check [this](https://ostechnix.com/an-easy-way-to-remove-programs-installed-from-source-in-linux/) link.
+
 ### How to uninstall a package installed with pip install --user
 
 (Python 3.5 and pip 7.1.2 on Linux) the situation appears to be this:
@@ -208,5 +232,6 @@ sudo apt update -y && sudo apt full-upgrade -y && sudo apt autoremove -y && sudo
 8. [how to use sudo command to install .tar.gz?](https://askubuntu.com/questions/191390/how-to-use-sudo-command-to-install-tar-gz/191391)
 9. [What is the correct way to completely remove an application?](https://askubuntu.com/questions/187888/what-is-the-correct-way-to-completely-remove-an-application)
 10. [How to remove an incomplete package by using apt-get](https://stackoverflow.com/questions/27455626/how-to-remove-an-incomplete-package-by-using-apt-get)
-11. [How to uninstall a package installed with pip install --user](https://stackoverflow.com/questions/33412974/how-to-uninstall-a-package-installed-with-pip-install-user)
-12. [How to update everything in Ubuntu?](https://askubuntu.com/questions/733434/one-single-command-to-update-everything-in-ubuntu?rq=1)
+11. [How do I uninstall Telegram which was installed from the tar.xz obtained from the official website?](https://askubuntu.com/questions/1182849/how-do-i-uninstall-telegram-which-was-installed-from-the-tar-xz-obtained-from-th)
+12. [How to uninstall a package installed with pip install --user](https://stackoverflow.com/questions/33412974/how-to-uninstall-a-package-installed-with-pip-install-user)
+13. [How to update everything in Ubuntu?](https://askubuntu.com/questions/733434/one-single-command-to-update-everything-in-ubuntu?rq=1)
