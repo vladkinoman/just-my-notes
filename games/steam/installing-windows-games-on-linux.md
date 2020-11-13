@@ -1,6 +1,14 @@
 # Installing Windows games on Linux
 
+It is very important that the games are installed on the ext4 file system, otherwise they won't work. However, there are some [tweaks](https://www.reddit.com/r/SteamPlay/comments/aafhcn/steam_proton_doesnt_launch_any_games/) that might help to run them on the NTFS file system:
 
+> For NTFS you'll need something like this: `ntfs-3g defaults,exec,uid=1000,gid=1000 0 2`
+>
+> > Try changing gid=1000 to gid=100 (users) and see if that helps.
+>
+> Make sure that you are *not* using the `windows_names` flag.
+>
+> For ext4, something like `ext4 defaults 0 2` and make sure you give your user permissions for the drive: `sudo chown -R USERNAME:USERNAME /media/mynewdrive`.
 
 ## Deus Ex with GMDX mod
 
@@ -13,7 +21,7 @@
 
 ## GTA III
 
-Works okay with Proton 5.0. You need to press enter a few times after the launch in order to remove black screen.
+It works fine with Proton 5.0. You need to press enter a few times after the launch in order to remove black screen.
 
 > I got flickering in Proton 5.13 and unhandled exception in Proton below
 
@@ -78,4 +86,6 @@ Other tips from [ProtonDB](https://www.protondb.com/app/12100):
 
 ## References
 
-1. https://www.reddit.com/r/linux_gaming/comments/9mwh26/guide_how_to_install_deus_ex_with_gmdx_and_steam/
+1. https://www.reddit.com/r/SteamPlay/comments/aafhcn/steam_proton_doesnt_launch_any_games/
+2. https://www.reddit.com/r/linux_gaming/comments/9mwh26/guide_how_to_install_deus_ex_with_gmdx_and_steam/
+3. https://www.protondb.com/app/12100
