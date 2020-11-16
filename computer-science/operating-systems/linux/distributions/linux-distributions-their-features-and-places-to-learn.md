@@ -4,16 +4,35 @@
 
 In fact, many people say that the best way to learn Linux is to use the "Trial and error" approach. So, you need to install the Linux distribution, use it, break it and fix it. :)
 
-> Notes to get started:
->
-> - Rolling distros get updates on an hourly basis. So you’ll get the newest version of each app/software you install.
->
-> - Stable distros get updates less frequently and are considered more stable. But you won’t always get the latest versions of the software you use.
+You will notice some differences between Linux versions, specifically:
 
-### Distributions for beginners
+- Desktop Environments.
+  There are many good desktop environments for different needs with different resource requirements (e.g. RAM). Among the popular ones are GNOME 3, Cinnamon, XFCE etc. Those environments are available for Ubuntu and Linux Mint distributions. Other distros have a more modest selection of desktops available, however, often offered as "spins" that contain different desktop environments. An example distribution that does this is Fedora.
+- Package managers.
+  Various methods for installing software are included with each Linux distribution, but they have an underlying package manager. 
+  On Debian-based distros such as Ubuntu and Linux Mint, dpkg is the choice, accessed via the apt dependency resolver. For CentOS, RPM is the package manager, subject to commands using yum.
+- Display servers.
+  This software coordinates data between the computer hardware and the display, enabling the user to interact with the graphical user interface (GUI). 
+  Historically, the X.Org Server has been most commonly used. Various alternatives are available, however, such as Mir, and SurfaceFlinger which is used on Android (which uses the Linux Kernel). The Wayland display server is seen as the future on Linux, with most popular distros adopting it.
+- Goals and aims.
+  Some distributions exist because they like some aspects of an existing distro but wish to replace some software packages. Meanwhile, Linux distributions can differ in their aims.
+  For example, Linux Mint is based on Ubuntu, but contains different system tools, desktop environment, and a minty-green theme. Its primary aim is to provide a simple stepping on point for Windows and macOS users to start using Linux.Similarly, Debian aims to provide an extremely stable distribution (and therefore contains older software).
+  Beyond the realm of universal distributions, some Linux projects have specific purposes. For example, gaming distros like Steam OS, or multimedia distros like Fedora Design Suite.
+- Open source philosophy.
+  While GNU/Linux is perhaps the most famous open source project, not all distros are 100 percent open source because project leaders have differing stances on open source.
+  As an example, Ubuntu doesn't have an issue with including proprietary software in its repositories. You'll find the Steam gaming client is easily available, while graphics drivers from AMD and Nvidia can be installed. Fedora, conversely, has a strong open source policy that prevents it from including any proprietary software in its repositories.
+  Of course, at the end of the day you can do whatever you want with your chosen Linux distro. Regardless of the distribution project's policies, there is no block on what you install.
+  In short, while many Linux distributions might have lofty aims of open source compliance, not all are open source.
+- Type of the distribution.
+  - Rolling distros get updates on an hourly basis. So you’ll get the newest version of each app/software you install.
+  - Stable distros get updates less frequently and are considered more stable. But you won’t always get the latest versions of the software you use.
+
+Choose a distribution according to your needs.
 
 > - [ ] means I haven't tried this distribution.
 > - [x] means I have tried this distribution (>= 3 months). 
+
+### Distributions for beginners
 
 - [x] Ubuntu: 
   - best Linux OS for beginners and personal machines, offers **ease of use** and a great user interface experience that has led to its wide adoption, based on Debian.
@@ -33,7 +52,7 @@ In fact, many people say that the best way to learn Linux is to use the "Trial a
 
   > I tried to install Lubuntu 20.04 LTS and encountered this [error](https://bugs.launchpad.net/ubuntu/+source/calamares/+bug/1851188). The problem is occur when I try to begin the installation after choosing the free partition (along with the 3 primary partitions already) for Lubuntu.
   
-- [ ] Linux Mint:
+- [x] Linux Mint:
 
   - based on Ubuntu. It uses Ubuntu’s software repositories so the same packages are available on both distributions. **Less bloated than Ubuntu**.
   - package manager - Debian package manager.
@@ -42,7 +61,7 @@ In fact, many people say that the best way to learn Linux is to use the "Trial a
 
   <details><summary>Comments from Wiki.</summary> Linux Mint is a community-driven Linux distribution based on Ubuntu or Debian that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use." Linux Mint provides full out-of-the-box multimedia support by including some proprietary software, such as multimedia codecs, and comes bundled with a variety of free and open-source applications.</details>
   
-Website: [linuxmint.com](https://www.linuxmint.com/).
+  Website: [linuxmint.com](https://www.linuxmint.com/).
 
 ### Distributions for medium level users
 
@@ -128,3 +147,8 @@ Website: [linuxmint.com](https://www.linuxmint.com/).
 Or, just determine where you fit on this chart:
 
 ![Bearded men: Ubuntu, Fedora, Debian, Arch, Gentoo, LFS](https://qph.fs.quoracdn.net/main-qimg-9e304ad7584dc97abaee6bcaff44d2e3.webp)
+
+## References
+
+1. https://www.makeuseof.com/tag/whats-the-difference-between-linux-distributions-if-theyre-all-linux-makeuseof-explains/
+2. https://linuxjourney.com/
