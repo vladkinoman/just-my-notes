@@ -55,10 +55,18 @@ Choose a distribution according to your needs.
 - [x] Linux Mint:
 
   - based on Ubuntu. It uses Ubuntu’s software repositories so the same packages are available on both distributions. **Less bloated than Ubuntu**.
+  
   - package manager - Debian package manager.
-  - desktop environment - KDE/GNOME/Cinnamon/MATE/ Xfce/KDE SC 4.
-  - great for desktop and laptop.
+    Linux Mint dropped support for [Ubuntu](https://itsubuntu.com/things-to-do-after-installing-ubuntu-20-04-lts/)‘s Snap. In Linux Mint 20, APT forbids snapd from getting installed.
 
+    <details><summary>Lead developer of Linux Mint, Clement “Clem” Lefebvre explains.</summary> When snap was announced it was supposed to be a solution, not a problem. It was supposed to make it possible to run newer apps on top of older libraries and to let 3rd party editors publish their software easily towards multiple distributions, just like Flatpak and AppImage. What we didn’t want it to be was for Canonical to control the distribution of software between distributions and 3rd party editors, to prevent direct distribution from editors, to make it so software worked better in Ubuntu than anywhere else and to make its store a requirement. <p>
+    If you’re a Fedora user and you want to install Spotify, you’re told to go tohttps://snapcraft.io/spotify. Spotify doesn’t distribute RPM packages, appimage, Flatpak or anything useful to a Fedora user who wants to download it, or to a Fedora maintainer who wants to add it to a repository. Fedora users are told to go to what is essentially a commercial store operated by a RedHat competitor where stats tell them their distribution is only 7th best. <p>
+    A year later, in the Ubuntu 20.04 package base, the Chromium package is indeed empty and acting, without your consent, as a backdoor by connecting your computer to the Ubuntu Store. Applications in this store cannot be patched, or pinned. You can’t audit them, hold them, modify them or even point snap to a different store. You’ve as much empowerment with this as if you were using proprietary software, i.e. none. This is in effect similar to a commercial proprietary solution, but with two major differences: It runs as root, and it installs itself without asking you.</details>
+  
+  - desktop environment - KDE/GNOME/Cinnamon/MATE/ Xfce/KDE SC 4.
+  
+  - great for desktop and laptop.
+  
   <details><summary>Comments from Wiki.</summary> Linux Mint is a community-driven Linux distribution based on Ubuntu or Debian that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use." Linux Mint provides full out-of-the-box multimedia support by including some proprietary software, such as multimedia codecs, and comes bundled with a variety of free and open-source applications.</details>
   
   Website: [linuxmint.com](https://www.linuxmint.com/).
@@ -148,7 +156,56 @@ Or, just determine where you fit on this chart:
 
 ![Bearded men: Ubuntu, Fedora, Debian, Arch, Gentoo, LFS](https://qph.fs.quoracdn.net/main-qimg-9e304ad7584dc97abaee6bcaff44d2e3.webp)
 
+### Tiny distributions for old PCs
+
+Tiny Linux distributions are powerful innovations: having an entire operating system drive a computer with less than 1GB of storage and half as much RAM is the ultimate software hack.
+
+- [ ] Tiny Core:
+  - Minimalistic, pain to setup. At 11MB for a text console and 16MB for a GUI, [Tiny Core Linux](http://tinycorelinux.net/) is almost impossibly small.
+
+  - Without a GUI, Tiny Core runs well on a mere 64MB of RAM.
+
+  - [Download Tiny Core](http://tinycorelinux.net/welcome.html) and write it to a thumb drive with **dd** or [Etcher](https://www.balena.io/etcher/).
+
+    Installing Tiny Core is easy, once you download the **tc-install** or **tc-install-GUI** application using the **Apps** icon in the launcher bar at the bottom of the screen.
+
+  - Since it comes with little more than a text editor and a terminal, the first thing you should do is install some applications. The **Apps** icon in the bottom launcher bar displays all the Tiny Core packages available to you. The **Apps** repository also includes important drivers, so it's useful when you're looking to get a WiFi card or a printer working.
+    The application selection is a good mix between user-centric apps, like office and graphics applications, and server-centric, such as [Samba](https://www.samba.org/) and web servers.
+
+  - Tiny Core is ideal for old computers with few resources, network boot images, and anyone who values applications over the OS. Tiny Core is a great weekend project: build the OS you want from 16MB until you have just as much of an OS as you need.
+
+- [ ] SliTaz:
+  - The [SliTaz Linux](http://www.slitaz.org/en/) image is about 51MB, about four times the size of Tiny Core, with an impressive collection of drivers and applications included. In fact, if you didn't know better, you might think you booted into a 1GB Ubuntu image because everything you'd expect from a basic starter image is there: text editor, web browser, paint program, spreadsheet application, and so on.
+    At boot time, you can choose to run SliTaz without a GUI; it runs nicely on a mere 64MB of RAM.
+  - The rolling release version is roughly 50MB and is updated weekly. If you fall in love with SliTaz, you can choose a download that's better for your needs—if the rolling release proves to be too fresh for you.
+    Once you've downloaded your choice of SliTaz image, write it to a thumb drive with dd or Etcher and reboot.
+  - The **TazPanel** application is SliTaz's control center. If you're a fan of OpenSUSE or Mageia (née Mandrake), you might find TazPanel familiar, at least in concept: it's a single application that provides access to system configuration, hardware detection, user and group management, system updates, and application installation.
+    Available applications satisfy most basic requirements, meaning if you're not picky about which application you use to accomplish a task, then SliTaz's repositories probably have something for you. If you have specific requirements (GIMP 2.10 instead of GIMP 2.8, for instance), then you'll have to learn how to generate SliTaz packages. The good news is that the tazpkg command can convert from several packaging formats.
+  - SliTaz is a fast, small Linux distribution with a centralized control panel that makes it easy to learn. Because its packaging tools can convert from other Linux packaging formats, its application selection is theoretically vast, making it easy for you to design your work environment with all your favorite tools. SliTaz is small but lethal, just like its arachnid logo.
+- [ ] Bodhi Linux:
+  - [Bodhi Linux](https://www.bodhilinux.com/) might not look tiny at first glance, with an ISO image of 740MB, but once it's installed, you'll be amazed at just how tiny it is. Bodhi runs smoothly on only 512MB of RAM but looks and feels like the desktop of tomorrow. Bodhi uses the [Enlightenment](https://www.enlightenment.org/) desktop, a beautiful user interface that's lovingly crafted to be both small and powerful.
+    Bodhi doesn't just use Enlightenment, though, it adds to it. Bodhi's configuration applications and system setting panels are custom interfaces to Enlightenment's sometimes overwhelming array of options. Bodhi makes some sane default choices for you and provides a subset of options. If you're a die-hard Enlightenment user, Bodhi's interpretation might not be pure enough for you, but for many users, Bodhi brings focus to the Enlightenment desktop.
+  - [Download Bodhi Linux](https://www.bodhilinux.com/download), write it to a thumb drive with **dd** or [Etcher](https://www.balena.io/etcher/), and reboot. The installation application is **Ubiquity**, so the process is the same as installing Ubuntu.
+  - Bodhi is based on the latest long term support (LTS) Ubuntu Linux release, so your available software knows almost no bounds. If it's available for Ubuntu Linux, Bohdi has access to it.
+  - Bodhi Linux is a step down from the size of a typical Ubuntu install and a step up from many other minimalist Ubuntu environments because it uses Enlightenment. If you're looking for a Linux distribution that runs lighter than most without resorting to overlay filesystems and application modules, then Bodhi is the distribution for you.
+- [ ] Puppy Linux:
+  - Before there was Tiny Core or SliTaz or [AntiX](https://antixlinux.com/) or Porteus, there was [Puppy Linux](http://puppylinux.com/). One of the original tiny Linux distributions, Puppy has endured for a decade and a half as a reliable, bootable OS for old computers and new users alike.
+    Upon first boot, Puppy does its best to guide the user through any necessary steps to ensure everything works as expected. It's a lot of windows to wade through, but once you get through it all, you know without a doubt what works and what doesn't before you choose whether to install.
+    Puppy is almost 300MB and failed to work on anything under 1GB RAM in my tests, so it's not exactly the tiniest Linux available. However, it's still a great, under-1GB operating system, and of the OSes in that category, it's one of the very friendliest.
+  - Download Puppy Linux and write it to a thumb drive with dd or Etcher or burn it to a CD or DVD, then reboot.Puppy can install onto nearly anything that accepts data. The installer application, available from the top launcher bar, is called **Puppy Installer**, and it manages installing Puppy and applications for Puppy. Puppy can boot from a thumb drive, an optical disc, a hard drive, and even an SD card.
+  - The **Puppy Installer** application is also used to install apps onto Puppy. Because Puppy is based on Ubuntu, there aren't likely to be any Linux packages missing from its repositories, and if there are, you can probably use a [Flatpak](https://docs.fedoraproject.org/en-US/fedora-silverblue/getting-started/#flatpak).
+  - Puppy is the original tiny Linux. While it's not the tiniest any more, it's by far the easiest.
+- [ ] Linux Lite
+- [ ] AntiX Linux
+- [ ] MX Linux
+- [ ] Lubuntu
+
 ## References
 
 1. https://www.makeuseof.com/tag/whats-the-difference-between-linux-distributions-if-theyre-all-linux-makeuseof-explains/
 2. https://linuxjourney.com/
+3. https://itsubuntu.com/linux-mint-20-dropped-ubuntus-snap/#:~:text=Linux%20Mint%20Dropped%20Ubuntu's%20Snap&text=What%20we%20didn't%20want,make%20its%20store%20a%20requirement.
+4. https://opensource.com/article/19/6/linux-distros-to-try
+5. https://linoxide.com/distros/lightweight-linux-distros-for-old-laptop/
+6. https://www.tecmint.com/linux-distributions-for-old-computers/
+7. https://embeddedinventor.com/best-lightweight-linux-distros-comparison-analysis/
