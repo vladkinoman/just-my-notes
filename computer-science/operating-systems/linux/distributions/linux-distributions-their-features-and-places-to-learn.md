@@ -156,9 +156,33 @@ Or, just determine where you fit on this chart:
 
 ![Bearded men: Ubuntu, Fedora, Debian, Arch, Gentoo, LFS](https://qph.fs.quoracdn.net/main-qimg-9e304ad7584dc97abaee6bcaff44d2e3.webp)
 
-### Tiny distributions for old PCs
+### Distributions for old PCs with 32-bit processors
 
-Tiny Linux distributions are powerful innovations: having an entire operating system drive a computer with less than 1GB of storage and half as much RAM is the ultimate software hack.
+> **Notes.** 32bit processors are next:
+>
+> - i386 is for extremely old CPU generation dating before Pentium.
+>
+> - i686 is post Pentium generation (which includes all Intel 32-bit x86 processors up to and including the Pentium 4, etc. as well as processors from AMD (AMD K6) and other vendors which make compatible 32-bit chips).
+>
+>   > No one today have i386, they are at least 15 years old.
+>   >
+>   > That being said, i386 marks a 'compatibility' build and should work on ANY 32bit x86 CPU. i686 may or may not use MMX, SSE and more extensions.
+>   >
+>   > i686 can always run i386. the reverse is not always true.
+>
+> - Pentium M (March 12, 2003). The Pentium M represented a new and radical departure for Intel, as it was not a low-power version of the desktop-oriented [Pentium 4](https://www.wikiwand.com/en/Pentium_4), but instead a heavily modified version of the [Pentium III](https://www.wikiwand.com/en/Pentium_III) [Tualatin](https://www.wikiwand.com/en/Pentium_III#Tualatin) design. Microarchitecture — P6 variant. Instruction set — x86, MMX, SSE, SSE2.
+>
+>   > The processor in my old Acer laptop is next ([source](https://ark.intel.com/content/www/us/en/ark/products/27595/intel-pentium-m-processor-760-2m-cache-2-00a-ghz-533-mhz-fsb.html)):
+>   >
+>   > Intel® Pentium® M Processor 760
+>   > 2M Cache, 2.00A GHz, 533 MHz FSB
+>   > 1 core, 1 thread. Physical Address Extensions is 32-bit.
+>
+> [x86_64](https://en.wikipedia.org/wiki/X86-64) packages are intended to be executed on processors which are compatible with the AMD64 64-bit platform, including the AMD Athlon 64, AMD Opteron and related AMD processor families, and the [Intel 64](https://en.wikipedia.org/wiki/X86-64#cite_note-11) based processors.
+>
+> These 64-bit processors are fully backward compatible with their 32-bit predecessors, so if you have a AMD64 or Intel 64 processor, it's up to you whether to install the 64-bit x86_64 packages or the 32-bit i686 packages. To get the highest level of performance out of your system you may want to use the 64-bit x86_64 distribution packages.
+
+Tiny Linux distributions are powerful innovations: having an entire operating system drive a computer with less than 1GB of storage and half as much RAM is the ultimate software hack. The next distros have 32bit versions:
 
 - [ ] Tiny Core:
   - Minimalistic, pain to setup. At 11MB for a text console and 16MB for a GUI, [Tiny Core Linux](http://tinycorelinux.net/) is almost impossibly small.
@@ -182,12 +206,14 @@ Tiny Linux distributions are powerful innovations: having an entire operating sy
   - The **TazPanel** application is SliTaz's control center. If you're a fan of OpenSUSE or Mageia (née Mandrake), you might find TazPanel familiar, at least in concept: it's a single application that provides access to system configuration, hardware detection, user and group management, system updates, and application installation.
     Available applications satisfy most basic requirements, meaning if you're not picky about which application you use to accomplish a task, then SliTaz's repositories probably have something for you. If you have specific requirements (GIMP 2.10 instead of GIMP 2.8, for instance), then you'll have to learn how to generate SliTaz packages. The good news is that the tazpkg command can convert from several packaging formats.
   - SliTaz is a fast, small Linux distribution with a centralized control panel that makes it easy to learn. Because its packaging tools can convert from other Linux packaging formats, its application selection is theoretically vast, making it easy for you to design your work environment with all your favorite tools. SliTaz is small but lethal, just like its arachnid logo.
+  
 - [ ] Bodhi Linux:
   - [Bodhi Linux](https://www.bodhilinux.com/) might not look tiny at first glance, with an ISO image of 740MB, but once it's installed, you'll be amazed at just how tiny it is. Bodhi runs smoothly on only 512MB of RAM but looks and feels like the desktop of tomorrow. Bodhi uses the [Enlightenment](https://www.enlightenment.org/) desktop, a beautiful user interface that's lovingly crafted to be both small and powerful.
     Bodhi doesn't just use Enlightenment, though, it adds to it. Bodhi's configuration applications and system setting panels are custom interfaces to Enlightenment's sometimes overwhelming array of options. Bodhi makes some sane default choices for you and provides a subset of options. If you're a die-hard Enlightenment user, Bodhi's interpretation might not be pure enough for you, but for many users, Bodhi brings focus to the Enlightenment desktop.
   - [Download Bodhi Linux](https://www.bodhilinux.com/download), write it to a thumb drive with **dd** or [Etcher](https://www.balena.io/etcher/), and reboot. The installation application is **Ubiquity**, so the process is the same as installing Ubuntu.
   - Bodhi is based on the latest long term support (LTS) Ubuntu Linux release, so your available software knows almost no bounds. If it's available for Ubuntu Linux, Bohdi has access to it.
   - Bodhi Linux is a step down from the size of a typical Ubuntu install and a step up from many other minimalist Ubuntu environments because it uses Enlightenment. If you're looking for a Linux distribution that runs lighter than most without resorting to overlay filesystems and application modules, then Bodhi is the distribution for you.
+  
 - [ ] Puppy Linux:
   - Before there was Tiny Core or SliTaz or [AntiX](https://antixlinux.com/) or Porteus, there was [Puppy Linux](http://puppylinux.com/). One of the original tiny Linux distributions, Puppy has endured for a decade and a half as a reliable, bootable OS for old computers and new users alike.
     Upon first boot, Puppy does its best to guide the user through any necessary steps to ensure everything works as expected. It's a lot of windows to wade through, but once you get through it all, you know without a doubt what works and what doesn't before you choose whether to install.
@@ -195,17 +221,42 @@ Tiny Linux distributions are powerful innovations: having an entire operating sy
   - Download Puppy Linux and write it to a thumb drive with dd or Etcher or burn it to a CD or DVD, then reboot.Puppy can install onto nearly anything that accepts data. The installer application, available from the top launcher bar, is called **Puppy Installer**, and it manages installing Puppy and applications for Puppy. Puppy can boot from a thumb drive, an optical disc, a hard drive, and even an SD card.
   - The **Puppy Installer** application is also used to install apps onto Puppy. Because Puppy is based on Ubuntu, there aren't likely to be any Linux packages missing from its repositories, and if there are, you can probably use a [Flatpak](https://docs.fedoraproject.org/en-US/fedora-silverblue/getting-started/#flatpak).
   - Puppy is the original tiny Linux. While it's not the tiniest any more, it's by far the easiest.
-- [ ] Linux Lite
+  
 - [ ] AntiX Linux
+
 - [ ] MX Linux
-- [ ] Lubuntu
+
+  - MX Linux is a midweight Linux distribution that combines stability, high-performance, simplicity, and elegance to give you a reliable OS that works out of the box with pre-installed applications such as VLC media player, Firefox web browser, LibreOffice suite, and Thunderbird to mention a few.
+
+  - It’s built on **Debian 10 Buster** and ships with an Xfce desktop environment that is low on resource usage. Like many of the lightweight edition, it’s available in both 32-bit and 64-bit versions.
+
+  - Minimum installation requirements:
+
+    512 MB of RAM memory
+    A modern i486 Intel or AMD processor
+    5 GB free hard drive space
+
+- [ ] Debian
+
+TODO: 
+
+- https://wiki.ubuntu.com/Lubuntu/AdvancedMethods
+- https://distrowatch.com/search.php?architecture=i686#simple
+- https://linoxide.com/distros/lightweight-linux-distros-for-old-laptop/
+- https://www.tecmint.com/linux-distributions-for-old-computers/
+- https://embeddedinventor.com/best-lightweight-linux-distros-comparison-analysis/
+- https://www.fosslinux.com/43256/linux-distributions-support-32-bit-architecture.htm
+- https://top5hosting.co.uk/blog/uk-hosting/356-how-to-turn-your-old-pc-into-a-linux-ubuntu-server
+- https://dev.to/jayesh_w/this-is-how-i-turned-my-old-laptop-into-a-server-1elf
+- https://tipsmake.com/how-to-build-linux-web-server-with-an-old-computer
 
 ## References
 
 1. https://www.makeuseof.com/tag/whats-the-difference-between-linux-distributions-if-theyre-all-linux-makeuseof-explains/
 2. https://linuxjourney.com/
 3. https://itsubuntu.com/linux-mint-20-dropped-ubuntus-snap/#:~:text=Linux%20Mint%20Dropped%20Ubuntu's%20Snap&text=What%20we%20didn't%20want,make%20its%20store%20a%20requirement.
-4. https://opensource.com/article/19/6/linux-distros-to-try
-5. https://linoxide.com/distros/lightweight-linux-distros-for-old-laptop/
-6. https://www.tecmint.com/linux-distributions-for-old-computers/
-7. https://embeddedinventor.com/best-lightweight-linux-distros-comparison-analysis/
+4. https://unix.stackexchange.com/questions/158244/what-is-the-difference-between-i686-and-x86-64-packages
+5. https://opensource.com/article/19/6/linux-distros-to-try
+6. https://linoxide.com/distros/lightweight-linux-distros-for-old-laptop/
+7. https://www.tecmint.com/linux-distributions-for-old-computers/
+8. https://embeddedinventor.com/best-lightweight-linux-distros-comparison-analysis/
