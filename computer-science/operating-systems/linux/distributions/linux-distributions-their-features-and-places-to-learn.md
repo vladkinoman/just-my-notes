@@ -111,6 +111,10 @@ Choose a distribution according to your needs.
   <details><summary>Comment from Quora.</summary> Fedora and openSUSE, in my opinion, are more challenging in part because they are strict on open-source and aside from the binary blobs on their kernels have no proprietary software in their official repositories. If your PC has hardware that’s completely compatible with open-source software (mostly Intel products are like their WiFi chips, CPUs, graphics cards, etc.) and you need no proprietary apps (including Google Chrome) Fedora will probably be easy for you to use.</details>
 
   Website: [getfedora.org](https://getfedora.org/).
+  
+  > Additional notes and recommendations on the distro.
+  >
+  > - [What is Silverblue?](https://fedoramagazine.org/what-is-silverblue/)
 
 ### Distributions for advanced users
 
@@ -126,6 +130,11 @@ Choose a distribution according to your needs.
 
   Website: [archlinux.org](https://www.archlinux.org/).
 
+  > Additional notes and recommendations on the distro.
+  >
+  > - [How installing Arch Linux brought my old laptop back to life](https://www.freecodecamp.org/news/how-installing-arch-linux-brought-my-old-laptop-back-to-life-1c1c76dd688e/#:~:text=You%20can%20create%20the%20computer,on%20at%20the%20same%20time.)
+  > - [Should You Install Arch Linux? 10 Reasons for Arch-Based Distros](https://www.makeuseof.com/tag/reasons-install-arch-linux/)
+  
 - [ ] Gentoo Linux:
   - minimalistic, pain to setup and keep running (if you are new, start with something easy, you can always upgrade). Gentoo offers ridiculous flexibility with the operating system at a price. It’s made for advanced users who don’t mind getting their hands dirty with the system. **Compile your software from source**.
   - package manager - Portage, very modular and easy to maintain, which plays a big part in the operating system as a whole being very flexible.
@@ -161,8 +170,16 @@ Or, just determine where you fit on this chart:
 > **Notes.** 32bit processors are next:
 >
 > - i386 is for extremely old CPU generation dating before Pentium.
+>   Examples: Intel 386 and AMD 386 CPUs.
+>
+> - i486.
+>   Examples: Intel 486 and AMD 486.
+>
+> - i586.
+>   Examples: The First Intel Pentiums MMX, AMD-K5.
 >
 > - i686 is post Pentium generation (which includes all Intel 32-bit x86 processors up to and including the Pentium 4, etc. as well as processors from AMD (AMD K6) and other vendors which make compatible 32-bit chips).
+>   Examples: Pentium Pro, AMD-K6.
 >
 >   > No one today have i386, they are at least 15 years old.
 >   >
@@ -187,68 +204,123 @@ Tiny Linux distributions are powerful innovations: having an entire operating sy
 - [ ] Tiny Core:
   - Minimalistic, pain to setup. At 11MB for a text console and 16MB for a GUI, [Tiny Core Linux](http://tinycorelinux.net/) is almost impossibly small.
 
-  - Without a GUI, Tiny Core runs well on a mere 64MB of RAM.
-
-  - [Download Tiny Core](http://tinycorelinux.net/welcome.html) and write it to a thumb drive with **dd** or [Etcher](https://www.balena.io/etcher/).
-
+  - The distro uses the FLTK /FKWM and busy box desktops by default. Some components for hardware graphics may be missing, but you can install them manually. Tiny Core is available in three different editions, i.e. CorePlus, Tiny Core, and Core.
+  CorePlus is an image that will work well for users with a wireless network. The installation tools provide for the basic setup of which windows manager to use, wireless support through different firmware files, keyboard support, and a remastering tool.
+  
+- **Best Distro with the smallest RAM need.** Without a GUI, Tiny Core runs well on a mere 64MB of RAM.
+  
+- [Download Tiny Core](http://tinycorelinux.net/welcome.html) and write it to a thumb drive with **dd** or [Etcher](https://www.balena.io/etcher/).
+  
     Installing Tiny Core is easy, once you download the **tc-install** or **tc-install-GUI** application using the **Apps** icon in the launcher bar at the bottom of the screen.
 
   - Since it comes with little more than a text editor and a terminal, the first thing you should do is install some applications. The **Apps** icon in the bottom launcher bar displays all the Tiny Core packages available to you. The **Apps** repository also includes important drivers, so it's useful when you're looking to get a WiFi card or a printer working.
-    The application selection is a good mix between user-centric apps, like office and graphics applications, and server-centric, such as [Samba](https://www.samba.org/) and web servers.
-
+  The application selection is a good mix between user-centric apps, like office and graphics applications, and server-centric, such as [Samba](https://www.samba.org/) and web servers.
+  
   - Tiny Core is ideal for old computers with few resources, network boot images, and anyone who values applications over the OS. Tiny Core is a great weekend project: build the OS you want from 16MB until you have just as much of an OS as you need.
-
-- [ ] SliTaz:
-  - The [SliTaz Linux](http://www.slitaz.org/en/) image is about 51MB, about four times the size of Tiny Core, with an impressive collection of drivers and applications included. In fact, if you didn't know better, you might think you booted into a 1GB Ubuntu image because everything you'd expect from a basic starter image is there: text editor, web browser, paint program, spreadsheet application, and so on.
-    At boot time, you can choose to run SliTaz without a GUI; it runs nicely on a mere 64MB of RAM.
-  - The rolling release version is roughly 50MB and is updated weekly. If you fall in love with SliTaz, you can choose a download that's better for your needs—if the rolling release proves to be too fresh for you.
-    Once you've downloaded your choice of SliTaz image, write it to a thumb drive with dd or Etcher and reboot.
-  - The **TazPanel** application is SliTaz's control center. If you're a fan of OpenSUSE or Mageia (née Mandrake), you might find TazPanel familiar, at least in concept: it's a single application that provides access to system configuration, hardware detection, user and group management, system updates, and application installation.
-    Available applications satisfy most basic requirements, meaning if you're not picky about which application you use to accomplish a task, then SliTaz's repositories probably have something for you. If you have specific requirements (GIMP 2.10 instead of GIMP 2.8, for instance), then you'll have to learn how to generate SliTaz packages. The good news is that the tazpkg command can convert from several packaging formats.
-  - SliTaz is a fast, small Linux distribution with a centralized control panel that makes it easy to learn. Because its packaging tools can convert from other Linux packaging formats, its application selection is theoretically vast, making it easy for you to design your work environment with all your favorite tools. SliTaz is small but lethal, just like its arachnid logo.
+  
+  - Minimum installation requirements:
+    64 MB of RAM (128 Mb is recommended, 19 Mb is minimum).
+    i486DX CPU (Pentium 2 CPU and later recommended).
+    16 MB ISO
+  
+  - Pros: tiny, fast, smallest footprint.
+    Cons: ugly UI, pain to setup, loading everything into RAM on boot is not the default behaviour (some tinkering around needed).
   
 - [ ] Bodhi Linux:
-  - [Bodhi Linux](https://www.bodhilinux.com/) might not look tiny at first glance, with an ISO image of 740MB, but once it's installed, you'll be amazed at just how tiny it is. Bodhi runs smoothly on only 512MB of RAM but looks and feels like the desktop of tomorrow. Bodhi uses the [Enlightenment](https://www.enlightenment.org/) desktop, a beautiful user interface that's lovingly crafted to be both small and powerful.
+  - [Bodhi Linux](https://www.bodhilinux.com/) might not look tiny at first glance, with an ISO image of 740MB (5Gb at most), but once it's installed, you'll be amazed at just how tiny it is. Bodhi runs smoothly on only 512MB of RAM but looks and feels like the desktop of tomorrow. Bodhi uses the [Enlightenment](https://www.enlightenment.org/) desktop, a beautiful user interface that's lovingly crafted to be both small and powerful.
     Bodhi doesn't just use Enlightenment, though, it adds to it. Bodhi's configuration applications and system setting panels are custom interfaces to Enlightenment's sometimes overwhelming array of options. Bodhi makes some sane default choices for you and provides a subset of options. If you're a die-hard Enlightenment user, Bodhi's interpretation might not be pure enough for you, but for many users, Bodhi brings focus to the Enlightenment desktop.
+  - The package enlightenment makes this distro run faster than other window managers used in other Linux distros. You do not have to worry about using enlightenment or any other package because Bodhi Linux has user guides useful in such situations.
+  - Some essential Apps such as Midori for the web, Ephoto for graphics, and ePad for editing text are available. Applications for multimedia are not available during installation but are available through the App Center.
   - [Download Bodhi Linux](https://www.bodhilinux.com/download), write it to a thumb drive with **dd** or [Etcher](https://www.balena.io/etcher/), and reboot. The installation application is **Ubiquity**, so the process is the same as installing Ubuntu.
   - Bodhi is based on the latest long term support (LTS) Ubuntu Linux release, so your available software knows almost no bounds. If it's available for Ubuntu Linux, Bohdi has access to it.
   - Bodhi Linux is a step down from the size of a typical Ubuntu install and a step up from many other minimalist Ubuntu environments because it uses Enlightenment. If you're looking for a Linux distribution that runs lighter than most without resorting to overlay filesystems and application modules, then Bodhi is the distribution for you.
+  - **Notice!** The Legacy 5.1.0 image utilizes the older 4.9.0-6-686 Linux kernel that is optimized for old (15+ years old) hardware. This kernel does not include the [PAE extension](https://en.wikipedia.org/wiki/Physical_Address_Extension) which is not supported on many older systems with Non-PAE processors such as Pentium M, Pentium Pro, Celeron.
+  - Minimum installation requirements:
+    256 MB of RAM (512 recommended).
+    500 MHz Intel processor (1.0GHz recommended)
+    10 GB of hard disk space
+  - Pros: tiny, fast.
+    Cons: ugly UI, based on Ubuntu.
   
 - [ ] Puppy Linux:
   - Before there was Tiny Core or SliTaz or [AntiX](https://antixlinux.com/) or Porteus, there was [Puppy Linux](http://puppylinux.com/). One of the original tiny Linux distributions, Puppy has endured for a decade and a half as a reliable, bootable OS for old computers and new users alike.
-    Upon first boot, Puppy does its best to guide the user through any necessary steps to ensure everything works as expected. It's a lot of windows to wade through, but once you get through it all, you know without a doubt what works and what doesn't before you choose whether to install.
-    Puppy is almost 300MB and failed to work on anything under 1GB RAM in my tests, so it's not exactly the tiniest Linux available. However, it's still a great, under-1GB operating system, and of the OSes in that category, it's one of the very friendliest.
+    Puppy Linux is regarded as one of the best lightweight Linux distros that you can find out there because of its small memory footprint, ease of use, customizability and flexibility. Everything it does is saved on RAM making the system very fast, and if you are running a live system from the USB, you can save some data on it.
+  - It is essential to know that unlike other distros, Puppy Linux is not formed upon any other Linux distributions. Instead, it builds upon packages of various other Linux distributions, such as Ubuntu. Your access to additional software and packages on your 32-bit PC depends upon your choice of binaries.
+  - Upon first boot, Puppy does its best to guide the user through any necessary steps to ensure everything works as expected. It's a lot of windows to wade through, but once you get through it all, you know without a doubt what works and what doesn't before you choose whether to install.
+  - Puppy is almost 300MB and failed to work on anything under 1GB RAM in author's tests, so it's not exactly the tiniest Linux available. However, it's still a great, under-1GB operating system, and of the OSes in that category, it's one of the very friendliest. Users also don’t have to worry about any booting issues, as Puppy Linux boots itself entirely into the RAM. 
+  - Puppy Linux uses Openbox and JWM window managers as default window managers; the two do not consume most of the system resources. You use Puppy Linux it is best not to demand much from its graphical applications, it will be best if you use what the system provides for better results. The distro is built for fast performance it does not have bundled application apart from the basic ones like AbiWord for word-processing, selected graphics editing tools, media playback programs and Gnumeric for spreadsheets.
   - Download Puppy Linux and write it to a thumb drive with dd or Etcher or burn it to a CD or DVD, then reboot.Puppy can install onto nearly anything that accepts data. The installer application, available from the top launcher bar, is called **Puppy Installer**, and it manages installing Puppy and applications for Puppy. Puppy can boot from a thumb drive, an optical disc, a hard drive, and even an SD card.
   - The **Puppy Installer** application is also used to install apps onto Puppy. Because Puppy is based on Ubuntu, there aren't likely to be any Linux packages missing from its repositories, and if there are, you can probably use a [Flatpak](https://docs.fedoraproject.org/en-US/fedora-silverblue/getting-started/#flatpak).
   - Puppy is the original tiny Linux. While it's not the tiniest any more, it's by far the easiest.
+  - Minimum installation requirements:
+    300 MB of RAM
+    Pentium 2 (or equivalent), 900 MHz
+    Hard drive (Optional as it can run quite well on any USB drive).
+  - Pros: tiny, fast, runs best on old hardware.
+    Cons: ugly UI, unfamiliar preinstalled apps.
+  
+  > Best Middleweight USB persistent distro: MX Linux
+  >
+  > 2nd Best Middle Weight USB persistent distro: Antix Linux
+  >
+  > Best Lightweight USB persistent distro: Puppy Linux
   
 - [ ] AntiX Linux
 
+  - MX Linux for old PCs.
+  - [antiX](https://antixlinux.com/) is a distribution based on Debian Linux boasting of a systemd-free Linux distribution. The window manager that comes with this OS is the icewm that keeps the system on low resource demands.
+  - It runs considerably fast on low-end and old PCs but is quite stripped down and ships with few applications given its small footprint of about **730MB**.
+  - antiX is highly compact, as its ISO file only accumulates 700MBs of free disk space. Its compactness does, however, have a downside because it doesn’t have a lot of pre-installed applications owing to the small size. antiX provides fast booting; therefore, it also finds application in working as a live operating system on CD or USB. The lightweight distro would run smoothly on a 32-bit system with 256MB of RAM and Pentium 3.
+  - No PAE distro.
+  - Minimum installation requirements:
+    256MB of RAM
+    5 GB of hard disk space
+    Pentium 2
+  - Pros: fast, good support for older hardware through AntiX Magic software, based on Debian, friendly community and forum.
+    Cons: hard to install some apps that don’t come directly with the OS.
+
 - [ ] MX Linux
 
-  - MX Linux is a midweight Linux distribution that combines stability, high-performance, simplicity, and elegance to give you a reliable OS that works out of the box with pre-installed applications such as VLC media player, Firefox web browser, LibreOffice suite, and Thunderbird to mention a few.
-
+  - [MX Linux](https://mxlinux.org/) is a midweight Linux distribution that combines stability, high-performance, simplicity, and elegance to give you a reliable OS that works out of the box with pre-installed applications such as VLC media player, Firefox web browser, LibreOffice suite, and Thunderbird to mention a few.
+  - [MX Linux](https://mxlinux.org/) is a stable and popular Linux distribution based on Debian. By default, it ships with an XFCE desktop with lots of features and customizations. The UI is quite basic and simple. This simplicity echoes the MXLinux philosophy and beginners should easily get started and Professional users can make customizations that can suit them. MX Linux is renowned for its high performance while at the same time keeping it simple on the UI.
   - It’s built on **Debian 10 Buster** and ships with an Xfce desktop environment that is low on resource usage. Like many of the lightweight edition, it’s available in both 32-bit and 64-bit versions.
-
   - Minimum installation requirements:
-
-    512 MB of RAM memory
+  512 MB of RAM
     A modern i486 Intel or AMD processor
     5 GB free hard drive space
+  - Pros: fast, a more user friendly version of Debian stable, Xfce with a solid custom look (a few tweaks and you have a great looking Xfce desktop), no systemd by default, but you have a boot option to use it, Antix and Mepis tools that are useful, loads fast in a Virtual Machine, friendly community and forum.
+    Cons: I don't know yet :)
+
+- [ ] Peppermint
+
+  - The original creation of [Peppermint](https://peppermintos.com/) was intended to make it look like a web-centered approach with netbooks in mind. It is a cloud-based Linux distribution with minimal hardware requirements (in other words, it is a fast and stable Linux desktop OS with a focus on cloud and web application management). The latest release, Peppermint 10 Respin, is based on an LTS codebase.
+  - The desktop environment is also Ubuntu based and uses the LXDE to give its users a smoother experience. Peppermint uses an ICE application that integrates websites into a desktop app. ICE puts web applications on the same pedestal as locally installed software. This is done through transmitting to the desktop through the SSBs, hence making the web apps imitate local applications.
+  - It has a perfect user guide that new users may find resourceful with a forum for troubleshooting issues.
+  - It ships with an ultra-smooth Nemo file manager that provides an easy way of navigating between different file locations. It’s based off **Lubuntu**.
+  - Minimum installation requirements:
+    1 GB of RAM
+    X86 Intel-based processor
+    At least 5GB of hard disk space
+  - Pros: fast, nice UI, it has a good guide and forum.
+    Cons: based on Lubuntu, requires more RAM than other distros (> 1GB, it is better to have 2 GB).
+
+  > Additional notes and recommendations on the distro.
+  >
+  > - [Advanced Methods page for Lubuntu](https://wiki.ubuntu.com/Lubuntu/AdvancedMethods).
 
 - [ ] Debian
 
-TODO: 
+  - [Debian](https://www.debian.org/) is the foundation stone of Ubuntu, and while its successor may not support 32-bit anymore, Debian has withstood the test of time in this aspect. Containing only free software, Debian gives users access to online repositories that offer non-free software and over 51,000 packages.
+  - Despite being a fundamental and rather old distribution, Linux developers have recently emphasized more security, making Debian secure to most threats. Furthermore, Debian has become Java-friendly, meaning that users can run and use almost any Java-based software and programs on Debian. Many of these programs are already available in Debian’s repositories, which is quite convenient and handy.
+  - Minimum installation requirements:
+    512MB of RAM (2GB recommended)
+    1GHz Pentium processor.
+    X86 Intel-based processor
+    At least 10GB of hard disk space
+  - Pros: fast, secure, stable, good for developers.
+    Cons: can be difficult to install and use.
 
-- https://wiki.ubuntu.com/Lubuntu/AdvancedMethods
-- https://distrowatch.com/search.php?architecture=i686#simple
-- https://linoxide.com/distros/lightweight-linux-distros-for-old-laptop/
-- https://www.tecmint.com/linux-distributions-for-old-computers/
-- https://embeddedinventor.com/best-lightweight-linux-distros-comparison-analysis/
-- https://www.fosslinux.com/43256/linux-distributions-support-32-bit-architecture.htm
-- https://top5hosting.co.uk/blog/uk-hosting/356-how-to-turn-your-old-pc-into-a-linux-ubuntu-server
-- https://dev.to/jayesh_w/this-is-how-i-turned-my-old-laptop-into-a-server-1elf
-- https://tipsmake.com/how-to-build-linux-web-server-with-an-old-computer
+Honorable mentions: Sparky (slow, ugly UI), SliTaz.
 
 ## References
 
@@ -259,4 +331,8 @@ TODO:
 5. https://opensource.com/article/19/6/linux-distros-to-try
 6. https://linoxide.com/distros/lightweight-linux-distros-for-old-laptop/
 7. https://www.tecmint.com/linux-distributions-for-old-computers/
-8. https://embeddedinventor.com/best-lightweight-linux-distros-comparison-analysis/
+8. https://www.fosslinux.com/43256/linux-distributions-support-32-bit-architecture.htm
+9. https://embeddedinventor.com/best-lightweight-linux-distros-comparison-analysis/
+10. https://www.reddit.com/r/linux/comments/cyr752/mx_linux_top_of_distrowatchcom_whats_all_the_hype/
+11. https://www.quora.com/Why-is-MX-Linux-so-popular#:~:text=It's%20popular%20because%20it%20makes,which%20are%20great%20time%20savers.
+12. https://www.reddit.com/r/linux/comments/b2mxot/why_is_mx_linux_so_popular/
