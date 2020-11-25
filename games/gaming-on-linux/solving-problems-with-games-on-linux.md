@@ -4,19 +4,43 @@
 
 ## Table of Contents
 
-1. [Where to install games](#Where-to-install-games)
-2. [Wine, its variations and problem with them](#Wine-its-variations-and-problem-with-them)
+1. [Issues with hardware](#Issues-with-hardware)
+2. [Where to install games](#Where-to-install-games)
+3. [Wine, its variations and problem with them](#Wine-its-variations-and-problem-with-them)
    1. [Lutris](#Lutris)
    2. [Proton](#Proton)
    3. [Pure Wine](#Pure-Wine)
    4. [Steamtricks](#Steamtricks)
    5. [Linux steam integration](#Linux steam integration)
-3. [Deus Ex with GMDX mod](#Deus-Ex-with-GMDX-mod)
-4. [GTA III](#GTA-III)
-5. [Max Payne](#Max-Payne)
-6. [Super Meat Boy](#Super-Meat-Boy)
-7. [Talos Principle](#Talos-Principle)
-8. [References](#References)
+4. [Deus Ex with GMDX mod](#Deus-Ex-with-GMDX-mod)
+5. [GTA III](#GTA-III)
+6. [Max Payne](#Max-Payne)
+7. [Super Meat Boy](#Super-Meat-Boy)
+8. [Talos Principle](#Talos-Principle)
+9. [References](#References)
+
+## Issues with hardware
+
+**Is DRI_PRIME=1 still needed to use discrete graphics card?**
+
+If you're on AMD, yes.
+
+**How can I check that my OS recognizes discrete video card?**
+
+Use `xrandr` command in order to get the list of video cards. This what I got:
+
+```bash
+xrandr --listproviders
+Providers: number : 2
+Provider 0: id: 0x46 cap: 0x9, Source Output, Sink Offload crtcs: 3 outputs: 4 associated providers: 1 name:modesetting
+Provider 1: id: 0xbb cap: 0x6, Sink Output, Source Offload crtcs: 2 outputs: 0 associated providers: 1 name:OLAND @ pci:0000:01:00.0
+```
+
+So, my OS (Linux Mint 20) recognizes all the video cards, which is nice. If you don't get one of the video cards then check [this](https://www.reddit.com/r/linux_gaming/comments/77zmsy/is_dri_prime1_still_needed_to_use_discrete/) discussion.
+
+**How do you switch between hybrid graphic cards?**
+
+There is a [discussion](https://forums.linuxmint.com/viewtopic.php?t=279363) on Linux Mint forum. 
 
 ## Where to install games
 
@@ -389,18 +413,20 @@ The problem is not only that the games work on an integrated video card, but tha
 
 ## References
 
-1. https://www.reddit.com/r/SteamPlay/comments/aafhcn/steam_proton_doesnt_launch_any_games/
-2. https://www.reddit.com/r/linux_gaming/comments/9mwh26/guide_how_to_install_deus_ex_with_gmdx_and_steam/
-3. https://steamcommunity.com/app/12100/discussions/0/483367798514700344/
-4. https://www.protondb.com/app/12100
-5. https://steamcommunity.com/sharedfiles/filedetails/?id=1184013727 
-6. https://github.com/FNA-XNA/FAudio
-7. https://github.com/flibitijibibo/flibitBounties/issues/4
-8. http://newsandguides.com/solution-how-to-install-xaudio2-and-fix-could-not-find-xaudio2-error-on-windows-7/
-9. [Microsoft DirectX End-User Runtimes (June 2010)](https://www.microsoft.com/download/en/details.aspx?id=8109)
-10. https://www.reddit.com/r/Supermeatboy/comments/6pi80k/tutorial_getting_super_meat_boy_beta_to_work_on/
-11. https://appdb.winehq.org/objectManager.php?sClass=version&iId=22177
-12. https://appdb.winehq.org/objectManager.php?sClass=version&iId=22216
-13. https://steamcommunity.com/app/221410/discussions/0/828934913344641612/
-14. https://wiki.archlinux.org/index.php/CPU_frequency_scaling#cpupower
-15. https://www.reddit.com/r/TheTalosPrinciple/comments/dwgbcd/help_playing_the_game/
+1. https://www.reddit.com/r/linux_gaming/comments/77zmsy/is_dri_prime1_still_needed_to_use_discrete/
+2. https://forums.linuxmint.com/viewtopic.php?t=279363
+3. https://www.reddit.com/r/SteamPlay/comments/aafhcn/steam_proton_doesnt_launch_any_games/
+4. https://www.reddit.com/r/linux_gaming/comments/9mwh26/guide_how_to_install_deus_ex_with_gmdx_and_steam/
+5. https://steamcommunity.com/app/12100/discussions/0/483367798514700344/
+6. https://www.protondb.com/app/12100
+7. https://steamcommunity.com/sharedfiles/filedetails/?id=1184013727 
+8. https://github.com/FNA-XNA/FAudio
+9. https://github.com/flibitijibibo/flibitBounties/issues/4
+10. http://newsandguides.com/solution-how-to-install-xaudio2-and-fix-could-not-find-xaudio2-error-on-windows-7/
+11. [Microsoft DirectX End-User Runtimes (June 2010)](https://www.microsoft.com/download/en/details.aspx?id=8109)
+12. https://www.reddit.com/r/Supermeatboy/comments/6pi80k/tutorial_getting_super_meat_boy_beta_to_work_on/
+13. https://appdb.winehq.org/objectManager.php?sClass=version&iId=22177
+14. https://appdb.winehq.org/objectManager.php?sClass=version&iId=22216
+15. https://steamcommunity.com/app/221410/discussions/0/828934913344641612/
+16. https://wiki.archlinux.org/index.php/CPU_frequency_scaling#cpupower
+17. https://www.reddit.com/r/TheTalosPrinciple/comments/dwgbcd/help_playing_the_game/
