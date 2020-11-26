@@ -119,14 +119,17 @@ Choose a distribution according to your needs.
 ### Distributions for advanced users
 
 - [ ] Arch Linux:
-  - minimalistic, pain to setup and keep running (if you are new, start with something easy, you can always upgrade). Arch is a **lightweight** and **flexible** Linux distribution driven 100% by the community. **You receive software in binary form** (you shouldn't compile it from source - that's why Arch is more user friendly than Gentoo - sure wiki is the main factor here). You really need to get your hands dirty to understand the system and its functions, but in turn you get complete and total control of your system. If you want a lightweight operating system and really want to understand Linux use Arch!
-  - package manager - Pacman, to install, update and manage packages.
-  - desktop environment - many of them.
-  - Similar to Debian, Arch uses a **rolling release model** (rolling distro) so incremental updates eventually become the Stable release.
-  - great for desktop and laptop. If you also have a small device such as a Raspberry Pi and need to stick a lightweight OS on it, you can’t go wrong with Arch.
-  - useful for Computer Engineering/System Programming and Hardware Engineering (+ software engineering - is this the best distributive for all of these tasks?).
-
-  <details> <summary>Comment from Quora.</summary>No official automated installer but its documentation is great and its installation process is simpler than it is for most other distros that lack an installer. It contains the bare minimum software required by a distro by default, but its repositories are some of the largest in the Linux world. It also follows a bleeding-edge rolling release model, so it has the very latest software (beware occasionally package maintainers get lazy or busy and don’t update packages, but this is true for all distros, but generally it’s bleeding-edge) just rolled out onto it.</details>
+  - Minimalistic, pain to setup and keep running (if you are new, start with something easy, you can always upgrade). Arch is a **lightweight** and **flexible** Linux distribution driven 100% by the community. **You receive software in binary form** (you shouldn't compile it from source - that's why Arch is more user friendly than Gentoo - sure wiki is the main factor here). You really need to get your hands dirty to understand the system and its functions, but in turn you get complete and total control of your system. If you want a lightweight operating system and really want to understand Linux use Arch!
+  - Has a great wiki. If you have a problem or want to install something, read the wiki. It has detailed instructions for each application, including a summary, installation, configuration and troubleshoot.
+  - Similar to Debian, Arch uses a **a bleeding-edge rolling release model** (rolling distro) so incremental updates eventually become the Stable release. Arch’s rolling-release system means that you’ll sometimes run into weird inconsistencies when package versions update, but Ubuntu updates packages too. It’s pretty easy in Arch to lock down a specific version of your project’s dependencies. The only problem in Ubuntu is, the packages provided by the distribution are not usually up-to-date and latest. So, you’ll have to rely on 3rd party for latest updates to software that matters to you; a PPA for your IDE, a snap for a design tool, anaconda for your python setup etc.
+    If outdated software in the repositories is indeed a big problem for you (it was for me, for making music), then you can consider Archlinux. Arch may also have outdated packages in their main repository, but AUR usually has the latest packages. Remember, installing stuff from AUR may be time consuming because it downloads source code and compiles it on your machine.
+    One downside of Arch is that a simple update may break the entire system. In Ubuntu, you can run automatic updates with confidence because package updates are carefully tested and patched if necessary. Nothing of that sort in Arch (so you get all latest versions).
+  - You need a lot of patience at first. The installation is not a wizard. You need to follow the installation guide, which is a sequence of commands. Once you install the base OS you need to know what you want in your system. Arch does not install extras, only a bare bones OS. There is a manual recommending software though.
+    However, it’s easy to configure. Almost everything is vanilla and configured with files. No weird customization and wizards that most often break the software than not. 
+    Once you get everything working you will not want to change to another OS. This could seriously be a problem, no joke.
+  - Package manager - Pacman, to install, update and manage packages.
+  - Great for desktop and laptop. If you also have a small device such as a Raspberry Pi and need to stick a lightweight OS on it, you can’t go wrong with Arch.
+  - Useful for Computer Engineering/System Programming and Hardware Engineering (+ Software Engineering - is this the best distributive for all of these tasks?).
 
   Website: [archlinux.org](https://www.archlinux.org/).
 
@@ -134,7 +137,7 @@ Choose a distribution according to your needs.
   >
   > - [How installing Arch Linux brought my old laptop back to life](https://www.freecodecamp.org/news/how-installing-arch-linux-brought-my-old-laptop-back-to-life-1c1c76dd688e/#:~:text=You%20can%20create%20the%20computer,on%20at%20the%20same%20time.)
   > - [Should You Install Arch Linux? 10 Reasons for Arch-Based Distros](https://www.makeuseof.com/tag/reasons-install-arch-linux/)
-  
+
 - [ ] Gentoo Linux:
   - minimalistic, pain to setup and keep running (if you are new, start with something easy, you can always upgrade). Gentoo offers ridiculous flexibility with the operating system at a price. It’s made for advanced users who don’t mind getting their hands dirty with the system. **Compile your software from source**.
   - package manager - Portage, very modular and easy to maintain, which plays a big part in the operating system as a whole being very flexible.
@@ -327,12 +330,14 @@ Honorable mentions: Sparky (slow, ugly UI), SliTaz.
 1. https://www.makeuseof.com/tag/whats-the-difference-between-linux-distributions-if-theyre-all-linux-makeuseof-explains/
 2. https://linuxjourney.com/
 3. https://itsubuntu.com/linux-mint-20-dropped-ubuntus-snap/#:~:text=Linux%20Mint%20Dropped%20Ubuntu's%20Snap&text=What%20we%20didn't%20want,make%20its%20store%20a%20requirement.
-4. https://unix.stackexchange.com/questions/158244/what-is-the-difference-between-i686-and-x86-64-packages
-5. https://opensource.com/article/19/6/linux-distros-to-try
-6. https://linoxide.com/distros/lightweight-linux-distros-for-old-laptop/
-7. https://www.tecmint.com/linux-distributions-for-old-computers/
-8. https://www.fosslinux.com/43256/linux-distributions-support-32-bit-architecture.htm
-9. https://embeddedinventor.com/best-lightweight-linux-distros-comparison-analysis/
-10. https://www.reddit.com/r/linux/comments/cyr752/mx_linux_top_of_distrowatchcom_whats_all_the_hype/
-11. https://www.quora.com/Why-is-MX-Linux-so-popular#:~:text=It's%20popular%20because%20it%20makes,which%20are%20great%20time%20savers.
-12. https://www.reddit.com/r/linux/comments/b2mxot/why_is_mx_linux_so_popular/
+4. https://www.quora.com/Should-I-use-ArchLinux-instead-of-Ubuntu-for-programming
+5. https://www.quora.com/Is-Arch-Linux-the-best-Linux-distribution/answer/Emanuel-Couto/
+6. https://unix.stackexchange.com/questions/158244/what-is-the-difference-between-i686-and-x86-64-packages
+7. https://opensource.com/article/19/6/linux-distros-to-try
+8. https://linoxide.com/distros/lightweight-linux-distros-for-old-laptop/
+9. https://www.tecmint.com/linux-distributions-for-old-computers/
+10. https://www.fosslinux.com/43256/linux-distributions-support-32-bit-architecture.htm
+11. https://embeddedinventor.com/best-lightweight-linux-distros-comparison-analysis/
+12. https://www.reddit.com/r/linux/comments/cyr752/mx_linux_top_of_distrowatchcom_whats_all_the_hype/
+13. https://www.quora.com/Why-is-MX-Linux-so-popular#:~:text=It's%20popular%20because%20it%20makes,which%20are%20great%20time%20savers.
+14. https://www.reddit.com/r/linux/comments/b2mxot/why_is_mx_linux_so_popular/
