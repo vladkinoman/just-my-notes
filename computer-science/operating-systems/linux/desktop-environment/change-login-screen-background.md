@@ -1,4 +1,6 @@
-# Change Ubuntu Budgie login screen background
+# Change login screen background
+
+## Change Ubuntu Budgie login screen background
 
 The best way to do this:
 
@@ -23,6 +25,6 @@ step3: change it to
     }
 ```
 
-## Source
+## References
 
 1. https://askubuntu.com/questions/1042942/how-to-change-ubuntu-budgie-login-screen-background

@@ -1,4 +1,6 @@
-# Installing desktop environments on Ubuntu 18.04
+# Installing desktop environments
+
+## Installing DE on Ubuntu 18.04
 
 We can install various desktop environments for Ubuntu in case we don't like standard one (gdm3). The key point here is we need to distinguish the package of the desktop environment from the big package with many tools. For instance:
 
@@ -9,7 +11,7 @@ Do not install two packages together!!!
 
 I want to say that the installation of these packages is really bad for the system. If we want to remove them later, we might get stuck. It's not easy to remove them all! Also, I saw on Quora that having too many of them will cause problems with the system (Ubuntu does not deal very well with having more than one desktop environment), but I didn't encounter those problems.
 
-## Install Kubuntu desktop
+### Install Kubuntu desktop
 
 > In short, Kubuntu is a little bit better than Ubuntu in terms of performance. Also, it might be more attractive from design perspective.
 
@@ -23,7 +25,7 @@ After that, we need to logout and login in a new session with Plasma desktop by 
 
 If we reboot the system, we will get other color of GRUB and new Plymouth's screen.
 
-## Install Xubuntu desktop
+### Install Xubuntu desktop
 
 > In short, Xubuntu is much better than Ubuntu in terms of performance.
 
@@ -41,9 +43,9 @@ Here is how we can install xfce4:
 $ sudo apt install xfce4
 ```
 
-## Unistall Xubuntu desktop
+### Unistall Xubuntu desktop
 
-This is simple. According to [1] in order to remove xfce4 we need to do next:
+This is simple. According to [this](https://itsfoss.com/install-xfce-desktop-xubuntu/) post in order to remove xfce4 we need to do next:
 
 ```bash
 $ sudo apt purge xubuntu-icon-theme xfce4-*
@@ -63,7 +65,7 @@ $sudo apt autoremove
 
 > Actually, I installed two packages at the same time which is caused a problem with Plymouth — there were no changes with it. I just removed all packages as described above.
 
-## Unistall Kubuntu desktop
+### Unistall Kubuntu desktop
 
 This is SO HARD! It might not delete all packages, but it deletes something at least.
 
@@ -113,12 +115,12 @@ $ sudo dpkg-reconfigure gdm3
 
 ## References
 
-[Install Xfce Desktop on Ubuntu and Turn it Into Xubuntu](https://itsfoss.com/install-xfce-desktop-xubuntu/)
+1. [Install Xfce Desktop on Ubuntu and Turn it Into Xubuntu](https://itsfoss.com/install-xfce-desktop-xubuntu/)
 
-[Uninstall kubuntu-desktop from ubuntu 18.04](https://askubuntu.com/questions/1068643/uninstall-kubuntu-desktop-from-ubuntu-18-04)
+2. [Uninstall kubuntu-desktop from ubuntu 18.04](https://askubuntu.com/questions/1068643/uninstall-kubuntu-desktop-from-ubuntu-18-04)
 
-[How to completely remove desktop?](https://askubuntu.com/questions/73993/how-to-completely-remove-desktop#answer-549041)
+3. [How to completely remove desktop?](https://askubuntu.com/questions/73993/how-to-completely-remove-desktop#answer-549041)
 
-[Ubuntu shows 'Kubuntu' on boot](https://askubuntu.com/questions/285536/ubuntu-shows-kubuntu-on-boot)
+4. [Ubuntu shows 'Kubuntu' on boot](https://askubuntu.com/questions/285536/ubuntu-shows-kubuntu-on-boot)
 
-[Unable to fully remove Kubuntu Desktop?](https://www.reddit.com/r/linuxquestions/comments/a7h1iy/unable_to_fully_remove_kubuntu_desktop/)
+5. [Unable to fully remove Kubuntu Desktop?](https://www.reddit.com/r/linuxquestions/comments/a7h1iy/unable_to_fully_remove_kubuntu_desktop/)
