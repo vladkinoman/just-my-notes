@@ -47,10 +47,17 @@ Choose a distribution according to your needs.
   Website: [ubuntu.com](https://ubuntu.com/). 
   Wiki: [help by the community](https://help.ubuntu.com/community/CommunityHelpWiki).
 
-- [x] Lubuntu — Ubuntu's flavour for old PCs; desktop environment - LXDE/LXQT (lightweight and similar to Windows XP, Lubuntu 18.04 LTS is the last release with LXDE). I use it because it's fast.
-  Website: [lubuntu.net](https://lubuntu.net/).
-
+- [x] Lubuntu:
+  
+- Ubuntu's flavour for old PCs. 
+  - Desktop environment - LXDE/LXQT (lightweight and similar to Windows XP, Lubuntu 18.04 LTS is the last release with LXDE). 
+  - There is a nice fork of Lubuntu which is called Peppermint OS. Peppermint is a [cloud-focused Linux distribution](https://itsfoss.com/cloud-focused-linux-distros/) that doesn’t need high-end hardware. It is based on Lubuntu and uses LXDE desktop environment to give you a smoother experience.
+    Originally created with the web-centric approach of netbooks in mind, Peppermint includes the [ICE application](https://peppermintos.com/guide/ice/) for integrating any website or web app as a standalone desktop app.
+    You’ll find the [documentation](https://peppermintos.com/guide/) helpful as well. A [dedicated forum](https://forum.peppermintos.com/) also exists to help troubleshooting issues and answering your questions.
+  
   > I tried to install Lubuntu 20.04 LTS and encountered this [error](https://bugs.launchpad.net/ubuntu/+source/calamares/+bug/1851188). The problem is occur when I try to begin the installation after choosing the free partition (along with the 3 primary partitions already) for Lubuntu.
+  
+  Website: [lubuntu.net](https://lubuntu.net/), [peppermintos.com](https://peppermintos.com/).
   
 - [x] Linux Mint:
 
@@ -67,9 +74,19 @@ Choose a distribution according to your needs.
   
   - great for desktop and laptop.
   
+  - I think this is the best Ubuntu distro.
+  
   <details><summary>Comments from Wiki.</summary> Linux Mint is a community-driven Linux distribution based on Ubuntu or Debian that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use." Linux Mint provides full out-of-the-box multimedia support by including some proprietary software, such as multimedia codecs, and comes bundled with a variety of free and open-source applications.</details>
   
   Website: [linuxmint.com](https://www.linuxmint.com/).
+  
+  Honorable mention: 
+  
+  - Pop!_OS — offers a pure GNOME experience, better user exp. than Ubuntu, it isn’t flashy, perfect combo of icon/themes. 
+  - Zorin OS — a lot of GUI-based applications comes baked in, the UI is tailored for Windows and macOS users to get used to. 
+  - MX Linux — midweight simple OS based on Debian with Xfce as its desktop environment, it is very stable but not that attractive.
+  - elementary OS — one of the most beautiful distros, looks like MacOS.
+  - KDE Neon — simplified and beautiful KDE Plasma desktop and KDE applications; unlike Kubuntu or other KDE-based distributions, you don’t have to wait for months to get the new [KDE software](https://kde.org/).
 
 ### Distributions for medium level users
 
@@ -90,10 +107,12 @@ Choose a distribution according to your needs.
   - package manager - Yum (command line), PackageKit (graphical), .rpm (binaries format) (rpm packager manager is also used by RHEL).
   - desktop environment - bash, GNOME Shell.
   - **servers**, desktop computers, workstations.
+  - Even though the number of hosting providers using CentOS is significantly less compared to the last few years – it still is a great choice.
+  CentOS may not come loaded with the latest software packages – but it is considered as one of the most stable distros. You should find CentOS images on a variety of cloud platforms. If you don’t, you can always opt for the self-hosted image that CentOS provides.
   - useful for software engineering/IT/Web (same for RedHat).
 
   <details><summary>Comment from Quora</summary> CentOS — A derivative of Fedora that uses much older software and is best reserved for servers, but some desktop users do exist. Its repositories are tiny so beware if you need a wide selection of software you may be disappointed by it.</details>
-
+  
   <details><summary>Why not CentOS for programming (from Quora)</summary> I can’t tell you how many times I’ve had to build things from source on CentOS6 on my work servers. In one extreme case I had to rebuild a python pip package because of some glibc conflict to make it work on CentOS6. I wasted one or two work days figuring out how to make the pip package correctly which actually involved building multiple other things from source to create the pip package. CERN’s “devtoolset” is a life saver because if they didn’t have it I wouldn’t recommend CentOS for development at all. devtoolset will let you get the latest gcc and other things when necessary, but still it’s somewhat of a workaround. <p>
         What’s most important for me when considering a distro is productivity, and wasting a full work day compiling from source is interesting the first two or three times and then gets pretty old pretty fast. As a server to host things CentOS could do its job as it’s more “stable” feeling. However, if you want to use the latest packages to develop something, you will have to work around the countless out-of-date packages on CentOS.
         </p></details>
@@ -102,14 +121,16 @@ Choose a distribution according to your needs.
   Website: [centos.org](https://www.centos.org/).
 
 - [ ] Fedora:
-  - backed by Red Hat, the Fedora Project is community driven containing **open-source** and **free software**. Red Hat Enterprise Linux branches off Fedora (Fedora is based on Fedora Core, which is based on Red Hat Linux, not RHEL), so think of Fedora as an upstream RHEL operating system. Eventually RHEL will get updates from Fedora after thorough testing and quality assurance. Think of Fedora as an Ubuntu equivalent that uses a Red Hat backend instead of Debian. If you want to use a Red Hat based operating system, this is a **user friendly** version.
+  - backed by Red Hat, the Fedora Project is community driven containing **open-source** and **free software**. Red Hat Enterprise Linux branches off Fedora (Fedora is based on Fedora Core, which is based on Red Hat Linux, not RHEL), so think of Fedora as an [upstream](https://www.wikiwand.com/en/Upstream_(software_development)) RHEL operating system. Eventually RHEL will get updates from Fedora after thorough testing and quality assurance. Think of Fedora as an Ubuntu equivalent that uses a Red Hat backend instead of Debian. If you want to use a Red Hat based operating system, this is a **user friendly** version.
   - uses Red Hat package manager.
   - desktop environment - Gnome Shell.
-  - sort of a “mix” between a rolling distro and a stable distro.
+  - Fedora has server edition and some people use it as well. But most sysadmins won’t prefer a server that has to be upgraded and rebooted every nine months.
+    Knowing Fedora helps you in using Red Hat Enterprise Linux (RHEL). RHEL is a paid product and you’ll have to purchase a subscription. If you want an operating system for running server that is close to Fedora/Red Hat, I advise using CentOS.
+- sort of a “mix” between a rolling distro and a stable distro.
   - Fedora is great if you want a Red Hat based operating system **without the price tag**. Recommended for desktop and laptop.
 
   <details><summary>Comment from Quora.</summary> Fedora and openSUSE, in my opinion, are more challenging in part because they are strict on open-source and aside from the binary blobs on their kernels have no proprietary software in their official repositories. If your PC has hardware that’s completely compatible with open-source software (mostly Intel products are like their WiFi chips, CPUs, graphics cards, etc.) and you need no proprietary apps (including Google Chrome) Fedora will probably be easy for you to use.</details>
-
+  
   Website: [getfedora.org](https://getfedora.org/).
   
   > Additional notes and recommendations on the distro.
@@ -130,14 +151,16 @@ Choose a distribution according to your needs.
   - Package manager - Pacman, to install, update and manage packages.
   - Great for desktop and laptop. If you also have a small device such as a Raspberry Pi and need to stick a lightweight OS on it, you can’t go wrong with Arch.
   - Useful for Computer Engineering/System Programming and Hardware Engineering (+ Software Engineering - is this the best distributive for all of these tasks?).
+- Also, there is a nice distro based on Arch. It's Manjaro. Fret not, while Arch Linux is tailored for advanced users, Manjaro makes it easy for a newcomer. It is a simple and beginner-friendly Linux distro. The user interface is good enough and offers a bunch of useful GUI applications built-in.
+    You get options to choose a [desktop environment](https://itsfoss.com/what-is-desktop-environment/) for Manjaro while downloading it.
 
-  Website: [archlinux.org](https://www.archlinux.org/).
-
+  Website: [archlinux.org](https://www.archlinux.org/), [manjaro.org](https://manjaro.org/).
+  
   > Additional notes and recommendations on the distro.
   >
-  > - [How installing Arch Linux brought my old laptop back to life](https://www.freecodecamp.org/news/how-installing-arch-linux-brought-my-old-laptop-back-to-life-1c1c76dd688e/#:~:text=You%20can%20create%20the%20computer,on%20at%20the%20same%20time.)
+> - [How installing Arch Linux brought my old laptop back to life](https://www.freecodecamp.org/news/how-installing-arch-linux-brought-my-old-laptop-back-to-life-1c1c76dd688e/#:~:text=You%20can%20create%20the%20computer,on%20at%20the%20same%20time.)
   > - [Should You Install Arch Linux? 10 Reasons for Arch-Based Distros](https://www.makeuseof.com/tag/reasons-install-arch-linux/)
-
+  
 - [ ] Gentoo Linux:
   - minimalistic, pain to setup and keep running (if you are new, start with something easy, you can always upgrade). Gentoo offers ridiculous flexibility with the operating system at a price. It’s made for advanced users who don’t mind getting their hands dirty with the system. **Compile your software from source**.
   - package manager - Portage, very modular and easy to maintain, which plays a big part in the operating system as a whole being very flexible.
@@ -330,14 +353,15 @@ Honorable mentions: Sparky (slow, ugly UI), SliTaz.
 1. https://www.makeuseof.com/tag/whats-the-difference-between-linux-distributions-if-theyre-all-linux-makeuseof-explains/
 2. https://linuxjourney.com/
 3. https://itsubuntu.com/linux-mint-20-dropped-ubuntus-snap/#:~:text=Linux%20Mint%20Dropped%20Ubuntu's%20Snap&text=What%20we%20didn't%20want,make%20its%20store%20a%20requirement.
-4. https://www.quora.com/Should-I-use-ArchLinux-instead-of-Ubuntu-for-programming
-5. https://www.quora.com/Is-Arch-Linux-the-best-Linux-distribution/answer/Emanuel-Couto/
-6. https://unix.stackexchange.com/questions/158244/what-is-the-difference-between-i686-and-x86-64-packages
-7. https://opensource.com/article/19/6/linux-distros-to-try
-8. https://linoxide.com/distros/lightweight-linux-distros-for-old-laptop/
-9. https://www.tecmint.com/linux-distributions-for-old-computers/
-10. https://www.fosslinux.com/43256/linux-distributions-support-32-bit-architecture.htm
-11. https://embeddedinventor.com/best-lightweight-linux-distros-comparison-analysis/
-12. https://www.reddit.com/r/linux/comments/cyr752/mx_linux_top_of_distrowatchcom_whats_all_the_hype/
-13. https://www.quora.com/Why-is-MX-Linux-so-popular#:~:text=It's%20popular%20because%20it%20makes,which%20are%20great%20time%20savers.
-14. https://www.reddit.com/r/linux/comments/b2mxot/why_is_mx_linux_so_popular/
+4. https://itsfoss.com/best-linux-distributions/
+5. https://www.quora.com/Should-I-use-ArchLinux-instead-of-Ubuntu-for-programming
+6. https://www.quora.com/Is-Arch-Linux-the-best-Linux-distribution/answer/Emanuel-Couto/
+7. https://unix.stackexchange.com/questions/158244/what-is-the-difference-between-i686-and-x86-64-packages
+8. https://opensource.com/article/19/6/linux-distros-to-try
+9. https://linoxide.com/distros/lightweight-linux-distros-for-old-laptop/
+10. https://www.tecmint.com/linux-distributions-for-old-computers/
+11. https://www.fosslinux.com/43256/linux-distributions-support-32-bit-architecture.htm
+12. https://embeddedinventor.com/best-lightweight-linux-distros-comparison-analysis/
+13. https://www.reddit.com/r/linux/comments/cyr752/mx_linux_top_of_distrowatchcom_whats_all_the_hype/
+14. https://www.quora.com/Why-is-MX-Linux-so-popular#:~:text=It's%20popular%20because%20it%20makes,which%20are%20great%20time%20savers.
+15. https://www.reddit.com/r/linux/comments/b2mxot/why_is_mx_linux_so_popular/
