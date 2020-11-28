@@ -51,7 +51,8 @@ Choose a distribution according to your needs.
   
 - Ubuntu's flavour for old PCs. 
   - Desktop environment - LXDE/LXQT (lightweight and similar to Windows XP, Lubuntu 18.04 LTS is the last release with LXDE). 
-  - There is a nice fork of Lubuntu which is called Peppermint OS. Peppermint is a [cloud-focused Linux distribution](https://itsfoss.com/cloud-focused-linux-distros/) that doesn’t need high-end hardware. It is based on Lubuntu and uses LXDE desktop environment to give you a smoother experience.
+  
+  - [ ] There is a nice fork of Lubuntu which is called Peppermint OS. Peppermint is a [cloud-focused Linux distribution](https://itsfoss.com/cloud-focused-linux-distros/) that doesn’t need high-end hardware. It is based on Lubuntu and uses LXDE desktop environment to give you a smoother experience.
     Originally created with the web-centric approach of netbooks in mind, Peppermint includes the [ICE application](https://peppermintos.com/guide/ice/) for integrating any website or web app as a standalone desktop app.
     You’ll find the [documentation](https://peppermintos.com/guide/) helpful as well. A [dedicated forum](https://forum.peppermintos.com/) also exists to help troubleshooting issues and answering your questions.
   
@@ -62,31 +63,43 @@ Choose a distribution according to your needs.
 - [x] Linux Mint:
 
   - based on Ubuntu. It uses Ubuntu’s software repositories so the same packages are available on both distributions. **Less bloated than Ubuntu**.
-  
+
   - package manager - Debian package manager.
     Linux Mint dropped support for [Ubuntu](https://itsubuntu.com/things-to-do-after-installing-ubuntu-20-04-lts/)‘s Snap. In Linux Mint 20, APT forbids snapd from getting installed.
 
     <details><summary>Lead developer of Linux Mint, Clement “Clem” Lefebvre explains.</summary> When snap was announced it was supposed to be a solution, not a problem. It was supposed to make it possible to run newer apps on top of older libraries and to let 3rd party editors publish their software easily towards multiple distributions, just like Flatpak and AppImage. What we didn’t want it to be was for Canonical to control the distribution of software between distributions and 3rd party editors, to prevent direct distribution from editors, to make it so software worked better in Ubuntu than anywhere else and to make its store a requirement. <p>
     If you’re a Fedora user and you want to install Spotify, you’re told to go tohttps://snapcraft.io/spotify. Spotify doesn’t distribute RPM packages, appimage, Flatpak or anything useful to a Fedora user who wants to download it, or to a Fedora maintainer who wants to add it to a repository. Fedora users are told to go to what is essentially a commercial store operated by a RedHat competitor where stats tell them their distribution is only 7th best. <p>
     A year later, in the Ubuntu 20.04 package base, the Chromium package is indeed empty and acting, without your consent, as a backdoor by connecting your computer to the Ubuntu Store. Applications in this store cannot be patched, or pinned. You can’t audit them, hold them, modify them or even point snap to a different store. You’ve as much empowerment with this as if you were using proprietary software, i.e. none. This is in effect similar to a commercial proprietary solution, but with two major differences: It runs as root, and it installs itself without asking you.</details>
-  
+
   - desktop environment - KDE/GNOME/Cinnamon/MATE/ Xfce/KDE SC 4.
-  
-  - great for desktop and laptop.
-  
+
+  - great for desktop and laptop, listening to music, watching videos, and even gaming.
+
   - I think this is the best Ubuntu distro.
-  
+
   <details><summary>Comments from Wiki.</summary> Linux Mint is a community-driven Linux distribution based on Ubuntu or Debian that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use." Linux Mint provides full out-of-the-box multimedia support by including some proprietary software, such as multimedia codecs, and comes bundled with a variety of free and open-source applications.</details>
-  
+
   Website: [linuxmint.com](https://www.linuxmint.com/).
-  
+
   Honorable mention: 
-  
-  - Pop!_OS — offers a pure GNOME experience, better user exp. than Ubuntu, it isn’t flashy, perfect combo of icon/themes. 
-  - Zorin OS — a lot of GUI-based applications comes baked in, the UI is tailored for Windows and macOS users to get used to. 
-  - MX Linux — midweight simple OS based on Debian with Xfce as its desktop environment, it is very stable but not that attractive.
-  - elementary OS — one of the most beautiful distros, looks like MacOS.
-  - KDE Neon — simplified and beautiful KDE Plasma desktop and KDE applications; unlike Kubuntu or other KDE-based distributions, you don’t have to wait for months to get the new [KDE software](https://kde.org/).
+
+  - [ ] Pop!OS — offers a pure GNOME experience, better user exp. than Ubuntu, it isn’t flashy, perfect combo of icon/themes (however, I couldn't get used to it), great desktop wallpapers and fonts, snap isn't enabled by default.
+    So, it is worth highlighting that Pop!_OS provides separate ISOs. One for the systems with NVIDIA graphics card and another for systems with/without AMD graphics. With Ubuntu 19.10, you get NVIDIA drivers on the Ubuntu ISO but there is no such thing for AMD graphics.
+
+  - [ ] Zorin OS — it has a Windows-like graphical user interface and many programs similar to those found in Windows; so the UI is tailored for Windows users to get used to; Zorin OS also comes with an application that lets users run many Windows programs. 
+
+  - [ ] MX Linux — midweight simple OS based on Debian with Xfce as its desktop environment, it is very stable but not that attractive.
+
+  - [ ] elementary OS — one of the most beautiful distros, looks like MacOS.
+    It also features its own app store where you can choose to pay for the free apps while having some cool features like picture-in-picture mode and so on.
+    Not just limited to the looks and features – but it is stable enough and useful for developers as well.
+
+  - [ ] KDE Neon — simplified and beautiful KDE Plasma desktop and KDE applications; unlike Kubuntu or other KDE-based distributions, you don’t have to wait for months to get the new [KDE software](https://kde.org/).
+
+  - [ ] Netrunner — OS based on Debian with KDE Plasma as its desktop environment; UI looks nice at first glance, but it's a bit complicated when you want to find something; strange shadows on desktop icon texts; it is developed by the KDE dev team which makes makes this distro the best KDE distribution for many people.
+
+  - Raspbian is yet another useful distro based on Debian for developers/programmers using Raspberry Pi for their projects.
+    It includes most of the essential software for programmers like Python, Java, Scratch, and so on.
 
 ### Distributions for medium level users
 
@@ -103,14 +116,26 @@ Choose a distribution according to your needs.
   Website: [debian.org - user-manuals](https://www.debian.org/doc/user-manuals).
 
 - [ ] CentOS:
-  - excellent choice for professional work, based on Red Hat Linux, I heard that people use it in **enterprise** (with Red Hat Enterprise Linux).
+  - excellent choice for professional work, based on Red Hat Linux, I heard that people use it in **enterprise** (with Red Hat Enterprise Linux). **CentOS 8** is a favourite among Linux enthusiasts who want to savour the benefits of RHEL.
+  
+    > Abbreviated as **RHEL**, [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) is a Linux distro designed for Enterprise or commercial purposes. It’s one of the leading open-source alternatives to other proprietary systems such as **Microsoft**. **Red Hat** is usually a top choice for server environments given its stability and regular security patches which boost its overall security.
+    >
+    > You can readily set it up on physical servers, virtual environments such as **VMware**, **HyperV,** and also on the cloud. **Red Hat** has done a perfect job in containerization technology thanks to **OpenShift PaaS** (platform as a service), a hybrid cloud environment that is built around **[Docker](https://www.tecmint.com/install-docker-and-learn-containers-in-centos-rhel-7-6/)** containers and managed by [Kubernetes](https://www.tecmint.com/install-a-kubernetes-cluster-on-centos-8/).
+    >
+    > Redhat trains and certifies system administrators through specialist courses such as [RHCSA (Red Hat Certified System Administrators)](https://www.tecmint.com/red-hat-rhcsa-rhce-exam-certification-book/) and [RHCE (Red Hat Certified Engineer)](https://www.tecmint.com/red-hat-rhcsa-rhce-exam-certification-book/).
+  >
+    > Where efficiency, security, and stability are of utmost priority **RHEL** is the ideal distro to opt for. **RHEL** is subscription-based and the subscription is renewed annually. You can purchase a license for an array of subscription models such as Linux Developer Workstation, Linux developer suite, and Linux for Virtual Datacenters.
+    >
+    > The **AppStream** repository (**Application Stream**) provides all the software applications that you want to install on your system while the **BaseOS** provides applications only for the core functionality of the system.
+    >
+    > Additionally, you can also [download and try out RedHat for free](https://www.tecmint.com/download-rhel-8-for-free/) by through the [Red Hat developer program](https://developers.redhat.com/).
   - package manager - Yum (command line), PackageKit (graphical), .rpm (binaries format) (rpm packager manager is also used by RHEL).
   - desktop environment - bash, GNOME Shell.
   - **servers**, desktop computers, workstations.
   - Even though the number of hosting providers using CentOS is significantly less compared to the last few years – it still is a great choice.
   CentOS may not come loaded with the latest software packages – but it is considered as one of the most stable distros. You should find CentOS images on a variety of cloud platforms. If you don’t, you can always opt for the self-hosted image that CentOS provides.
   - useful for software engineering/IT/Web (same for RedHat).
-
+  
   <details><summary>Comment from Quora</summary> CentOS — A derivative of Fedora that uses much older software and is best reserved for servers, but some desktop users do exist. Its repositories are tiny so beware if you need a wide selection of software you may be disappointed by it.</details>
   
   <details><summary>Why not CentOS for programming (from Quora)</summary> I can’t tell you how many times I’ve had to build things from source on CentOS6 on my work servers. In one extreme case I had to rebuild a python pip package because of some glibc conflict to make it work on CentOS6. I wasted one or two work days figuring out how to make the pip package correctly which actually involved building multiple other things from source to create the pip package. CERN’s “devtoolset” is a life saver because if they didn’t have it I wouldn’t recommend CentOS for development at all. devtoolset will let you get the latest gcc and other things when necessary, but still it’s somewhat of a workaround. <p>
@@ -137,13 +162,22 @@ Choose a distribution according to your needs.
   >
   > - [What is Silverblue?](https://fedoramagazine.org/what-is-silverblue/)
 
+Honorable mention:
+
+- [ ] **Kali Linux** is meant for Cybersecurity experts and students who want to venture into penetration testing. In fact, Kali provides industry-standard certifications such as **[Penetration Testing with Kali](https://www.kali.org/penetration-testing-with-kali-linux/)** and [Kali Linux Certified Professional](https://www.kali.org/news/introducing-kali-linux-certified-professional/).
+  **Kali** uses the **APT** package manager.
+- [ ] openSUSE ([SUSE Leap](https://www.opensuse.org/#Leap)) is tailored for developers and system administrators with in-built functionalities to help you manage systems, utilize containerization technologies included, and a bunch of useful features for programmers, developers, and sysadmins.
+  It has a great community, a solid development sector, and a completely professional attitude.
+  If you want a rolling-release cycle, they also offer **openSUSE Tumbleweed** edition- which is a bleeding-edge distro for developers who want everything up-to-date as fast as possible.
+  OpenSUSE relies on the Yast package manager for managing software packages and is recommended for developers and system administrators.
+
 ### Distributions for advanced users
 
 - [ ] Arch Linux:
   - Minimalistic, pain to setup and keep running (if you are new, start with something easy, you can always upgrade). Arch is a **lightweight** and **flexible** Linux distribution driven 100% by the community. **You receive software in binary form** (you shouldn't compile it from source - that's why Arch is more user friendly than Gentoo - sure wiki is the main factor here). You really need to get your hands dirty to understand the system and its functions, but in turn you get complete and total control of your system. If you want a lightweight operating system and really want to understand Linux use Arch!
   - Has a great wiki. If you have a problem or want to install something, read the wiki. It has detailed instructions for each application, including a summary, installation, configuration and troubleshoot.
   - Similar to Debian, Arch uses a **a bleeding-edge rolling release model** (rolling distro) so incremental updates eventually become the Stable release. Arch’s rolling-release system means that you’ll sometimes run into weird inconsistencies when package versions update, but Ubuntu updates packages too. It’s pretty easy in Arch to lock down a specific version of your project’s dependencies. The only problem in Ubuntu is, the packages provided by the distribution are not usually up-to-date and latest. So, you’ll have to rely on 3rd party for latest updates to software that matters to you; a PPA for your IDE, a snap for a design tool, anaconda for your python setup etc.
-    If outdated software in the repositories is indeed a big problem for you (it was for me, for making music), then you can consider Archlinux. Arch may also have outdated packages in their main repository, but AUR usually has the latest packages. Remember, installing stuff from AUR may be time consuming because it downloads source code and compiles it on your machine.
+    If outdated software in the repositories is indeed a big problem for you (it was for me, for making music), then you can consider Archlinux. Arch may also have outdated packages in their main repository, but AUR usually has the latest packages. Remember, installing stuff from AUR may be time consuming because it downloads source code and compiles it on your machine. The operating system itself is completely reliable. The rare issues regarding stability creep in when you install *unsupported packages* from the AUR (which can be avoided by being cautious while dealing with AUR). This too affects only the software in question and not the OS itself. 
     One downside of Arch is that a simple update may break the entire system. In Ubuntu, you can run automatic updates with confidence because package updates are carefully tested and patched if necessary. Nothing of that sort in Arch (so you get all latest versions).
   - You need a lot of patience at first. The installation is not a wizard. You need to follow the installation guide, which is a sequence of commands. Once you install the base OS you need to know what you want in your system. Arch does not install extras, only a bare bones OS. There is a manual recommending software though.
     However, it’s easy to configure. Almost everything is vanilla and configured with files. No weird customization and wizards that most often break the software than not. 
@@ -160,7 +194,7 @@ Choose a distribution according to your needs.
   >
 > - [How installing Arch Linux brought my old laptop back to life](https://www.freecodecamp.org/news/how-installing-arch-linux-brought-my-old-laptop-back-to-life-1c1c76dd688e/#:~:text=You%20can%20create%20the%20computer,on%20at%20the%20same%20time.)
   > - [Should You Install Arch Linux? 10 Reasons for Arch-Based Distros](https://www.makeuseof.com/tag/reasons-install-arch-linux/)
-  
+
 - [ ] Gentoo Linux:
   - minimalistic, pain to setup and keep running (if you are new, start with something easy, you can always upgrade). Gentoo offers ridiculous flexibility with the operating system at a price. It’s made for advanced users who don’t mind getting their hands dirty with the system. **Compile your software from source**.
   - package manager - Portage, very modular and easy to maintain, which plays a big part in the operating system as a whole being very flexible.
@@ -354,14 +388,15 @@ Honorable mentions: Sparky (slow, ugly UI), SliTaz.
 2. https://linuxjourney.com/
 3. https://itsubuntu.com/linux-mint-20-dropped-ubuntus-snap/#:~:text=Linux%20Mint%20Dropped%20Ubuntu's%20Snap&text=What%20we%20didn't%20want,make%20its%20store%20a%20requirement.
 4. https://itsfoss.com/best-linux-distributions/
-5. https://www.quora.com/Should-I-use-ArchLinux-instead-of-Ubuntu-for-programming
-6. https://www.quora.com/Is-Arch-Linux-the-best-Linux-distribution/answer/Emanuel-Couto/
-7. https://unix.stackexchange.com/questions/158244/what-is-the-difference-between-i686-and-x86-64-packages
-8. https://opensource.com/article/19/6/linux-distros-to-try
-9. https://linoxide.com/distros/lightweight-linux-distros-for-old-laptop/
-10. https://www.tecmint.com/linux-distributions-for-old-computers/
-11. https://www.fosslinux.com/43256/linux-distributions-support-32-bit-architecture.htm
-12. https://embeddedinventor.com/best-lightweight-linux-distros-comparison-analysis/
-13. https://www.reddit.com/r/linux/comments/cyr752/mx_linux_top_of_distrowatchcom_whats_all_the_hype/
-14. https://www.quora.com/Why-is-MX-Linux-so-popular#:~:text=It's%20popular%20because%20it%20makes,which%20are%20great%20time%20savers.
-15. https://www.reddit.com/r/linux/comments/b2mxot/why_is_mx_linux_so_popular/
+5. https://www.tecmint.com/linux-distro-for-power-users/
+6. https://www.quora.com/Should-I-use-ArchLinux-instead-of-Ubuntu-for-programming
+7. https://www.quora.com/Is-Arch-Linux-the-best-Linux-distribution/answer/Emanuel-Couto/
+8. https://unix.stackexchange.com/questions/158244/what-is-the-difference-between-i686-and-x86-64-packages
+9. https://opensource.com/article/19/6/linux-distros-to-try
+10. https://linoxide.com/distros/lightweight-linux-distros-for-old-laptop/
+11. https://www.tecmint.com/linux-distributions-for-old-computers/
+12. https://www.fosslinux.com/43256/linux-distributions-support-32-bit-architecture.htm
+13. https://embeddedinventor.com/best-lightweight-linux-distros-comparison-analysis/
+14. https://www.reddit.com/r/linux/comments/cyr752/mx_linux_top_of_distrowatchcom_whats_all_the_hype/
+15. https://www.quora.com/Why-is-MX-Linux-so-popular#:~:text=It's%20popular%20because%20it%20makes,which%20are%20great%20time%20savers.
+16. https://www.reddit.com/r/linux/comments/b2mxot/why_is_mx_linux_so_popular/
