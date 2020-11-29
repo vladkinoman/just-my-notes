@@ -77,28 +77,45 @@ Choose a distribution according to your needs.
 
   - I think this is the best Ubuntu distro.
 
+  > 8: Linux Mint is in even more dire need for a security team - https://blog.linuxmint.com/?p=2994
+>
+  > > **What happened?**
+> >
+  > > Hackers made a modified Linux Mint ISO, with a backdoor in it, and managed to hack our website to point to it.
+>
+  > There have also been various incidents where Linux Mint package versions have been unnecessarily held back without addressing important security patches.
+  >
+  > These could have been million dollar lessons, but they still don't publish CVEs or have a dedicated security team.
+  >
+  > > 5: The good news however is that they still mostly depend on Ubuntu, and that they fixed the issue with their website over the exploit in the first place. The issue was WordPress + lack of HTTPS, leading to the mess they had.
+  > >
+  > > I also bet that they don't hold over packages as much anymore; they decided to finally just begin pushing updates from Ubuntu anyways instead of delaying them, ever since they added in Timeshift. The idea now is to simply backup in case an update fails. Hell, for a little bit before that, they added a prompt to their updater that allowed people to pick their updater behavior, at least partly addressing the issue where people used default Mint behavior and had quite outdated packages.
+  > >
+  > > That said, yes Mint could benefit from a dedicated security team, I'm just saying they're not an absolute failure at security like some like to think. If we want to go down that route, Manjaro is the worst at this, for the fact that they even promoted unsafe behavior when they forget to update their SSL cert. O_o Let alone Mint-like holding back of packages on a global level and instituted from the repos themselves. Manjaro is great for many reasons, but certainly not for promotion of security.
+  >
+> 
+  
   <details><summary>Comments from Wiki.</summary> Linux Mint is a community-driven Linux distribution based on Ubuntu or Debian that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use." Linux Mint provides full out-of-the-box multimedia support by including some proprietary software, such as multimedia codecs, and comes bundled with a variety of free and open-source applications.</details>
-
+  
   Website: [linuxmint.com](https://www.linuxmint.com/).
-
+  
   Honorable mention: 
-
-  - [ ] Pop!OS — offers a pure GNOME experience, better user exp. than Ubuntu, it isn’t flashy, perfect combo of icon/themes (however, I couldn't get used to it), great desktop wallpapers and fonts, snap isn't enabled by default.
-    So, it is worth highlighting that Pop!_OS provides separate ISOs. One for the systems with NVIDIA graphics card and another for systems with/without AMD graphics. With Ubuntu 19.10, you get NVIDIA drivers on the Ubuntu ISO but there is no such thing for AMD graphics.
-
-  - [ ] Zorin OS — it has a Windows-like graphical user interface and many programs similar to those found in Windows; so the UI is tailored for Windows users to get used to; Zorin OS also comes with an application that lets users run many Windows programs. 
-
+  
   - [ ] MX Linux — midweight simple OS based on Debian with Xfce as its desktop environment, it is very stable but not that attractive.
-
+  - [ ] Pop!OS — offers a pure GNOME experience, better user exp. than Ubuntu, it isn’t flashy, perfect combo of icon/themes (however, I couldn't get used to it), great desktop wallpapers and fonts, snap isn't enabled by default.
+  So, it is worth highlighting that Pop!_OS provides separate ISOs. One for the systems with NVIDIA graphics card and another for systems with/without AMD graphics. With Ubuntu 19.10, you get NVIDIA drivers on the Ubuntu ISO but there is no such thing for AMD graphics.
+  - [ ] Zorin OS — it has a Windows-like graphical user interface and many programs similar to those found in Windows; so the UI is tailored for Windows users to get used to; Zorin OS also comes with an application that lets users run many Windows programs. 
+  The Core, Lite, and Education editions are free for download with the Ultimate Edition going for only $39. Education and Ultimate editions ship with both GNOME and XFCE desktop environments. Core edition is only available in GNOME while Lite comes with the XFCE environment.
+    Zorin is also secure with periodic security patches and feature updates to address any security flaws and improve the performance of the system.
+  Zorin also comes highly recommended for old PCs or systems with low CPU and RAM specifications. Unlike Zorin, Mint has a fairly large footprint and requires a robust system with higher specifications for installation for it to run smoothly.
   - [ ] elementary OS — one of the most beautiful distros, looks like MacOS.
     It also features its own app store where you can choose to pay for the free apps while having some cool features like picture-in-picture mode and so on.
     Not just limited to the looks and features – but it is stable enough and useful for developers as well.
-
+  LibreOffice doesn’t come pre-installed as you would expect but worry not as it’s just a simple click away in the AppCenter.
+    Elementary OS is also based on Ubuntu and is stable and fast even on old and low spec PCs.
   - [ ] KDE Neon — simplified and beautiful KDE Plasma desktop and KDE applications; unlike Kubuntu or other KDE-based distributions, you don’t have to wait for months to get the new [KDE software](https://kde.org/).
-
   - [ ] Netrunner — OS based on Debian with KDE Plasma as its desktop environment; UI looks nice at first glance, but it's a bit complicated when you want to find something; strange shadows on desktop icon texts; it is developed by the KDE dev team which makes makes this distro the best KDE distribution for many people.
-
-  - Raspbian is yet another useful distro based on Debian for developers/programmers using Raspberry Pi for their projects.
+  - [ ] Raspbian is yet another useful distro based on Debian for developers/programmers using Raspberry Pi for their projects.
     It includes most of the essential software for programmers like Python, Java, Scratch, and so on.
 
 ### Distributions for medium level users
@@ -116,25 +133,29 @@ Choose a distribution according to your needs.
   Website: [debian.org - user-manuals](https://www.debian.org/doc/user-manuals).
 
 - [ ] CentOS:
-  - excellent choice for professional work, based on Red Hat Linux, I heard that people use it in **enterprise** (with Red Hat Enterprise Linux). **CentOS 8** is a favourite among Linux enthusiasts who want to savour the benefits of RHEL.
+  
+  > Some [articles](https://www.tecmint.com/best-linux-distributions-for-beginners/) write that this distro is good for beginners.
+  
+  - excellent choice for professional work, based on Red Hat Linux, I heard that people use it in **enterprise** (with Red Hat Enterprise Linux). **CentOS 8** is a favourite among Linux enthusiasts who want to savour the benefits of RHEL (it offers beginners a gateway to try out an RPM-based Linux distribution at absolutely no cost).
   
     > Abbreviated as **RHEL**, [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) is a Linux distro designed for Enterprise or commercial purposes. It’s one of the leading open-source alternatives to other proprietary systems such as **Microsoft**. **Red Hat** is usually a top choice for server environments given its stability and regular security patches which boost its overall security.
     >
     > You can readily set it up on physical servers, virtual environments such as **VMware**, **HyperV,** and also on the cloud. **Red Hat** has done a perfect job in containerization technology thanks to **OpenShift PaaS** (platform as a service), a hybrid cloud environment that is built around **[Docker](https://www.tecmint.com/install-docker-and-learn-containers-in-centos-rhel-7-6/)** containers and managed by [Kubernetes](https://www.tecmint.com/install-a-kubernetes-cluster-on-centos-8/).
     >
     > Redhat trains and certifies system administrators through specialist courses such as [RHCSA (Red Hat Certified System Administrators)](https://www.tecmint.com/red-hat-rhcsa-rhce-exam-certification-book/) and [RHCE (Red Hat Certified Engineer)](https://www.tecmint.com/red-hat-rhcsa-rhce-exam-certification-book/).
-  >
+    >
     > Where efficiency, security, and stability are of utmost priority **RHEL** is the ideal distro to opt for. **RHEL** is subscription-based and the subscription is renewed annually. You can purchase a license for an array of subscription models such as Linux Developer Workstation, Linux developer suite, and Linux for Virtual Datacenters.
     >
     > The **AppStream** repository (**Application Stream**) provides all the software applications that you want to install on your system while the **BaseOS** provides applications only for the core functionality of the system.
     >
     > Additionally, you can also [download and try out RedHat for free](https://www.tecmint.com/download-rhel-8-for-free/) by through the [Red Hat developer program](https://developers.redhat.com/).
-  - package manager - Yum (command line), PackageKit (graphical), .rpm (binaries format) (rpm packager manager is also used by RHEL).
-  - desktop environment - bash, GNOME Shell.
+  - package manager - Yum (command line), PackageKit (graphical), .rpm (binaries format) (rpm packager manager is also used by RHEL). Software packages are provided for through 2 main repositories: AppStream and BaseOS. 
+  - desktop environment - bash, GNOME Shell. CentOS 8 is the latest release and ships with GNOME as the default desktop environment.
+    Though very commendable on stability and performance, CentOS 8 doesn’t have much to offer in the way of desktop customization. 
   - **servers**, desktop computers, workstations.
   - Even though the number of hosting providers using CentOS is significantly less compared to the last few years – it still is a great choice.
   CentOS may not come loaded with the latest software packages – but it is considered as one of the most stable distros. You should find CentOS images on a variety of cloud platforms. If you don’t, you can always opt for the self-hosted image that CentOS provides.
-  - useful for software engineering/IT/Web (same for RedHat).
+  - useful for software engineering/IT/Web (same for RedHat). Unlike the earlier-mentioned distributions, CentOS is more geared towards stability and performance than the visual appeal and customizations. In fact, due to its stability, it comes recommended for server environments and for beginners seeking to venture into System Administration and devesslopment.
   
   <details><summary>Comment from Quora</summary> CentOS — A derivative of Fedora that uses much older software and is best reserved for servers, but some desktop users do exist. Its repositories are tiny so beware if you need a wide selection of software you may be disappointed by it.</details>
   
@@ -175,26 +196,93 @@ Honorable mention:
 
 - [ ] Arch Linux:
   - Minimalistic, pain to setup and keep running (if you are new, start with something easy, you can always upgrade). Arch is a **lightweight** and **flexible** Linux distribution driven 100% by the community. **You receive software in binary form** (you shouldn't compile it from source - that's why Arch is more user friendly than Gentoo - sure wiki is the main factor here). You really need to get your hands dirty to understand the system and its functions, but in turn you get complete and total control of your system. If you want a lightweight operating system and really want to understand Linux use Arch!
+  
   - Has a great wiki. If you have a problem or want to install something, read the wiki. It has detailed instructions for each application, including a summary, installation, configuration and troubleshoot.
+  
   - Similar to Debian, Arch uses a **a bleeding-edge rolling release model** (rolling distro) so incremental updates eventually become the Stable release. Arch’s rolling-release system means that you’ll sometimes run into weird inconsistencies when package versions update, but Ubuntu updates packages too. It’s pretty easy in Arch to lock down a specific version of your project’s dependencies. The only problem in Ubuntu is, the packages provided by the distribution are not usually up-to-date and latest. So, you’ll have to rely on 3rd party for latest updates to software that matters to you; a PPA for your IDE, a snap for a design tool, anaconda for your python setup etc.
     If outdated software in the repositories is indeed a big problem for you (it was for me, for making music), then you can consider Archlinux. Arch may also have outdated packages in their main repository, but AUR usually has the latest packages. Remember, installing stuff from AUR may be time consuming because it downloads source code and compiles it on your machine. The operating system itself is completely reliable. The rare issues regarding stability creep in when you install *unsupported packages* from the AUR (which can be avoided by being cautious while dealing with AUR). This too affects only the software in question and not the OS itself. 
     One downside of Arch is that a simple update may break the entire system. In Ubuntu, you can run automatic updates with confidence because package updates are carefully tested and patched if necessary. Nothing of that sort in Arch (so you get all latest versions).
+    
   - You need a lot of patience at first. The installation is not a wizard. You need to follow the installation guide, which is a sequence of commands. Once you install the base OS you need to know what you want in your system. Arch does not install extras, only a bare bones OS. There is a manual recommending software though.
     However, it’s easy to configure. Almost everything is vanilla and configured with files. No weird customization and wizards that most often break the software than not. 
     Once you get everything working you will not want to change to another OS. This could seriously be a problem, no joke.
+    
   - Package manager - Pacman, to install, update and manage packages.
-  - Great for desktop and laptop. If you also have a small device such as a Raspberry Pi and need to stick a lightweight OS on it, you can’t go wrong with Arch.
-  - Useful for Computer Engineering/System Programming and Hardware Engineering (+ Software Engineering - is this the best distributive for all of these tasks?).
-- Also, there is a nice distro based on Arch. It's Manjaro. Fret not, while Arch Linux is tailored for advanced users, Manjaro makes it easy for a newcomer. It is a simple and beginner-friendly Linux distro. The user interface is good enough and offers a bunch of useful GUI applications built-in.
-    You get options to choose a [desktop environment](https://itsfoss.com/what-is-desktop-environment/) for Manjaro while downloading it.
-
-  Website: [archlinux.org](https://www.archlinux.org/), [manjaro.org](https://manjaro.org/).
   
-  > Additional notes and recommendations on the distro.
+  - Great for desktop and laptop. If you also have a small device such as a Raspberry Pi and need to stick a lightweight OS on it, you can’t go wrong with Arch.
+  
+  - Useful for Computer Engineering/System Programming and Hardware Engineering (+ Software Engineering - is this the best distributive for all of these tasks?).
+  
+  - [ ] Also, there is a nice distro based on Arch. It's Manjaro. Fret not, while Arch Linux is tailored for advanced users, Manjaro makes it easy for a newcomer. It is a simple and beginner-friendly Linux distro. The user interface is good enough and offers a bunch of useful GUI applications built-in.
+    Upon installation, Manjaro auto-detects all hardware components of your system including graphic drivers and auto installs the necessary applications.
+    You get options to choose a [desktop environment](https://itsfoss.com/what-is-desktop-environment/) for Manjaro while downloading it.
+    Manjaro requires 4GB of memory which is a lot!
+    
+  - [ ] There is a nice alternative to Manjaro. It is EndeavourOS. It's an Arch distro which is even closer to Arch than Manjaro. Endeavor is a continuation of Antegros. It tries to give an easy installer, while keeping close as close to vanilla Arch as possible.
+    
+    Manjaro on the other hand uses (a little bit) older Arch linux packages in order to try and find more stability. They also have a few different ways of doing things. For example on arch you pretty much install "linux" and it gives you the most recent kernel, and only the most recent kernel whether you like it or not. Manjaro lets you pick a major kernel version and stick on it. There's also a few other config-helper type apps in Manjaro.
+    
+    GUI package manager: Both distros will have the same options. AFAIK there isn't really a great GUI for pacman, and almost everyone uses the command line.
+    
+    Less bloat: Probably both will be equal. Antegros uses XFCE by default and Manjaro uses KDE, so you'll get a heavier desktop with Manjaro (by default). But Neither one overloads you with extra package bloat.
+    
+    Development / Programming: Really I can't think of any distro that is better or worse in this respect. As long as a distro has most of the tools and libraries you want to use, they're all equal.
+    So, EndeavourOS is far better than Manjaro. Just avoid pamac and be habituated in terminal, very stable os, using direct official arch repo, not like belated manjaro repo. Kalu will inform you about arch updates without sudo prevelage.
+    Endeavour uses direct arch repo, whether manjaro waits few days than core arch repo.
+    
+    > **About Antegros**
+    >
+    > Antergos was a great OS when the installer worked...which was about 25% of the time I used it.
+    >
+    > I was sorry to see it go, but always baffled by the way the installer didn’t have some basic fallbacks in place to get a system up when it couldn’t find the default repositories.
+    >
+    > When the damned thing worked to install you could have a very slim and reliable XFCE system up as an audio or video workstation very quickly, and running on the latest software, even on older hardware.
+    >
+    > It was a very good option for throwing together a friends system built to their needs quickly without having to do things like add yourself to sudoers and install a desktop environment and other annoying finishing tasks a vanilla arch install requires.
+    >
+    > That damned installer though, not confirming it has access to the remote packages it needed before starting the install, was utterly frustrating.
+    >
+    > ---
+    >
+    > I miss Antergos. The default gnome themed UI was really nice and clean. I know Endeavor OS fills the gap Antergos left but I can't help but feel like it's kinda ugly. I always hop off that to Zorin (light), LiteLinux, or something else. Not sure why Manjaro bugs me so much, it just does.
+    >
+    > I haven't been distro hoping long but Antergos was the first distro that I really "liked" and stuck with or at least kept going back to.
+    >
+    > ---
+    >
+    > I replaced Mint on my Plex server with Endeavour OS. While I understand the advantages of a point release distro, I got tired of having to use PPAs to add newer versions of packages I needed. And when I upgraded from Mint 19 to 19.1, I ran into some problems with a critical program and it was several weeks before I got it fixed. This leads me to wanting a rolling distro. Out of all the rolling distros, I settled on Arch. I've only been using Linux for a couple of years and still consider myself a newbie. The more I work on problems, the more comfortable I get with the OS.
+    >
+    > Arch is, IMHO, probably one of the nicest distros out there if you're looking for a rolling distro, hands down! As for the animosity people show towards Arch based distros, I don't understand it. How can making something more appealing towards new comers be seen as a bad thing? Antergos, Manjaro, Endeavour OS, all of these distros put a lovely wrapper around Arch. I agree with lots of folks that Manjaro is TOO far off the mark with their distro. What they're doing with Arch reminds me of what Canonical did with Ubuntu. With Endeavour OS, they strive to be as close to Arch as possible, while giving the user a simple GUI installer. Antergos was close to Arch but Endeavour OS is even closer. As an example, I got very use to pamac with Antergos and with EOS, they ditched it. I understand their reasoning and agree with them. I've adapted just fine to pacman and yay.
+    >
+    > Now, with the "just use the guides and install Arch from the ground up" or, "use existing scripts". To that I say, I've tried that path and I -ALWAYS- ran into problems. Plus, to a newbie, the guides absolutely leave out key steps because the folks that wrote them assume you have a certain baseline knowledge of all things Linux. Plus, while cutting my teeth with Manjaro, Antergos and now Endeavour OS, there were a few times were I was testing things out and due to user error or just experimenting, I needed to blow away the system. With a GUI Arch installer, the turnaround time was 5-10 minutes? Is there a secret way to get Arch installed (by hand) in 5-10 minutes using the wiki? Installing Arch "the Arch" way is way to tedious.
+    >
+    > "But you learn so much while doing it the Arch way". While there is some weight to that argument, I've also learned a LOT by using the system and breaking/repairing things. Having to step through a guide and copy files for my keyboard layout? Timezone? I mean, really..... how am I smarter by spending time on copying a layout file? On top of that, counting up the hours I spent trying to get Arch installed by following the wiki..... in that same time span, I could wipe/reload a system using Endeavour OS about 100 times. Arch is SCREAMING for a GUI installer that is officially maintained. Heck, charge people $1, $5, $10 or even $20 for a link to something like that and none of these Arch based distros would exist and the person that maintains that installer would start amassing a small fortune.
+    >
+    > Another good one is, "well if you can't read a wiki, you aren't smart enough to use Arch". I'll tell you that I -AM- smart enough to do is....... use Endeavour OS and not go on the Arch forum and ask for help. Since it's not a 'real' install of Arch, I don't want to get yelled out so I stay out of their hair.
+    >
+    > I think the closet I ever got to installing Arch 'the Arch way' and being able to boot into Cinnamon must have cost me about 2 hours and the end result was a black screen. These Arch based distros will continue as people want to use Arch (for good reason..... it's an amazing rolling distro and the AUR is worth the price of admission) but they want to be able to quickly install it and get up and running with minimal fuss. I'm one of those people. As more and more folks join the ranks of the Linux world, we need welcomed with open arms and yes...... GUI installers to hold our hands from time to time! What's the big problem with a GUI installer if it brings more people, like me, into the fold?
+    >
+    > ---
+    >
+    > None of these arch forks except Parabola have a security team. Stop using them.
+    >
+    > > 13, 8: This is supposed to be based directly on Arch's repos, like Antergos. A security team isn't needed.
+    > >
+    > > AFAIK, Antergos only had a single repo for things like special theming and other little things, kinda like Linux Mint. Even Linux Mint has more independent stuff, come to think about it. The rest of the repos and the AUR are all Arch-based.
+    > >
+    > > > 5:
+    > > >
+    > > > ...
+    > > >
+    > > > Mint could benefit from a dedicated security team, I'm just saying they're not an absolute failure at security like some like to think (see comments in the Linux Mint section). If we want to go down that route, Manjaro is the worst at this, for the fact that they even promoted unsafe behavior when they forget to update their SSL cert. O_o Let alone Mint-like holding back of packages on a global level and instituted from the repos themselves. Manjaro is great for many reasons, but certainly not for promotion of security.
+  
+  Website: [archlinux.org](https://www.archlinux.org/), [manjaro.org](https://manjaro.org/), [endeavouros.com](https://endeavouros.com/).
+  
+  > Additional notes and recommendations on the distro:
   >
-> - [How installing Arch Linux brought my old laptop back to life](https://www.freecodecamp.org/news/how-installing-arch-linux-brought-my-old-laptop-back-to-life-1c1c76dd688e/#:~:text=You%20can%20create%20the%20computer,on%20at%20the%20same%20time.)
-  > - [Should You Install Arch Linux? 10 Reasons for Arch-Based Distros](https://www.makeuseof.com/tag/reasons-install-arch-linux/)
-
+  > [How installing Arch Linux brought my old laptop back to life](https://www.freecodecamp.org/news/how-installing-arch-linux-brought-my-old-laptop-back-to-life-1c1c76dd688e/#:~:text=You%20can%20create%20the%20computer,on%20at%20the%20same%20time.)
+  >
+  > [Should You Install Arch Linux? 10 Reasons for Arch-Based Distros](https://www.makeuseof.com/tag/reasons-install-arch-linux/)
 - [ ] Gentoo Linux:
   - minimalistic, pain to setup and keep running (if you are new, start with something easy, you can always upgrade). Gentoo offers ridiculous flexibility with the operating system at a price. It’s made for advanced users who don’t mind getting their hands dirty with the system. **Compile your software from source**.
   - package manager - Portage, very modular and easy to maintain, which plays a big part in the operating system as a whole being very flexible.
@@ -388,15 +476,21 @@ Honorable mentions: Sparky (slow, ugly UI), SliTaz.
 2. https://linuxjourney.com/
 3. https://itsubuntu.com/linux-mint-20-dropped-ubuntus-snap/#:~:text=Linux%20Mint%20Dropped%20Ubuntu's%20Snap&text=What%20we%20didn't%20want,make%20its%20store%20a%20requirement.
 4. https://itsfoss.com/best-linux-distributions/
-5. https://www.tecmint.com/linux-distro-for-power-users/
-6. https://www.quora.com/Should-I-use-ArchLinux-instead-of-Ubuntu-for-programming
-7. https://www.quora.com/Is-Arch-Linux-the-best-Linux-distribution/answer/Emanuel-Couto/
-8. https://unix.stackexchange.com/questions/158244/what-is-the-difference-between-i686-and-x86-64-packages
-9. https://opensource.com/article/19/6/linux-distros-to-try
-10. https://linoxide.com/distros/lightweight-linux-distros-for-old-laptop/
-11. https://www.tecmint.com/linux-distributions-for-old-computers/
-12. https://www.fosslinux.com/43256/linux-distributions-support-32-bit-architecture.htm
-13. https://embeddedinventor.com/best-lightweight-linux-distros-comparison-analysis/
-14. https://www.reddit.com/r/linux/comments/cyr752/mx_linux_top_of_distrowatchcom_whats_all_the_hype/
-15. https://www.quora.com/Why-is-MX-Linux-so-popular#:~:text=It's%20popular%20because%20it%20makes,which%20are%20great%20time%20savers.
-16. https://www.reddit.com/r/linux/comments/b2mxot/why_is_mx_linux_so_popular/
+5. https://www.tecmint.com/best-linux-distributions-for-beginners/
+6. https://www.tecmint.com/linux-distro-for-power-users/
+7. https://www.quora.com/Should-I-use-ArchLinux-instead-of-Ubuntu-for-programming
+8. https://www.quora.com/Is-Arch-Linux-the-best-Linux-distribution/answer/Emanuel-Couto/
+9. https://www.reddit.com/r/EndeavourOS/comments/d22zyy/thinking_about_giving_endeavouros_a_shot_any_tips/
+10. https://www.reddit.com/r/DistroHopping/comments/cocmmx/manjaro_vs_endeavour_os/
+11. https://www.reddit.com/r/DistroHopping/comments/k1i4m7/dead_distros_antergos/
+12. https://www.reddit.com/r/linux/comments/cvghw7/thoughts_on_endeavouros_a_replacement_for_antergos/
+13. 
+14. https://unix.stackexchange.com/questions/158244/what-is-the-difference-between-i686-and-x86-64-packages
+15. https://opensource.com/article/19/6/linux-distros-to-try
+16. https://linoxide.com/distros/lightweight-linux-distros-for-old-laptop/
+17. https://www.tecmint.com/linux-distributions-for-old-computers/
+18. https://www.fosslinux.com/43256/linux-distributions-support-32-bit-architecture.htm
+19. https://embeddedinventor.com/best-lightweight-linux-distros-comparison-analysis/
+20. https://www.reddit.com/r/linux/comments/cyr752/mx_linux_top_of_distrowatchcom_whats_all_the_hype/
+21. https://www.quora.com/Why-is-MX-Linux-so-popular#:~:text=It's%20popular%20because%20it%20makes,which%20are%20great%20time%20savers.
+22. https://www.reddit.com/r/linux/comments/b2mxot/why_is_mx_linux_so_popular/
