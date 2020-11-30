@@ -12,12 +12,13 @@
    3. [Pure Wine](#Pure-Wine)
    4. [Steamtricks](#Steamtricks)
    5. [Linux steam integration](#Linux steam integration)
-4. [Deus Ex with GMDX mod](#Deus-Ex-with-GMDX-mod)
-5. [GTA III](#GTA-III)
-6. [Max Payne](#Max-Payne)
-7. [Super Meat Boy](#Super-Meat-Boy)
-8. [Talos Principle](#Talos-Principle)
-9. [References](#References)
+4. [Alan Wake and Alan Wake American Nightmare](#Alan-Wake-and-Alan-Wake-American-Nightmare)
+5. [Deus Ex with GMDX mod](#Deus-Ex-with-GMDX-mod)
+6. [GTA III](#GTA-III)
+7. [Max Payne](#Max-Payne)
+8. [Super Meat Boy](#Super-Meat-Boy)
+9. [Talos Principle](#Talos-Principle)
+10. [References](#References)
 
 ## Issues with hardware
 
@@ -130,6 +131,43 @@ Also, it is available for OpenSuse [here](https://software.opensuse.org/package/
 ### Linux steam integration
 
 Linux steam integration app for Solus project can be found [here](https://github.com/solus-project/linux-steam-integration).
+
+## Alan Wake and Alan Wake American Nightmare
+
+## Alan Wake
+
+**Issue**
+
+I got the next error in the game:
+
+![](images/alan_wake_issue_with_card_initialization.png)
+
+**Solution**
+
+I don't really know the exact solution because I tried a few things and somehow the issue was fixed. After that, I cleaned the wineprefix and, and, funny thing is, it all worked out :man_shrugging:  I have only suggestions as to why it worked. The first one is probably the most reliable.
+
+- You can use Lutris winetricks in order to download the next packages easily:
+  - d3dcompiler_43 and d3dcompiler_47
+  - d3dx10, d3dx9, d3dx11_43 (probably), d3dxof (probably)
+  - dotnet48, dotnet_verifier (probably), dotnetcore 2 (probably)
+  - vcrun2008, vcrun2010, vcrun2012, vcrun2013, vcrun2015, vcrun2017, vcrun2019 (this one combines 2015-2019)
+  - vcrun6 (probably), vcrun6sp6 (probably)
+  - setupapi (probably)
+- DLL overides. Found these ones in the Wine configuration (similar names are also included): api ms win crt, atl, concrvt, msvcp, msvcr, ucrtbase, vcomp, vcruntime.
+- Update Lutris? I mean this is what helped me when I removed Wine prefix :man_shrugging: Or there were some inconsistencies with the game that was installed on NTFS partition.
+- Reinstall the game.
+
+## Alan Wake American Nightmare
+
+**Issue**
+
+I got the next error in the game:
+
+![](images/alan_wake_american_nightmare_issue_with_multi-sampling.png)
+
+**Solution**
+
+The same as in Alan Wake :man_shrugging:
 
 ## Deus Ex with GMDX mod
 
