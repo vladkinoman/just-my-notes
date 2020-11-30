@@ -78,11 +78,11 @@ Choose a distribution according to your needs.
   - I think this is the best Ubuntu distro.
 
   > 8: Linux Mint is in even more dire need for a security team - https://blog.linuxmint.com/?p=2994
->
+  >
   > > **What happened?**
-> >
+  > >
   > > Hackers made a modified Linux Mint ISO, with a backdoor in it, and managed to hack our website to point to it.
->
+  >
   > There have also been various incidents where Linux Mint package versions have been unnecessarily held back without addressing important security patches.
   >
   > These could have been million dollar lessons, but they still don't publish CVEs or have a dedicated security team.
@@ -93,25 +93,23 @@ Choose a distribution according to your needs.
   > >
   > > That said, yes Mint could benefit from a dedicated security team, I'm just saying they're not an absolute failure at security like some like to think. If we want to go down that route, Manjaro is the worst at this, for the fact that they even promoted unsafe behavior when they forget to update their SSL cert. O_o Let alone Mint-like holding back of packages on a global level and instituted from the repos themselves. Manjaro is great for many reasons, but certainly not for promotion of security.
   >
-> 
-  
   <details><summary>Comments from Wiki.</summary> Linux Mint is a community-driven Linux distribution based on Ubuntu or Debian that strives to be a "modern, elegant and comfortable operating system which is both powerful and easy to use." Linux Mint provides full out-of-the-box multimedia support by including some proprietary software, such as multimedia codecs, and comes bundled with a variety of free and open-source applications.</details>
-  
+
   Website: [linuxmint.com](https://www.linuxmint.com/).
-  
+
   Honorable mention: 
-  
+
   - [ ] MX Linux — midweight simple OS based on Debian with Xfce as its desktop environment, it is very stable but not that attractive.
   - [ ] Pop!OS — offers a pure GNOME experience, better user exp. than Ubuntu, it isn’t flashy, perfect combo of icon/themes (however, I couldn't get used to it), great desktop wallpapers and fonts, snap isn't enabled by default.
-  So, it is worth highlighting that Pop!_OS provides separate ISOs. One for the systems with NVIDIA graphics card and another for systems with/without AMD graphics. With Ubuntu 19.10, you get NVIDIA drivers on the Ubuntu ISO but there is no such thing for AMD graphics.
+    So, it is worth highlighting that Pop!_OS provides separate ISOs. One for the systems with NVIDIA graphics card and another for systems with/without AMD graphics. With Ubuntu 19.10, you get NVIDIA drivers on the Ubuntu ISO but there is no such thing for AMD graphics.
   - [ ] Zorin OS — it has a Windows-like graphical user interface and many programs similar to those found in Windows; so the UI is tailored for Windows users to get used to; Zorin OS also comes with an application that lets users run many Windows programs. 
-  The Core, Lite, and Education editions are free for download with the Ultimate Edition going for only $39. Education and Ultimate editions ship with both GNOME and XFCE desktop environments. Core edition is only available in GNOME while Lite comes with the XFCE environment.
+    The Core, Lite, and Education editions are free for download with the Ultimate Edition going for only $39. Education and Ultimate editions ship with both GNOME and XFCE desktop environments. Core edition is only available in GNOME while Lite comes with the XFCE environment.
     Zorin is also secure with periodic security patches and feature updates to address any security flaws and improve the performance of the system.
-  Zorin also comes highly recommended for old PCs or systems with low CPU and RAM specifications. Unlike Zorin, Mint has a fairly large footprint and requires a robust system with higher specifications for installation for it to run smoothly.
+    Zorin also comes highly recommended for old PCs or systems with low CPU and RAM specifications. Unlike Zorin, Mint has a fairly large footprint and requires a robust system with higher specifications for installation for it to run smoothly.
   - [ ] elementary OS — one of the most beautiful distros, looks like MacOS.
     It also features its own app store where you can choose to pay for the free apps while having some cool features like picture-in-picture mode and so on.
     Not just limited to the looks and features – but it is stable enough and useful for developers as well.
-  LibreOffice doesn’t come pre-installed as you would expect but worry not as it’s just a simple click away in the AppCenter.
+    LibreOffice doesn’t come pre-installed as you would expect but worry not as it’s just a simple click away in the AppCenter.
     Elementary OS is also based on Ubuntu and is stable and fast even on old and low spec PCs.
   - [ ] KDE Neon — simplified and beautiful KDE Plasma desktop and KDE applications; unlike Kubuntu or other KDE-based distributions, you don’t have to wait for months to get the new [KDE software](https://kde.org/).
   - [ ] Netrunner — OS based on Debian with KDE Plasma as its desktop environment; UI looks nice at first glance, but it's a bit complicated when you want to find something; strange shadows on desktop icon texts; it is developed by the KDE dev team which makes makes this distro the best KDE distribution for many people.
@@ -474,7 +472,7 @@ Honorable mentions: Sparky (slow, ugly UI), SliTaz.
 
 1. https://www.makeuseof.com/tag/whats-the-difference-between-linux-distributions-if-theyre-all-linux-makeuseof-explains/
 2. https://linuxjourney.com/
-3. https://itsubuntu.com/linux-mint-20-dropped-ubuntus-snap/#:~:text=Linux%20Mint%20Dropped%20Ubuntu's%20Snap&text=What%20we%20didn't%20want,make%20its%20store%20a%20requirement.
+3. https://itsubuntu.com/linux-mint-20-dropped-ubuntus-snap/
 4. https://itsfoss.com/best-linux-distributions/
 5. https://www.tecmint.com/best-linux-distributions-for-beginners/
 6. https://www.tecmint.com/linux-distro-for-power-users/
@@ -484,7 +482,6 @@ Honorable mentions: Sparky (slow, ugly UI), SliTaz.
 10. https://www.reddit.com/r/DistroHopping/comments/cocmmx/manjaro_vs_endeavour_os/
 11. https://www.reddit.com/r/DistroHopping/comments/k1i4m7/dead_distros_antergos/
 12. https://www.reddit.com/r/linux/comments/cvghw7/thoughts_on_endeavouros_a_replacement_for_antergos/
-13. 
 14. https://unix.stackexchange.com/questions/158244/what-is-the-difference-between-i686-and-x86-64-packages
 15. https://opensource.com/article/19/6/linux-distros-to-try
 16. https://linoxide.com/distros/lightweight-linux-distros-for-old-laptop/
