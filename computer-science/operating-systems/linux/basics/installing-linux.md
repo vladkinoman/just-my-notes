@@ -1,5 +1,23 @@
 # Installing Linux
 
+## Creating a Live USB
+
+A *live USB* is a USB flash drive or external hard disk drive containing a full operating system that can be booted. 
+
+The easiest way to create a Live USB is to use USB Image Writer on your Linux distro (or another Live USB). However, your Linux iso will take the entire place of the flash drive.
+
+So, how to use that free space? The absolutely easiest way I found using Linux was the following:
+
+1. Partition the drive using GParted in 2 fat32 partitions with the SECOND partition being large enough to hold your operating system. My drive was a 16gb Flash Drive so I created a 13gb Partition 1 and the remainder as Partition2.
+2. I installed the latest version of [UNetbootin](http://unetbootin.github.io/) on my Linux Computer.
+3. I opened UNetbootin and installed Pop!_OS on the 2nd Partition. In my case that was /sdb2.
+
+**Just in case**
+
+[Live USB on a 2-partition usb-drive](https://askubuntu.com/questions/423300/live-usb-on-a-2-partition-usb-drive).
+
+[Can I store files and folders on a live USB](https://askubuntu.com/questions/248247/can-i-store-files-and-folders-on-a-live-usb).
+
 ## Installing Windows after Linux
 
 **Issue. We lost Linux and grub after installing Windows.**
@@ -127,6 +145,9 @@ More info can be found [here](https://help.ubuntu.com/community/Boot-Repair).
 
 ## References
 
-1. https://askubuntu.com/questions/655011/windows-10-upgrade-kills-grub-and-boot-repair-doesnt-help
-2. https://askubuntu.com/questions/88384/how-can-i-repair-grub-how-to-get-ubuntu-back-after-installing-windows
-3. https://help.ubuntu.com/community/Boot-Repair
+1. https://unix.stackexchange.com/questions/30322/how-do-i-partition-a-usb-drive-so-that-its-bootable-and-has-a-windows-compatibl
+2. [Live USB on a 2-partition usb-drive](https://askubuntu.com/questions/423300/live-usb-on-a-2-partition-usb-drive)
+3. [Can I store files and folders on a live USB](https://askubuntu.com/questions/248247/can-i-store-files-and-folders-on-a-live-usb)
+4. https://askubuntu.com/questions/655011/windows-10-upgrade-kills-grub-and-boot-repair-doesnt-help
+5. https://askubuntu.com/questions/88384/how-can-i-repair-grub-how-to-get-ubuntu-back-after-installing-windows
+6. https://help.ubuntu.com/community/Boot-Repair
