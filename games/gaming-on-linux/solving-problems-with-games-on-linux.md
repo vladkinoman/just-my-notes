@@ -17,10 +17,28 @@
 6. [GTA III](#GTA-III)
 7. [Max Payne](#Max-Payne)
 8. [Super Meat Boy](#Super-Meat-Boy)
-9. [Talos Principle](#Talos-Principle)
+9. [The Talos Principle](#The-Talos-Principle)
 10. [References](#References)
 
 ## Issues with hardware
+
+### Configuring AMD graphics
+
+> ToDo: this information may be outdated and false. Reason is that there was an issue with kernel. It recognized my video card as `radeon` when it needs to be `amdgpu`.
+
+I finally figured out how to configure my AMD card (Radeon HD 8750M, Solar System series) on the Linux. The problem is that Ubuntu stopped the support for the AMD Catalyst (fglrx) driver.  There are a few possible ways to solve this problem:
+
+1. Install the drivers from the open-source PPA repository. I chose the open source way because proprietary isn't working anymore (at least for the updated version of operating system). It might be strange, but this didn't work on my laptop (HP ProBook 450 GO).
+
+2. We can tell Steam to use the second video card by launching it with the next command:
+
+   ```bash
+   $ DRI_PRIME=1 steam
+   ```
+
+3. If we use the old system such as Ubuntu 14.04 LTS, we can follow the proprietary way from or the next guide from. Some of the packages don't exist under these links, but they can be found on the Internet which, you know, might be difficult :( Also, we might encounter a few bugs such as this one.
+
+> Also, we can check  if the second video card works by launching the **radeontop** application.
 
 **Is DRI_PRIME=1 still needed to use discrete graphics card?**
 
@@ -28,14 +46,22 @@ If you're on AMD, yes.
 
 **How can I check that my OS recognizes discrete video card?**
 
-Use `xrandr` command in order to get the list of video cards. This what I got:
+Use `xrandr` command in order to get the list of video cards. This what I got (new version):
 
 ```bash
-xrandr --listproviders
 Providers: number : 2
 Provider 0: id: 0x46 cap: 0x9, Source Output, Sink Offload crtcs: 3 outputs: 4 associated providers: 1 name:modesetting
-Provider 1: id: 0xbb cap: 0x6, Sink Output, Source Offload crtcs: 2 outputs: 0 associated providers: 1 name:OLAND @ pci:0000:01:00.0
+Provider 1: id: 0xbb cap: 0x4, Source Offload crtcs: 2 outputs: 0 associated providers: 1 name:modesetting
 ```
+
+> Old version:
+>
+> ```bash
+> xrandr --listproviders
+> Providers: number : 2
+> Provider 0: id: 0x46 cap: 0x9, Source Output, Sink Offload crtcs: 3 outputs: 4 associated providers: 1 name:modesetting
+> Provider 1: id: 0xbb cap: 0x6, Sink Output, Source Offload crtcs: 2 outputs: 0 associated providers: 1 name:OLAND @ pci:0000:01:00.0
+> ```
 
 So, my OS (Linux Mint 20) recognizes all the video cards, which is nice. If you don't get one of the video cards then check [this](https://www.reddit.com/r/linux_gaming/comments/77zmsy/is_dri_prime1_still_needed_to_use_discrete/) discussion.
 
@@ -313,13 +339,31 @@ To fix the problem, you need to download an installation file from Microsoft fro
 
 For other recommendations see these links: [a nice guide on Reddit](https://www.reddit.com/r/Supermeatboy/comments/6pi80k/tutorial_getting_super_meat_boy_beta_to_work_on/), [a link about Emulation mode](https://appdb.winehq.org/objectManager.php?sClass=version&iId=22177), [a notes about virtual desktop](https://appdb.winehq.org/objectManager.php?sClass=version&iId=22216).
 
-## Talos Principle
+## The Talos Principle
 
 > Launched via Steam (without Proton).
 >
 > This issues can be relevant for other Croteam games.
 
-**Issue 1. CPU power saving in Croteam game.**
+**Issue 1. Fatal error: Cannot set display mode.**
+
+I tried to run my AMD Radeon card for the game called Talos Principle which was tough even for Windows 8.1. The problem I get was the next message:
+
+> Fatal error: Cannot set display mode.
+
+**Solution**
+
+In order to solve this problem, besides the methods I described above, I found the next from steam community [6]:
+
+1. If the video card doesn't support Vulcan feature, then we should switch to "legacy" version which in our case is Ubuntu 13.04 Legacy.
+
+2. If the video card supports Vulcan feature, which is true in my case, then we should install the next additional libraries (if we need them):
+
+   ```bash
+   sudo apt install libvulkan1 mesa-vulkan-drivers vulkan-utils  
+   ```
+
+**Issue 2. CPU power saving in Croteam game.**
 
 After a launch the game in terminal I've noticed a warning:
 
@@ -329,7 +373,7 @@ After a launch the game in terminal I've noticed a warning:
 
 So, their games are launched in power saving mode.
 
-**Solution.**
+**Solution**
 
 In order to fix this you can install cpufreq utilities:
 
@@ -451,20 +495,26 @@ The problem is not only that the games work on an integrated video card, but tha
 
 ## References
 
-1. https://www.reddit.com/r/linux_gaming/comments/77zmsy/is_dri_prime1_still_needed_to_use_discrete/
-2. https://forums.linuxmint.com/viewtopic.php?t=279363
-3. https://www.reddit.com/r/SteamPlay/comments/aafhcn/steam_proton_doesnt_launch_any_games/
-4. https://www.reddit.com/r/linux_gaming/comments/9mwh26/guide_how_to_install_deus_ex_with_gmdx_and_steam/
-5. https://steamcommunity.com/app/12100/discussions/0/483367798514700344/
-6. https://www.protondb.com/app/12100
-7. https://steamcommunity.com/sharedfiles/filedetails/?id=1184013727 
-8. https://github.com/FNA-XNA/FAudio
-9. https://github.com/flibitijibibo/flibitBounties/issues/4
-10. http://newsandguides.com/solution-how-to-install-xaudio2-and-fix-could-not-find-xaudio2-error-on-windows-7/
-11. [Microsoft DirectX End-User Runtimes (June 2010)](https://www.microsoft.com/download/en/details.aspx?id=8109)
-12. https://www.reddit.com/r/Supermeatboy/comments/6pi80k/tutorial_getting_super_meat_boy_beta_to_work_on/
-13. https://appdb.winehq.org/objectManager.php?sClass=version&iId=22177
-14. https://appdb.winehq.org/objectManager.php?sClass=version&iId=22216
-15. https://steamcommunity.com/app/221410/discussions/0/828934913344641612/
-16. https://wiki.archlinux.org/index.php/CPU_frequency_scaling#cpupower
-17. https://www.reddit.com/r/TheTalosPrinciple/comments/dwgbcd/help_playing_the_game/
+1. https://linuxsoid.club/canonical-prekraschaet-podderzhku-amd-catalyst-ubuntu-16-04-lts
+2. https://linuxconfig.org/how-to-install-the-latest-amd-radeon-drivers-on-ubuntu-18-04-bionic-beaver-linux
+3. https://steamcommunity.com/discussions/forum/11/1738841319801401572/
+4. https://linustechtips.com/main/topic/246639-installing-catalyst-on-ubuntu/
+5. https://askubuntu.com/questions/608567/trying-to-install-amd-proprietary-drivers
+6. https://www.reddit.com/r/linux_gaming/comments/77zmsy/is_dri_prime1_still_needed_to_use_discrete/
+7. https://forums.linuxmint.com/viewtopic.php?t=279363
+8. https://www.reddit.com/r/SteamPlay/comments/aafhcn/steam_proton_doesnt_launch_any_games/
+9. https://www.reddit.com/r/linux_gaming/comments/9mwh26/guide_how_to_install_deus_ex_with_gmdx_and_steam/
+10. https://steamcommunity.com/app/12100/discussions/0/483367798514700344/
+11. https://www.protondb.com/app/12100
+12. https://steamcommunity.com/sharedfiles/filedetails/?id=1184013727 
+13. https://github.com/FNA-XNA/FAudio
+14. https://github.com/flibitijibibo/flibitBounties/issues/4
+15. http://newsandguides.com/solution-how-to-install-xaudio2-and-fix-could-not-find-xaudio2-error-on-windows-7/
+16. [Microsoft DirectX End-User Runtimes (June 2010)](https://www.microsoft.com/download/en/details.aspx?id=8109)
+17. https://www.reddit.com/r/Supermeatboy/comments/6pi80k/tutorial_getting_super_meat_boy_beta_to_work_on/
+18. https://appdb.winehq.org/objectManager.php?sClass=version&iId=22177
+19. https://appdb.winehq.org/objectManager.php?sClass=version&iId=22216
+20. [Talos Principle - Linux: Fatal Error "Cannot set display mode"](https://steamcommunity.com/app/257510/discussions/0/1640915206453390199/)
+21. https://steamcommunity.com/app/221410/discussions/0/828934913344641612/
+22. https://wiki.archlinux.org/index.php/CPU_frequency_scaling#cpupower
+23. https://www.reddit.com/r/TheTalosPrinciple/comments/dwgbcd/help_playing_the_game/
