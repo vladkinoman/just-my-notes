@@ -493,6 +493,77 @@ The problem is not only that the games work on an integrated video card, but tha
   $ DRI_PRIME=1 steam
   ```
 
+**Issue. Vulkan doesn't detect the discrete video (AMD Radeon HD 8750M,  Solar System series)**
+
+
+
+**Solution**
+
+Telling about https://github.com/ValveSoftware/Proton/wiki/For-AMD-users-having-issues-with-non-OpenGL-games which I found here https://www.reddit.com/r/vulkan/comments/fc7to7/vulkaninfo_does_not_recognize_my_main_amd_radeon/
+
+How I identified series of my video card:
+
+- https://www.wikiwand.com/en/Radeon_HD_8000_series
+
+  > The GCN-based chips for desktop cards were codenamed as **Southern Islands**, while the mobile ones (again, only the GCN-based and not the rebranded ones) were codenamed as Solar System.
+  >
+  > So, I used:
+  >
+  > `radeon.si_support=0 amdgpu.si_support=1`
+  >
+  > in Grub.
+
+- My video card on techpowerup shows Sea Islands architecture codename which didn't help me https://www.techpowerup.com/gpu-specs/radeon-hd-8750m.c1968
+
+- AMD "Sea Islands" and "Solar System" GPU Families Codenames Detailed - https://www.techpowerup.com/178312/amd-sea-islands-and-solar-system-gpu-families-codenames-detailed
+
+After that, I couldn't launch DE. This helped me:
+
+```bash
+mount -o remount,rw /
+nmcli dev status
+apt-get update
+inxi -G
+dpkg --get-selections | grep xserver-xorg-video
+apt-get purge xserver-xorg-video-*
+rm /etc/X11/xorg.conf
+apt-get install xserver-xorg-video-vesa
+sync
+reboot
+```
+
+Found this advice here https://forums.linuxmint.com/viewtopic.php?t=267058. Additional info: https://forums.linuxmint.com/viewtopic.php?f=42&t=267072&p=1453215#p1453215
+
+I removed xorg.conf. Do I need it? No. It doesn't exist by default.https://askubuntu.com/questions/4662/where-is-the-x-org-config-file-how-do-i-configure-x-there
+
+ Detailed info on xorg: https://wiki.archlinux.org/index.php/xorg
+
+Are all xserver-xorg-video packages required? https://askubuntu.com/questions/1119425/are-all-xserver-xorg-video-packages-required
+
+Vesa https://forums.linuxmint.com/viewtopic.php?t=266554
+
+**DXVK**
+
+https://github.com/lutris/docs/blob/master/HowToDXVK.md
+
+https://github.com/doitsujin/dxvk
+
+**PPAs**
+
+https://askubuntu.com/questions/1145718/how-to-install-the-newest-xserver-xorg-video-intel-on-18-04-bionic
+
+
+
+**Just in case**
+
+https://www.reddit.com/r/wine_gaming/comments/azyuwz/elite_dangerous_is_using_the_wrong_gpu_with_proton/
+
+https://www.reddit.com/r/linux_gaming/comments/iqqqfr/steam_games_wont_use_dedicated_gpu/
+
+https://github.com/ValveSoftware/Proton/wiki/Requirements
+
+
+
 ## References
 
 1. https://linuxsoid.club/canonical-prekraschaet-podderzhku-amd-catalyst-ubuntu-16-04-lts
