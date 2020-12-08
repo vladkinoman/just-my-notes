@@ -18,7 +18,8 @@
 7. [Max Payne](#Max-Payne)
 8. [Super Meat Boy](#Super-Meat-Boy)
 9. [The Talos Principle](#The-Talos-Principle)
-10. [References](#References)
+10. [Just in case](#Just-in-case)
+11. [References](#References)
 
 ## Issues with hardware
 
@@ -539,13 +540,10 @@ You can check which driver is loaded by running `lspci -k`:
 
 If your desktop environment doesn't load, check the kernel log by running `sudo dmesg`. If you see that `amdgpu` is crashing, append `amdgpu.dc=0` to the kernel commandline.
 
-However, even after that I couldn't launch DE. This helped me:
+However, even after that I couldn't launch DE. My cursor was blinking. I have to use `ctrl+alt+f1` combination in order to launch the terminal at least. After that I executed the following commands:
 
 ```bash
-mount -o remount,rw /
-nmcli dev status
 apt-get update
-inxi -G
 dpkg --get-selections | grep xserver-xorg-video
 apt-get purge xserver-xorg-video-*
 rm /etc/X11/xorg.conf
@@ -560,11 +558,84 @@ Yeah, I removed xorg.conf. Do I need it? No. It doesn't exist by default accordi
 
 What is Vesa? Vesa is a generic driver according to [this](https://askubuntu.com/questions/1119425/are-all-xserver-xorg-video-packages-required). They recommend to install other drivers, which I removed. Additional info on vesa can be found [here](https://forums.linuxmint.com/viewtopic.php?t=266554) on Linux Mint forum.
 
+That's how I solved this problem. I got the following info after running inxi:
+
+```bash
+Graphics:
+  Device-1: Intel 3rd Gen Core processor Graphics vendor: Hewlett-Packard 
+  driver: i915 v: kernel bus ID: 00:02.0 
+  Device-2: AMD Mars [Radeon HD 8670A/8670M/8750M] vendor: Hewlett-Packard 
+  driver: amdgpu v: kernel bus ID: 01:00.0 
+  Display: x11 server: X.Org 1.20.8 driver: modesetting unloaded: vesa 
+  resolution: 1366x768~60Hz 
+  OpenGL: renderer: Mesa DRI Intel HD Graphics 4000 (IVB GT2) 
+  v: 4.2 Mesa 21.0.0-devel (git-688dda5 2020-12-01 focal-oibaf-ppa) 
+  direct render: Yes 
+```
+
+So, vesa was unloaded. What is the meaning for unloaded in graphics drivers? According to [this](https://www.linuxquestions.org/questions/linux-newbie-8/what-is-the-meaning-for-unloaded-in-graphics-drivers-4175659744/) discussion, unloaded means that x.org originally launched a driver then "unloaded" or stopped running it in favor of a different driver, in your case **modesetting**. Modesetting is basically a generic fallback driver if the other ones don't work. Why was Vesa unloaded? According to [this](https://askubuntu.com/questions/26525/where-is-xserver-log-file-located) answer, you can check the log files that are located in `/var/log/`. See `Xorg.0.log`, `Xorg.1.log` etc.
+
+> Or you should check `~/.local/share/xorg/`:
+>
+> > If a problem occurs, view the log stored in either `/var/log/` or, for the rootless X default since v1.16, in `~/.local/share/xorg/`.
+> >
+> > \- [ArchWiki](https://wiki.archlinux.org/index.php/xorg#General)
+>
+> Note that `~` is a home directory of an user who starts xserver. This user could be `gdm3` for example and in such case you will find logs at `/var/lib/gdm3/.local/share/xorg`.
+
+Modesetting isn't a thing you should use. My video card should use amdgpu driver. I think you can check it on [this](https://www.amd.com/en/support) website, see Package Contents. It didn't help me though, so I just guessed :man_shrugging: . 
+
+> TODO: find out a way to check what driver I should use.
+
 So, I installed all the drivers I removed:
 
 ```bash
 sudo apt-get install xserver-xorg-video-all
 ```
+
+After that, I ran the inxi command and saw that amdgpu driver was loaded: 
+
+```bash
+Graphics:
+  Device-1: Intel 3rd Gen Core processor Graphics driver: i915 v: kernel 
+  Device-2: AMD Mars [Radeon HD 8670A/8670M/8750M] driver: amdgpu v: kernel 
+  Display: x11 server: X.Org 1.20.8 driver: amdgpu,ati,modesetting 
+  unloaded: fbdev,vesa resolution: 1366x768~60Hz 
+  OpenGL: renderer: Mesa DRI Intel HD Graphics 4000 (IVB GT2) 
+  v: 4.2 Mesa 21.0.0-devel (git-7c075ba 2020-12-07 focal-oibaf-ppa) 
+```
+
+Similar information can be retrieved using `lshw -c video`:
+
+```bash
+sudo lshw -c video        
+  *-display                 
+       description: VGA compatible controller
+       product: Mars [Radeon HD 8670A/8670M/8750M]
+       vendor: Advanced Micro Devices, Inc. [AMD/ATI]
+       physical id: 0
+       bus info: pci@0000:01:00.0
+       version: 00
+       width: 64 bits
+       clock: 33MHz
+       capabilities: pm pciexpress msi vga_controller bus_master cap_list rom
+       configuration: driver=amdgpu latency=0
+       resources: irq:33 memory:b0000000-bfffffff memory:d0900000-d093ffff ioport:3000(size=256) memory:d0940000-d095ffff
+  *-display
+       description: VGA compatible controller
+       product: 3rd Gen Core processor Graphics Controller
+       vendor: Intel Corporation
+       physical id: 2
+       bus info: pci@0000:00:02.0
+       version: 09
+       width: 64 bits
+       clock: 33MHz
+       capabilities: msi pm vga_controller bus_master cap_list rom
+       configuration: driver=i915 latency=0
+       resources: irq:32 memory:d0000000-d03fffff memory:c0000000-cfffffff ioport:4000(size=64) memory:c0000-dffff
+```
+
+As you can see, my loaded drivers are `amdgpu` and `i915`. You can learn more about similar commands in [this](https://askubuntu.com/questions/23238/how-can-i-find-what-video-driver-is-in-use-on-my-system) discussion.
 
 After the problem was solved, I got the following log in the terminal after starting steam:
 
@@ -601,14 +672,6 @@ INF:  Software mixer: enabled
 INF:  Current device: OpenAL Soft (OpenAL Soft)
 ```
 
-**Just in case**
-
-Other problems with enabling a discrete video card: [Elite: Dangerous is using the wrong GPU with Proton](https://www.reddit.com/r/wine_gaming/comments/azyuwz/elite_dangerous_is_using_the_wrong_gpu_with_proton/), [Steam games won't use Dedicated GPU](https://www.reddit.com/r/linux_gaming/comments/iqqqfr/steam_games_wont_use_dedicated_gpu/).
-
-Info on DXVK: [dxvk](https://github.com/doitsujin/dxvk), [lutris-docs](https://github.com/lutris/docs/blob/master/HowToDXVK.md)
-
-Info on PPAs for open source video drivers: [ppas-mesa-vulkan-drivers-for-proton](https://github.com/ValveSoftware/Proton/wiki/Requirements), [how-to-install-the-newest-xserver-xorg-video-intel-on-18-04-bionic](https://askubuntu.com/questions/1145718/how-to-install-the-newest-xserver-xorg-video-intel-on-18-04-bionic).
-
 **Recommendations on graphics options**
 
 So, for Vulkan I set up the following goals:
@@ -639,6 +702,14 @@ Performance:
 - Max FPS: 30
 
 You can enable V-Sync (wait for vertical refresh). It is especially useful when you want to sync a picture when you locked it in 60 fps.
+
+## Just in case
+
+Other problems with enabling a discrete video card: [Elite: Dangerous is using the wrong GPU with Proton](https://www.reddit.com/r/wine_gaming/comments/azyuwz/elite_dangerous_is_using_the_wrong_gpu_with_proton/), [Steam games won't use Dedicated GPU](https://www.reddit.com/r/linux_gaming/comments/iqqqfr/steam_games_wont_use_dedicated_gpu/).
+
+Info on DXVK: [dxvk](https://github.com/doitsujin/dxvk), [lutris-docs](https://github.com/lutris/docs/blob/master/HowToDXVK.md)
+
+Info on PPAs for open source video drivers: [ppas-mesa-vulkan-drivers-for-proton](https://github.com/ValveSoftware/Proton/wiki/Requirements), [how-to-install-the-newest-xserver-xorg-video-intel-on-18-04-bionic](https://askubuntu.com/questions/1145718/how-to-install-the-newest-xserver-xorg-video-intel-on-18-04-bionic).
 
 ## References
 
