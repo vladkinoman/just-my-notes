@@ -495,29 +495,51 @@ The problem is not only that the games work on an integrated video card, but tha
 
 **Issue. Vulkan doesn't detect the discrete video (AMD Radeon HD 8750M,  Solar System series)**
 
+When you launch the game using steam command in terminal, you we'll something like this:
 
+```bash
+INF:  Desktop resolution: 1366 x 768
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+WARNING: radv is not a conformant vulkan implementation, testing use only.
+INF:  [Vulkan] Detected devices:
+INF:    #1 (0x05F70E90): Intel(R) HD Graphics 4000 (IVB GT2) (integrated)
+```
+
+So, Vulkan detects an integrated video card, but it doesn't see a discrete one.
 
 **Solution**
 
-Telling about https://github.com/ValveSoftware/Proton/wiki/For-AMD-users-having-issues-with-non-OpenGL-games which I found here https://www.reddit.com/r/vulkan/comments/fc7to7/vulkaninfo_does_not_recognize_my_main_amd_radeon/
+The solution is pretty neat. I found it [here](https://github.com/ValveSoftware/Proton/wiki/For-AMD-users-having-issues-with-non-OpenGL-games) which I get from [this](https://www.reddit.com/r/vulkan/comments/fc7to7/vulkaninfo_does_not_recognize_my_main_amd_radeon/) discussion.
 
-How I identified series of my video card:
+So, Vulkan requires the `amdgpu` driver, it doesn't detect the graphics adapter when using `radeon`. `amdgpu` has to be enabled explicitly in the kernel commandline.
 
-- https://www.wikiwand.com/en/Radeon_HD_8000_series
+Open your terminal and run `sudo nano /etc/default/grub`.
 
-  > The GCN-based chips for desktop cards were codenamed as **Southern Islands**, while the mobile ones (again, only the GCN-based and not the rebranded ones) were codenamed as Solar System.
-  >
-  > So, I used:
-  >
-  > `radeon.si_support=0 amdgpu.si_support=1`
-  >
-  > in Grub.
+If you have a Southern Islands card append to `GRUB_CMDLINE_LINUX_DEFAULT` the following command: `radeon.si_support=0 amdgpu.si_support=1` .
 
-- My video card on techpowerup shows Sea Islands architecture codename which didn't help me https://www.techpowerup.com/gpu-specs/radeon-hd-8750m.c1968
+How did I identify series of my video card? Well, I checked [this](https://www.wikiwand.com/en/Radeon_HD_8000_series) wiki page and found out the following information:
 
-- AMD "Sea Islands" and "Solar System" GPU Families Codenames Detailed - https://www.techpowerup.com/178312/amd-sea-islands-and-solar-system-gpu-families-codenames-detailed
+> The GCN-based chips for desktop cards were codenamed as **Southern Islands**, while the mobile ones (again, only the GCN-based and not the rebranded ones) were codenamed as Solar System.
+>
 
-After that, I couldn't launch DE. This helped me:
+So, I used `radeon.si_support=0 amdgpu.si_support=1` in Grub.
+
+My video card on [techpowerup](https://www.techpowerup.com/gpu-specs/radeon-hd-8750m.c1968) shows Sea Islands architecture codename. It isn't Sea Islands. Also, there is a [comparison](https://www.techpowerup.com/178312/amd-sea-islands-and-solar-system-gpu-families-codenames-detailed) of AMD "Sea Islands" and "Solar System" GPU Families Codenames. 
+
+Run `sudo update-grub` and then reboot your system.
+
+You can check which driver is loaded by running `lspci -k`:
+
+```
+01:00.0 VGA compatible controller: Advanced Micro Devices, Inc. [AMD/ATI] Mars [Radeon HD 8670A/8670M/8750M]
+	Subsystem: Hewlett-Packard Company Mars [Radeon HD 8670A/8670M/8750M]
+	Kernel driver in use: amdgpu
+	Kernel modules: radeon, amdgpu
+```
+
+If your desktop environment doesn't load, check the kernel log by running `sudo dmesg`. If you see that `amdgpu` is crashing, append `amdgpu.dc=0` to the kernel commandline.
+
+However, even after that I couldn't launch DE. This helped me:
 
 ```bash
 mount -o remount,rw /
@@ -532,37 +554,91 @@ sync
 reboot
 ```
 
-Found this advice here https://forums.linuxmint.com/viewtopic.php?t=267058. Additional info: https://forums.linuxmint.com/viewtopic.php?f=42&t=267072&p=1453215#p1453215
+Found this advice in this [discussion](https://forums.linuxmint.com/viewtopic.php?t=267058). Additional info can be found in [this](https://forums.linuxmint.com/viewtopic.php?f=42&t=267072&p=1453215#p1453215) post on Linux Mint forum.
 
-I removed xorg.conf. Do I need it? No. It doesn't exist by default.https://askubuntu.com/questions/4662/where-is-the-x-org-config-file-how-do-i-configure-x-there
+Yeah, I removed xorg.conf. Do I need it? No. It doesn't exist by default according to [this](https://askubuntu.com/questions/4662/where-is-the-x-org-config-file-how-do-i-configure-x-there) discussion. Detailed info on xorg can be found on [ArchLinux wiki](https://wiki.archlinux.org/index.php/xorg). 
 
- Detailed info on xorg: https://wiki.archlinux.org/index.php/xorg
+What is Vesa? Vesa is a generic driver according to [this](https://askubuntu.com/questions/1119425/are-all-xserver-xorg-video-packages-required). They recommend to install other drivers, which I removed. Additional info on vesa can be found [here](https://forums.linuxmint.com/viewtopic.php?t=266554) on Linux Mint forum.
 
-Are all xserver-xorg-video packages required? https://askubuntu.com/questions/1119425/are-all-xserver-xorg-video-packages-required
+So, I installed all the drivers I removed:
 
-Vesa https://forums.linuxmint.com/viewtopic.php?t=266554
+```bash
+sudo apt-get install xserver-xorg-video-all
+```
 
-**DXVK**
+After the problem was solved, I got the following log in the terminal after starting steam:
 
-https://github.com/lutris/docs/blob/master/HowToDXVK.md
-
-https://github.com/doitsujin/dxvk
-
-**PPAs**
-
-https://askubuntu.com/questions/1145718/how-to-install-the-newest-xserver-xorg-video-intel-on-18-04-bionic
-
-
+```bash
+INF:  Desktop resolution: 1366 x 768
+MESA-INTEL: warning: Ivy Bridge Vulkan support is incomplete
+WARNING: radv is not a conformant vulkan implementation, testing use only.
+INF:  [Vulkan] Detected devices:
+INF:    #1 (0x05F70E90): Intel(R) HD Graphics 4000 (IVB GT2) (integrated)
+INF:    #2 (0x061E4200): AMD RADV OLAND (ACO) (discrete)
+INF:  Using device #2 (0x061E4200)...
+Fossilize INFO: Overriding serialization path: "/home/vladkinoman/.local/share/Steam/steamapps/shadercache/257510/fozpipelinesv4/steamapprun_pipeline_cache".
+INF:  [Vulkan] Using transfer queue family for copy operations.
+INF:  [Vulkan] Using immediate presentation mode.
+INF:  [Vulkan] D24S8 format not supported, using D32F instead.
+...
+INF:  Gfx API: Vulkan
+INF:  Window: 1280 x 720
+INF:  Driver: Vulkan
+INF:  Vendor: ATI (0x1002)
+INF:  Renderer: AMD RADV OLAND (ACO) (0x6600)
+INF:  Version: 84291683
+INF:  Video memory size: 2048 MB
+INF:  Available for textures: 1024 MB
+INF:  Shader model version: 5.0
+INF:  Active GPU(s): 1
+INF:  GPU architecture: forward conventional rendering
+INF:  Allowed memory size used for streaming: 1024.0 MB
+INF:  Driver version: 99999 (required: 11900)
+INF:  Failed setting thread priority. (Error: 13 - Permission denied)
+...
+INF:  Sfx API: OpenAL
+INF:  Software mixer: enabled
+INF:  Current device: OpenAL Soft (OpenAL Soft)
+```
 
 **Just in case**
 
-https://www.reddit.com/r/wine_gaming/comments/azyuwz/elite_dangerous_is_using_the_wrong_gpu_with_proton/
+Other problems with enabling a discrete video card: [Elite: Dangerous is using the wrong GPU with Proton](https://www.reddit.com/r/wine_gaming/comments/azyuwz/elite_dangerous_is_using_the_wrong_gpu_with_proton/), [Steam games won't use Dedicated GPU](https://www.reddit.com/r/linux_gaming/comments/iqqqfr/steam_games_wont_use_dedicated_gpu/).
 
-https://www.reddit.com/r/linux_gaming/comments/iqqqfr/steam_games_wont_use_dedicated_gpu/
+Info on DXVK: [dxvk](https://github.com/doitsujin/dxvk), [lutris-docs](https://github.com/lutris/docs/blob/master/HowToDXVK.md)
 
-https://github.com/ValveSoftware/Proton/wiki/Requirements
+Info on PPAs for open source video drivers: [ppas-mesa-vulkan-drivers-for-proton](https://github.com/ValveSoftware/Proton/wiki/Requirements), [how-to-install-the-newest-xserver-xorg-video-intel-on-18-04-bionic](https://askubuntu.com/questions/1145718/how-to-install-the-newest-xserver-xorg-video-intel-on-18-04-bionic).
 
+**Recommendations on graphics options**
 
+So, for Vulkan I set up the following goals:
+
+- Stable 30 fps (couldn't hold 60 fps, got ~ 55 fps)
+- Anti-aliasing - on. At least, there should be no obvious jagged edges.
+- Shadows need to be smoothed out as much as possible for performance and beauty.
+
+Performance:
+
+- CPU Speed: medium
+
+- GPU Speed: high (2 customized):
+
+  - Max 3D Rendering MPIX (maximum allowed 3D rendering resolution measured in million of pixels): 1.1 (HD 720)
+  - Multi-Sample Anti-aliasing (number of samples for multi-sample anti-aliasing): None.
+
+  > You can lower Anisotropic Filtering if you wish, but it doesn't really change anything.
+  >
+  > Also, you can rise Max 3D Rendering up to 2.1 (HD 1080). I wouldn't say it is really influence fps.
+  >
+  > In order to smooth shadows you should adjust "shadow rendering radius" parameter. For high specs Shadow Dithering is set to 0.25, for medium specs it is set to 1.0. I left it at 0.25. If fps is too low for you, then you should rise the parameter.
+
+- GPU Memory: medium
+
+- Level Caching: low
+
+- Max FPS: 30
+
+You can enable V-Sync (wait for vertical refresh). It is especially useful when you want to sync a picture when you locked it in 60 fps.
 
 ## References
 
