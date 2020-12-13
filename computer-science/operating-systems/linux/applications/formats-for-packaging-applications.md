@@ -114,7 +114,9 @@ Features:
 
     But yes you manually revoke them after that. Which honestly is the only way it can be sanely done.
 
-- **Flatpak is the future (?)**. The advantage with flatpak (and snaps) is that, over time, more applications will be distributed as a flatpak or snap which will hopefully increase availability of applhttps://flathub.org/apps/details/org.fedoraproject.MediaWriterications on Linux as a whole.
+- **Flatpak is the future**. The advantage with flatpak (and snaps) is that, over time, more applications will be distributed as a flatpak or snap which will hopefully increase availability of applhttps://flathub.org/apps/details/org.fedoraproject.MediaWriterications on Linux as a whole.
+
+  > I read on Reddit that "Flatpak is the future" is the phrase by Linus Torvalds.
 
 - It also allows you to use certain programs without having to dual-boot.
 
@@ -177,32 +179,58 @@ According to [wiki](https://www.wikiwand.com/en/Snap_(package_manager)), **Snap*
 
 Pros:
 
-> These benefits are said by an Ubuntu forum moderator. He may be biased. He also gave an extremely unfortunate example comparing running a small weather utility. The loading time is less than 1 second. He should have tried running LibreOffice, which took one user about 3 minutes to load. See below.
+> Many of these benefits were said by an Ubuntu forum moderator. He may be biased. He also gave an extremely unfortunate example running a small weather utility. The loading time was less than 1 second. He should have tried running LibreOffice, which took one user about 3 minutes to load. See below.
 
-- Developers can make one package that runs on many releases of the same distro
-- Snaps **automatically update** so users have the latest software without manually updating
+- Developers can make **one package** that runs on **many releases of the same distro**. Also, devs can publish **one snap** which works on **multiple distros** (less interesting for Ubuntu users).
+
+- Snaps **automatically update** so users have the latest software without manually updating.
+  
   - Users who prefer manual update can override this to a great degree
-- The Snap Store provides delta updates, so users don't have to download the full snap file every time
-- Users get up to date releases (shorter delivery times between developer and user).
-- Developers can push out test releases to users who can test them before they go stable. (possibility to use tracks and choose how much on the bleeding edge you want to be)
-- Developers can publish one snap which works on multiple distros (less interesting for Ubuntu users)
-- Less dependency issues (whait? But we removed them)
-- Way more security and privacy (Is it really that secure?).
+  
+- The Snap Store provides **delta updates**, so users don't have to download the full snap file every time
+
+- Users get up to date releases which gives us **a shorter delivery times between developer and user**. Developers can push out **test releases** to users who can test them before they go stable.
+
+  > It is the possibility to use tracks and choose how much on the bleeding edge you want to be. 
+
+- Less dependency issues.
+
+  > But the dependency hell was solved 10 years ago. 
+
+- Way more security and privacy.
+
+  > Is it really that secure?
+
 - Channel switching is a nice feature.
 
 Cons:
 
-- The startup time for snap packages when the start for the first time on a session slow. Still a bit slower launch after, much much slower on non ssd setups. 15 seconds to open a calculator is not acceptable for a so-called modern distribution. It is an obvious loss of productivity.
+- **Slow startup**. The first startup up is slow. Still, a bit slower launch after, much much slower on non ssd setups. 15 seconds to open a calculator is not acceptable for a so-called modern distribution. It is an obvious loss of productivity.
 
-  > The most noticeable downside of Snap is slowness at startup. With many libraries and other assets to load, some of the delays get compounded. This is offset by the fact that snaps are compressed on disk, so there's fewer blocks to read, which is countered by the overhead of the realtime decompression taking some CPU overhead.
-  > Further on top of this is the need to stand up the necessary directories, mounts and caches to ensure the application launches correctly. There is some overhead on doing this on first launch. It was way worse, and was improved recently. It turned out some font caches were being rebuilt on every launch of the application.
-  > So for example on someone's machine running Libreoffice from the deb takes 0.9 seconds to launch, from the snap it takes around 1.8 seconds. That's certainly a difference, but it's far from the 15s.
+  > The same Ubuntu moderator says:
+  >
+  > > The most noticeable downside of Snap is slowness at startup. With many libraries and other assets to load, some of the delays get compounded. This is offset by the fact that snaps are compressed on disk, so there's fewer blocks to read, which is countered by the overhead of the realtime decompression taking some CPU overhead.
+  > > Further on top of this is the need to stand up the necessary directories, mounts and caches to ensure the application launches correctly. There is some overhead on doing this on first launch. It was way worse, and was improved recently. It turned out some font caches were being rebuilt on every launch of the application.
+  > >
+  > > So for example on someone's machine running Libreoffice from the deb takes 0.9 seconds to launch, from the snap it takes around 1.8 seconds. That's certainly a difference, but it's far from the 15s.
 
-  > I accidentally installed LibreOffice as a snap on a coworkers machine. It was so crap, he has no idea of linux and complained. It needes litereally about **3 minutes to start**. I uninstalled it, installed it with apt-get and everything was fine.
+  > I accidentally installed LibreOffice as a snap on a coworkers machine. It was so crap, he has no idea of linux and complained. It needs literally about **3 minutes to start**. I uninstalled it, installed it with apt-get and everything was fine.
   >
   > Also I have my Nextcloud in a snap, performance wise it works fine I guess, but it's annoying that the Storage for it is in some weird snap mount I always struggle to find.
 
-- Canonical imposes snap by default. Imposing snaps is a bad idea. Linux Mint for example integrates flatpak but it does not impose any software installed by flatpak.
+- **Space**. Since snaps and flatpaks have all the relevant dependencies bundled up inside them, you end up with wasted storage space, as opposed to the package manager way of installing libraries system-wide so that they can be used by other packages that need them, and only need to be installed once.
+
+  > Disk space is generally not an issue, not only disks are cheap, but snaps are compressed archives, and they can re-use some special snaps of common dependencies.
+  
+- **Snap consumes resources**. There is a separate service that runs at all times, used to manage how snaps function. This consumes system resources (maybe if you are running a low RAM system it might make a difference).
+
+- **Problems with integrations into some distributions**. Snap is hard to integrate into some distributions because it makes some assumptions about your system. The backend is not open, so it is harder to get it set up on a managed system than building from source and distributing it with a cache server.
+
+- **Snap needs research, basic flaws for users are not solved**. Snap in themselves are not bad - but for a smoother UX they require a "wider view" about how people use their computers.
+
+  > How test any and all use cases? Why pushing snap so strongly when basic flaws for users are not solved? And above all what is the meaning of LTS if it's used as a testing bed for a non mature technology? Snap for the moment covers none of my needs as a desktop user while .deb do. Safety? How am I not safe using .deb?
+
+- **Canonical imposes snap by default**. Imposing snaps is a bad idea. Linux Mint for example integrates flatpak but it does not impose any software installed by flatpak.
 
   > If Ubuntu wants to propose some apps with snap as default, it's fine and no problem **if the deb package remains available and snap can be uninstalled.**
   >
@@ -213,17 +241,7 @@ Cons:
   >
   > You don't need snaps when you use ppas for beta software.
 
-- Snaps take lots of place as each of them brings the required libs.
-
-  > Disk space is generally not an issue, not only disks are cheap, but snaps are compressed archives, and they can re-use some special snaps of common dependencies. And this strategy allows the advantages the developer mentioned above, developers won't have to worry about which distro or version they're targeting and this will bring us much more software as it already did.
-
-- Snap in themselves are not bad - but for a smoother UX **they require a "wider view" about how people use their computers**. How test any and all use cases? Why pushing snap so strongly when basic flaws for users are not solved? And above all what is the meaning of LTS if it's used as a testing bed for a non mature technology? Snap for the moment covers none of my needs as a desktop user while .deb do. Safety? How am I not safe using .deb?
-
-- There is a separate service that runs at all times, used to manage how snaps function. This consumes system resources (maybe if you are running a low RAM system it might make a difference).
-
-- Since snaps and flatpaks have all the relevant dependencies bundled up inside them, you end up with wasted storage space, as opposed to the package manager way of installing libraries system-wide so that they can be used by other packages that need them, and only need to be installed once.
-
-- Canonical controls Snaps. The question is, do you trust Canonical? They violate the Linux philosophy.
+- **Canonical controls Snaps, proprietary app store gives too much power to them**. The question is, do you trust Canonical? They violate the Linux philosophy.
 
   > One way snaps are bad is because Canonical makes its own company-controlled snapcraft the only source you can obtain snaps from.
   >
@@ -233,11 +251,17 @@ Cons:
   >
   > Snapcraft is run like an app store for paid apps in preparation, not a repository of free opensource apps.
 
-- Snap is hard to integrate into some distributions because it makes some assumptions about your system. The backend is not open, so it is harder to get it set up on a managed system than building from source and distributing it with a cache server.
+  > The way Canonical is pushing it in Ubuntu, such as forcibly installing chromium's snap, even when apt is used, is already causing me concern towards their practices, if snap becomes the leading distribution method.
+  >
+  > ...
+  >
+  > Whats the use of Linux winning the majority of marketshare, if the major distros and software end up becoming privacy nightmare, such as Windows or Android is right now? Flatpak and Flathub are fully open source. There is no reason why Snapstore can't be too. Unless Canonical wants to profit through it, and it is more or less known how profiting from software store occurs.
+  >
+  > > See below for more information on this :point_down:
 
 #### Interesting opinions and comments on Snap
 
-My only complaint is proprietary app store. It gives too much power to Canonical. The way Canonical is pushing it in Ubuntu, such as forcibly installing chromium's snap, even when apt is used, is already causing me concern towards their practices, if snap becomes the leading distribution method. They open source the store or do not make it hardcoded into snap, I am ready to ignore all the technical disadvantages they have to flatpaks and appimages.
+My only complaint is **proprietary app store**. It **gives too much power to Canonical**. The way Canonical is pushing it in Ubuntu, such as forcibly installing chromium's snap, even when apt is used, is already causing me concern towards their practices, if snap becomes the leading distribution method. They open source the store or do not make it hardcoded into snap, I am ready to ignore all the technical disadvantages they have to flatpaks and appimages.
 
 > > The whole "snap store is proprietary" thing is fine, but I personally think it's a small price to pay to make Linux software more stable and easier to distribute.
 > >
@@ -493,27 +517,24 @@ $ flatpak install --user flathub org.gimp.GIMP
 
 Here are the disadvantages of those formats:
 
-- It breaks the UNIX way.
+- **It breaks the UNIX way**.
 
-- It duplicates files.
+- **Wasted disk space, it duplicates files**. Since snaps and flatpaks have all the relevant dependencies bundled up inside them, you end up with wasted storage space, as opposed to the package manager way of installing libraries system-wide so that they can be used by other packages that need them, and only need to be installed once.
 
-- It depends on individual maintainers to be on top of all their dependencies. So, if a distribution updates a library in the usual manner, you could still be susceptible to the bug, or vulnerable to a hack. Because whoever built that package didn't update it.
+- **It depends on individual maintainers to be on top of all their dependencies**. So, if a distribution updates a library in the usual manner, you could still be susceptible to the bug, or vulnerable to a hack. Because whoever built that package didn't update it.
 
-- You ask about performance, I don't imagine there would be much, other than wasted disk space.
-
-- All these newer methods of distribution are really just an excuse for developers to keep outdated libraries instead of maintaining and updating their software.
+- **Formats make devs feel relaxed, they may leave security holes**. All these newer methods of distribution are really just an excuse for developers to keep outdated libraries instead of maintaining and updating their software.
 
   > Look at Docker, a recent study found 80% of containers supplying outdated packages with security vulnerabilities of varying degree.
->
+  >
   > With traditional repositories, if your package doesn't compile against a secure source, it will be dropped, end of story.
->
+  >
   > People wrote about the proprietary nature of Snaps, but ironically, you can't decide to **not** update a Snap package, if the functionality is transparent and you can handle the risks involved.
->
+  >
   > You can just postpone updating Snaps for a certain amount of time, that's a disgusting approach close to Windows, which treats users like idiots, no matter what. 
   >
   > Flatpak is objectively a better system.
-  
-- Package managers are more powerful. See :point_down:
+- **Package managers are more powerful**. See :point_down:
 
 Package managers are hugely more powerful for both users and developers compared to anything AppImage / Snap / FlatPak can do.
 
