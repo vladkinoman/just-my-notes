@@ -4,12 +4,13 @@
 >
 > If you do choose the format, the top is as follows:
 >
-> 1. AppImage = Flatpak
+> 1. AppImage = Flatpak. I think you can use AppImage if you sure that you want only a few apps. You should use Flatpak when you need a lot of apps, but not too many.
 > 2. Snap. This is the most controversial format among these.
 
 ## Table of Contents
 
 - [AppImage](#AppImage)
+  - [Working with AppImage](#Working-with-AppImage)
 - [Flatpak](#Flatpak)
   - [Pros and Cons of Flatpak](#Pros-and-Cons-of-Flatpak)
   - [Working with Flatpak](#Working-with-Flatpak)
@@ -46,6 +47,41 @@ Again, the point of the AppImage format is: One app = one file. Simple. No root,
 Snap and Flatpak allow dependencies on things other than what comes with every Linux distribution by default, and this can mean that net you need to actually download *more* stuff than with AppImage. For example, if an application needs Qt, then with Snap and Flatpak you need to download the whole Qt, whereas an AppImage comes with just *a tiny fraction of* Qt that is actually needed for the particular application.
 
 No middle men between application developers and end users.
+
+### Pros and cons of AppImage
+
+Pros:
+
+> Took it from their [website](https://appimage.org/).
+
+- **One app = one image**. Every AppImage contains an app and all the files the app needs to run. In other words, each AppImage has no dependencies other than what is included in the targeted base operating system(s).
+- **Easy installation**. AppImages can be downloaded and run **without installation** or the need for root rights. 
+- **Trusted**. AppImage format is ideal for **upstream packaging**, which means that you get the software directly from the original author(s) without any intermediaries, exactly in the way the author(s) intended. And quickly. 
+- **Open Source**. Like Linux itself, AppImageKit is Open Source. Use it to package your free or commercial applications.
+- **Proven**. AppImageKit and its predecessor, klik, have been in the making for over a decade.
+- **Compatible**. Works with most reasonably recent desktop Linux distributions. Well, almost.
+
+Cons:
+
+- **Long downloads, wasted space**. AppImages weigh a lot and occupy a lot of disk space.
+
+### Working with AppImage
+
+To run a [Subsurface](https://subsurface-divelog.org/downloads/) AppImage, simply:
+
+Make it executable
+
+```bash
+chmod a+x Subsurface*.AppImage
+```
+
+and run!
+
+```bash
+./Subsurface*.AppImage
+```
+
+Many upstream projects like [Krita](https://appimage.github.io/apps/), Subsurface, MuseScore, KDevelop, and digiKam have started to provide AppImages directly on their download pages. More AppImages for other applications like Atom, Arduino, Blender, Chromium, Firefox, LibreOffice, and QCAD can be downloaded [here](https://bintray.com/probono/AppImages) (64-bit).
 
 ## Flatpak
 
