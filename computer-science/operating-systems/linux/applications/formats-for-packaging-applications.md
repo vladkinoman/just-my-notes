@@ -1,15 +1,17 @@
 # Formats for packaging applications
 
-> In short, there are many formats. However, people say that them are unnecessary. See [Are these formats compulsory?](#Are-these-formats-compulsory?), the last paragraph.
+> In short, there are three formats for packaging applications. However, people say that them are unnecessary. See [Are these formats compulsory?](#Are-these-formats-compulsory?), the last paragraph.
 >
 > If you do choose the format, the top is as follows:
 >
-> 1. AppImage = Flatpak. I think you can use AppImage if you sure that you want only a few apps. You should use Flatpak when you need a lot of apps, but not too many.
-> 2. Snap. This is the most controversial format among these.
+> 1. AppImage = Flatpak. I think you can use AppImage if you sure that you want only a few apps. You should use Flatpak when you need a lot of apps, but not too many. Always think about how much space they occupy on your hard drive.
+> 2. Snap. This is the most controversial format among these. It has a slow launch and it breaks the open source philosophy.
 
 ## Table of Contents
 
 - [AppImage](#AppImage)
+  - [Pros and Cons of AppImage](#Pros-and-Cons-of-AppImage)
+    - [Interesting opinions and comments on AppImage](#Interesting-opinions-and-comments-on-AppImage)
   - [Working with AppImage](#Working-with-AppImage)
 - [Flatpak](#Flatpak)
   - [Pros and Cons of Flatpak](#Pros-and-Cons-of-Flatpak)
@@ -48,22 +50,105 @@ Snap and Flatpak allow dependencies on things other than what comes with every L
 
 No middle men between application developers and end users.
 
-### Pros and cons of AppImage
+### Pros and Cons of AppImage
 
 Pros:
 
-> Took it from their [website](https://appimage.org/).
+> I took many points from their [website](https://appimage.org/). Also, I got some comments on Reddit: [link 1](https://www.reddit.com/r/linux/comments/5um0qh/whats_up_with_appimages/), [link 2](https://www.reddit.com/r/linux4noobs/comments/ak3pxt/is_there_any_downsides_to_appimages/), [link 3](https://www.reddit.com/r/linux/comments/6q9qw2/what_is_the_point_of_appimages/).
 
-- **One app = one image**. Every AppImage contains an app and all the files the app needs to run. In other words, each AppImage has no dependencies other than what is included in the targeted base operating system(s).
-- **Easy installation**. AppImages can be downloaded and run **without installation** or the need for root rights. 
-- **Trusted**. AppImage format is ideal for **upstream packaging**, which means that you get the software directly from the original author(s) without any intermediaries, exactly in the way the author(s) intended. And quickly. 
+- **One app = one image**. Every AppImage contains an app and all the files the app needs to run. In other words, each AppImage has no dependencies other than what is included in the targeted base operating system(s). 
+
+  > AppImage is just a self-mounting compressed filesystem that executes the payload application contained therein. Very similar to .dmg on macOS. 
+  >
+  > So developers who can bring their own libraries now have a way to deliver these even more conveniently to end users, who do not need to unpack or install anything.
+  
+  > AppImage has a **one app = one file** philosophy which means that no runtimes are required. The user goes to a software project's download page, downloads one file, sets the executable bit, done. No fussing around with package managers, command lines, repositories, runtimes, and the like.
+  >
+  > Snappy and Flatpak solve for different objectives. Flatpak and Snappy don't have one app = one file philosophy, since they need **runtimes**. Which are another layer of dependencies. Which is why you need tools to manage them.
+  
+  > AppImage is not containerized. It's just a disk image with some special sauce for mounting and launching.
+  
+- **Easy installation and use**. AppImages can be downloaded and run **without installation** (including installation of "runtimes" like those of Flatpak and Snaps) or the need for root rights. I think you need to verify it with pgp before doing chmod.
+
+  > Out of all the ones I have tried AppImage is always the easiest to use.
+
+  > Can you run a deb/rpm from a flash drive on a computer where you have no root permissions?
+  >
+  > That's reason enough for me for AppImages. Truly portable executables that run everywhere (reasonable).
+
+- **Trusted, no central gatekeepers.**. AppImage format is ideal for **upstream packaging**, which means that you get the software directly from the original author(s) without any intermediaries, exactly in the way the author(s) intended. And quickly.
+
+  > With the advent of Snap and Flatpak, I see Appimage being used more for testing development builds than general app distribution.
+  
 - **Open Source**. Like Linux itself, AppImageKit is Open Source. Use it to package your free or commercial applications.
-- **Proven**. AppImageKit and its predecessor, klik, have been in the making for over a decade.
-- **Compatible**. Works with most reasonably recent desktop Linux distributions. Well, almost.
+
+- **Compatible, no system libraries changed**. Works with most reasonably recent desktop Linux distributions. Well, almost. Plus, unlike the other two systems, AppImage needs no special support from the operating system besides a working FUSE installation (which almost all have out of the box).
+
+  > AppImages are rather useful because they provide portable apps on any Linux distro with glibc. It's IMO better than Flatpak or Snap as it does not require a tool or installable package to function. If you have a recent kernel, it works.
+
+- Optional desktop integration with `appimaged`
+
+- Optional binary **delta updates**, e.g., for continuous builds (only download the binary diff) using AppImageUpdate
+
+- Can optionally GPG2-sign your AppImages (inside the file).
+
+- Works on Live ISOs.
+
+- Can use the same AppImages when dual-booting multiple distributions (in other words, multibooting different Linux distributions while still being able to use the same set of AppImages on all of them).
+
+- **AppImage is secure**. Snap and Flatpak offer some security, though Flatpak's security relies a bit on Wayland. AppImage has been offering better security than either of them for over a decade.
+
+  > An AppImage is no less secure than DEB/RPM/Makepkg when you verify signatures and trust the distributor. If you don't trust the distributor or don't verify sigs (which most package managers do automatically), they have equivalent security.
 
 Cons:
 
-- **Long downloads, wasted space**. AppImages weigh a lot and occupy a lot of disk space.
+- **Long downloads, wasted space, duplicate libraries**. AppImages weigh a lot and occupy a lot of disk space. There are no shared libraries. AppImages take longer to update because of the bigger download. 
+  It's literally just a step back to the bit before package managers were a thing. The whole purpose of a package manager was to mean you could install software without having duplicate libraries everywhere and you could have dependencies managed and organised properly and you could update from one place. AppImages just say "nah" and next thing you have duplicate libraries strewn all across your system and no central system for managing updates. It's completely backwards.
+
+#### Interesting opinions and comments on AppImage
+
+> you could always statically compile your application and package it into deb/rpm/pacman
+
+And sorry, can't let that stand...but seen this kind of redefining "static linking" pretty often lately. No, you can't just statically link any application in linux. Static linking is a technical term for a way of linking a application so that the "binary code" of the dependency libraries is copied inside the program executable. This is not something that is possible in every case. My preferred example is openGL. There are at least two different openGL libraries out there...mesa and the proprietary nvidia one. You cannot statically link against openGL if you want any chance of your program working with both. But even if you accept that you build a program that only work with AMD cards static linking against openGL means you just removed the possibility of driver updates...your program already copied the binary code of the openGL library in itself...no matter what driver update you install..your program won't care. And the other problem is a license one...The LGPL requires you to offer users the ability to relink you program with other, possibly modified versions of the library. But you can't just change the library for a static linked binary...so if you want to static link against a LGPL library (of which there are lots in the linux world...starting with glibc against which you almost certainly will link) you also have to provide at least the object files for your program to allow people to relink it. So what people usually mean here is not static linking but instead packaging together with dynamic libraries.
+
+> > what people usually mean here is . . . packaging together with dynamic libraries.
+>
+> aka: Bundled dependencies or bundled libraries
+
+---
+
+AppImages do not need to be extracted – the AppImage developers recommend distributing the AppImage files directly (and not putting them into a `.zip` or `.tar.gz` archive, for example). While `.tar` archiving preserves the executable permissions (so the user doesn't need to make the AppImage executable by hand), it's still an additional step users need to make before being able to run the AppImage.
+
+AppImages are run using FUSE, which nearly all desktop distributions support out of the box. If this is not the case of your system, you can extract an AppImage to the file system by passing `--appimage-extract` to its command line; this will work even if you don't have FUSE enabled, and you should be able to run the `AppRun` file directly (which is a wrapper around the binary, and loads the required libraries automatically).
+
+---
+
+I run fedora on gnome and I occasionally use the Krita package. On fedora 26 the package requires way more dependencies that before, including kwallet and the like. It caused some issues with my upgrade, so I removed it and now use the appimage. Much cleaner.
+
+> ...and you don't have to install KDE libraries into your system or upgrade libraries in your system just to run the latest Krita with AppImage.
+
+---
+
+Just the other day I tried downloading a game form [portablelinuxgames.org](https://portablelinuxgames.org/).
+
+Go
+
+```bash
+error while loading shared libraries: libfuse.so.2: cannot open shared object file: No such file or directory
+```
+
+Yea I can fix that by `sudo apt install libfuse2:i386` but overall that doesn't seem very portable to me.
+
+> I mean, **AppImages are built on the FUSE library** (which most distros don't ship by default), so I don't know why you're surprised.
+>
+> Should AppImages get popular enough, I'm sure that libfuse will become available by default.
+>
+> 'Besides it's like the only 'non-standard' dependency it really has, isn't it?'
+>
+> > FUSE is already wildly popular with dual booters (ntfs-3g uses FUSE) and with advanced types (for sshfs) so I suspect the main issue is that it was the i386 copy of libfuse.
+>
+
+> portablelinuxgames.org chose to provide *32-bit* AppImages; most other projects mainly provide *64-bit* AppImages these days. Some projects (like MuseScore) even provide *ARM* AppImages (e.g., for Raspberry Pi).
 
 ### Working with AppImage
 
@@ -159,6 +244,12 @@ Features:
 - In an atomic system, where you have to reboot for updates, those flatpaks can be updated without a reboot. Both [Project Atomic/ostree](https://www.projectatomic.io/) and [OpenSUSE Transactional Updates](https://kubic.opensuse.org/blog/2018-04-04-transactionalupdates/) require reboots for updates. And just because you did not have to reboot, does not mean that you should not have rebooted.
 
 - Someone was amazed at how quick Flatpaks were compared to snaps on Ubuntu.
+
+- With Flatpak, you could maintain your own runtime say for work and still be up to date on keeping your operating system up to date. It's really a boon.
+
+  > Right now it is hard to create your own runtime, but who knows what future tooling will bring. In fact this might be an interesting case for OBS which openSUSE uses extensively to take a part of openSUSE and build a runtime out of it for long term support.
+
+  > Flatpak uses [libOSTree](https://ostree.readthedocs.io/en/latest/) so that apps can target specific runtimes. Those runtimes could still theoretically be kept stable and patched for security purposes while preserving API/ABI for the apps.
 
 **Cons**
 
@@ -549,7 +640,7 @@ $ flatpak install --user flathub org.gimp.GIMP
 
 ## Are these formats compulsory?
 
-> Source: [link](https://www.reddit.com/r/linuxquestions/comments/hfa5ru/eli5_why_snaps_are_so_bad_hard_numbers_please_and/).
+> Source: [link 1](https://www.reddit.com/r/linuxquestions/comments/hfa5ru/eli5_why_snaps_are_so_bad_hard_numbers_please_and/), [link 2](https://www.reddit.com/r/linux4noobs/comments/ak3pxt/is_there_any_downsides_to_appimages/).
 
 Here are the disadvantages of those formats:
 
@@ -580,6 +671,10 @@ Properly packaged software (DEB, RPM or even from AUR)
 2. **Integrate well with** other **system** resources and decades of Linux system design, and
 3. have 20 years of development behind them. There's basically **nothing that *can't* be done using a well-written RPM or DEB package**, and there are *so* many helper tools that are well-tested and trusted.
    I can churn out an RPM for arbitrary software from source in 30 mins, and have it published in a repository (completely under my control) within an hour using tools like the [OBS](http://build.opensuse.org/). And this gives me (basically for free) a verifiable repeatable build, with complete knowledge of all sources used, a trust chain, etc.
+
+> > I'd rather have an AppImage (or Flatpak or whatever) than spending hours trying to compile it from source myself and figuring out what dependencies I'm missing, or having to use one of these .deb to .rpm converters that never really work.
+>
+> Tools like [fpm](https://fpm.readthedocs.io/en/latest/intro.html) exist. Single interface to loads of different packaging systems. I can create packages for the vast majority of distros with one command. It then becomes easy to add it as a step in the build pipeline so each build also produces packages ready to go. Set once, then let it do its thing. Only changes needed are for changing dependencies as the program is developed and more features are added.
 
 Yes it is a bit intimidating to beginners, but Snaps/AppImages/Flatpaks are trying to make it *too* easy IMO, trying to take away too many important decisions from the distro and the developer, and hiding necessary complexity. There's always a trade-off between ease of use and security/functionality.
 
