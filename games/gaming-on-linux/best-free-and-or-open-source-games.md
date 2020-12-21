@@ -67,7 +67,54 @@ But they hate that you have to start this game as root.
 
 ### Pac-Man
 
-.
+**MyMan**
+
+MyMan isn't the only Pac-Man clone for the Linux terminal, but it's the one the author of the [article](https://opensource.com/article/18/12/linux-toy-myman) chose to include because:
+
+1. The visual style is appealing, it rings true to the original.
+2. It's conveniently packaged for author's Linux distribution (Fedora) so it was an easy install. But you should check out your other options as well.
+
+Installation is simple for Fedora:
+
+```bash
+dnf install myman
+```
+
+MyMan is made available under an MIT license and you can check out the source code on [SourceForge](https://myman.sourceforge.io/).
+
+![Linux toy: myman animated](https://opensource.com/sites/default/files/uploads/linux-toy-myman-animated.gif)
+
+**Greed**
+
+**Greed** is a clone of **Pac-Man** and **Tron** similar to **MyMan** above, but it offers colored text interface.
+
+[![Greed Game for Linux](https://www.tecmint.com/wp-content/uploads/2016/07/Greed-Game-for-Linux.png)](https://www.tecmint.com/wp-content/uploads/2016/07/Greed-Game-for-Linux.png)
+
+A player uses the keyboard arrows to eat as many digits as possible in any direction as he/she moves, the number of digits eaten equals to the number of steps in a particular direction.
+
+You can install it on Debian/Ubuntu/Linux Mint systems as follows:
+
+```bash
+$ sudo apt-get install greed
+```
+
+**Visit Homepage**: http://www.catb.org/~esr/greed/
+
+**Pacm4conesole**
+
+**Pacman4console** is a free terminal clone of the famous Pac-man game, developed by **Mike Billars** who wanted to play Pac-Man on the console to deal away with having to enable flash on a browser to play Pac-Man.
+
+[![Pacman4console Game for Linux](https://www.tecmint.com/wp-content/uploads/2016/07/Pacman4console-Game-for-Linux.png)](https://www.tecmint.com/wp-content/uploads/2016/07/Pacman4console-Game-for-Linux.png)Pacman4console Game for Linux
+
+You can install **Pacm4conesole** game on Linux, using:
+
+```bash
+yum install pacman4console
+dnf install pacman4console
+sudo apt-get install pacman4console
+```
+
+**Visit Homepage**: https://sites.google.com/site/doctormike/pacman.html
 
 ## City Builder and Tycoon
 
@@ -301,4 +348,6 @@ In case you want to check out all the **amazing open source games available**, h
 8. https://www.reddit.com/r/linux/comments/ar14r8/good_open_source_games_for_linux_and_android/
 9. https://www.reddit.com/r/linux_gaming/comments/81w1k6/best_free_games_for_linux/
 10. https://osgameclones.com/
+11. https://opensource.com/article/18/12/linux-toy-myman
+12. https://www.tecmint.com/best-linux-terminal-console-games/
 
