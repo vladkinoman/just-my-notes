@@ -34,6 +34,24 @@ Proton is *fully* open-source [and available on GitHub](https://github.com/Valve
 > - [Steamplay/Proton/Lutris cheat sheet](https://redd.it/9anque)
 > - [Steam Play Compatibility Reports](https://spcr.netlify.com/)
 
+### How to enable launch options (environment variables)
+
+> "Ghost of a Tale" was a fail. However, found out that two commands named:
+>
+> `PROTON_NO_D3D11`
+>
+> `PROTON_USE_WINED3D11`
+>
+> can be used to make it run. However, I don't know the formatting I have to use while inserting the commands.
+
+You can just write `PROTON_USE_WINED3D11=1 DXVK_HUD=fps %command%`.
+
+The `%command%` at the end is the original command, and the `PROTON_USE_WINED3D11=1* and *DXVK_HUD=fps` are options you want to use.
+
+Yes, you have to put `%command%` at the end all the time. It's been like that ever since steam for Linux came out. The reason is that these aren't really launch options (command line switches) but environment variables. The syntax allows steam to recognize this, and set the variables before launching the game.
+
+If a game has actual launch options, you don't do this. E.g. if a Windows game is supposed to run like `game.exe -windowed`, you only put `-windowed` without the `%command%` stuff just like under Windows.
+
 ## Steam Linux Runtime
 
 With "Steam Linux Runtime" you can run your <u>Linux</u> games in a container. The reason for doing this is that <u>it will ensure that the game will run the same on every distribution</u>. If a game has bugs on Fedora but runs fine on Ubuntu then you can try the container, it might then run fine in the container on Fedora.
@@ -65,3 +83,4 @@ For running Windows games in Linux you don't want to use the "Steam Linux Runtim
 3. https://www.reddit.com/r/SteamPlay/
 4. https://www.reddit.com/r/SteamPlay/comments/dxiwlt/whats_the_steam_linux_runtime_option_in_the/
 5. https://www.reddit.com/r/SteamPlay/comments/e9ohz5/proton_or_linux_runtime_doesnt_work/
+6. https://www.reddit.com/r/SteamPlay/comments/9g9z03/i_am_confused_about_launch_options_how_to_enable/
