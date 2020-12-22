@@ -55,6 +55,42 @@ But they hate that you have to start this game as root.
 
 > Fantastic point'n'click games on scummvm.
 
+**Moon Buggy** is an free, straightforward character game, in which a player controls a car over craters on th moon’s surface. You are simply required to side slide the car using control keys and jump over the craters to earn more marks.
+
+[![Moon-Buggy Game for Linux](https://www.tecmint.com/wp-content/uploads/2016/07/Moon-Buggy-Racing-Game-for-Linux.gif)](https://www.tecmint.com/wp-content/uploads/2016/07/Moon-Buggy-Racing-Game-for-Linux.gif)
+
+To install **Moon Buggy** Game on Linux, run:
+
+```bash
+yum install moon-buggy
+dnf install moon-buggy
+sudo apt-get install moon-buggy
+```
+
+**Visit Homepage**: https://github.com/seehuhn/moon-buggy
+
+**Robot Finds Kitten** is also another free and interesting Linux terminal game, a player (robot) is required to check around different objects to find a kitten. A short description is displayed for every object that the robot inspects.
+
+[![Robotfindskitten Game](https://www.tecmint.com/wp-content/uploads/2016/07/Robotfindskitten-Game.png)](https://www.tecmint.com/wp-content/uploads/2016/07/Robotfindskitten-Game.png)
+
+**Visit Homepage**: http://robotfindskitten.org/
+
+**Lunar Lander** is an exciting terminal game on Linux, here, you required to fly a Lunar Module (LM) to the surface of the moon, where no penguin has ever gone before.
+
+[![Linux Lunar Lander](https://www.tecmint.com/wp-content/uploads/2016/07/Linux-Lunar-Lander.png)](https://www.tecmint.com/wp-content/uploads/2016/07/Linux-Lunar-Lander.png)
+
+On successful landing, with a small amount of fuel in your LM tanks, this will be a great step for the penguin to live otherwise, it will just become any other crater in the lunar soil.
+
+**Secret adventure** is a fun-filled, small adventure game that you can play on Linux and Mac OS X terminals. It runs within the **Emacs** text editor and you can access it from your Linux terminal.
+
+Remember, you must have **Emacs** text editor installed on your system, then you can launch it by simply issuing the command below and enjoy:
+
+```bash
+emacs -batch -l dunnet
+```
+
+[![Secret Adventure Game](https://www.tecmint.com/wp-content/uploads/2016/07/Secret-Adventure-Game.png)](https://www.tecmint.com/wp-content/uploads/2016/07/Secret-Adventure-Game.png)
+
 ## Arcade and 2D
 
 [TeeWorlds](https://store.steampowered.com/app/380840/). Online 2D shooter, it is great and light.
@@ -64,8 +100,6 @@ But they hate that you have to start this game as root.
 [NeverBall](https://neverball.org/). Monkeyball clone.
 
 [NeverPutt](https://fedoraproject.org/wiki/Games/neverputt). Mini-Golf.
-
-### Pac-Man
 
 **MyMan**
 
@@ -104,7 +138,7 @@ $ sudo apt-get install greed
 
 **Pacman4console** is a free terminal clone of the famous Pac-man game, developed by **Mike Billars** who wanted to play Pac-Man on the console to deal away with having to enable flash on a browser to play Pac-Man.
 
-[![Pacman4console Game for Linux](https://www.tecmint.com/wp-content/uploads/2016/07/Pacman4console-Game-for-Linux.png)](https://www.tecmint.com/wp-content/uploads/2016/07/Pacman4console-Game-for-Linux.png)Pacman4console Game for Linux
+[![Pacman4console Game for Linux](https://www.tecmint.com/wp-content/uploads/2016/07/Pacman4console-Game-for-Linux.png)](https://www.tecmint.com/wp-content/uploads/2016/07/Pacman4console-Game-for-Linux.png)
 
 You can install **Pacm4conesole** game on Linux, using:
 
@@ -115,6 +149,20 @@ sudo apt-get install pacman4console
 ```
 
 **Visit Homepage**: https://sites.google.com/site/doctormike/pacman.html
+
+**nInvaders** is a terminal version of popular GUI Space invaders game, here, players have to defend the earth from Space invaders by controlling war ships at the bottom of the screen (earth).
+
+[![nInvaders Game For Linux](https://www.tecmint.com/wp-content/uploads/2016/07/nInvaders-Game-For-Linux.gif)](https://www.tecmint.com/wp-content/uploads/2016/07/nInvaders-Game-For-Linux.gif)
+
+To install **nInvaders** Game on Linux, run:
+
+```bash
+yum install ninvaders
+dnf install ninvaders
+sudo apt-get install ninvaders
+```
+
+**Visit Homepage**: http://ninvaders.sourceforge.net/
 
 ## City Builder and Tycoon
 
@@ -170,6 +218,41 @@ sudo apt-get install pacman4console
 
 [Trackballs](https://trackballs.github.io/). Trackballs is a marble game inspired by the 80s Atari classic Marble Madness.
 
+**Nudoku** is a terminal-based Soduku game for Linux. In Noduku, a player is required through logic to fill-up a 9×9 grid with numbers 1 to 9, just as any other game, it has different levels of difficulty from simple to advanced levels.
+
+[![Nudoku Console Game for Linux](https://www.tecmint.com/wp-content/uploads/2016/07/Nudoku-Linux-Console-Game.png)](https://www.tecmint.com/wp-content/uploads/2016/07/Nudoku-Linux-Console-Game.png)
+
+To install Nudoku on Linux, run:
+
+```bash
+yum install nudoku      [On RedHat based systemes]
+dnf install nudoku      [On Fedora 23+ versions]
+sudo apt-get install nudoku  [On Debian based systems]
+```
+
+**Visit Homepage**: https://github.com/jubalh/nudoku
+
+**2048-cli** is a simple yet interesting terminal game, it is a terminal implementation of the popular GUI-based **2048** which is based on **1024** and theoretically has properties of **Threes**, which is a cross-platform, tiny puzzle smart phone game on iOS, Android and Windows phone.
+
+[![2048 Game for Linux](https://www.tecmint.com/wp-content/uploads/2016/07/2048-Game-for-Linux.png)](https://www.tecmint.com/wp-content/uploads/2016/07/2048-Game-for-Linux.png)
+
+To install 2048 Game on CentOS, RHEL, Scientific Linux and Fedora, run:
+
+```bash
+yum install 2048-cli-nocurses
+dnf install 2048-cli-nocurses   [On Fedora 23+ versions]
+```
+
+On an Ubuntu/Debian system, you can install 2048 Game via:
+
+```bash
+sudo apt-get install libncurses5-dev
+sudo apt-get install libsdl2-dev libsdl2-ttf-dev
+sudo apt-get install 2048-cli
+```
+
+**Visit Homepage**: https://github.com/tiehuis/2048-cli
+
 ## Racing
 
 [SuperTuxKart](https://supertuxkart.net/Main_Page) is a 3D open-source arcade racer with a variety characters, tracks, and modes to play. Super tux kart is available on the [play store (android)](https://play.google.com/store/apps/details?id=org.supertuxkart.stk&hl=en).
@@ -180,9 +263,21 @@ sudo apt-get install pacman4console
 
 [**NetHack**](https://www.nethack.org/) is an [open source](https://www.wikiwand.com/en/Open_source) single-player [roguelike](https://www.wikiwand.com/en/Roguelike) [video game](https://www.wikiwand.com/en/Video_game), first released in 1987 and maintained by the NetHack DevTeam. The game is a [software fork](https://www.wikiwand.com/en/Fork_(software_development)) of the 1982 game *[Hack](https://www.wikiwand.com/en/Hack_(Unix_video_game))*, itself inspired by the 1980 game [Rogue](https://www.wikiwand.com/en/Rogue_(computer_game)).
 
+[![NetHack Game for Linux](https://www.tecmint.com/wp-content/uploads/2016/07/NetHack-Game.gif)](https://www.tecmint.com/wp-content/uploads/2016/07/NetHack-Game.gif)
+
+To install **Nethack** Game on Linux, run:
+
+```bash
+yum install nethack-console
+dnf install nethack-console
+sudo apt-get install nethack-console
+```
+
+**Visit Homepage**: [http://www.nethack.org/](https://www.nethack.org/)
+
 > [The Greatest Game You Will Ever Play](http://www.thegreatestgameyouwilleverplay.com/).
 
-Tales of Maj'Eyal 
+[Tales of Maj'Eyal](https://te4.org/)
 
 > It remains my favorite Roguelike. I'm not sure how open source it still is now that it has DLC, but the base game is still in repo where I first found it.
 
@@ -195,6 +290,20 @@ Tales of Maj'Eyal
 [Pixel Dungeon](https://snapcraft.io/shattered-pixel-dungeon). RL with a nice pixel-art. You can buy it on Steam.
 
 > On Android i recommend [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) or one of it's many forks, it's quite fun to play on the bus.
+
+**Zangband** is a free, cross-platform, single player dungeon inspired adventure game. It is derived from Rogue hence the reference, a roguelike game. Instructions of how to play it are written in detail on the homepage.
+
+[![Zangband Game](https://www.tecmint.com/wp-content/uploads/2016/07/Zangband-Game.png)](https://www.tecmint.com/wp-content/uploads/2016/07/Zangband-Game.png
+
+To install **Zangband** Game on Linux, run:
+
+```bash
+yum install zangband
+dnf install zangband
+sudo apt-get install zangband
+```
+
+**Visit Homepage**: http://www.zangband.org/
 
 ## RPG
 
