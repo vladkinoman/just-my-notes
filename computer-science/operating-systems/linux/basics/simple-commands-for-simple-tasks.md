@@ -319,6 +319,136 @@ If you have problems with those commands, please see the source. It states that
 
 A list of these quirks, and what they mean can be found [here](http://manpages.ubuntu.com/manpages/precise/man8/pm-action.8.html#contenttoc3).
 
+## Text-Fu
+
+### Standard I/O
+
+By default the echo command takes the input (standard input or stdin) from the keyboard and returns the output (standard output or stdout) to the screen. So that's why when you type echo Hello World in your shell, you get Hello World on the screen. However, I/O redirection allows us to change this default behavior giving us greater file.
+
+**stdout**: `echo "Hello, World!"` or `echo "Hello, World!" > out.txt`. The **>** is a redirection operator that allows us the change where standard output goes. The **>>** is a redirection operator that will append "Hello, World" to the end of the file.
+
+**stdin**: `cat < peanuts.txt > banana.txt`. We know that we have stdin from devices like the keyboard, but we can use files, output from other processes and the terminal as well, just like in this example. Just like we had **>** for stdout redirection, we can use **<** for stdin redirection.
+
+**stderr**:
+
+```bash
+ls /fake/directory > peanuts.txt 
+ls : cannot access /fake/directory: No such file or directory
+```
+
+Now you're probably thinking, shouldn't that message have been sent to the file? There is actually another I/O stream in play here called standard error (stderr). By default, stderr sends its output to the screen as well, it's a completely different stream than stdout. So you'll need to redirect its output a different way.
+Unfortunately the redirector is not as nice as using **<** or **>** but it's pretty close. We will have to use file descriptors. A file descriptor is a non-negative number that is used to access a file or stream. The file descriptor for stdin, stdout and stderr is 0, 1, and 2 respectively. So now if we want to redirect our stderr to the file we can do this:
+
+```bash
+ls /fake/directory 2> peanuts.txt
+```
+
+You should see just the stderr messages in peanuts.txt.
+Now what if I wanted to see both stderr and stdout in the peanuts.txt file? It's possible to do this with file descriptors as well:
+
+```bash
+ls /fake/directory > peanuts.txt 2>&1
+```
+
+There is a shorter way to redirect both stdout and stderr to a file:
+
+```bash
+ls /fake/directory &> peanuts.txt
+```
+
+### Pipe and tee
+
+The pipe operator |, represented by a vertical bar, allows us to get the stdout of a command and make that the stdin to another process.
+
+What if I wanted to write the output of my command to two different streams? That's possible with the tee command:
+
+```bash
+ls | tee peanuts.txt
+```
+
+You should see the output of ls on your screen and if you open up the peanuts.txt file you should see the same information!
+
+### Cut and paste
+
+Copy and paste the following command, once you do that add a TAB in between lazy and dog (hold down Ctrl-v + TAB).
+
+```bash
+echo 'The quick brown; fox jumps over the lazy  dog' > sample.txt
+```
+
+To extract contents by a list of characters:
+
+```bash
+cut -c 5 sample.txt
+```
+
+This outputs the 5th character in each line of the file.
+
+To extract the contents by a field, we'll need to do a little modification:
+
+```bash
+cut -f 2 sample.txt
+```
+
+The -f or field flag cuts text based off of fields, by default it uses TABs as delimiters, so everything separated by a TAB is considered a field. You should see "dog" as your output because it takes the second (starting from 1) field after the delimiter.
+
+You can combine the field flag with the delimiter flag to extract the contents by a custom delimiter:
+
+```bash
+cut -f 1 -d ";" sample.txt
+```
+
+Let's consider other examples:
+
+```bash
+cut -c 5-10 sample.txt
+cut -c 5- sample.txt
+cut -c -5 sample.txt
+```
+
+The first command will give us the sequence of characters from 5 to 10 (indexing from 1).
+
+The second command cuts out the first 5 characters and returns the remaining characters to us.
+
+And the last command gives us only the first 5 characters.
+
+The paste command is similar to the cat command, it merges lines together in a file. Let's consider this example:
+
+```bash
+paste -s sample2.txt
+The	quick	brown	fox
+```
+
+The flag -s you use with paste to make everything go on one line. The default delimiter for paste is TAB, so now there is one line with TABs separating each word.
+
+Let's change this delimiter (-d) to something a little more readable:
+
+```bash
+paste -d ' ' -s sample2.txt
+```
+
+Now everything should be on one line delimited by spaces.
+
+### Expand and unexpand
+
+Normally TABs would usually show a noticeable difference but some text files don't show that well enough. Having TABs in a text file may not be the desired spacing you want. To change your TABs to spaces, use the expand command.
+
+```bash
+expand sample.txt
+```
+
+The command above will print output with each TAB converted into a group of spaces. To save this output in a file, use output redirection like below.
+
+```bash
+expand sample.txt > result.txt
+```
+
+Opposite to expand, we can convert back each group of spaces to a TAB with the unexpand command:
+
+```bash
+unexpand -a result.txt
+```
+
 ## References
 
 1. https://askubuntu.com/questions/106351/running-programs-in-the-background-from-terminal
@@ -329,3 +459,4 @@ A list of these quirks, and what they mean can be found [here](http://manpages.u
 6. https://askubuntu.com/questions/181390/what-is-the-command-for-sleep-hibernate
 7. https://apps.ubuntu.com/cat/applications/pm-utils/
 8. http://manpages.ubuntu.com/manpages/precise/man8/pm-action.8.html
+9. https://linuxjourney.com/
