@@ -684,20 +684,27 @@ Performance:
 
 - CPU Speed: medium
 
-- GPU Speed: high (2 customized):
+- GPU Speed: high (7 customized):
 
-  - Max 3D Rendering MPIX (maximum allowed 3D rendering resolution measured in million of pixels): 1.1 (HD 720)
-  - Multi-Sample Anti-aliasing (number of samples for multi-sample anti-aliasing): None.
+  1. Max 3D Rendering MPIX (maximum allowed 3D rendering resolution measured in million of pixels): 1.1 (HD 720).
+  2. Anisotropic Filtering: Medium (4X).
+  3. Multi-Sample Anti-aliasing (number of samples for multi-sample anti-aliasing): None.
+  4. Rendering Lod Bias: 20% (it looks like it's the range of drawing).
+  5. Mirror Quality: Medium.
+  6. Allow Refractions: disable.
+  7. Max Shadow Size: Medium.
 
   > You can lower Anisotropic Filtering if you wish, but it doesn't really change anything.
   >
   > Also, you can rise Max 3D Rendering up to 2.1 (HD 1080). I wouldn't say it is really influence fps.
   >
   > In order to smooth shadows you should adjust "shadow rendering radius" parameter. For high specs Shadow Dithering is set to 0.25, for medium specs it is set to 1.0. I left it at 0.25. If fps is too low for you, then you should rise the parameter.
+  >
+  > **Edit**. I edited the GPU speed parameters because FPS was dropping below 30 at location C.
 
-- GPU Memory: medium
+- GPU Memory: high
 
-- Level Caching: low
+- Level Caching: medium
 
 - Max FPS: 30
 
