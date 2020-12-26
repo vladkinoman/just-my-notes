@@ -47,6 +47,227 @@ Here are the best fightings according to [Reddit](https://www.reddit.com/r/Fight
 
 - The others would be Super Smash Brother Melee and Super Smash Bros 64 (according to [Reddit](https://www.reddit.com/r/AskReddit/comments/459z3g/what_is_the_best_fighting_game_ever/?sort=top).
 
+## Flight simulator video games
+
+### Amateur flight simulation
+
+Microsoft Flight Simulator (which one?)
+
+### Combat flight simulator
+
+IL-2 Sturmovik: 1946
+
+### Space flight simulator
+
+> Source: [Reddit 1](https://www.reddit.com/r/spacesimgames/comments/b4qfpn/whats_a_good_space_sim_for_a_beginner_in_the_genre/), [Reddit 2](https://www.reddit.com/r/Games/comments/2y1g0z/what_would_you_say_is_the_best_space_sim_game/), [Reddit 3 - the list with the best space games (made by RockPaperShotgun)](https://www.reddit.com/r/spacesimgames/comments/feh265/the_best_space_games_on_pc/), [Reddit 4](https://www.reddit.com/r/space/comments/csdlb6/what_are_the_best_space_games_out_right_now/), [Reddit 5](https://www.reddit.com/r/gamingsuggestions/comments/bpqc2i/looking_for_an_immersive_space_sim_with_lots_to/), [Reddit 6](https://www.reddit.com/r/spacesimgames/comments/bdzhjs/good_2d_space_games/), [Reddit 7](https://www.reddit.com/r/patientgamers/comments/4zdwrw/good_space_game_space_sim_or_any_other_type_of/), [Reddit 8](https://www.reddit.com/r/starcitizen/comments/8q00ei/what_other_flight_sims_do_you_guys_play_and_enjoy/), [Reddit 9 - What simulator should I get? The (somewhat) definitive guide for 2019!](https://www.reddit.com/r/flightsim/comments/abxzln/what_simulator_should_i_get_the_somewhat/), [Reddit 10 - What killed Combat Flight Sims?](https://www.reddit.com/r/truegaming/comments/3nufkt/what_killed_combat_flight_sims/).
+>
+> > Summary from Reddit 3:
+> >
+> > 1. Freespace 2
+> >
+> > 2. Kerbal Space Program
+> >
+> > 3. Elite: Dangerous
+> >
+> > 4. No Man’s Sky
+> >
+> > 5. FTL
+> >
+> > 6. Stellaris
+> >
+> > 7. Outer Wilds
+> >
+> > 8. Distant Worlds Universe
+> >
+> > 9. Homeworld Remastered
+> >
+> >    > It's an older series of games, but Homeworld is just downright fantastic. Start at the beginning and prepare for the gnarliest of RTS games.
+> >
+> > 10. EVE Online
+> >
+> > 11. X3: Albion Prelude
+> >
+> > 12. Sins of a Solar Empire
+> >
+> > 13. Battlefleet Gothic: Armada 2
+> >
+> > 14. Star Traders: Frontiers
+> >
+> > 15. Rebel Galaxy Outlaw
+> >
+> > 16. Star Wars: TIE Fighter
+> >
+> > 17. Galactic Civilizations II: Endless Universe
+> >
+> > 18. Freelancer
+> >
+> > 19. Descent
+> >
+> > 20. Starsector
+> >
+> > 21. Everspace
+> >
+> > 22. Mass Effect 2
+
+Freelancer.
+
+> On the arcade end of the spectrum you have games like **Freelancer**, which is widely considered one of the best examples of its kind. It's solidly a 3rd person arcade shooter that just happens to take place in space. Fun story, fun gameplay, fun characters, excellent modding. Great game all around.
+
+FreeSpace 2.
+
+> **FreeSpace 2** is largely considered the best space combat sim ever made, and remains my favorite game of all time. While it has a very large amount of keybindings (about 4 pages worth), you only *really* need about a dozen of them and the actual gameplay is straightforward and it has a very arcade flight model. Excellent gameplay with a very interesting story. It sits in the genre of what is called a 'Military space combat sim', which is mission-based fighter pilot fare, not open world or anything. FS2 released in 1999, but the source code has been updated via FreeSpace SCP and the graphics have been overhauled significantly. Still an amazing game. Also has what is in my opinion the best and most talented modding community in PC gaming. If you're new to the genre, I'd actually start right here.
+
+> If you have a joystick, grab a copy of Freespace and Freespace 2.
+>
+> 2 of the best space sim fighter games in existence
+>
+> You can grab both from GOG, also grab the FSOpen mod to make them look pretty.
+
+> For mission-based, classic military style space sim? [FreeSpace 2 SCP](https://www.youtube.com/watch?v=xhAR8rWPluQ). Due to probably the best modding community in existence, more than a decade after release it's still unsurpassed.
+
+> For trade/empire-building space sim? X3.
+>
+> For mission-based, classic military style space sim? [FreeSpace 2 SCP](https://www.youtube.com/watch?v=xhAR8rWPluQ). Due to probably the best modding community in existence, more than a decade after release it's still unsurpassed.
+>
+> IMO no space game since has even given you a feeling of just how insignificant you are flying a dinky little fighter beside 2-kilometre long cap ships that will vaporize you with a glancing hit from their beam cannons. The mission design departs from the typical SP game where the player is some all-important savior of mankind character, and puts you in the role of a single fighter pilot fighting in a war as part of a greater machine. You really get the sense that it doesn't matter if you live or die.. you'll just become another notch on the causality list and the war will go on without you. Someone described FreeSpace once as being the only space sim where you feel the *weight* of combat around you, and it's very true. Kind of hard to describe. The game didn't do anything revolutionary but it took the best aspects of classic 90's space sims and perfected them.
+
+> Freespace 2 comes to mind for the story driven option. It is a combat game though.
+>
+> There is a mod community that not only has graphical update mods, but also some new campaigns and total conversions.
+>
+> http://scp.indiegames.us/screenshots.php
+>
+> Instructions: [http://www.hard-light.net/wiki/index.php/Getting_Started%28Main%29](http://www.hard-light.net/wiki/index.php/Getting_Started(Main))
+>
+> > The first Freespace game is also still great, with FreespaceOpen you can port it into the second games engine to get the graphical improvements too.
+
+Elite Dangerous. There are a lot of recommendations on the [Vive subreddit](https://www.reddit.com/r/Vive/comments/979vj5/any_space_sim_recommendations/).
+
+> Elite: Dangerous is a free form space sim where you fly ships around, do jobs, and earn money. Basically the same premise as Elite, but with a much more intuitive interface and much better flight controls. Very similar to the Evochron games mentioned.
+
+> The modern remake of Elite. Kind of a hybrid between X's water-space flight and a true Newtonian space sim, I'd say this is probably the one for newcomers to space sims if they want a fun and total experience.
+
+> > Looking for an immersive space sim with lots to do, explore, and trade. Lots of NPCs to talk to and a story of some sort would be a bonus.
+>
+> Elite: Dangerous is fantastic. too hard for me personally as I'm currently lost somewhere around the starting system with 4 hours of fuel and don't have the slightest idea what to do.
+>
+> Also, there's X series and Everspace, both I think have the stuff you're looking for.
+
+X3, X3 Terran Conflict, and X3 Albion Prelude. X4.
+
+> You have the **X** series (of which **X4** is the latest) that is really more of a space economic sim than a true "fly spaceship sim". X4 is a solid entry to the series after X3 (X: Rebirth is terrible, avoid). The X games have a learning cliff though. And 90% of that cliff is all about managing your economic engine, not actually anything related to flying your ship.
+
+> **X3, X3 Terran Conflict, and X3 Albion Prelude**
+>
+> A non-Newtonian spaceflight sim where you jump between systems using gates. You can trade and do missions for different factions. It supports the use of a joystick.
+>
+> > > Are there any with simple and intuitive controls? What one would you recommend for someone starting out with space sim games?
+> >
+> > ------
+> >
+> > > X3, X3 Terran Conflict, and X3 Albion Prelude
+> >
+> > hmmmmmmm.
+> >
+> > Honestly, for someone totally new, I'd probably say start with Rebel Galaxy. It doesn't have the depth of X3 or the scale of Elite Dangerous, but it's relatively easy to pick up and scratches a similar itch.
+> >
+> > If you pick up Rebel Galaxy and enjoy the whole "I'm a spaceship! I grind money and get upgrades and get better ships!" gameplay, then you're ready to dive into a much harder game to control. Personally I'd recommend X3, I played E:D but don't really think I had fun.
+
+> X3, if you can make it past the interface, is still the best space sim. Haven't heard good things about X: Rebirth.
+>
+> It has a bit of a learning curve. Things aren't always apparent as there's a lot of icons and tiny UI elements on screen.
+
+> If we want to get technical, Kerbal space...
+>
+> But as others have said X3 is excellent if you can get through the slow start, steep learning curve and insane micro management. Elite is very pretty but feels very empty right now, there's not a lot to actually do.
+
+> Yup. X3 is the way to go. As others have said, there's a steep learning curve, and the combat is a tad dated.
+>
+> While the combat doesn't quite match up to the newer ED, or SC, X3 offers so much more in content that the outdated combat mechanics are hardly something to complain about. You can take it a step further and mod the game (there's a large selection of mods) to suit your tastes, while adding hundreds of hours of content.
+>
+> As for the other 2 big games that are always being discussed right now, ED is shallow and completely lacking in content, while SC is merely an early alpha.
+
+> For trade/empire-building space sim? X3.
+
+> I'll add another vote for X3. Between X3: Terran Conflict, and X3: Albion Prelude (doesn't really matter which one you play first, but I guess Albion Prelude is the 'cleanest' iteration of X3), I've clocked 500-600 hours of playtime over at least 3 different play-through attempts.
+>
+> One of the best aspects of the X series is that in addition to the "start with small ship, trade / fight / explore your way to bigger ship, rinse and repeat indefinitely" aspect, the X3 games allow you to build an actual intergalactic corporation filled with dozens of space stations that you own and operate.
+>
+> You can set-up a weapons manufacturing facility in Terran space, an illegal drugs facility in alien space, an energy production facility in another alien's space, etc. So while you're off in your ship getting into trouble, you've got your space stations producing in the background. You can even buy and automate freighter ships to conduct trade and maintain your space stations while you're away.
+>
+> The main downsides, I think, of the X series are the pretty steep learning curve, and how ridiculous micromanaging can get, especially the later you go in the game. After 100 hours in any of my playthroughs, I was looking at spreadsheets and menus as often as I was looking at space. Still, the best space sim games I've ever played.
+
+> > Looking for an immersive space sim with lots to do, explore, and trade. Lots of NPCs to talk to and a sotry of some sort would be a bonus.
+>
+> People offhandedly have mentioned the X series but it genuinely fits your description perfectly.
+>
+> I'd recommend either X3: AP or X4 Foundations.
+>
+> I must warn you though, it has an insane learning curve. With that said, the community is super friendly and helpful and there's many resources to help you.
+
+Evochron Legacy and Arvoch Alliance.
+
+> On the other end of the spectrum you have games like **Evochron Legacy** and **Arvoch Alliance**, which, IMHO, are the only two space combat sims that actually do Newtonian physics even close to fun. These games are complex and a little obtuse, but have a charm that is unmatched by any other game. [I made a fairly recent vid showing some gameplay from Evochron Legacy](https://youtu.be/feICTnthipg).
+
+> **Evochron Legacy**
+> This is a spaceflight sim game with Newtonian physics, all programmed by one guy, and it's pretty impressive. Be a space trucker and fly around the galaxy doing missions.
+
+Everspace.
+
+Independence War 2.
+
+Kerbel Space.
+
+> If we want to get technical, Kerbal space is the most realistic space sim out there and its loads of fun. Docking a ship with a space station in that game is probably one of the most difficult tasks I've ever done in a video game, and it feels glorious.
+
+> *Kerbal Space Program* is great at teaching you some basics about orbital dynamics and is a fun simulation for a (somewhat) more realistic take.
+
+Space Rangers HD.
+
+> This was my go to game for a long time until I found some of the newer ones. Its an old russian game, but the remaster has done it well. The ground based combat can be a bit finnicky from what I remember, but it is still fun.
+
+Rebel Galaxy.
+
+> Rebel Galaxy is fun, and there's a better one coming out soon, Rebel Galaxy Outlaw.
+
+> Rebel Galaxy. A space trucking game with a rippin soundtrack (or custom ones) and Assassin Creed ship combat. Really easy to get into. It's not a 3d movement game so all action takes place on a 2d plane, but still looks good and is fun. Made by a small team.
+
+Star Traders: Frontiers.
+
+> There are a lot of different little things going on in this game, but it has a great trading system, which is the kind of game that I want to play. Honestly, the ship to ship combat got pretty boring after like 4 battles, but its not too terrible. It is also on IOS and Android if you want to play it on the go.
+
+SpaceEngine.
+
+> Space Engine is free, gorgeous, and it is possible to fly a space ship through the entire universe.
+>
+> > Definitely recommend giving Space Engine a try. It's not much of a game, but there is some orbital physics and exploration with ships. You can explore the entire known universe, and even more procedurally generated galaxies, all with their own stars, nebulas, planets and black holes.
+
+Good 2D space games: 3030 Deathwar Redux, Endless Sky, Star Sector.
+
+Todo: 
+
+- https://www.reddit.com/r/patientgamers/comments/4zdwrw/good_space_game_space_sim_or_any_other_type_of/
+
+  > Start with:
+  >
+  > · Elite Dangerous
+  >
+  > · Oolite
+  >
+  > · Starpoint Gemini 2
+  >
+  > · Starpoint Gemini Warlords
+  >
+  > · Cosmonautica
+  >
+  > · X Rebirth
+
+- https://www.reddit.com/r/starcitizen/comments/8q00ei/what_other_flight_sims_do_you_guys_play_and_enjoy/
+
+- https://www.reddit.com/r/flightsim/comments/abxzln/what_simulator_should_i_get_the_somewhat/
+
+- https://www.reddit.com/r/truegaming/comments/3nufkt/what_killed_combat_flight_sims/
+
 ## Hack 'n' Slash (character action games)
 
 - Devil May Cry:
@@ -70,8 +291,6 @@ Here are the best fightings according to [Reddit](https://www.reddit.com/r/Fight
 
 - Bayonetta 2. It's just so well put together and satisfying to play.
 
-
-
 ## Immersive Sims
 
 Many things were taken from this [source](https://www.gamasutra.com/view/news/313302/7_influential_immersive_sims_that_all_devs_should_play.php):
@@ -79,12 +298,10 @@ Many things were taken from this [source](https://www.gamasutra.com/view/news/31
 - System Shock 2 - an RPG-influenced, twisted horror playground. The systems-heavy interactivity and freedom at the core of immersive sims can just as easily be used to stifle and undermine as to liberate and empower, if paired with smart writing.
 - Thief 1 & 2 - narrow-but-deep expression of the genre. Less is often more in game design; by focusing on a smaller set of ideas, systems, and verbs, Thief establishes a world dripping with detail and carefully designed around physicality — space, sound, light, dark, and movement bring depth to its relatively simple set of mechanics.
 - Deus Ex - broad ambition, flexible systems, and varying situations. Consistency does not mean always offering a full suite of options, or even necessarily allowing the same solutions to always work; rather, it's in following the rules of the world, and if you're smart about it it could involve setting expectations that experimentation will be rewarded more so than rote behavior.
-- TES Morrowind - occasionally.
 - Vampire The Masquerade: Bloodlines - a flawed but brilliant study of power fantasies. Artful use of scripting can configure and reconfigure player expectations, even in games that prize player freedom and emergence.
-- Pathologic.
+- Pathologic (I don't think it's an Immersive Sim).
 - S.T.A.L.K.E.R.
-- Bioshock + second DLC of Bioshock Infinite.
-- Deus Ex: Human Revolution.
+- Deus Ex: Human Revolution, Deus Ex: Mankind Divided.
 - Dishonored 1 & 2 - seamless possibility spaces meet masterful world building. Giving players full agency to play how they want takes two key design considerations: on the one hand, a diverse, inventive suite of tools and verbs, and on the other smart level design that allows freedom to solve problems in any way the player can imagine.
 - The Long Dark.
 - Prey.
@@ -92,7 +309,7 @@ Many things were taken from this [source](https://www.gamasutra.com/view/news/31
 - Dark Messiah of Might and Magic.
 - My Summer Car - the future of immersive sims. Immersive sims don't need to have sci fi or fantasy themes; they can be set just as easily in the life of an unextraordinary person in decidedly ordinary circumstances.
 
-Some other games have Immersive Sim components too: Hitman Blood Money (with 1st person), Metal Gear Solid V (with its AI system), Fallout New Vegas (with its 1st person view and hardcore mode).
+Some other games have Immersive Sim components too: Hitman Blood Money (with 1st person), Metal Gear Solid V (with its AI system), Fallout New Vegas (with its 1st person view and hardcore mode), Second DLC of Bioshock Infinite, TES Morrowind (occasionally).
 
 > An immersive sim can be anything so long as it's consistent and reactive and its world feels alive.
 
