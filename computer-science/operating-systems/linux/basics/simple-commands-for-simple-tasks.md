@@ -449,6 +449,74 @@ Opposite to expand, we can convert back each group of spaces to a TAB with the u
 unexpand -a result.txt
 ```
 
+### Join and split
+
+The join command allows you to join multiple files together by a common field (remember, indexing starts from 1). The fields have to be identical, if they are not you can sort them.
+
+How would we join the following files?
+
+```bash
+file1.txt
+John 1
+Jane 2
+Mary 3
+
+file2.txt
+1 Doe
+2 Doe
+3 Sue
+```
+
+To join this file you need to specify which fields you are joining, in this case we want field 2 on file1.txt and field 1 on file2.txt, so the command would look like this:
+
+```bash
+$ join -1 2 -2 1 file1.txt file2.txt
+1 John Doe
+2 Jane Doe
+3 Mary Sue
+```
+
+-1 refers to file1.txt and -2 refers to file2.txt. Pretty neat. You can also split a file up into different files with the split command:
+
+```bash
+split somefile
+```
+
+If you join two files with different number of lines in each file, the join command will discard the lines that don't exist in the biggest one. Remember, the files should have identical the first fields.
+
+This will split it into different files, by default it will split them once they reach a 1000 line limit. The files are named x** by default.
+
+### wc and nl
+
+The wc (word count) command shows the total count of words in a file. It display the number of lines, number of words and number of bytes, respectively. To just see just the count of a certain field, use the -l, -w, or -c respectively.
+
+Another command you can use to check the count of lines on a file is the nl (number lines) command.
+
+```bash
+nl file1.txt
+1. i
+2. like
+3. turtles
+```
+
+**Exercise**
+
+How would you get the total count of lines by using the nl file without searching through the entire output? Hint: Use some of the other commands you learned in this course.
+
+Solution:
+
+```bash
+nl -n 'ln' reading.txt | sort -r | cut -b 1 | head -n 1
+```
+
+> `nl -n 'ln'` will give us the number of lines with convenient formatting (otherwise we should start from the sixth character).
+>
+> `sort -r` will sort the given input recursively.
+>
+> `cut -b 1` allows us to get only the first characters of each line.
+>
+> `head -n 1` returns only the first line of the input. In this case, we only get one character.  
+
 ## References
 
 1. https://askubuntu.com/questions/106351/running-programs-in-the-background-from-terminal
