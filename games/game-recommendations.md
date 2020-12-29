@@ -496,7 +496,7 @@ SpaceEngine.
 
 Space Rangers HD.
 
-Wing Commander: Privateer.
+Wing Commander 1+2, Wing Commander: Privateer, Wing Commander 3 Heart of the Tiger.
 
 > This is probably one of the older examples, but Wing Commander: Privateer. You fly around trading and upgrading your ship. You can be attacked by pirates or play as one, smuggle goods, or just do cargo runs. There is a main story to complete.
 >
@@ -507,6 +507,120 @@ Wing Commander: Privateer.
 > Believe it or not, there was a time when these were extremely popular. Wing Commander, X-Wing, and X for example.
 >
 > https://en.wikipedia.org/wiki/List_of_space_flight_simulator_games
+
+---
+
+> Additional sources:  [Reddit 2 - RebelGalaxy made me pick up wing commander 4](https://www.reddit.com/r/RebelGalaxy/comments/cwmrmr/this_game_made_me_pick_up_wing_commander_4/), [Reddit 3 - why did the Wing Commander franchise totally disappear?](https://www.reddit.com/r/truegaming/comments/29oiyc/why_did_the_wing_commander_franchise_totally/), [Reddit 4 - best wing commander versions to play in 2020](https://www.reddit.com/r/spacesimgames/comments/i66o8f/best_wing_commander_versions_to_play_in_2020/), [GOG - What is the best Wing Commander experience?](https://www.gog.com/forum/wing_commander_series/what_is_the_best_wing_commander_experience), [Reddit 5 - Is it worth playing Wing Commander to get an idea of where Star Citizen will be in the future?](https://www.reddit.com/r/starcitizen/comments/5g9qc2/is_it_worth_playing_wing_commander_to_get_an_idea/).
+
+> Yes I still play Privateer every month or so. Never really enjoyed the other more mission based ones though.
+>
+> Not sure why you think Dosbox somehow negates the value of a GOG release?
+>
+> > The original Wing Commander doesn't have a frame limiter built into it (one was added for the second expansion pack, Secret Missions 2). Because of that, there is no CPU cycle that works flawlessly in DOSBox. If you raise the cycles with lots of ships on screen, it will then run wayyyy too fast when you destroy said ships. If you leave default, it will slow to a complete crawl.
+> >
+> > You have to constantly be adjusting the CPU cycle with F11/F12 as you play, every mission, multiple times a mission. It's an absolute disaster but it's not DOSBox's fault, it's the game's code and it happens if you run the original floppies on anything faster than a 386.
+> >
+> > The only way to play it right is to use the Kilrathi Saga versions that were released later for Windows 95, with frame limiters finally built in. You will need to use a patch that a fan made to get it to run on modern machines, but it works great and adds tons of functionality (can alt+enter into a window, for one). It also has the better, orchestrated soundtrack. Check it out if you want to enjoy them!
+
+> Don't see the problem with GoG dosbox games, they all run perfectly on my windows 10 pc. Was playing privateer waiting on for RGO release. Now Privateer 2 that one is a bit touchy, but really don't get the dosbox hate, no editing needed, runs straight out of the box just fine.
+>
+> Trying to run them by adding DosBox on games owned, now thats a ugh, and the WC's have tye voice patches also for 1 and 2.
+>
+> > Privateer 2 has never worked properly on any system since it was released. Its incredibly buggy.
+
+> WC4 had the worst story of the 4 tho
+>
+> Didn't even have any Kilrathi!
+>
+> > I could never get into WC3 or 4 either. The combat didn't have the same feel and wasn't very fun to play, WC3's story seemed like a rehash of both Star Wars and WC2 but with a worse twist, and WC3 ended the Kilrathi. I didn't *hate* them and they do have their moments, but they're definitely not games I replay.
+> >
+> > I remember reading someone's post somewhere a long time ago that "the closer Chris Roberts gets to his vision of the 'perfect game', the farther away he is from making games I want to play." Took the words right out of my mouth, sadly.
+> >
+> > > Chris Roberts greatest achievement in life was making Mark Hammill commit a warcrime on tape
+
+> It's too bad WC1 and 2 used 2D sprites - the graphics really haven't aged very well. But if you're on a GOG kick for 90's space sims, I can personally guarantee TIE Fighter still kicks as much ass as it did 25 years ago.
+>
+> > <u>Strong disagree on this one.</u> The original Wing Commanders still look and play amazing all these years later. It's the FMV games (3 and onward) that look hopelessly dated to me.
+> >
+> > > > It's the FMV games (3 and onward) that look hopelessly dated to me.
+> > >
+> > > Oh yeah for sure. The FMV is mostly terrible haha. I meant in-flight. The ship sprites being limited to 8-way perspectives I find really distracting.
+> > >
+> > > > Ah, well I still disagree lol. It's heavily nostalgic for me I guess. It was mindblowing as a kid in 1990. A lot of it stuck with me and formed my opinions about feel and immersion. It may sound ridiculous, but I just love everything about those games, down to the slowdowns and guns not firing sometimes because the on-screen sprite count gets too high. There's just so much innovation and personality in the early Wing Commander games. The later games in the series don't *feel* right to me, and I'm sure some of that comes down to the early WC games' fake-3D sprites and how they move. Though I can understand how it might be distracting if you're used to... not that, lol
+
+> I still replay all the OriginFX engine Wing Commanders (1, 2, and Privateer) at least once a year and they run flawlessly in DOSbox on Linux. Never had a problem on Windows either.
+>
+> I am admittedly a wingnut and had no need of the GOG versions because I still have my original copies from the 90s, but if I didn't then it would absolutely be worth it to me to pay a few bucks for them.
+
+> Honestly the entire series is great, starting with the first game. The mission design in the first game is top-notch, and there's some really great emergent cinematic gameplay in the sequel. The 2D graphics in the first two games haven't aged terribly well, however. If playing games with older sprite-based graphics is hard for you, then Wing Commander 3 is a good starting point. If you can handle them, then go ahead and start at the beginning!
+
+> For me, the second game, but I like old school games and am yet to play the third so I am not super qualified.
+
+> I'd say start with any of them except IV. WC4 is a fantastic game, but it will be really hard and you won't dig the story as much if you haven't played 3. Both 3 and 4 have an all star sci-fi cast and are two of the few FMV games done right. One warning about 3, some gamepads and flight sticks are a pain to calibrate without using some odd config tricks if you want analog control. 
+>
+> Privateer has a open world design with a plot that is a heavy inspiration for Star Citizen. If you don't mind old school fun and some slowdown issues, start with 1 or 2.
+>
+> Based purely on my preferences, start with 3 or Privateer.
+
+> I originally started at three and played through 4 + Prophecy., having never gone back for 1 and 2. With so many sales in the past year for the whole series, you might as well start from the beginning.
+
+> *Most* of the WC games from GOG.com can be played on a modern machine, though with a few hiccups and inconsistent joystick support. WC2 I remember having some significant problems because the GOG CPU timing in DosBox was off, meaning it didn't properly register the hits of your projectiles on enemy ships. WC3 and 4 both worked fine.
+>
+> There's also the Wing Commander Saga, a total conversion for FreeSpace 2 SCP. I haven't played it in a long time but I remember it being pretty damned good.
+
+> If you don't mind the 2d sprites used to fake 3d wc1/2 pack is a good start. Also privateer.
+>
+> WC 3 marks the games entry for 3d. Wc4 carries on but kinda busted up the textures.
+>
+> Prophecy probably looks the best when using the opengl mod.
+>
+> They all work fine from gog, I've had no issues.
+>
+> Armada and Academy you could miss if your more interested in a story.
+>
+> Privateer 2 you can miss without missing out on much, but had some cool fmv and quality actors.
+
+**Is it worth playing Wing Commander to get an idea of where Star Citizen will be in the future?**
+
+> If you want a feel for what Star Citizen is going to be, play Privateer 1, and Freelancer. If you want to know how Squadron 42 is going to play, try out Wing Commander and Starlancer.
+>
+> > Privateer 2 is like the red headed stepchild of the Roberts family. Nobody talks about that kid.
+> >
+> > > I liked Privateer 2, but it definitely has its own feel to it. A year or so ago (in 2015 I guess), Chris explained why. Apparently Privateer 2 was done almost entirely by his brother, and it wasn't even supposed to be a Wing Commander game. They just decided to switch it over partway through development to take advantage of the Wing Commander IP's strength (IIRC).
+
+> The flight model in WC1 is btw surprisingly good, the lack of proper 3D engine might be in the way as you have a hard time to guess angles to enemy ships, how far your slides need to go, etc
+>
+> But your actual ship as weight, drifts, and you can actually plan your movement better ahead than you could in all SC versions up to 2.0
+> Furthermore the manual itself comes with good tips, maneuvers and explanations how they work, all that stuff does still apply to today. But the visuals are really in the way of seeing all those details, quite literally as ships have only 18 different views on them at best, properly even less, for the most part you just see a 2D sprite representation enemy and allied ships and one of those 18 (or less) 2D pixel artworks gets loaded depending on your position to those ships.
+>
+> Basically it is a 3D flight model within a 2D graphic engine. Less sophisticated than even doom 1 … but the movement and actual flying is full 3D.
+
+> Yeah, you can count the pixels, but Privateer is still really a lot more engaging and more fun to play than Freelancer. Which applies even to its direct predecessor privateer 2, which simply was not as good as privateer 1, especially as the righteous fire expansion was great.
+>
+> And I am not talking out of nostalgia, I have played freelancer before privateer. I had my first privateer playthrough just a few years ago when I grabbed all the old wing commander cames on GOG.com
+>
+> But yeah, graphics are awful and they were not even good by 1993 standards as that is the year the original x-wing has been released as well. -^
+
+> I'd skip ahead and play wing commander 3. It's the first one with live action cutscenes and has a couple of the famous actors like Mark Hammil that will be in s42. Its also a very fun game.
+
+> With a joystick even wc1 is still a fun game, so it is totally worth buying and playing and should give you a good impression how far the SC project has deviated from the wing commander games by now.
+> WC1 and WC2 and their secret mission packs are rather dated. They are still surprisingly fun games once you get used to the very small field of view and super simple graphics, WC3-5 use 3D engines and ages ok, especially 5 with an openGL patch looks still really good imho. Privateer 1 is even by today's standards a great game despite using the same style of engine as WC1 and WC2. There is iirc better graphic remake of that which plays exactly the same, but looks a lot better than the original. Still super dated graphics though, but looks about twice as good :)
+
+> I'm seeing a lot of love for Freelancer which is peculiar as the game is played from the 3rd person.
+>
+> I recommend instead [Wing Commander: The Darkest Dawn](http://www.wcsaga.com/index.php/rs-downloads/download.html?path=releases%2Fdarkest-dawn-setup.zip). Although this is a fan made game I was very pleased at the depth of the controls. You probably have better control options here than the standard Wing Commander game, but I'll also mention I've been pleasantly surprised that the depth of control options in Star Citizen even exceeds that.
+
+> It's worth playing Wing Commander to get an idea of where Star Citizen was in the **past**.
+
+> Wing commander = Squadron 42 (campaign).
+>
+> [Freelancer](https://youtu.be/1NFl8Yn7guE?t=57s) + [Discovery](https://discoverygc.com/) = Star citizen
+
+Also, read the [Why did the Wing Commander franchise totally disappear?](https://www.reddit.com/r/truegaming/comments/29oiyc/why_did_the_wing_commander_franchise_totally/) discussion.
+
+Also, you should know that [Eterium](http://store.steampowered.com/app/280200/) is a modern Wing Commander to scratch the same itch.
+
+---
 
 Star Wars: TIE Fighter, Star Wars: X-Wing Alliance.
 
@@ -570,7 +684,7 @@ Good 2D space games: 3030 Deathwar Redux, Endless Sky, Star Sector, Star Control
 
 - Devil May Cry:
 
-  > But 1, 3, and 5 are all mast erpieces. 4 is just another solid game in comparison.
+  > But 1, 3, and 5 are all masterpieces. 4 is just another solid game in comparison.
 
   - DMC5: Mechanically the best game in the series.
   - DMC3 (with 2): was genre defining, had the best story, perfect representation of the series.
