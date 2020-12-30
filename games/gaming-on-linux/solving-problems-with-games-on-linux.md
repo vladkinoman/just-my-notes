@@ -92,9 +92,23 @@ In [this discussion](https://steamcommunity.com/app/221410/discussions/0/2798319
 
 **Solution.**
 
+Disable DXVK/VKD3D (this enables Direct3D 12 support and increases) compatibility and performance in Direct3D 11, 10 and 9 applications by translating their calls to Vulkan.
 
+**Issue. Getting Lutris to recognize Steam games that are already installed**
 
-> TODO: check the links below
+**Solution.**
+
+> [Source](https://www.reddit.com/r/linux_gaming/comments/7havmh/getting_lutris_to_recognize_steam_games_that_are/).
+
+this is a bit tricky
+
+run the installer, log into steam, when it asks you to install the game keep the install window up, but dont run it, and dont close it.
+
+(The reason I say don't close it is because lutris has a process monitor that keeps tabs on when steam closes so that it can continue the installer. )
+
+Anyway, with steam still running, go to the settings, add your steam library folder. THEN cancel the steam game installer, then cancel the lutris installer. Then run it again. It should instantly complete.
+
+**Just in case.**
 
 https://forums.lutris.net/t/please-read-before-asking-for-help/3727
 
@@ -119,6 +133,37 @@ https://www.reddit.com/r/linux_gaming/comments/hqhxb5/lutrisorigin_flickering_ma
 https://www.reddit.com/r/wine_gaming/comments/au0xpy/how_to_get_rid_of_blinking_epic_games_launcher_on/
 
 https://www.reddit.com/r/linux_gaming/comments/99qyvh/lutris_and_steamplay_monster_hunter_world/
+
+https://forums.lutris.net/t/how-can-i-run-a-windows-application-in-a-steam-games-folder/5736/4
+
+> …Just tried running Winesteam, installing a game and importing from it. The imported icon *does* in fact have the “Run EXE inside wine prefix” option, same as regular Wine games.
+>
+> Did you perhaps install the game in native Steam (via Proton)? If you did you should’ve mentioned that, since as far as Lutris can tell it’s a native Linux game install.
+> For Proton, you’ll have to [install `protontricks` utility 36](https://github.com/Matoking/protontricks#pipx-recommended) (Proton wrapper for `winetricks`), and then use it to run the program from shell. The following is usage example for running Duke Nukem Manhattan Project configurator:
+>
+> ```bash
+> $ protontricks -s duke   # querying prefix id
+> Found the following games:
+> Duke Nukem: Manhattan Project (240200)
+> $ protontricks 240200 shell
+> <steam-game-dir>/steamapps/compatdata/240200/pfx/dosdevices/c: $
+> # shell session opens in C: of wineprefix, <steam-game-dir> is configured Steam game folder
+> $ which wine    # checking if using correct wine binary
+> <steam-game-dir>/steamapps/common/Proton 4.2/dist/bin/wine
+> $ cd <steam-game-dir>/steamapps/common/"Duke Nukem Manhatten Project"
+> $ wine MPconf-old   # running MPconf-old.exe
+> $ exit   # closing Proton shell session
+> ```
+
+https://forums.lutris.net/t/questions-about-how-to-use-and-configure-lutris-to-use-steam/76/3
+
+https://forums.lutris.net/t/wine-steam-games-get-black-screen-on-start-up-work-fine-without-steam/4175
+
+https://forums.lutris.net/t/how-i-got-the-winesteam-runner-to-work-properly-under-lutris/6791
+
+https://forums.lutris.net/t/wine-steam-runner/447/3
+
+https://forums.lutris.net/t/how-to-import-games-installed-on-another-linux-distribution/6710
 
 ### Proton
 
