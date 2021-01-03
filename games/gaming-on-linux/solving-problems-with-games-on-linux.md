@@ -13,13 +13,14 @@
    4. [Steamtricks](#Steamtricks)
    5. [Linux steam integration](#Linux steam integration)
 4. [Alan Wake and Alan Wake American Nightmare](#Alan-Wake-and-Alan-Wake-American-Nightmare)
-5. [Deus Ex with GMDX mod](#Deus-Ex-with-GMDX-mod)
-6. [GTA III](#GTA-III)
-7. [Max Payne](#Max-Payne)
-8. [Super Meat Boy](#Super-Meat-Boy)
-9. [The Talos Principle](#The-Talos-Principle)
-10. [Just in case](#Just-in-case)
-11. [References](#References)
+5. [Bully](#Bully)
+6. [Deus Ex with GMDX mod](#Deus-Ex-with-GMDX-mod)
+7. [GTA III](#GTA-III)
+8. [Max Payne](#Max-Payne)
+9. [Super Meat Boy](#Super-Meat-Boy)
+10. [The Talos Principle](#The-Talos-Principle)
+11. [Just in case](#Just-in-case)
+12. [References](#References)
 
 ## Issues with hardware
 
@@ -240,6 +241,18 @@ I got the next error in the game:
 **Solution**
 
 The same as in Alan Wake :man_shrugging:
+
+## Bully
+
+There are [many](https://www.protondb.com/app/12200) different tweaks you can use to get this game running properly on your PC. What helped me:
+
+- Proton 5.0-10.
+- SilentPatch for Bully: Scholarship Edition (fixes crashes on Windows 10). I don't know why I need it, but a lot of people say it's a must. Maybe it will reduce or eliminate the number of crashes altogether.
+- I also added the next parameters: `PULSE_LATENCY_MSEC=60 PROTON_USE_D9VK=true PROTON_FORCE_LARGE_ADDRESS_AWARE=1`.
+
+Also, you should know that I had endless loadings with this game. In order to fix this, I had to do alt-tabing every time.
+
+If you changed controls in the game and can't fix this, just remove the config files in the My Documents folder. This is how I solved the problem of gamepad identification.
 
 ## Deus Ex with GMDX mod
 
