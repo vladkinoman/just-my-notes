@@ -16,6 +16,7 @@ sudo easy_install3 pip
 pip install --upgrade pip
 
 pip install \
+	ranger-fm
 	youtube-dl \
 	virtualenvwrapper \
 	flask \
