@@ -18,13 +18,16 @@ sudo apt install -y \
 	npm \
 	code \
 
-#the fun stuff. A list of graphic software, delete the line for any software you don't need or want. I don't use all of these things, but I tried to cover as many bases as I could.
+#the fun stuff
 sudo apt install -y \
+	neofetch \
+	os-prober \
 	firefox \
 	chromium-browser \
 	deluge \
 	gimp \
 	inkscape \
+	drawing \
 	krita \
 	blender \
 	openscad \
@@ -37,7 +40,6 @@ sudo apt install -y \
 	mpv \
 	libreoffice libreoffice-gtk \
 	vlc \
-	tilda \
 	terminology
 
 #super useful commandline tools and utilities. These are what I spend most of my time using.
