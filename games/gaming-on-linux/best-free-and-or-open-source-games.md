@@ -25,7 +25,7 @@
 
 ---
 
-Linux community knows the best game out thereю
+Linux community knows the best game out there.
 
 ```bash
 [ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo *Click*
@@ -377,7 +377,88 @@ Quake III Arena with [ioquake3](https://ioquake3.org/) engine. The Quake 3 engin
 
 ### Chess
 
-.
+[Lichess](https://lichess.org/). [Github page](https://github.com/ornicar/lila). [Lichess mobile application](https://github.com/veloce/lichobile). It is good for online gaming. It's free and supports plenty of match styles, including multi-day correspondence. The best thing about it is that you can play anonymously. For practice, you can also play against the Stockfish engine (more on what that is in the sections below). [Chessground](https://github.com/ornicar/chessground) is a free/libre open source chess UI developed for [lichess.org](https://lichess.org/). It targets modern browsers, as well as mobile development using Cordova.
+
+[Stockfish](https://stockfishchess.org/) ([GitHub page](https://github.com/official-stockfish/Stockfish)) is a free, powerful UCI chess engine derived from Glaurung 2.1. Stockfish is not a complete chess program and requires a UCI-compatible graphical user interface (GUI) (e.g. XBoard with PolyGlot, Scid, Cute Chess, eboard, Arena, Sigma Chess, Shredder, Chess Partner or Fritz) in order to be used comfortably.
+
+> Stockfish rose in popularity after it competed with AlphaZero, an artificial intelligence program that taught itself to play chess. Although AlphaZero beat Stockfish in 2019, you can imagine the magnanimity of Stockfish by the fact that its chess engine searches for 70 million positions in chess.
+>
+> Almost every modern chess GUI program supports playing against Stockfish. And choosing Stockfish as an opponent will no doubt be challenging but how does one further their knowledge without a good challenge? If you want to train in chess, the chess gurus recommend that you play against strong chess engines like Stockfish.
+
+> Sam Copeland: 
+>
+> **Engines**
+>
+> There are fine engines for LINUX. I recommend **Stockfish** and **Critter** personally. It is useful to have two engines to get a second opinion on complicated positions. Both Stockfish and Critter are free and have native LINUX versions available. In my experience, **[Stockfish](http://stockfishchess.org/)** may actually be the stronger program in terms of move selection, but the evaluations are not intended to be human readable. The evaluations often seem inflated to me, and it can be difficult for me to determine whether a +.5 evaluation is actually an edge or an illusion. **[Critter](http://www.vlasak.biz/critter/)**’s evaluations are more compatible with human evaluations, and it seems to task my processor a bit less so I tend to use it more often. Both are very capable 3000+ ELO engines which are more than suitable for most players. [Komodo](http://komodochess.com/) (recommended by @[KMagik](http://www.chess.com/members/view/KMagik)) is also a top level engine that provides a Linux version. Komodo has a reputation for positional insight. The latest version (7) is available for sale, but version 5 is made available for free.
+>
+> **Servers**
+>
+> One of my lengthiest frustrations about chess on LINUX was the lack of client support for chess servers. I have played on [**ICC**](http://www.chessclub.com/) for years, but they have never had great support for LINUX. [**Jin**](http://www.jinchess.com/) does what it does well, but there are many functions it doesn’t support. ICC has a new web [app](http://play.chessclub.com/), but it also seems comparatively limited at the moment. My frustrations have lead me to let my membership lapse so I am no longer able to speak to the newer options, but [Lantern](http://www.lanternchess.com/) (recommended by @[zotalegre](http://www.chess.com/members/view/zotalegre)) looks promising.
+>
+> These days, I prefer browser based chess servers as I don't have to worry about ongoing platform support. More and more chess servers are making the browser the default platform. I personally play on [**Chess.com**](http://www.chess.com/), and I am 95% satisfied with the live server experience. The one feature I really miss is the ability to analyze with an engine after a game is over. I regularly want to review a moment from a blitz game with an engine. It is not difficult to copy the pgn into SCID, but I would really like to be able to analyze it in the browser. [**Chess24**](https://chess24.com/) is a new entrant to the market. They also have an excellent live server experience in the browser, but they have relatively few users at the moment. It will be interesting to see how Chess24 develops over the next year. I have rarely played on **[playchess](http://play.chessbase.com/js/apps/playchess/),** but they also have a good web app.
+>
+> My absolute favorite chess server which I am sadly not playing on is **[lichess](http://en.lichess.org/)**, recommended by @[achja](http://www.chess.com/members/view/achja). Lichess is a perfect chess server experience. It is a free server driven by an open conception of the internet. The interface is absolutely beautiful, and lichess is filled with great server features including support for Chess960 and pools. There are typically 1500+ players online, but there are not currently many strong GMs. For someone looking for a "full service" chess site, I recommend chess.com because of all the added content and features such as blogs, articles, daily chess, etc. However, if you are simply looking for the best server around, you cannot go wrong with lichess.
+>
+> [**FICS**](http://www.freechess.org/), the Free Internet Chess Club, has the best client support for LINUX. There are many clients available for FICS, but I would recommend using Jin. Many users, firstly @[achja](http://www.chess.com/members/view/achja), have recommended [Raptor](http://code.google.com/p/raptor-chess-interface/) for FICS.
+>
+> **Databases**
+>
+> [**ICOFY**](http://icofy-blog.de/) is a great free database with over 5,000,000 games. It is regularly updated, well stocked, and well documented and cleaned. It is available in SCID formats as well as pgn and Chessbase formats. For most players, I would look no further. If you want an absolutely top of the line database, I would look at [**OpeningMaster**](http://www.openingmaster.com/). OpeningMaster has over 8.7 million games. This includes 1.3 million correspondence games. OpeningMaster is not free, but it does support SCID and PGN formats. For some further thoughts on chess databases, and some recommendations for web based databases, see my article at http://www.chess.com/blog/SamCopeland/databases-tips-tricks-and-recommendations.
+>
+> **Tournament Direction**
+>
+> As a relatively new tournament director, I was initially very frustrated by the dominance of Windows only softwares in the US market. WinTD and SwissSys are the go tos. I am very happy to have found [**Vega**](http://www.vegachess.com/tl/index.php/Home_page_English.html). Vega is developed by Luigi Forlano primarily for use in Italian and European tournaments, but it does support USCF tournaments by supporting USCF Swiss System pairings and tiebreaks rules, allowing TDs to load the USCF player database, and creating dbf files for USCF tournament submission. To my mind, Vega has a better UI and a better workflow than SwissSys and WinTD. In the coming weeks, I hope to create a set of youtube tutorials for USCF TDs interested in Vega.
+
+> **LinuxReviews: In bullet summary, [Knights](https://linuxreviews.org/Knights), [pychess](https://linuxreviews.org/Pychess) and [XBoard](https://linuxreviews.org/XBoard) are the best choices (in that order).**
+
+[Knights](https://kde.org/applications/games/org.kde.knights).
+
+> [Knights](https://linuxreviews.org/Knights) is a nice-looking chess interface made using the [KDE](https://linuxreviews.org/KDE) libraries. It was originally made for KDE 3.5 and later ported to KDE 4 and 5.
+> It supports themes, loading and saving of games, multiple chess engines (it will auto-detect the ones you have installed) and online play on chess servers. Creating a new online account - if you don't already have one - is easy.
+>
+> [Knights](https://linuxreviews.org/Knights) is overall a really nice program for playing chess and it is the best alternative available on Linux. It's homepage is at https://kde.org/applications/games/org.kde.knights
+
+[PyChess](http://www.pychess.org/).
+
+> It is a chess game written in Python. It's a fully-featured chess game with support for all the chess engines as well as online play. It has got a interface with animations. It supports chess board themes using both images and TTF files. Using TTF files appears to be broken, perhaps it's just our version of it or perhaps it's broken for everyone.
+>
+> **[PyChess](https://linuxreviews.org/PyChess) has all the features you would want from a chess game** but it's not our favorite. The interface feels sluggish and laggy regardless of what hardware it's on, this is the case on laptops as well as computers capable of running modern FPS titles at 120 fps in 4k. It simply feels irresponsible. This may just be a personal opinion you won't share if you try it. It absolutely is feature-rick and it has everything you would want from a chess program. Perhaps *you* will like it.
+
+> Sam Copeland:
+>
+> **Chess Programs** 
+>
+> **PyChess** - **[PyChess](http://pychess.org/)** doesn’t do as much as SCID or ChessX, but it still does quite alot. It’s a very user friendly program for LINUX that allows playing games against engines or humans, playing on FICS, and playing through and annotating a game. If you are a casual chess player that would like a simple program to annotate or play a personal game on occasion, PyChess may be the right program for you. PyChess has made some nice improvements since the last time I used it; hearty compliments to the developers on their fine work.
+
+[Xboard](https://www.gnu.org/software/xboard/).
+
+> [XBoard](https://linuxreviews.org/XBoard) is a *very old* and mature chess interface. It's not at all fancy or very flashy and there is no "3D" view or anything like that. It supports the chess engines Fairymax, Fruit, Crafty and GNU Chess - and others with support for the common protocol used by these programs.
+>
+> **[XBoard](https://linuxreviews.org/XBoard) lacks a very significant and important feature: There is no graphical support for playing games over the network.** This really is quite the deal-breaker and it makes [XBoard](https://linuxreviews.org/XBoard) an alternative not worth consideration if you want to play anything other than computer opponents. The sad part is that Board *does support* playing over the network and *it has had support for chess servers for over a decade*. The trick required to connect to say freechess is to *start [XBoard](https://linuxreviews.org/XBoard) from the command-line* with arguments like `xboard -ics -icshost freechess.org`. That's not exactly user-friendly. It may have been a fine way of doing things in the 1980s but it's simply not someone a program should expect users to do in 2019.
+
+[Arena Chess GUI](http://www.playwitharena.com/?Download:Arena_3.5.1): Arena Chess is more daunting for newcomers than Lucas Chess ([Lucas Chess](https://github.com/lukasmonk/lucaschess) is available on Windows), but it includes a [great deal of features](http://www.playwitharena.com/?Features), as well as support for 19 languages and a Linux verison.
+
+[SCID](http://scid.sourceforge.net/): Like the other GUIs on this list, SCID can be used to play against an engine, but it's most useful as a fast way to organize and analyze databases of chess games. You'll want to pair it with MillionBase, a massive database of chess games in PGN format (scroll [to 'Data Downlods' here](http://rebel13.nl/rebel13/rebel 13.html)) or other chess game databases. If you like the SCID interface, you can also try [**SCID vs PC**](http://scidvspc.sourceforge.net/) as a GUI for playing chess.
+
+> Sam Copeland:
+>
+> **Chess Programs**
+>
+> **SCID/SCID vs. PC** - **[SCID](http://scid.sourceforge.net/)** stands for Shane’s Chess Information Database. SCID does just about everything that you could want from a chess program. SCID is primarily designed to work with databases, and it allows you to create, edit, and search large databases very quickly. SCID also contains functions to play against and analyze with engines, annotate games, play on FICS, interact with DGT boards, etc. There are very few functions that SCID does not provide. I have a set of youtube [tutorials](https://www.youtube.com/playlist?list=PLL0mDDYLk9Cg2dyWjRd_Cgy32hOmVzrAi) showing some of the basic SCID functions that I recommend to my students.
+>
+> **[SCID vs. PC](http://scidvspc.sourceforge.net/)** is a dubiously named, but very well developed, fork of SCID. In fact, I strongly recommend using SCID vs. PC instead of SCID because of the more regular and useful updates to the program. Steven and the various other developers deserve high praise. The one advantage of SCID right now is that it has a bit better LINUX support such as being available for download from the Software Center and looking a bit more native.
+
+[ChessX](http://chessx.sourceforge.net/).
+
+> Sam Copeland:
+>
+> **Chess Programs**
+>
+> [**ChessX**](http://chessx.sourceforge.net/) - ChessX (recommended by @[KMagik](http://www.chess.com/members/view/KMagik)) is a very nice alternative to SCID. It doesn't offer quite as much functionality, but it has most of the basic features, and those features all seem to work very well. The project seemed stagnant for awhile, but it is now developing rapidly, and I am eager to see how the program develops over the next year. The program is developed with QT which provides a nice interface and should be an excellent platform to build on going forward.
+
+[Command Line Chess](https://github.com/marcusbuffett/command-line-chess). A python program to play chess against an AI in the terminal.
+
+[Cute Chess](https://awesomeopensource.com/project/cutechess/cutechess) is a graphical user interface, command-line interface and a library for playing chess. Cute Chess is written in C++ using the [Qt framework](https://www.qt.io/).
 
 ### Real-Time
 
@@ -459,4 +540,9 @@ In case you want to check out all the **amazing open source games available**, h
 10. https://osgameclones.com/
 11. https://opensource.com/article/18/12/linux-toy-myman
 12. https://www.tecmint.com/best-linux-terminal-console-games/
+13. https://linuxhint.com/best_chess_games_ubuntu/
+14. https://www.pcgamer.com/best-chess-games/
+15. https://awesomeopensource.com/projects/chess
+16. https://linuxreviews.org/Chess_games
+17. https://www.chess.com/blog/SamCopeland/the-best-linux-apps-for-chess
 
