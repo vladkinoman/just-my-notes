@@ -251,7 +251,9 @@ Computer Science [1](https://bitbucket.org/chrisbourke/computersciencei/raw/44fb
 
 [Chess Endings: Essential Knowledge](https://www.goodreads.com/book/show/85136.Chess_Endings) by Yuri Averbakh, P.H. Clarke (found this one on my GoogleDrive; people say that this is the best book on Chess ending phase; good)
 
+[Fundamental Chess Endings](https://www.goodreads.com/book/show/85122.Fundamental_Chess_Endings) by Karsten Müller, Frank Lamprecht, John Nunn (good)
 
+[Pandolfini's Endgame Course: Basic Endgame Concepts Explained by America's Leading Chess Teacher](https://www.goodreads.com/book/show/83340.Pandolfini_s_Endgame_Course) by Bruce Pandolfini (good)
 
 ## Graphics Programming
 
