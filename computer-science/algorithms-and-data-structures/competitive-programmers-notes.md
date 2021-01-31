@@ -1017,7 +1017,7 @@ This is the most effective algorithm. It only uses half the time compared to Alg
 
 The idea of **complete search** is to generate all possible solutions to the given problem using brute force, and then select the best solution or count the number of solutions, depending on the problem.
 
-If complete search is too slow, other techniques, such as greedy algs or dynamic programming, may be needed.
+If complete search is too slow, other techniques, such as **greedy algorithms** or **dynamic programming**, may be needed.
 
 ### Generating subsets of a set of n elements
 
@@ -1041,7 +1041,7 @@ void search(int k) {
 The function decides whether to include the element k in the subset or not, and in both cases, then calls itself with parameter k+1.
 
 ```
-							search(0)(n=3)
+						  search(0)(n=3)
                   /(k is not included)     \(k is included)
      ......................................................
 search(3) search(3) ..........................search(3) search(3)
@@ -1113,7 +1113,7 @@ A **backtracking** algorithm begins with an empty solution and extends the solut
 As an example, consider the problem of calculating the number of ways n queens can be placed on an n × n chessboard so that no two queens attack each other. For example, when n = 4, there are two possible solutions:
 
 ```
-|   | Q |   |   |		|   | Q |   |   |
+|   | Q |   |   |		|   |   | Q |   |
 |   |   |   | Q |		| Q |   |   |   |
 | Q |   |   |   |		|   |   |   | Q |
 |   |   | Q |   |		|   | Q |   |   |
@@ -1126,7 +1126,7 @@ The algorithm can be implemented as follows:
 void search(int y) {
    	if (y == n) {
         // the solution has been found
-        count++;
+        count++; // number of solutions
         return;
     }
     // the rows and columns are numbered from 0 to n − 1
@@ -1152,6 +1152,60 @@ The array `column` keeps track of columns that contain a queen, and the arrays `
 ```
 
 Let q(n) denote the number of ways to place n queens on an n x n chessboard. The above backtracking algorithm tells us that, for example, q(8) = 92. When n increases, the search quickly becomes slow, because the number of solutions increases exponentially. For example, calculating q(16) = 14772512 using the above algorithm already takes about a minute on a modern computer.
+
+#### Pruning the search
+
+The search tree of a backtracking algorithm is usually large and even simple observations can effectively prune the search. Especially useful are optimizations that occur during the first steps of the algorithm, i.e., at the top of the search tree.
+
+Optimizations:
+
+1. In any solution, we <u>first move one step down or right</u>. There are always <u>two paths</u> that <u>are symmetric</u> about the diagonal of the grid after the first step. Hence, we can decide that we always first move one step down (or right), and finally multiply the number of solutions by two.
+   - running time: 244 seconds
+   - number of recursive calls: 38 billion
+2. If the path reaches the <u>lower-right square</u> before it has visited all other squares of the grid, it is clear that it will not be possible to complete the solution. Using this observation, we can terminate the search immediately if we reach the lower-right square too early.
+   - running time: 119 seconds
+   - number of recursive calls: 20 billion
+3. If the <u>path touches a wall and can turn either left or right</u>, the grid splits into two parts that contain unvisited squares. In this case, we cannot visit all squares anymore, so we can terminate the search. This optimization is very useful:
+   - running time: 1.8 seconds
+   - number of recursive calls: 221 million
+4. The idea of Optimization 3 can be generalized: if the <u>path cannot continue</u>
+   <u>forward but can turn either left or right,</u> the grid splits into two parts that both
+   contain unvisited squares. It is clear that we cannot visit all squares anymore, so we can terminate the search. After this optimization, the search is very efficient:
+   - running time: 0.6 seconds
+   - number of recursive calls: 69 million'
+
+So, the running time of the original algorithm was 483 seconds, and now
+after the optimizations, the running time is only 0.6 seconds. Thus, the algorithm
+became nearly 1000 times faster after the optimizations.
+
+### Meet in the middle
+
+**Meet in the middle** is a technique where the search space is divided into two parts of about equal size. A separate search is performed for both of the parts, and finally the results of the searches are combined.
+
+The technique can be used if there is an efficient way to combine the results of the searches. In such a situation, the two searches may require less time than one large search. Typically, we can turn a factor of 2^n into a factor of 2^{n/2} using the meet in the middle technique.
+
+As an example, consider a problem where we are given a list of n numbers
+and a number x, and we want to find out if it is possible to choose some numbers
+from the list so that their sum is x. For example, given the list [2, 4, 5, 9] and
+x = 15, we can choose the numbers [2, 4, 9] to get 2 + 4 + 9 = 15. However, if x = 10
+for the same list, it is not possible to form the sum.
+
+A simple algorithm to the problem is to go through all subsets of the elements
+and check if the sum of any of the subsets is x. The running time of such an
+algorithm is O (2^n), because there are 2^n subsets. However, using the meet in the middle technique, we can achieve a more efficient O (2^{n/2}) time algorithm (this idea was introduced in 1974 by E. Horowitz and S. Sahni). Note that O (2^n) and O (2^{n/2}) are different complexities because 2^{n/2} equals **sqrt**(2^2) .
+
+The idea is to divide the list into two lists A and B such that both lists contain
+about half of the numbers. The first search generates all subsets of A and stores their sums to a list S_A. Correspondingly, the second search creates a list S_B from B. After this, it suffices to check if it is possible to choose one element from S A and another element from S B such that their sum is x. This is possible exactly
+when there is a way to form the sum x using the numbers of the original list.
+
+For example, suppose that the list is [2, 4, 5, 9] and x = 15. First, we divide
+the list into A = [2, 4] and B = [5, 9]. After this, we create lists S_A = [0, 2, 4, 6]
+and S_B = [0, 5, 9, 14]. In this case, the sum x = 15 is possible to form, because S_A
+contains the sum 6, S_B contains the sum 9, and 6 + 9 = 15. This corresponds to
+the solution [2, 4, 9].
+
+We can implement the algorithm so that its time complexity is O (2^{n/2}). First,
+we generate *sorted* lists S_A and S_B , which can be done in O (2^{n/2}) time using a merge-like technique. After this, since the lists are sorted, we can check in O (2^{n/2}) time if the sum x can be created from S_A and S_B.
 
 ## Greedy algorithms
 
