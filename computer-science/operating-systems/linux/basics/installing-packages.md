@@ -67,7 +67,7 @@ sudo dpkg -i /path/to/deb/file
 sudo apt-get install -f
 ```
 
-## Installing tar archive
+## Unpacking the tar archive and compile source code
 
 No need to use `sudo` to unpack the archive. Type this in a terminal:
 
@@ -75,18 +75,47 @@ No need to use `sudo` to unpack the archive. Type this in a terminal:
 tar -xzf archive.tar.gz
 ```
 
-If this archive contains something to install in the system, then `sudo` would be useful at one point or another. Very often, such an archive contains software that must be compiled and then installed. Typically, what you then do is as follows:
+If this archive contains something to install in the system, then `sudo` would be useful at one point or another. Very often, such an archive contains software that must be compiled and then installed.
+
+First thing is first, you'll need to have software to install the tools that will allow you to compile source code.
 
 ```bash
-tar -xzf archive-name.tar.gz
-cd archive-name
+sudo apt install build-essential
+```
+
+Inside the package contents will be a <u>configure script</u>, this script <u>checks for dependencies on your system and if you are missing anything, you'll see an error</u> and you'll need to fix those dependencies.
+
+```bash
 ./configure
+```
+
+The **./** allows you to execute a script in the current directory.
+
+```bash
 make
+```
+
+Inside of the package contents, there is a file called <u>Makefile</u> that <u>contains rules to building the software</u>. When you run the <u>make</u> command, it <u>looks at this file</u> to build the software.
+
+```bash
 sudo make install
 ```
 
+This command actually <u>installs the package</u>, <u>it will copy the correct files to the correct locations</u> on your computer.
 
-As you see, only the step actually installing the program requires superuser rights; everything else happens just in your home directory, which you own.
+If you want to uninstall the package, use:
+
+```bash
+sudo make uninstall
+```
+
+> Be wary when using make install, you may not realize how much is actually going on in the background. If you decide to remove this package, you may not actually remove everything because you didn't realize what was added to your system. Instead forget everything about make install that I just explained to you and use the **checkinstall** command. This command will make a .deb file for you that you can easily install and uninstall.
+>
+> ```bash
+> sudo checkinstall
+> ```
+>
+> This command will essentially "make install" and build a .deb package and install it. This makes it easier to remove the package later on.
 
 ## Uninstalling packages
 
