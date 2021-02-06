@@ -129,6 +129,15 @@ Subfolders:
   
   - **software-testing**: notes on the software testing process, which includes Design by Contract and Unit testing.
 
+## Tests
+
+This folder contains the tests I took after studying various subjects. This way I can track my progress, consolidate my knowledge, and check my residual knowledge.
+
+Subfolders:
+
+- **english**: tests passed after studying English books, fiction, and probably movies and video games.
+- **linux**: tests taken after learning Linux from various sites like LinuxJourney and various specialized books.
+
 ## Dependencies
 
 I made a decision to add this paragraph to track files whose topics overlap with each other on specific subtopics. This will improve knowledge of these specific subtopics.
