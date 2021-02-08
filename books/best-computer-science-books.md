@@ -1170,6 +1170,8 @@ by Toby Segaran](https://www.goodreads.com/book/show/1741472.Programming_Collect
 
 [Programming Computer Vision with Python: Tools and algorithms for analyzing images](http://programmingcomputervision.com/) by Jan Erik Solem (free book; good introduction; outdated because it uses Python 2; good)
 
+[Data Science at the Command Line](https://github.com/jeroenjanssens/data-science-at-the-command-line) by Jeroen Janssens (free book; good)
+
 ##### Intermediate
 
 [Python Data Science Handbook: Tools and Techniques for Developers](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake Vanderplas (free book; IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and other related tools; good!)
@@ -1331,8 +1333,7 @@ by Martin O. Jones (for biologists; good)
 
 [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly) by Floyd Marinescu (free book; it is an easy to read summary that explains the main points of Domain-Driven Design; without the repetition and only small but meaningful examples you can get up to speed in no time and start exploring the topic on your own with real code; if you made your own experiences and like to go a bit deeper in certain points you still can go for the book of Eric Evans; good!)
 
-[DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org/) by Markus Voelter (free book; this book is about creating domain-specific languages; it covers three main aspects: DSL design, DSL implementation and software engineering with DSLs; the book only looks at external DSLs and focuses mainly on textual syn-
-tax; good)
+[DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org/) by Markus Voelter (free book; this book is about creating domain-specific languages; it covers three main aspects: DSL design, DSL implementation and software engineering with DSLs; the book only looks at external DSLs and focuses mainly on textual syntax; good)
 
 #### Microservices
 
