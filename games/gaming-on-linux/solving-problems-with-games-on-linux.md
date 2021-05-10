@@ -579,7 +579,6 @@ If you have a Southern Islands card append to `GRUB_CMDLINE_LINUX_DEFAULT` the f
 How did I identify series of my video card? Well, I checked [this](https://www.wikiwand.com/en/Radeon_HD_8000_series) wiki page and found out the following information:
 
 > The GCN-based chips for desktop cards were codenamed as **Southern Islands**, while the mobile ones (again, only the GCN-based and not the rebranded ones) were codenamed as Solar System.
->
 
 So, I used `radeon.si_support=0 amdgpu.si_support=1` in Grub.
 
@@ -768,6 +767,18 @@ Performance:
 
 You can enable V-Sync (wait for vertical refresh). It is especially useful when you want to sync a picture when you locked it in 60 fps.
 
+## Wolfenstein: The New Order
+
+**Issue**. Can't launch.
+
+Solution.
+
+Try in steam launch options add this: 
+
+```bash
+MESA_GL_VERSION_OVERRIDE=4.4 MESA_GLSL_VERSION_OVERRIDE=440 %command%
+```
+
 ## Just in case
 
 Other problems with enabling a discrete video card: [Elite: Dangerous is using the wrong GPU with Proton](https://www.reddit.com/r/wine_gaming/comments/azyuwz/elite_dangerous_is_using_the_wrong_gpu_with_proton/), [Steam games won't use Dedicated GPU](https://www.reddit.com/r/linux_gaming/comments/iqqqfr/steam_games_wont_use_dedicated_gpu/).
@@ -801,3 +812,4 @@ Info on PPAs for open source video drivers: [ppas-mesa-vulkan-drivers-for-proton
 21. https://steamcommunity.com/app/221410/discussions/0/828934913344641612/
 22. https://wiki.archlinux.org/index.php/CPU_frequency_scaling#cpupower
 23. https://www.reddit.com/r/TheTalosPrinciple/comments/dwgbcd/help_playing_the_game/
+24. https://www.reddit.com/r/linux_gaming/comments/jz1zqe/wolfenstein_the_new_order_doesnt_start_due_to/
