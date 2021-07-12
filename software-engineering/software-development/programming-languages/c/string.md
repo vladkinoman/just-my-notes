@@ -226,3 +226,110 @@ size_t strnlen(const char *str, size_t len)
     return len;
 }
 ```
+
+## c - memcpy and pointers. Still work. Why?
+
+> [Source](https://stackoverflow.com/questions/26817836/c-memcpy-and-pointers-still-work-why).
+
+> # Context
+>
+> Fiddling with memcpy. Linux, 64 bits. gcc 4.8.x
+>
+> # Code
+>
+> ```c
+> #include <stdio.h>
+> #include <string.h>
+> #include <stdlib.h>
+> 
+> void d(char ** restrict a, char ** restrict b){
+> 
+>     char r[20];
+>     memcpy(r,*a, strlen(*a)+1);
+> 
+>     // it is the same thing as before since *c is equivalent to &r (or put simply r).
+>     char *restrict c = malloc(20);
+>     memcpy(c,*a, strlen(*a)+1);
+> 
+>     // that one bugs me. why b alone and not *b ??
+>     // EDIT : this is incorrect
+>     memcpy(b,*a, strlen(*a)+1);
+> 
+>     // EDIT : this is correct
+>     memcpy(*b,*a, strlen(*a)+1);
+> 
+> 
+>     printf("pointer c -> hey %s\n",c);
+>     printf("array r -> hey %s\n",r);
+> 
+>     // EDIT : this is incorrect
+>     printf("double pointer -> hey %s\n",b);
+> 
+>     // EDIT : this is correct
+>     printf("double pointer -> hey %s\n",*b);
+> }
+> 
+> int main(void)
+> {
+> 
+>     char a[] = "YOU";
+>     char * b = a;
+>     char * c = malloc(20);
+> 
+>     d(&b, &c);
+> 
+> 
+>     return 0;
+> }
+> ```
+>
+> # Question
+>
+> I would like to undertsand why memcpy doesn't complain about me passing double pointer to it, while it needs a pointer only.
+>
+> I know that with chars *b == &a == a and that an array is referenced by its first member up to '\0'. The problem really is with passing a double pointer to memcpy.
+>
+> why didn't I have to do
+>
+> ```c
+> memcpy(*b, *a, strlen(*a)+1);
+> ```
+>
+> since memcpy signature is
+>
+> ```c
+> void * memcpy ( void * destination, const void * source, size_t num );
+> ```
+>
+> and first argument is a "Pointer to the destination array where the content is to be copied, type-casted to a pointer of type void*", according to [cplusplus.com](http://www.cplusplus.com/reference/cstring/memcpy/).
+>
+> What is the "catch" here please ?
+>
+> Thanks a lot
+
+Well, a double pointer is a single pointer to single pointer, so it can be passed to a function that expects a void pointer.
+
+It is of course another thing whether or not your code is correct... It's not and works only by coincidence. Note that not only you use memcpy() to write to a wrong location, but you also print the same wrong location of memory as a string in your printf(). The "coincidence" here is that both of these "wrong" locations are the same, so you falsely assumed that it works fine.
+
+Try to really print the right thing and you'll see the mayhem:
+
+```c
+printf("double pointer -> hey %s\n",*b);
+```
+
+---
+
+Consider what would happen if you wanted to copy the representation of a pointer to another one, like this:
+
+```c
+char *p;
+char *q = NULL;
+memcpy(&p, &q, sizeof q);
+```
+
+should the compiler really complain in this case? **Nope.**
+
+The point is that `void *` is untyped. It can point to **any** object type. It's not a constraint that a `void *` can't point to a pointer-to-pointer. It absolutely can.
+
+As to why it "works": **It does not work.** It only appears to be working. Because of the invalid pointer operation, the code has undefined behavior, so it can do anything. In the better case, it crashes and makes the problem apparent. In your case, the error remained silent and the program was pretending it worked.
+
