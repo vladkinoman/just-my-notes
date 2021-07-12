@@ -6,6 +6,7 @@
 2. [Objects and types](#Objects-and-types)
 3. [Expressions](#Expressions)
 4. [Runtime Errors](#Runtime-Errors)
+5. [Difference between](#Difference-between)
 
 ## Tokens
 
@@ -96,3 +97,146 @@ A runtime error means that the program was compiled successfully, but it exited 
 2. Check every single occurrence of accessing an array element and see if it could possibly be out of bounds.
 3. Make sure you aren't declaring too much memory. 64 MB is guaranteed, but having an array of size [100000] * [100000] will never work.
 4. Make sure you aren't declaring too much stack memory. Any large arrays should be declared globally, outside of any functions, as putting an array of 100000 ints inside a function probably won't work.
+
+## Difference between
+
+### Difference between NULL, '\0' and 0
+
+> [Source](https://stackoverflow.com/questions/1296843/what-is-the-difference-between-null-0-and-0).
+
+> In C, there appear to be differences between various values of zero -- `NULL`, `NUL` and `0`.
+>
+> I know that the ASCII character `'0'` evaluates to `48` or `0x30`.
+>
+> The `NULL` pointer is usually defined as:
+>
+> ```c
+> #define NULL 0
+> ```
+>
+> Or
+>
+> ```c
+> #define NULL (void *)0
+> ```
+>
+> In addition, there is the `NUL` character `'\0'` which seems to evaluate to `0` as well.
+>
+> Are there times when these three values can not be equal?
+>
+> Is this also true on 64 bit systems?
+
+It appears that a number of people misunderstand what the differences between NULL, '\0' and 0 are. So, to explain, and in attempt to avoid repeating things said earlier:
+
+A constant expression of type `int` with the value 0, or an expression of this type, cast to type `void *` is a **null pointer constant**, which if converted to a pointer becomes a **null pointer**. It is guaranteed by the standard to compare **unequal to any pointer to any object or function**.
+
+`NULL` is a macro, defined in as a **null pointer constant**.
+
+`\0` is a construction used to represent the **null character**, used to terminate a string.
+
+A **null character** is a byte which has all its bits set to 0.
+
+---
+
+**Note:** This answer applies to the C language, not C++.
+
+**Null Pointers**
+
+The integer constant literal `0` has different meanings depending upon the context in which it's used. In all cases, it is still an integer constant with the value `0`, it is just described in different ways.
+
+If a pointer is being compared to the constant literal `0`, then this is a check to see if the pointer is a null pointer. This `0` is then referred to as a null pointer constant. The C standard defines that `0` cast to the type `void *` is both a null pointer and a null pointer constant.
+
+Additionally, to help readability, the macro `NULL` is provided in the header file `stddef.h`. Depending upon your compiler it might be possible to `#undef NULL` and redefine it to something wacky.
+
+Therefore, here are some valid ways to check for a null pointer:
+
+```c
+if (pointer == NULL)
+```
+
+`NULL` is defined to compare equal to a null pointer. It is implementation defined what the actual definition of `NULL` is, as long as it is a valid null pointer constant.
+
+```c
+if (pointer == 0)
+```
+
+`0` is another representation of the null pointer constant.
+
+```c
+if (!pointer)
+```
+
+This `if` statement implicitly checks "is not 0", so we reverse that to mean "is 0".
+
+The following are INVALID ways to check for a null pointer:
+
+```c
+int mynull = 0;
+<some code>
+if (pointer == mynull)
+```
+
+To the compiler this is not a check for a null pointer, but an equality check on two variables. This *might* work if mynull never changes in the code and the compiler optimizations constant fold the 0 into the if statement, but this is not guaranteed and the compiler has to produce at least one diagnostic message (warning or error) according to the C Standard.
+
+Note that the value of a null pointer in the C language does not matter on the underlying architecture. If the underlying architecture has a null pointer value defined as address 0xDEADBEEF, then it is up to the compiler to sort this mess out.
+
+As such, even on this funny architecture, the following ways are still valid ways to check for a null pointer:
+
+```c
+if (!pointer)
+if (pointer == NULL)
+if (pointer == 0)
+```
+
+The following are INVALID ways to check for a null pointer:
+
+```c
+#define MYNULL (void *) 0xDEADBEEF
+if (pointer == MYNULL)
+if (pointer == 0xDEADBEEF)
+```
+
+as these are seen by a compiler as normal comparisons.
+
+**Null Characters**
+
+`'\0'` is defined to be a null character - that is a character with all bits set to zero. `'\0'` is (like all character literals) an integer constant, in this case with the value zero. So `'\0'` is completely equivalent to an unadorned `0` integer constant - the only difference is in the *intent* that it conveys to a human reader ("I'm using this as a null character.").
+
+`'\0'` has nothing to do with pointers. However, you may see something similar to this code:
+
+```c
+if (!*char_pointer)
+```
+
+checks if the char pointer is pointing at a null character.
+
+```c
+if (*char_pointer)
+```
+
+checks if the char pointer is pointing at a non-null character.
+
+Don't get these confused with null pointers. Just because the bit representation is the same, and this allows for some convenient cross over cases, they are not really the same thing.
+
+**References**
+
+See [Question 5.3 of the comp.lang.c FAQ](http://c-faq.com/null/ptrtest.html) for more. See [this pdf](http://www.open-std.org/JTC1/SC22/WG14/www/docs/n1124.pdf) for the C standard. Check out sections 6.3.2.3 Pointers, paragraph 3.
+
+> No, you won't compare `ptr` to *all-bits-zero*. This is not a `memcmp`, but this is a comparison using a builtin operator. The one side is a null pointer constant `'\0'`, and the other side is a pointer. Aswell as with the other two versions with `NULL` and `0`. Those three do the same things.
+>
+> You are taking the builtin comparison operator as a thing that would compare bit-strings. But that's not what it is. It compares two values, which are abstract concepts. So a null pointer that internally is represented as `0xDEADBEEF` is still a null pointer, no matter what its bitstring looks like, and it will still compare equal to `NULL`, `0`, `\0` and all other null pointer constant forms.
+
+---
+
+[If NULL and 0 are equivalent as null pointer constants, which should I use?](http://c-faq.com/null/nullor0.html) in the C FAQ list addresses this issue as well:
+
+> C programmers must understand that `NULL` and `0` are interchangeable in pointer contexts, and that an uncast `0` is perfectly acceptable. Any usage of NULL (as opposed to `0`) should be considered a gentle reminder that a pointer is involved; programmers should not depend on it (either for their own understanding or the compiler's) for distinguishing pointer `0`'s from integer `0`'s.
+>
+> It is only in pointer contexts that `NULL` and `0` are equivalent. `NULL` should not be used when another kind of `0` is required, even though it might work, because doing so sends the wrong stylistic message. (Furthermore, ANSI allows the definition of `NULL` to be `((void *)0)`, which will not work at all in non-pointer contexts.) In particular, do not use `NULL` when the ASCII null character (`NUL`) is desired. Provide your own definition
+
+```c
+#define NUL '\0'
+```
+
+> if you must.
+
