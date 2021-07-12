@@ -6,7 +6,8 @@
 2. [Objects and types](#Objects-and-types)
 3. [Expressions](#Expressions)
 4. [Runtime Errors](#Runtime-Errors)
-5. [Difference between](#Difference-between)
+5. [Structures](#Structures)
+6. [Difference between](#Difference-between)
 
 ## Tokens
 
@@ -97,6 +98,30 @@ A runtime error means that the program was compiled successfully, but it exited 
 2. Check every single occurrence of accessing an array element and see if it could possibly be out of bounds.
 3. Make sure you aren't declaring too much memory. 64 MB is guaranteed, but having an array of size [100000] * [100000] will never work.
 4. Make sure you aren't declaring too much stack memory. Any large arrays should be declared globally, outside of any functions, as putting an array of 100000 ints inside a function probably won't work.
+
+## Structures
+
+## Allocating memory for a Structure in C
+
+> [Source](https://stackoverflow.com/questions/2177391/allocating-memory-for-a-structure-in-c).
+
+My favorite:
+
+```c
+#include <stdlib.h>
+
+struct st *x = malloc(sizeof *x); 
+```
+
+Note that:
+
+- `x` must be a pointer
+- no cast is required
+- include appropriate header
+
+---
+
+For allocating on the heap, `struct st * x = malloc(sizeof(struct st));`.
 
 ## Difference between
 
