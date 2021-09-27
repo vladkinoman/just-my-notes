@@ -70,6 +70,29 @@ For running Windows games in Linux you don't want to use the "Steam Linux Runtim
 
 > Right. This actually should be included in some kind of Proton FAQ, because a lot of people rely on Steam's default settings, but in this case it just doesn't work. Steam sets Steam Linux Runtime as a default when you have SteamPlay enabled for Windows games, but Windows games don't work with this runtime, you should manually change it to Proton in SteamPlay section.
 
+## Using Proton with non-Steam games
+
+I thought it would be a good idea to use Proton with GOG games, for example. It supports a really wide range of games that have achieved gold or platinum status on [ProtonDB](https://www.protondb.com/). It's better than using stock Wine and configuring it for each game separately.
+
+I found [this](https://www.reddit.com/r/linux_gaming/comments/be4e46/how_to_play_nonsteam_games_through_proton_this/) post on Reddit and adapted it for my STALKER: Shadow of Chernobyl copy. Here is what we should do:
+
+1. Go to **add a game** and add the game executable from the folder it is contained. You should also update the **SHORTCUT** section in the properties of this game. Add your name and add information in the following fields:
+
+   > Notice: I'm using quotes in order to avoid problems with spaces in the path.
+
+   **Target**: "/home/user/Games/gog/stalker-shadow-of-chernobyl/drive_c/GOG Games/S.T.A.L.K.E.R. Shadow of Chernobyl/bin/XR_3DA.exe"
+   **Start in**:"/home/user/Games/gog/stalker-shadow-of-chernobyl/drive_c/GOG Games/S.T.A.L.K.E.R. Shadow of Chernobyl/bin/"
+
+2. Go to the game properties on Steam and force Proton use.
+
+3. Go to Launch options and Add --wine or --proton to the box.
+
+After that, the game could be started. Your friends will see that you are playing a non-Steam game with the name you specified in the Shortcut section. However, Steam will not count the number of hours you have spent playing the game. Let's hope Valve adds this feature at some point.
+
+>  And where can I find the prefix created for this game and, for example, saves?
+
+Here is the path: "/home/user/.local/share/Steam/steamapps/compatdata/". There you will find a folder with many digits in its name (more numbers than Steam games have). This could be that prefix. 
+
 ## Conclusion
 
 **Proton** is great for running non-Linux games. 
@@ -84,3 +107,4 @@ For running Windows games in Linux you don't want to use the "Steam Linux Runtim
 4. https://www.reddit.com/r/SteamPlay/comments/dxiwlt/whats_the_steam_linux_runtime_option_in_the/
 5. https://www.reddit.com/r/SteamPlay/comments/e9ohz5/proton_or_linux_runtime_doesnt_work/
 6. https://www.reddit.com/r/SteamPlay/comments/9g9z03/i_am_confused_about_launch_options_how_to_enable/
+7. https://www.reddit.com/r/linux_gaming/comments/be4e46/how_to_play_nonsteam_games_through_proton_this/
