@@ -100,7 +100,7 @@ Choose a distribution according to your needs.
   Honorable mention: 
 
   - [ ] MX Linux — midweight simple OS based on Debian with Xfce as its desktop environment, it is very stable but not that attractive.
-  - [ ] Pop!OS — offers a pure GNOME experience, better user exp. than Ubuntu, it isn’t flashy, perfect combo of icon/themes (however, I couldn't get used to it), great desktop wallpapers and fonts, snap isn't enabled by default.
+  - [x] Pop!OS — offers a pure GNOME experience, better user exp. than Ubuntu, it isn’t flashy, perfect combo of icon/themes (however, I couldn't get used to it), great desktop wallpapers and fonts, snap isn't enabled by default.
     So, it is worth highlighting that Pop!_OS provides separate ISOs. One for the systems with NVIDIA graphics card and another for systems with/without AMD graphics. With Ubuntu 19.10, you get NVIDIA drivers on the Ubuntu ISO but there is no such thing for AMD graphics.
   - [ ] Zorin OS — it has a Windows-like graphical user interface and many programs similar to those found in Windows; so the UI is tailored for Windows users to get used to; Zorin OS also comes with an application that lets users run many Windows programs. 
     The Core, Lite, and Education editions are free for download with the Ultimate Edition going for only $39. Education and Ultimate editions ship with both GNOME and XFCE desktop environments. Core edition is only available in GNOME while Lite comes with the XFCE environment.
@@ -431,7 +431,7 @@ Tiny Linux distributions are powerful innovations: having an entire operating sy
   - [MX Linux](https://mxlinux.org/) is a stable and popular Linux distribution based on Debian. By default, it ships with an XFCE desktop with lots of features and customizations. The UI is quite basic and simple. This simplicity echoes the MXLinux philosophy and beginners should easily get started and Professional users can make customizations that can suit them. MX Linux is renowned for its high performance while at the same time keeping it simple on the UI.
   - It’s built on **Debian 10 Buster** and ships with an Xfce desktop environment that is low on resource usage. Like many of the lightweight edition, it’s available in both 32-bit and 64-bit versions.
   - Minimum installation requirements:
-  512 MB of RAM
+    512 MB of RAM
     A modern i486 Intel or AMD processor
     5 GB free hard drive space
   - Pros: fast, a more user friendly version of Debian stable, Xfce with a solid custom look (a few tweaks and you have a great looking Xfce desktop), no systemd by default, but you have a boot option to use it, Antix and Mepis tools that are useful, loads fast in a Virtual Machine, friendly community and forum.
