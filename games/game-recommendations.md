@@ -215,6 +215,152 @@ After googling I find out that the best Pokémon games (for me) are a pair of co
 
 Also Settlers were great! Settlers 2 and 3 were the best in the series. 4 is the best game if we want more modern gameplay.
 
+### Paradox games
+
+> Trying to rank. Sources: [1](https://www.reddit.com/r/paradoxplaza/comments/m470ce/how_would_you_rank_all_the_major_paradox_games/), [2](https://www.reddit.com/r/paradoxplaza/comments/gtthvz/how_do_you_rank_the_paradox_games/), [3](https://www.reddit.com/r/paradoxplaza/comments/jvzazg/what_is_the_best_paradox_game_in_your_opinion/), [4](https://www.reddit.com/r/paradoxplaza/comments/lazz7o/what_is_your_favorite_paradox_game/).
+
+1. Victoria 2
+
+   - Has the depth and the best mechanics.
+
+   - Dynamic trading.
+
+   - The population dynamics is amazing.
+
+   - Tight pacing. 100 years is such a good length, every action feels meaningful.
+
+   - Will taught you about economy and modern politics. Probably it has the best economy simulations.
+
+   - Fantastic experience with DLCs (A House Divided and Heart of Darkness) and mod (**Historical Project Mod (HPM)**).
+
+   - It's a lot easier to blob in EU4 but playing tall there is kinda boring. In Vic2 it's hard to blob but the internal management is good.
+
+   - Industry can work on its own, but the AI is extremely dumb and builds horrible factories. It can be tweaked endlessly by the player.
+
+   - Vic2 has a lot of potential for strategic depth that isn't really necessary in casual singleplayer most of the time, but nonetheless is there if you need to optimize for particular challenges.
+
+   - Good if you are playing a minor/unciv and want to rise to greatness.
+
+   - In EU4 (unless you have MEIOU), the economy is very fixed and never changes or develops whereas in Vicky you can actually contribute to development without abstract PowerPoints and do fun things.
+
+     > I think not even paradox fully understands how the economy in vicky  works, and honestly in a lot of ways its a bit of a mess (just watch the game explode when China westernizes)
+
+   > Good review of Vic 2 on Steam by Supr:
+   >
+   > > If you get this game, get all the dlc (A house divided and heart of darkness), and if you do that, download the Historical Project Mod (HPM). It's only 2 dlc, and it's fairly cheap.
+   > >
+   > > If you're coming from another pdx game and you find this game tough to get into, a couple tips.
+   > >
+   > > 1. Every pdx game has sort of a core focus. Eu focuses on map painting, hoi focuses on tactical combat, ck focuses on kingdom management within feudalism. In Vic, you focus on pops and economy. So if it's stressing you out that you're not constantly warring like in eu4, that's perfectly fine.
+   > > 2. A few fundamental truths about the game. This is set during a period of rapid industrialization. This means...
+   > >    - You want your farmers and labourers (people who work the land) to become craftsmen (people who work in factories). Get technology that makes your farms/mines more efficient, and encourage people to join your factories.
+   > >    - This means artisans (people who make specialized goods prior to industrialization generally speaking) will occasionally starve to death. Don't worry, this is normal. ♥♥♥♥ the poor
+   > >    - Capitalists are retarded and have no concept of supply chains or making use of your RGOs (a good the province produces), so build your own factories early on, and match them with corresponding RGOs and create supply chains within the same state. After your core economy is established, it's not as important to build anymore (save for new techs). To do this, you need a government that allows you to build factories (State Capitalism)
+   > >    - One slightly less intuitive thing about this game is that being really successful doesn't correlate quite as strongly with how big your country looks on a map compared to other pdx titles. You want prestige, industry score and military score, so things like literacy rates, technology, population density, good raw materials like iron/coal are more useful than blobbing if you want to become stronk.
+   > >    - If your factory isn't getting a critical resource, there's a very good chance that its in very high demand on the world market. Check the trade screen and connect the dots.
+   > >    - Everything is incentive based in this game. In eu4 and ck3, you can just conscript people into your army at the drop of a dime if you have the money. In vic2, you need to convince people that joining the army is worthwhile, so drag that slider up!
+   > >
+   > > Hope these tips help.
+
+   > Vicky 2 has stuff going for it that  no other game has been able to capture. Pops, production, the economy,  colonization, and sphering are so well done. The game is definitely  dated af but man, the good parts are amazing. Games like EU4 have  policies and edicts, etc. that you can enact but all they do is give  multipliers and bonuses here or there. Everything is very abstracted,  which is okay because it's a video game,, but still. Converting culture? Spend this abstract resource to commit genocide, raise autonomy, and  wham, youre done in a few months. Same with conversions. Compare that  with Vicky 2. Pops can assimilate to your primary culture, but are way  more likely to do that if they're happy. You can neglect nonaccepted  pops and they will die/move away. Itll take a while and in the meantime  they'll rise up in revolt. Theres no button you can press, no resource  you can spend to make the problem just go away. Pops are persistent  entities in the game with individual ideological alignments, wealth, and needs. Nothing you can do will directly solve their problems. You can  enact social policies or sphere a country with access to a resource that that pop needs, and they'll grow slowly happy and complacent over time. Of course, that's only if they feel accepted. You're gonna get revolts  if you're conservative or reactionary, as you should! In HOI4, it doesnt mstter than you're carrying out Generalplan Ost. You just get a  negative modifier that damages some factories, etc. Sure, you need to  deal with it, but you don't really feel connected with the people of  your nation that way. Victoria II is the exact opposite. Another way  it's nonabstracted: Providing socialized medical care increases  population growth exponentially, and each pop is an actual person (or  1000 adult males), rather than just a number. If they get what they  need, they'll be happy. If they can't, they might die, or worse, become  anarcho-capitalists. Another way: If you're playing with a planned  economy, your struggles can cause the death of millions, but it also  gives you way more control, which is crucial because AI is AI. That  actually reflects how planned economies work IRL. And laissez-faire  capitalism has the same benefits and drawbacks that it does in reality.  Your government isn't on the hook for foreseeing every future need, but  you're kinda screwed in a crisis, you can't plan ahead as much, and, oh  yeah, capitalist fuccbois don't GAF if people are starving as long as  they can make a profit. Another way: playing tall is actually how the  game is meant to be played. If you're constantly blobbing and under  siege, then your pops will die and your nafion will seriously suffer as a result. Since pops grow exponentially and they produce literally  everything in the game, losing a few thousand early on means millions  fewer births down the line. In eu4, getting sacked just means that you  have a red bar to deal with that goes away after a while or after you  click a button a few times. Another way: Access to specific resources  means life and death for your nation. In eu4 and ck2, you have generic  trade. It rarely matters what good you're trading in as long as you get  cash at the end of the day. It's the exact opposite for Vicky 2. If you  don't have rubber, you can't produce cars and tanks enough for it to  have any impact. Factories will close down, people will lose to their  jobs and take to the streets. It makes fighting over one tiny province  in the middle of nowhere way more significant than just painting the map your color.
+   >
+   > What I'm trying to  say is that Vicky 2 feels like running a government and leading a nation rather than playing a game in the best way possible. Sometimes, that  can be fucking tedious, but for lots of us, we don't care. That  historical realism is what keeps me coming back. Most history games use  classic top-down conceptions of history that ignore 99% of the  population. Everything is armies, the state, government, and the church. That's fine, it makes for great strategy games. I fucking love CK2 and  EU4, and both are very top-down games. But the last 100 years of  historiography have seen history, political theory and anthropology  expand greatly and start to prize the experiences and agency of the  little people of the world, which, of course, is a group we all belong  to. I think it's really cool that a game like Victoria II exists that  reflects that. Victoria II is was so daring and inventive and still  stands out for that very reason. It definitely has a million problems  and looks like shit, don't get me wrong. But the great things about it  can shine through if you give it a chance. I don't blame anyone that  doesn't agree or just cant get into it, though. Try playing as Brazil or Persia or Japan, or even a nation like the Two Sicilies. You wont be  able to just annex the factories and provinces you need unless you're a  God gamer, and then the satisfaction of building up a strong economy and workforce really shines through.
+
+   > VIC2 (17) - oh how it pains me to put it second. This has the potential to not only be better than CK2/3, but by *a lot*. It spans, personally, the most interesting period of history, and its  mechanics are more than capable of being the best in the diplomatic,  economic and demographic aspects of grand strategy. But it’s also old,  older than CK2. And it had a lot less love, while at the same time being far more complicated. It is a broken game, and the only reason why it’s in second place is because it has gained an extremely affectionate  community who has developed game-changing mods of the calibre of HPM and HFM. You also need to play it with both DLCs, otherwise the game is  just unplayable. All considered, if and when VIC3 will be developed, it  will definitely have the potential to be *the best* Paradox game, but as of now, VIC2 is a bit of a wreck, though still extremely enjoyable.
+
+2. Europa Universalis 4
+
+   - The most playable and addictive.
+   - Lots of content and refinement.
+   - Best diplomacy of all games.
+   - Teaches a  lot about the history (unlike CK2 which has very few historical events  beyond the starting condition).
+   - Trade is not as dynamic as Victoria, but still highlights he purpose of colonialism.
+   - Map painting (?)
+
+   > EU4 (16) - this is really close. The game is newer than CK2 or VIC2, it  runs a lot smoother, has far nicer graphics and it simply comes from  another generation. EU4 is great, its mechanics and the stories it  generates are definitely top tier, and it spans one of the commonly more beloved historical periods. It has a disgusting amount of DLCs,  similarly to CK2, but they cost more and aren’t necessarily better,  though the oncoming one will be enormous. Overall the game is great, but not amazing. It has few problems, but also few perks. But it’s almost  taken for granted that, possibly as close as next year, EU5 will be  announced, which will force this game to possibly slide into the same  path CK2 has taken, and thus be cheaper, maybe even free, and its DLCs  too. When this happens, this game goes to spot number 2 (18).
+
+3. Imperator Rome. 
+
+   - The empire building is nice (especially the building roads).
+   - Character management part is too much of a chore as well as trade system.
+   - Should be playable since v2.0.
+   - Devs dropped support.
+
+   > Imperator (9) - god I’m sorry for this game. Paradox has recognised its  mistake and has completely reworked the game (and its policies by the  looks of CK3). Imperator is now far better than it was at the start and  it doesn’t deserve the hate anymore, but I just don’t find it as  enjoyable as the others. I can’t point to a single, big problem, it’s  more how the game is built and I doubt that it’s going to be fixable.  Overall it’s just a bit boring, even though on paper it should be a  great mixture of EU4 and CK2
+
+4. Crusader Kings 3 / 2
+
+   - This is the only grand strategy game which focuses on characters than country.
+   - Very fun game all around.
+   - 3 isn't ready for now.
+
+   > CK2 (20) - a bit of a tricky one, but at the end, still the best Paradox game. CK2 is the perfect mix of grand strategy and roleplay, combining  the best of both worlds. It is unparalleled in the stories it creates,  and has certainly had a lot of development over the years, more than any other title. The differences between playthroughs are the incredible,  especially with mods. You could play as a feudal count in france and the next day conquer the world as a satanist gengis khan, only to then  again play as an enlightened lord in India. The mechanics are great, the characters are great, the DLCs are many but cheap and it looks like its next chapter, CK3, is growing to be even better
+
+5. Stellaris:
+
+   - It is more of a civ-style 4X game.
+   - Every exploration event is fun for the first time, and <u>only first time</u>. While the rest of the game is utterly boring.
+   - You're making a lot of clicks that are of little use.
+   - The game is interesting only the first few dozen hours.
+   - People have their favourite historical Paradox game and then Stellaris is something different and fresh.
+   - New game every year.
+
+   > Stellaris (12) - same as EU4 and HOI4. It’s a really good game, it’s  fun, it works as intended. I just don’t particularly enjoy the setting.
+
+6. Darkest Hour:
+
+   > Sources: [1](https://www.reddit.com/r/paradoxplaza/comments/lhv8an/what_is_darkest_hour_and_why_you_should_buy_it/), [2](https://www.reddit.com/r/paradoxplaza/comments/107cfu/for_those_of_you_who_havent_you_should_play/), [3](https://www.reddit.com/r/paradoxplaza/comments/1gn4x4/darkest_hour_would_you_recommend_this_to_someone/), [4](https://www.reddit.com/r/paradoxplaza/comments/1oqeio/darkest_hour_for_new_players/), [5](https://www.reddit.com/r/paradoxplaza/comments/hkmal1/is_darkest_hour_any_good_in_2020/), [6](https://www.reddit.com/r/paradoxplaza/comments/7c8r7q/is_darkest_hour_worth_it/).
+
+   - The game is good without mods, but mods make it better. Good mods: Edge of Darkness, Kaiserreich (give it a lot of replayablity).
+   - Furious difficulty = Active AI.
+   - You can choose how long a scenario lasts for. So the 1914 scenario (WWI) with the maximum length (28 years) goes until 1942.
+   - It is generally simpler than HOI3.
+   - Best Hoi game by far followed by Hoi3 and Arsenal of Democracy.
+     - It's the best version especially with the big mod s then the next best  is hoi3 Black ice then after it's pretty much everything else
+   - The interface has not aged well. The map lacks resolution (which does make the AI better).
+   - Manually moving troops is fun.
+   - The only thing that could make it better is the ability to deploy half trained/supplied units like Hoi4. It would be a lot more useful in some cases instead of needing to complete one full divisions production.
+   - Unlike later Hearts of Iron games, Darkest Hour and related mods tend to have a lot more focus on internal politics as opposed to just warfare. It's not as deep as Victoria II, for example, but it works really well in-engine in a way that Kaiserreich for HOI4 can't really do without applying to HOI4 a design philosophy that wasn't made for the game.
+
+   > The max stack of units is 24, if one of them is a HQ or next to a HQ. Also good war advise.
+   >
+   > Personally I usually play germany and make two army corps of double size with full tech and nice attached brigades and of course commanded by the best  generals, then I just sort of shit out generic 3-div corps and as soon  as its time to scale up, simply add units to existing corps.
+   >
+   > You can always pause and sit back and think if you feel overwhelmed. In  fact that is quite nice I think. You can go over the stat pages or look  at the map.
+   >
+   > Granted, while you can set your production to basically automatic(supply my people and army  while producing what I say and anything extra use to upgrade units) and  just line things up for your country to build, research has to be picked and combined with research teams, you will have many of those corps  after a while and there will be a lot happening. One thing to try is to  disable more events than prudents, so you dont get popups even for  fairly important stuff like enemy is attacking you in x province, you'll see how its going approximately from a birds eye view anyway.
+   >
+   > Then again taking 24 garrison units, splitting them in to 24 pieces, and  sending them out to 24 different provinces gets old. That's almost 100  clicks just to make the french shut up and work. That does get old  especially since if they are any other unit than garrison you will also  need to select each and every one once they have been invisible and  arrived someplace, then select the menu of actions, then after that,  select anti-partisan duties. Doing this with normal units and you end up breaking up all those corps from before. Game has low quality of life.
+   >
+   > But its worth it and personally I solve it by building multi-roles for both air fighting and land support, infantry with artillery here and there,  and clone fleets. Then the tanks and bombers are just sort of extra.  Uniformity as far as necessity allows, in other words, is what I found  helps. That and relative safety. as USA this is automatic, as UK you can put units i all the landable provinces and put most of the fleet out of reach of german bombers but not so far that they could't helpif they  try to land. As germany, take over denmark to block the allies from  going past their islands, and putting your fleet in rostock (they will  get bombed by canadians but and for some reason always canadians, but  canadians can't take much of a punch, their industry is too weak to  replace the bombers you shoot down.)
+   >
+   > If you start with a big navy like UK or Japan, just group them all at  literally the same place then start making purpose fleets (usually  battle winning fleets and submarine chasing fleets/dont care if i lose  this old ship is run with sail for crying out loud which just sorta go  around in small groups and scout.
+
+   > If you have no experience with HOI2, then guides for that can be useful.  The major difference is the mobilization system (manpower is given to  you in bulk based on your level of mobilization/total manpower of your  country, which you can increase or decrease via decisions; in HOI2,  manpower ticked up infinitely based on the manpower value of your  provinces). There are some others (I haven't played in a fair bit). I  will say that starting as a medium strength country is far less  overwhelming to a new player. Stuff like Italy (who has the ability to  choose alliances or stay on their own) is nice. Also, Canada gives you a basically impervious base of operations to fool around with, and the  smaller axis countries can focus solely on ground operations (you may  lose the game if Germany is stupid, but its still a good game to learn  in)
+   >
+   > - Tech: Each country has tech teams, that activate in certain years, and  de-activate in certain years. They have a skill level (affects tech  speed) and fields of expertise (that halve the amount of time it takes  to run through the corresponding area of the tech, which are listed when you click on the tech). Generally speaking, use the tech team that has  the most applicable fields of expertise, unless the skill gap is huge.  Some countries won't have tech teams to research niche things like nukes (these are generally smaller countries that wouldn't bother with it  anyhow).
+   > - Production: I assume you know how to build things. Keep the army models you use up  to date, and build however many you want in the production tab. DH has  long production times, so you need to plan far in advance (infantry  take... well over half a year, I believe. Gearing bonuses help with  this, but you lose them when you upgrade the queue to the newer model).  If you're a larger country, this can get a bit convoluted, so try a  smaller one to get the hang of it: smaller axis nations will only really be producing infantry (within the limits of their manpower), before  moving on to Aircraft when that becomes an issue (and when they finally  get decent air tech), so they have this easy. I find this part a lot  easier than it looks: simply build infantry units (with brigades; I  usually use armoured cars/various types of artillery, but you can fool  around with this. Just make sure to keep the models up to date) and  organize them into armies. The only really difficult part of early army  buildup is balancing mobilization with how much you build up. You are  going to take lots of casualties, so don't overbuild too much; use  partial mobilization for the interwar building up period when you want  to start building divisions. Most countries can get away with building  some industry (you can do this by clicking on individual provinces, the  factory icon) in the beginning year or two, this helps especially if it  will increase the amount of concurrent techs you can research (goes up  by one for every 20 industry you have; so at 20, you have 2, 40 you have 3, etc.). So essentially, in the beginning, stick to a largely infantry army with an airforce.
+   > - Air units: The airforce can be kind of tricky: they upgrade like army  divisions (ships don't upgrade, keep it in mind), and take a lot of  industry to make. Generally speaking: TAC bombers are jack of all  trades, they can do anything, just not as well. CAS are for killing  troops. They lack protection (can't use the escort fighter brigade) but  do a ton of damage. STRAT bombers are for infrastructure; don't bother  with these unless you're the US trying something fun, they're super  expensive and TAC bombers do the job well enough. NAV are very useful  for sea control, you'll really only use them as smaller nations with  terrible navies, or as Germany in some Sea Lion strategies involving  killing the Royal Navy. Fighters are easier; Interceptors are better at  dogfighting, but are shorter range. Fighters can attack ground troops  better (still bad at it) and are longer range. Use interceptors most of  the time. Fighters are nice for quickly moving fronts that are large  (like invading Russia) or in the Pacific Ocean/China, just because of  the large area you'll be fighting in. Base aircraft in airbases in  groups of 4 divisions, and devote some time to attaining air superiority before bombing, or you will take casualties (air superiority mission on interceptors). Ground Attack mission on bombers will cause strength  damage (casualties) while the ground interdiction missions lower  organization divs can't fight if they have no org). A basic strategy  with air units: clear an area of enemy fighters with superiority, send  in bombers to interdict, to lower morale. Rout the force with a ground  army, then while they retreat, use ground attack to cause massive  casualties (they lose all defensive bonuses while retreating). An  airforce is essential to any fast offensive, and at least defensive air  units are essential to protect your own ground troops.
+   > - Navy: Managing navies can get convoluted, I'm not very good at it. [This article](http://www.paradoxian.org/hoi2wiki/index.php/Naval_Primer) on the HOI2 wiki should still apply most of the time. Use your navy to  protect landings (in conjunction with airforce. Bombers can wreck a  fleet with no air protection) and prevent enemy landings. Only really  useful as USA/Japan/sometimes Germany. AI Germany won't really be able  to challenge the UK's starting navy, so don't worry too much about it.  Do make use of naval brigades though. Your navy will suck without them.
+   >
+   > If you have more specific questions I would be happy to answer them. The  mobilization system can be fairly tricky, and make sure to figure out  what all the different actions you can assign to groups of divisions do  (ex: attack moves the group into the province it is attacking, while  support attack keeps the division in their province when the attack  ends, but participates in the assault on the province). Also, play  Kaiserreich, its fantastic.
+
+7. Hearts of Iron 4:
+
+   - With mods only (Equestria at War, Kaiserreich, TNO, Expert AI).
+   - Best experience in multiplayer.
+   - The AI is incompetent.
+   - Too focused on war.
+   - Best World War II video game.
+   - Hoi4 massively simplified most of the game, except production and supply. 
+   - They turned the combat into an arrow-painter, which is a shame.
+   - Other improvements in HoI4: template designer, equipment production, one click unit upgrades etc.
+   - Other disadvantages in HoI4: the national focuses, lack of tech teams/ the beefy tech tree and the arcadey air combat and logistics.
+
+   > What about other HoI games? HoI 3 Black Ice is nice.
+   
+   > HOI4 (14) - from now on the games, while really good, just aren’t on the same level as the first threw. This is really similar to EU4, as in  great, but not special. It works exactly like it was intended and is  really funny overall. Most people would put it higher, and it probably  deserves it, but I just don’t particularly enjoy the period nor the  “total war” feeling it gives, since I much prefer creating stories and  guiding the country/dynasty over the centuries.
+
 ## Vehicle simulations
 
 > Sources: [Reddit 1 - 2019: What simulator should I get?"- amazing definitive guide](https://www.reddit.com/r/flightsim/comments/abxzln/what_simulator_should_i_get_the_somewhat/), [Reddit 2](https://www.reddit.com/r/spacesimgames/comments/b4qfpn/whats_a_good_space_sim_for_a_beginner_in_the_genre/), [Reddit 3](https://www.reddit.com/r/Games/comments/2y1g0z/what_would_you_say_is_the_best_space_sim_game/), [Reddit 4 - the list with the best space games (made by RockPaperShotgun)](https://www.reddit.com/r/spacesimgames/comments/feh265/the_best_space_games_on_pc/), [Reddit 5](https://www.reddit.com/r/space/comments/csdlb6/what_are_the_best_space_games_out_right_now/), [Reddit 6](https://www.reddit.com/r/gamingsuggestions/comments/bpqc2i/looking_for_an_immersive_space_sim_with_lots_to/), [Reddit 7](https://www.reddit.com/r/spacesimgames/comments/bdzhjs/good_2d_space_games/), [Reddit 8](https://www.reddit.com/r/patientgamers/comments/4zdwrw/good_space_game_space_sim_or_any_other_type_of/), [Reddit 9](https://www.reddit.com/r/starcitizen/comments/8q00ei/what_other_flight_sims_do_you_guys_play_and_enjoy/), [Reddit 10](https://www.reddit.com/r/starcitizen/comments/8q00ei/what_other_flight_sims_do_you_guys_play_and_enjoy/), [Reddit 11](https://www.reddit.com/r/gamedesign/comments/7tj43c/are_there_any_space_combat_sim_type_games/), [Reddit 12](https://www.reddit.com/r/spacesimgames/comments/3rl2pv/which_space_game_has_the_best_combat_why/).
