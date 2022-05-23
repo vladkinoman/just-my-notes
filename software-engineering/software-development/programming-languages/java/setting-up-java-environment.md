@@ -1,4 +1,4 @@
-﻿# Setting up Java environment
+# Setting up Java environment
 
 > WIKI: an *environment variable* is a dynamic-named value that can affect the way running processes will behave on a computer.
 
@@ -20,6 +20,41 @@
 7. Check installation status by putting next line in your terminal: `~ java -version`. Don't forget to reopen your terminal to give it a chance to reaload the environment variables again.
 
 After that if you get an error about missing java.exe you should check if there is an other version of Java on your PC, delete it from the disk, remove it from the environment variables especially from the Path and reinstall your JDK.
+
+## How to set up JDK on Linux (especially when you already have a few jdks somewhere)
+
+> You should know that there is a tool that manages jdks for you: [link](https://towardsdatascience.com/install-and-run-multiple-java-versions-on-linux-using-sdkman-858571bce6cf).
+
+> Check if you have already jdk using `java --version` in the terminal.
+
+Install the JDK in, let's say, the .jdks folder in your Home.
+
+According to [this](https://stackoverflow.com/a/29964091), add the following lines to your .bashrc file:
+
+```bash
+export JAVA_HOME="$HOME/.jdks/YOURJDK"
+export PATH=$JAVA_HOME/bin:$PATH
+```
+
+> Use `java --version` to check whether the version has changed.
+
+I had a very strange behavior after this. After using javac I had to use java as follows:
+
+```bash
+java -cp . App
+```
+
+Why? People are discussing this solution [here](https://stackoverflow.com/a/32134203) because it was the only way to fix the problem. I tried to understand what happen and I think it was because I have already declared CLASSPATH variable from the following sections and there was no "." (this why I had to use long `-cp ".;$CLASSPATH"`):
+
+```bash
+CLASSPATH="/media/vlad/Storage/Software/Programming Tools/Libraries/algs4.jar"
+```
+
+The correct way to declare CLASSPATH variable:
+
+```bash
+export CLASSPATH=".:$JAVA_HOME:$HOME/libs/algs4.jar"
+```
 
 ## Setting up CLASSPATH variable for .jar files inclusion on Windows (+using Linux environment)
 
@@ -59,7 +94,11 @@ CLASSPATH="/media/vlad/Storage/Software/Programming Tools/Libraries/algs4.jar"
 
 We can also add CLASSPATH to the end of the `~/.bashrc` if, for example, our Linux system doesn't support `/etc/environment` file by default [2].
 
-> I found somewhere on the Internet that I should not assign CLASSPATH as a global variable in that way. TODO: find out why.
+> I found somewhere on the Internet that I should not assign CLASSPATH as a global variable in that way. ~~TODO: find out why~~. According to [this](https://askubuntu.com/questions/175514/how-to-set-java-home-for-java#answer-175547) comment section:
+>
+> > For those doing software  development, don't put your JAVA_HOME in /etc/environment unless you  want to reboot everytime you switch JDK versions.
+>
+> > As others have pointed out, this doesn't stick between terminal sessions. What I did to address this is just added the line `source /etc/environment` to the top of my bash config file `~/.bashrc` so that it loads all my environment settings on startup. 
 
 ### Problem with CLASSPATH variable
 
