@@ -170,6 +170,18 @@ sudo apt-get install ninvaders
 
 > There is a paid version of the game on Steam.
 
+[Cytopia](https://www.reddit.com/r/SimCity/comments/fc9s73/cytopia_opensource_simcity_2000_like/). OpenSource SimCity 2000 like.
+
+LinCity, or [LinCity NG](https://github.com/lincity-ng/lincity-ng) could be worth a look.  They look like SC / SC3k respectively, and the zone-sim part is smaller.
+
+[OpenRCT2](https://openrct2.org/) is an open-source re-implementation of RollerCoaster Tycoon 2
+
+> Original RollerCoaster Tycoon 2 game files are required in order to play OpenRCT2. RCT2, with expansions, is cheap nowadays and can be bought  from GOG and Steam.
+>
+> > Work is already started to remove the dependency on the original game files. OpenRCT2-OpenGraphics has been started for the graphics, OpenRCT2-OpenMusic for the music (and probably other audio in the future), and OpenRCT2-OpenScenarios for new scenarios. They're all rather nascent at this point, so it's not a complete replacement at this point, but progress is being made towards that.
+
+[CorsixTH](http://corsixth.com/) aims to re-implement the game engine of Theme Hospital, and be able to load the original game data files.
+
 [Mindustry](https://anuke.itch.io/mindustry). Factory builder / Tower Defense hybrid.
 
 > There are other good City Builders and Tycoons: [link](https://www.reddit.com/r/linux_gaming/wiki/freegames#wiki_-_city_builder.2Ftycoon).
@@ -545,4 +557,5 @@ In case you want to check out all the **amazing open source games available**, h
 15. https://awesomeopensource.com/projects/chess
 16. https://linuxreviews.org/Chess_games
 17. https://www.chess.com/blog/SamCopeland/the-best-linux-apps-for-chess
+18. https://www.reddit.com/r/openttd/comments/71ijej/similar_open_projects/
 
