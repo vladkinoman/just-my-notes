@@ -1,5 +1,9 @@
 # Game recommendations
 
+[TOC]
+
+
+
 ## Action-adventures
 
 ### Tomb Raider
@@ -215,6 +219,101 @@ After googling I find out that the best Pokémon games (for me) are a pair of co
 
 Also Settlers were great! Settlers 2 and 3 were the best in the series. 4 is the best game if we want more modern gameplay.
 
+### Citybuilders
+
+> Sources: [1](https://www.reddit.com/r/SimCity/comments/mljt1n/recommendation_on_which_game/), [2](https://www.reddit.com/r/SimCity/comments/m4zbi1/cities_skylines_vs_simcity/), [3](https://www.reddit.com/r/SimCity/comments/pecyyd/simcity_vs_cities_skyline/), [4](https://www.reddit.com/r/pcgaming/comments/ft3hkx/simcity_4_vs_simcity_2013_vs_cities_skylines/).
+
+Sim City 4 vs. Cities: Skylines:
+
+> In short, SC4 is cool, provides a real challenge, has depth, has humor. CS provides no challenge, it concentrates on traffic too much, but it has a lot of DLCs, and you can build cool cities while relaxing.
+
+- Sim City 4:
+
+  - SC4 is older and you will be getting troubles it to run well on Windows 10.
+
+    > Get simcity 4 launcher. You change the amount of cores your cpu uses for the game and it works flawlessly
+
+  - It's a really fun city builder and the Rush Hour expansion let's you drive around your city.
+
+  - Sim City 4, especially with mods, can pose a real challenge to city management.  It's more of a simulator but it's not as cool to build or look at compared to Cities due to it's age.
+
+    > Cities is super cool but there is no in-depth challenge to management or real consequences -it's more for sitting back to watch what you have created.
+
+  - Sims City 4 has an enormous amount of mods. 
+
+    > along with the likes of NAM which is considered a necessary one, due to Maxis being unable to implement the traffic system they actually programmed, because of weak hardware at the time. 
+    >
+    > SC4 has a really awesome variety of mods going for it, so, you can pick your play style and go from there.  There's one for more realistic city growth (CAM); one for farming  (SPAM); traffic fixes, along with incredible custom features (NAM) ; and someone's in the process of working out a new mod for the  power grid, called AMPS, which is really neat; not to mention multitudes of various aesthetic mods and such to help make your city look the way  you want it. Another one includes various terrain mods.
+    >
+    > Now, we can run it with 3080 GPUs and r9/i9 CPUs with ungodly  amounts of RAM.
+    > FYI: a decently powerful pc with a r5/i5 CPU, 8gb+  RAM, a decent GPU (I've got a Radeon Rx580 for example), and a decently  sized SSD is rather capable of getting the game running with very few  issues.
+
+  - If you want to build big sprawling cities quickly then Skylines is better, if you want to be more purposeful in your city layouts then Sim City games are better.
+
+  - Sim City4  for regional realism, and Cities for building realistic looking cities
+
+  - The small dash of humour you'll find in the game is quite nice.
+
+  - The soundtrack is also just amazing and fits with the game extremely well.
+
+> Check out the STEX at [Simtropolis](https://community.simtropolis.com/), as well as the LEX at [SC4 Devotion](https://sc4devotion.com/forums/). There's tons of people able to help you out, and a crazy amount of resources to work with.
+>
+> While you can go for SC2013, or even Cities: Skylines (not a bad game),  they're kind of lacking in features and certain details. So, while  they're capable to doing many things, they seem kind of empty.
+
+- Cities: Skylines:
+
+  - A graphical style not far off of SC4. Skylines is a full on sandbox that allows for massive cities reminiscent of SC4.
+
+  - Cities Skylines has a daunting amount of DLC. They aren't necessary.
+
+    The best part is that Paradox maintains their games for a long time with updates and adding DLC along with mod support.
+
+  - CS has a lot of systems that are fun to play with but they lack depth.
+
+    > You're not really going  to be managing things that are "City-centric" like schools or police or  fire. A lot of that is just plop it and forget it. The systems in Sim City feel waayyy more satisfying. There isn't any challenge in Cities Skylines besides traffic, unfortunately. However it's a ton of fun  managing traffic and public transportation, and some of the DLC like Industries add some decently deep mechanics. And if you have a powerful PC it's fun to add modded assets to Cities Skylines and make some cool  looking cities. You should also consider buying some of the Content Creator packs for Cities Skylines because they add some great assets  that fit the style of the game. The bad art direction of the vanilla assets in C:S is #1 complaint by far.
+
+  - Cities skylines concentrates on traffic too much. Sim City 4 has traffic to look after of course, but it's more abstract and easier to manage.
+
+  > I have lots of problems with CS,  including, but not limited to, ugly graphics, horrendous UI, simplistic mechanics, and personality.
+  >
+  > All in all, SimCity 4, 18 years later, still reigns as the best city sim.
+
+  > Eventually the only issue you might have in Cities Skylines is traffic management and other problems that  appear as a result of congested traffic (like garbage piling up because  trucks can't reach houses fast enough). Unfortunately the vanilla traffic system in Cities is very basic but there are mods that give you much better control and make it a bit more interesting and potentially  easier to solve traffic issues.
+  >
+  > You won't struggle with money except for in the beginning.
+  >
+  > Once you have a working city it is incredibly satisfying to just fly around  your creation and look at the people going about their lives.
+  >
+  > > More like, you're 100% guaranteed to have that issue. The game might as well be called traffic management simulator.
+
+  > mods can add a lot of challenge. just disabling traffic despawning can turn a city into a nightmare
+
+  > Cities skyline is the more modern and with lots of mods, but it has no  challenges whatsoever, it's basically a "design your city" game, not a  "make a city that works". In any difficult situation, the solution is  always: speed up time until enough money comes in (don't need to even  look at t, go drink a coffee or beer !), then build what you need. It's  impossible to fail unless you do it on purpose - and even then, it's  hard.
+  >
+  > Sim City 4 is still reigning king for an actually challenging city builder. If you speed up for 5  minutes without looking at the screen, chances are everything went to  complete crap.
+  >
+  > But it's now an  older game missing many QoL in interfaces and mechanics, so if you just  want an easy thingy to pass time it can't fight against Cities.
+  >
+  > > You realise that it's a traffic nightmare and all the services depend on traffic to function?
+  > >
+  > > > traffic management is the basis of  any city sim, be it simulated (sim city 3000, sim city 4, ..), or agent  based (cities skylines, sim city 4: rush hour, ...), and it's ALSO one  of the main difficulty to manage in a real city.
+  > > >
+  > > > But traffic in cities skylines is a massive nightmare in part because the  game is stupid about it though, with fun things like vehicules staying  in the wrong lane and thus blocking the traffic easily, the game is  almost impossible to play semi seriously without mods like "Traffic++  President Edition" which basically redo the whole traffic system so that it doesn't fight against itself.
+  > > >
+  > > > When your entire traffic is blocked because of a scenario like "cars stay on the turning lane even thoug they have no intention to turn, because  they decided their lane once 10 minutes ago and don't change it, thus  blocking vehicule who wants to turn, so the garbage truck cannot reach  where it needs to go, so the game sends another garbage truck to the  same house, who gets stuck behind, so the game send another ... And now  you have 50 garbage truck blocking your entire main intersection, and  the original lane-blocked vehicule is over but now the garbage truck are the source of the stop, so the game sends more of them ...", that's not difficulty, that's bugs and poor game mechanics you have to work  around.
+
+  > The ultimate "city simulator" and my favorite of all time is still Sim City 4, but it's 17 years old now and can still feel dated, even with mods. I still think it holds up graphically in a lot of ways (I think a lot of  these classic isometric games still look great) but certain things look  off, but nothing unplayable. My biggest "problem" with the game today is that it's a grid based game, so you are limited to how creative you can get laying out your city. Back when it came out it was the standard,  but it's really hard to go back now after playing modern city builders.
+  >
+  > SimCity 2013 could have been a great game, but the city size restriction just  ruins it. I get that they wanted to create a "social" game where  multiple cities could work together, but they are small to a point where it restricts how you want to build your city. But honestly, if the maps were the size of Sim City 4's, they fixed up a few of the other issues  with the game (like the way the "agent" system works), and they had some decent DLC/expansions, I'd probably be still playing it today.
+  >
+  > Cities Skylines is your best bet for a modern city builders, but like many  people say it is a great "city painter" but not a good "city simulator". The real challenge in the game is managing traffic and public transit.  It is incredibly easy to make money and provide services to your city,  after you get over the initial "hump" of starting a city, there is no  challenge to create a perfect, pollution free society where everyone is  highly educated and happy.
+  >
+  > I have  almost all of the DLC and over a hundred hours of playtime in Skylines,  but it just can't seem to keep my attention. My problem with the game is that it doesn't have the "soul" or charm of the Sim City games. I can't put my finger on exactly what it is, but I just don't feel connected to any of my cities. It even has a much better "agent" system than SimCity 2013 (even if the pathfinding can be  kind of dumb), but it doesn't  feel like a living, breathing city. The DLC adds a lot of new  customization options and things to build in your city, but the core of  the game is still the same. But after playing Sim City 4 for almost two  decades, it's hard to go back, even for nostalgia's sake. I still keep  jumping into Cities Skylines every once in a while, it's far from a  perfect city builder, but it's by far the best today.
+  >
+  > Like someone else mentioned, I also really enjoy the Anno games. They aren't pure city builders, but building up your city and providing services is a big part of the game, although the real focus is on resource  production, supply lines, and trading. The depth that it lacks in the  city building department is made up with the other focuses, so it seems  to really hold my attention. They also have an insane attention to  detail and that "charm" that keeps me pulled in.
+
+  > Cities: Skylines is the best but it's not challenging like old school SimCity was. It's mostly just optimizing your traffic flow,  building ideal neighbourhoods and maximizing your revenue.
+
 ### Paradox games
 
 > Trying to rank. Sources: [1](https://www.reddit.com/r/paradoxplaza/comments/m470ce/how_would_you_rank_all_the_major_paradox_games/), [2](https://www.reddit.com/r/paradoxplaza/comments/gtthvz/how_do_you_rank_the_paradox_games/), [3](https://www.reddit.com/r/paradoxplaza/comments/jvzazg/what_is_the_best_paradox_game_in_your_opinion/), [4](https://www.reddit.com/r/paradoxplaza/comments/lazz7o/what_is_your_favorite_paradox_game/).
@@ -360,6 +459,65 @@ Also Settlers were great! Settlers 2 and 3 were the best in the series. 4 is the
    > What about other HoI games? HoI 3 Black Ice is nice.
    
    > HOI4 (14) - from now on the games, while really good, just aren’t on the same level as the first threw. This is really similar to EU4, as in  great, but not special. It works exactly like it was intended and is  really funny overall. Most people would put it higher, and it probably  deserves it, but I just don’t particularly enjoy the period nor the  “total war” feeling it gives, since I much prefer creating stories and  guiding the country/dynasty over the centuries.
+
+### Total War
+
+> Trying to rank. Sources: [1](https://www.reddit.com/r/totalwar/comments/pe1mvq/what_is_the_best_total_war_game_in_your_opinion/), [2](https://www.reddit.com/r/totalwar/comments/rccjuf/which_is_the_best_total_war_game/), 
+
+1. Warhammer 2
+
+   - The most compelling game in the series.
+   - Unbeatable replayability
+   - Faction diversity, special faction game-play.
+   - Unit diversity.
+   - Simplified campaign.
+
+2. Total War: Shogun 2
+
+   - The best historical game in the series.
+   - Least flawed. Most glaring flaw is the lack of faction variety.
+   - Around turn 40 everyone will declare war on you, completely removing the diplomacy mechanics from the game.
+   - DLC Fall of the Samurai (FotS) is good.
+   - Good tactical game. It's interesting to outsmart your opponent on the battlefield.
+   - Might be too simple.
+
+3. Three kingdoms
+
+   - The best strategy game because it has the best diplomacy system.
+   - Its spy mechanic pretty good.
+   - Duel mechanics.
+   - Its character driven too, historical characters actually exists in this  game (hundreds of  them in fact, tho only around 60-70 has unique  portrait and model, but there's mods for this) and you have to manage  their satisfaction and loyalty.
+   - The Ruler and family thing are nice because they allow you to create your own dynasty.
+   - Requires no DLC to hop in and really enjoy, the Cao Cao campaign is fantastic.
+   - Some of the best AI.
+   - A challenging and rewarding campaign of alliances.
+   - The core mechanic contains military supplies for your armies, population management and many other things that makes the core of three kingdoms  superior to warhammer 1 & 2.
+   - It falls flat on factional mechanics, though there's a few interesting there too.
+
+4. Atilla
+
+   - Has some performance issues.
+   - Very challenging.
+   - The campaigns are less about expansion and more about survival, the Huns are *nasty* and you need to prepare for them.
+   - The dlc campaigns are fun, especially the Himyar, and it has a deep modding scene including a very pleasant Medieval overhaul that is very  well done and continues to grow.
+
+   > Attila by far.
+   >
+   > OK Warhammer 2 is much better made and professional.
+   >
+   > But Attila is insanely immersive and an epic challenge. The Western Roman  campaign is my favorite. You control half of Europe but you will lose it all in five years if you don't work like hell to save it. It is best  played straight, no cheese - try to hold everything, fight for every  inch of territory.  You will have to cope with seemingly endless waves  of barbarian hordes, emerging from the German forests on hit and run  raids to sack your settlements. Driving the hordes towards you are the  unstoppable Huns: they are terminators, destroy one horde and it will be back, stronger than before. Your provinces will slide into disorder,  rebellion and separatism. Your land will be wracked by disease, famine  and bankruptcy unless you carefully balance all the constraints and  optimise your very scarce resources. The whole hates you and is lining  up to kill you, but diplomacy is actually your most powerful early  weapon and will save you a whole load of grief if you play divide and  rule.
+   >
+   > Attila is at least three  games in one. It has the usual TW real time battle layer and the battles will test you - the AI has tons of lethal cavalry and missiles, and it  will cheat like outrageously relentlessly spamming stacks. Your lone  legion out in Germania can withstand the first AI attack at the end of  your term. It might survive the second. But what about the third? Or the fourth? The AI is decent - on the battlefield it comes at you in  earnest, no dribs and drabs. And I have to admire the canny way it  handles its cavalry - put a unit of swords in your front line and wave  goodbye to it; have a frontline of spears and the AI cavalry works its  way round your flanks and gets the drop on you if you are slow with your the units guarding your flanks.
+   >
+   > The campaign layer is like a very good 4x game such as Civilisation: it  might seem daunting managing 64 settlements as WRE at the start of the  game, but I find it very engaging. It is not as overwhelming as you  think because you don't have enough resources to build in many on any  one turn - the name of the game is triage; you maybe can afford only two buildings per turn in the early game.
+   >
+   > The third layer of the game is almost unique to Attila: it is a strategic  wargame. As Romans, where you march your over-stretched legions on the  campaign map is at least as important as how you manage your cohorts on  the battlefield and much more compelling. In most other TW games, you  simply salami slice the AI, marching your conquering army from enemy  city A to enemy city B to enemy city C. Yawn. In Attila, you have to  carefully balance resources across all theatres (Africa, Balkans, Gaul  and Britain etc.). You must strive for "knock out blows" that allow you  redeploy forces from to the next flashpoint. Just as the historical  Stilicho found, even if you do your best, some horde may slip past your  frontier and escape deep into your heartlands. Around the mid-game, the  pendulum starts to turn and, with your provinces stabilised, you can  start to use the power provided by your 64+ settlements to impose a new  Pax Romana in Europe.
+   >
+   > The most fun are "co-op" Roman campaigns with the AI. If WRE is hard, try sparing  four legions to subjugate the Sassanids when they attack your Eastern  brother around 20 turns into the game. Even worse, play ERE and try to  save WRE - it falls so fast in AI hands, it's a Herculean effort and  just as you are rolling up your sleeves, the Sassanids will stab you in  the back.
+   >
+   > TLDR: I have played  every TW since the original Shogun 1 and Attila is the pinnacle of the  series. I've spent 2800 hours on it and am still far from done with it.
+
+5. Medieval 2
 
 ## Vehicle simulations
 
