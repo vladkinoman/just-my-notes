@@ -1,0 +1,27 @@
+# .gitattributes snippet to force users to use same line endings for project.
+# help - https://docs.github.com/en/get-started/getting-started-with-git/configuring-git-to-handle-line-endings
+ 
+# Handle line endings automatically for files detected as text
+# and leave all files detected as binary untouched.
+* text=auto
+
+# These files are text and should be normalized (Convert crlf => lf)
+*.md text
+*.css text
+*.js text
+*.json text
+*.htm text
+*.html text
+*.xml text
+*.txt text
+*.ini text
+*.py text
+*.sh text
+*.ods text
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
