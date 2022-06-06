@@ -1,4 +1,4 @@
-# Основы Full Stack Web Development-а
+# Learning Web App Development
 
 > Взято из книги Сэмми Пьюривалла "Основы разработки веб-приложений".
 

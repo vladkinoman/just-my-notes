@@ -99,35 +99,21 @@ This folder contains notes on the process of software engineering.
 
 Subfolders:
 
-- **dev-management**: notes on product/project/team management, use of Kanban method, use of Agile methodologies, etc.
+├── api
+├── design-patterns
+├── git
+├── pl: *programming languages, their pros & cons, cool concepts & tools*
+├── tdd
+├── uml: *unified modeling language, diagrams, examples*
+└── web: *as a system and a set of frameworks*
 
-- **software-desing**: notes on software design + SDLC. 
+Folders to add:
 
-  Subfolders:
+- **3d-game-development**: notes on 3D (inc. AutoCAD) and game development.
+- **data-science**: notes on app development for solving problems of data science fields such as machine learning.
+- **mobile-development**: notes on Android and iOS mobile development.
 
-  - **api**: notes on creating and using the API (+ REST API).
-  - **design-patterns**: notes on implementing and using the design patterns.
-  - **uml**: unified modeling language, diagrams, examples.
-
-- **software-development**: notes on programming, testing, and the use of various technologies to perform those tasks.
-
-  Subfolders:
-
-  - **git**: notes on the use of my favorite version control system.
-  
-  - **programming-languages**: there are so many programming languages, so I decided to create  one folder where I will track my favorite ones. I will write down Pros&Cons, contradictory language features and their use, Q/As, and comparisons between languages.
-  
-  - **types-of-software-development**: general information and terminology from the various fields of software engineering.
-  
-    Subfolders:
-  
-    - **3d-game-development**: notes on 3D (inc. AutoCAD) and game development.
-    - **data-science**: notes on app development for solving problems of data science fields such as machine learning.
-    - **enterprise**: notes on desktop and enterprise app development.
-    - **mobile-development**: notes on Android and iOS mobile development.
-    - **web-development**: notes on back-end, front-end and full-stack web development.
-  
-  - **software-testing**: notes on the software testing process, which includes Design by Contract and Unit testing.
+- **software-testing**: notes on the software testing process, which includes Design by Contract and Unit testing.
 
 ## Tests
 
@@ -154,7 +140,7 @@ I made a decision to add this paragraph to track files whose topics overlap with
 
 [Word order]( https://github.com/vladbeklenyshchev/just-my-notes/blob/master/english/grammar/word-order.md) ←→ [What GW4 Unit #1 was about - Adverbs of frequency](https://github.com/vladbeklenyshchev/just-my-notes/blob/master/english/grammarway/gw4_u1_summary.md#Adverbs-of-frequency)
 
- ###### Java and Jar files
+###### Java and Jar files
 
 [setting_up_java_environment.md](https://github.com/vladbeklenyshchev/just-my-notes/blob/master/software-engineering/software-development/programming-languages/java/setting_up_java_environment.md) ←→ [viewing-contents-of-jar.md](https://github.com/vladbeklenyshchev/just-my-notes/blob/master/computer-science/operating-systems/linux/viewing-contents-of-jar.md)
 

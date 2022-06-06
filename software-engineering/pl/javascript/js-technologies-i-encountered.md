@@ -1,4 +1,4 @@
-# Javascript технологии, на которые я наступил
+# JavaScript technologies I encountered
 
 ## React.js
 
