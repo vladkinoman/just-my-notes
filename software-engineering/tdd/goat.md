@@ -82,3 +82,70 @@ The superlists folder is useful for the whole project.
 │   ├── urls.py
 │   └── wsgi.py
 
+Functional tests:
+
+- FT = specification for the app: tracks a User Story, tracks user's experience (using feature <-> app respond)
+- FT = Acceptance Test = End-to-End test. Sometimes, **black box test**: test doesn't know an. about the internals of the system under test.
+- comments first -> capture the key points of the User Story.
+
+TDD & agile often go together: the **minimum viable app**; what is the simplest thing we can build that is still useful?
+
+**The Python Standard Library’s unittest Module**
+
+- Tests into classes which inherit from `unittest.TestCase`
+
+- test method start with `test` -> will be run by test runner
+
+- `setUp` before each test, `tearDown` after each test (run even if there's an error during the test).
+
+- unittest methods:`self.assertIn`, `assertEqual`, `assertTrue`, `assertFalse`.
+
+- `self.fail` -> produce the error message given, fails no matter what.
+
+- `__name__ == __main__` - check whether it's been executed from CLI.
+
+  `unittest.main()` -> `unittest` test runner, which auto. find test cases and methods & run them.
+
+**First Django app, first unit test**
+
+Django encourages you to structure code into apps. 1 project - many apps.
+
+```bash
+$ python manage.py startapp lists
+```
+
+-> create a folder called lists, and within it a # of files for models, views, and test.
+
+```
+├── superlists
+│   ├── __init__.py
+│   ├── __pycache__
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+```
+
+unit test ≠ ftest:
+
+- ft test the app from the outside, from the pov of the user.
+- ut test the app from the inside, the pov of the programmer.
+
+The TDD approach will cover both of them, our **workflow**:
+
+1. start with ft, describing User's Story.
+
+2. ft fails? -> think about passing: 
+
+   - use 1 or more ut to define behavior of our code (how we see it) — each line of prod. code should be tested by (at least) 1 of our uts.
+
+3. ut fails? -> write smallest amount of *app code* we can, enough to get the ut to pass.
+
+   > We may iter. between 2 & 3 a few times, until the ft. get a little further.
+
+4. Rerun our fts and see if they pass, or get a little further.
+
+   > That may prompt us to write some new uts, and some new code...
+
+**Unit testing in Django**
+
+lists/tests.py contains an augmented version of the standard unittest.TestCase.
