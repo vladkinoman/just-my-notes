@@ -149,3 +149,65 @@ The TDD approach will cover both of them, our **workflow**:
 **Unit testing in Django**
 
 lists/tests.py contains an augmented version of the standard unittest.TestCase.
+
+**Django’s MVC, URLs, and View Functions**
+
+Django is structured along a classic MVC pattern, *broadly*:
+
+- views are more like a controller
+- templates are actually the view part
+
+> [details](https://docs.djangoproject.com/en/1.11/faq/general/#django-appears-to-be-a-mvc-framework-but-you-call-the-controller-the-view-and-the-view-the-template-how-come-you-don-t-use-the-standard-names)
+
+Django's main job = decide what to do when user ask for a partic. URL. Django's workflow:
+
+1. An HTTP request from user
+2. Django uses rules to decide which *view* func. should deal with the request (*resolving* the URL). 
+3. The view func. process the request and an HTTP response.
+
+We want to test two things:
+
+- Can we resolve the URL for the root of the site ("/") to a particular view function we've made?
+- Can we make this view func. return some HTML which will get the func. test to pass?
+
+*lists/tests.py*
+
+```python
+from django.urls import resolve
+from django.test import TestCase
+from lists.views import home_page
+
+class HomePageTest(TestCase):
+    def test_root_url_resolves_to_home_page_view(self):
+        found = resolve('/')
+        self.assertEqual(found.func, home_page)
+```
+
+**At Last! We Actually Write Some Application Code!**
+
+*list/views.py*
+
+```python
+from django.shortcuts import render
+
+home_page = None
+```
+
+Reading tracebacks:
+
+1. Error itself
+
+   > below, exceptions, tried
+
+2. Which test is failing?
+
+   > at the beginning
+
+3. Look for the place in our test code that kicked off the failure.
+
+   > middle
+   > Look for the filenames, check which test function, and what line of code.
+
+**urls.py**
+
+we need a url mapping = use urls.py to map URLs to view funct.
