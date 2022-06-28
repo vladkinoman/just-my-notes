@@ -17,7 +17,7 @@
 
 The average of all the integers in a set of values. Here is the basic formula for calculating the *mean* of a set of **n** values:
 
-$$\mu = \dfrac{\sum_{i=1}^n x_i}{n},$$
+$$\mu = {\sum_{i=1}^n x_i}/{n},$$
 
 where $x_i$ is the $i^{th}$ element of the set.
 
@@ -40,7 +40,7 @@ These are important terms to understand when formatting your output:
 
 Given a discrete set of numbers, **X**, and a corresponding set of weights, **W**, the *weighted mean* is calculated as follows:
 
-$$m_w = \dfrac{\sum_{i=1}^n \left(x_i w_i\right)}{\sum_{i=1}^n w_i}$$
+$$m_w = {\sum_{i=1}^n \left(x_i w_i\right)}/{\sum_{i=1}^n w_i}$$
 
 Therefore, data elements with a high weight contribute more to the weighted mean than do elements with a low weight. The weights cannot be negative. Some may be zero, but not all of them (since division by zero is not allowed).
 
@@ -101,7 +101,7 @@ The expected value of a discrete random variable, **X**, is more or less another
 
 This is the average magnitude of fluctuations of **X** from its expected value, **µ**. You can also think of it as the expectation of a random variable's squared deviation from its mean. Given a data set, **X**, of size **n**:
 
-$$\sigma^2 = \dfrac{\sum_{i=1}^n \left(x_i - \mu\right)^2}{n},$$
+$$\sigma^2 = {\sum_{i=1}^n \left(x_i - \mu\right)^2}/{n},$$
 
 where $x_ᵢ$ is the $i^{th}$ element of the data set, and mu is the mean of all the elements.
 
@@ -109,6 +109,6 @@ where $x_ᵢ$ is the $i^{th}$ element of the data set, and mu is the mean of all
 
 The standard deviation quantifies the amount of variation in a set of data values. Given a data set, **X**, of size **n**: 
 
-$$\sigma = \sqrt{\dfrac{\sum_{i=1}^n \left(x_i - \mu\right)^2}{n}}$$
+$$\sigma = \sqrt{{\sum_{i=1}^n \left(x_i - \mu\right)^2}/{n}}$$
 
 where $x_i$ is the $i_{th}$ element of the data set and $\mu$ is the *mean* of all the elements.
