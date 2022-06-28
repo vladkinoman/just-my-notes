@@ -17,9 +17,9 @@
 
 The average of all the integers in a set of values. Here is the basic formula for calculating the *mean* of a set of **n** values:
 
-$$
-\mu = \frac{\sum ^n_{i=1}x_i}{n},\ where\ x_i\ is\ the\ i^{th}\ element\ of\ the\ set.
-$$
+$$\mu = \frac{\sum_{i=1}^n x_i}{n},$$
+
+where $x_i$ is the $i^{th}$ element of the set.
 
 ### Median
 
@@ -40,10 +40,7 @@ These are important terms to understand when formatting your output:
 
 Given a discrete set of numbers, **X**, and a corresponding set of weights, **W**, the *weighted mean* is calculated as follows:
 
-$$
-
-m_w = \frac{\sum^n_{i = 1} (x_i w_i)}{\sum^n_{i=1}w_i}
-$$
+$$m_w = \frac{\sum_{i=1}^n \left(x_i w_i\right)}{\sum_{i=1}^n w_i}$$
 
 Therefore, data elements with a high weight contribute more to the weighted mean than do elements with a low weight. The weights cannot be negative. Some may be zero, but not all of them (since division by zero is not allowed).
 
@@ -90,9 +87,9 @@ The standard deviation is a commonly used statistic, but it doesn’t often get 
 
 Without [calculating standard deviation](https://www.dummies.com/education/math/statistics/how-to-calculate-standard-deviation-in-a-statistical-data-set/), you can’t get a handle on **whether the data are close to the average** (as are the diameters of car parts that come off of a conveyor belt when everything is operating correctly) or **whether the data are spread out over a wide range** (as are house prices and income levels in the U.S.).
 
-For example, if you are told that the average starting salary for someone working at Company Statistix is 70,000, you may think, “Wow! That’s great.” But if the standard deviation for starting salaries at Company Statistix is 20,000, that’s a lot of variation in terms of how much money you can make, so the average starting salary of $70,000 isn’t as informative in the end, is it?
+For example, if you are told that the average starting salary for someone working at Company Statistix is 70,000, you may think, “Wow! That’s great.” But if the standard deviation for starting salaries at Company Statistix is 20,000, that’s a lot of variation in terms of how much money you can make, so the average starting salary of <span>$</span>70,000 isn’t as informative in the end, is it?
 
-On the other hand, if the standard deviation was only $5,000, you would have a much better idea of what to expect for a starting salary at that company. Which is more appealing? That’s a decision each person has to make; however, it’ll be a much more informed decision once you realize standard deviation matters.
+On the other hand, if the standard deviation was only <span>$</span>5,000, you would have a much better idea of what to expect for a starting salary at that company. Which is more appealing? That’s a decision each person has to make; however, it’ll be a much more informed decision once you realize standard deviation matters.
 
 Without the standard deviation, you can’t compare two data sets effectively. Suppose two sets of data have the same average; does that mean that the data sets must be exactly the same? Not at all. For example, the data sets 199, 200, 201 and 0, 200, 400 both have the same average (200) yet they have very different standard deviations. The first data set has a *very* small standard deviation (*s*=1) compared to the second data set (*s*=200).
 
@@ -104,17 +101,14 @@ The expected value of a discrete random variable, **X**, is more or less another
 
 This is the average magnitude of fluctuations of **X** from its expected value, **µ**. You can also think of it as the expectation of a random variable's squared deviation from its mean. Given a data set, **X**, of size **n**:
 
-$$
-\sigma^2 = \frac{\sum_{i=1}^n (x_i - \mu)^2}{n},\\
-where\ x_ᵢ\ is\ the\ i^{th}\ element\ of\ the\ data\ set,\\ and\ \mu\ is\ the\ mean\ of\ all\ the\ elements.
-$$
+$$\sigma^2 = \frac{\sum_{i=1}^n \left(x_i - \mu\right)^2}{n},$$
+
+where $x_ᵢ$ is the $i^{th}$ element of the data set, and mu is the mean of all the elements.
 
 ### Standard Deviation σ
 
 The standard deviation quantifies the amount of variation in a set of data values. Given a data set, **X**, of size **n**: 
 
-$$
-\sigma = \sqrt {\frac{\sum_{i=1}^n (x_i - \mu)^2}{n}}
-$$
+$$\sigma = \sqrt {\frac{\sum_{i=1}^n \left(x_i - \mu\right)^2}{n}}$$
 
 where $x_i$ is the $i_{th}$ element of the data set and $\mu$ is the *mean* of all the elements.
