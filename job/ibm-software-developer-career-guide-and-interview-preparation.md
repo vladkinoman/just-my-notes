@@ -497,9 +497,256 @@ Enlist a friend to help you practice.
 
 **What is an informational interview?**
 
-An interview someone holds with a professional to learn more about a field of work 
-**When you are reading a company’s website because you plan to interview with them, why should you pay attention to keywords you spot on the site?**
+A: An interview someone holds with a professional to learn more about a field of work
 
-It can help you understand the image the company wants to project and maintain.  
+**Q: When you are reading a company’s website because you plan to interview with them, why should you pay attention to keywords you spot on the site?**
+
+A: It can help you understand the image the company wants to project and maintain.  
+
+## Interviewing
+
+2 interviews:
+
+1. 1.5 h conversation with dev - technical conversation: prev exp, projects
+2. 1.h with developer and his manager - soft skills: communications, ambitions
+
+- How did you resolve a certain problem?
+- How would you resolve a conflict with a colleague?
+
+What constitutes a good answer to a beh. question?
+
+- do research on beh questions
+- be true to yourself
+
+What are you looking for when you ask a beh. q., and that can be different at dif. times?
+
+- clarify a hunch, like if a candidate is not a team player
+- clarify if I have a wroing impression about a candidate
+- tailor the questions to know the candidate better
+- ask q specific to a behavioural issue that is a cause of worry.
+
+Case study questions:
+
+- useful to determine candidate's mindset and reasoning ability
+- take your time and reason about case study q
+- clarify what the interviewer is asking
+- ask follow-up questions
+
+What kind of q should a candidate ask?
+
+- have some prep questions 
+- ask questions related to the job and the interviewer's experience
+- about thhe experience for the company or for the team
+- about the day-to-day life
+
+What q are not appropriate:
+
+- no personal q
+- no confrontational q
+- no q related to benefits, vacation
+
+Advice about the process of negotiating an offer?
+
+- have the employer make an offer and then make a counteroffer
+- don't offer a salary figure at the outset
+- do not undervalue yourself
+- research the salary range for the job position
+- request an offer higher than the min you would accept
+
+### Overview of the Interview Process
+
+First-round screens, technical screens:
+
+- code challenges
+- technical test
+
+Second-round screens:
+
+- team interviews
+- human resources screens
+- technical interviews
+
+Final interview:
+
+- meet higher-level managers
+- talk in more depth and detail about the role
+- answer more situational and beh. qs
+- have a last chance to ask any questions
+
+### Coding Challenges in Software Development
+
+coding challenge or take-home questions: usually after the 1st screening phase, although it's sometimes the 1st step.
+
+full-stack assessments assess both front-end and back-end dev. capabilities
+
+Each comany will test according to its own tech stack:
+
+- Ex. "Full Stack Python Dev" Django+MySQL or Flask+PostgreSQL
+- Sometimes a coding challenge is directed, and reqs are clearly stated
+- For more exp. positions, the problem is explained, but no expactation is given about how it will be achieved
+- Newer devs may want to add a lot of features to create impressive results. Keep scope narrow, but finish all reqs fully. ONE THING WELL > many things incompletely
+
+Take-home quiz completed in shorter time (~40 minutes). A coding challenge will have a firm deadline, but you'll be given a more time to comlete it (sev hours - a few days)
+
+Sample code q:
+
+- problem statement: Build a pseudo web app to list all the service providers to explore them
+  - use a web api to fech data
+  - data set parameters: {name, lowest price ...}
+  - manage and host this app on free cloud platforms (Heroku, AWS, or OpenShift)
+  - visually interactive, responsive desing
+  - add a feature to sort this list of ISPs by location/price/speed
+  - implement search (by name, price, or rating)
+
+- Bonus: add a feature to download a pdf file or ISP details
+
+This challenge has a time limit of 12 hours. Submit source code and screenshots along with any notes or explanation by zipping the files and submitting them to the provided upload option. 
+
+Code will be evaluated by devs and the interview team. Evaulation criteria:
+
+- functionality of the app
+- design aesthetics
+- code quality
+
+### Second-round screens
+
+Second-round interviews are usually more focused than first or final interviews. You may meet with the same interviewers, but you will more likely meet with team leaders, technical managers, HR personnel, or others with distinct areas of interest. You may meet with higher-level or executive management, but each company proceeds differently. 
+
+#### HR Screen
+
+ A screen by a human resources (HR) professional will usually focus on very basic qs about your past experience and understanding of the company and its culture. It may even take place as a first interview. It generally won’t get into the nuts and bolts of a position, and there won’t be involved technical qs. 
+
+Here are some qs you might expect from this screen:
+
+- What motivated you to apply for this job?
+- What attracted you to our job listing?
+- Why did you leave your last job?
+- What is your ideal working environment?
+- What do you know about our company’s product or services?
+- What are your expectations about salary and other compensation?
+
+#### Team Leader
+
+ If you interview with a team leader (often a project manager or other management), they may want to discuss the team you’d be working with and how they approach projects. 
+
+There may be some discussion of your skills, but less than you would do with a technical screen. The team leader will be interested in understanding your work style, so they may ask you more behavioral questions. 
+
+Here are some examples of questions you might expect:
+
+- Tell me about a few of the first things you would do in this role.
+- Give a few examples of best practices in data science.
+- What’s a data science project you would want to work on at our company?
+- Tell me about a time you experienced conflict with a colleague and how you resolved it.
+- Tell me about a time when your project failed. What did you do and what did you learn?
+- Do you prefer to work closely with a team or mostly by yourself?
+- How are you motivated?
+- How do you start learning about a topic you don’t know about yet?
+
+Project yourself as an already-hired team member and discuss specific things that you'd want to learn and accomplish. Focus your responses on how you want to grow as a professional while exceling in your new role within the company.
+
+Interviewers sometimes ask questions, such as, “If you could have a superpower, which would it be and why?” Although it may initially seem as off-topic or unrelated to the job position, the way you respond to these questions may reveal how you handle the unexpected stress, or perhaps gauge your creativity or the way you approach problems. Answer honestly and have fun when you think about and answer these kinds of questions.
+
+#### Technical Screen
+
+A technical screen is usually conducted by a coding team leader or higher-level developer. Its purpose is to assess your technical skills and compare them to the skills needed for the position. Most of the questions will be about technical topics and team skills. 
+
+Here are examples of the type of questions you may hear:
+
+- What coding languages do you know?
+- What are some of your favorite tools?
+- How do you begin working on a problem you’ve been assigned?
+- What do you do when you reach something you don’t understand?
+- How do you stay on schedule and manage your time?
+- How do you prepare for a presentation?
+
+There will usually be some specific problems to solve as well. Don’t worry – the interviewer won’t expect you to provide a perfect solution at once. These questions are meant to understand how you approach a problem and your thinking strategies. 
+
+
+No matter how you think the second interview goes, always try to end on a positive note and be explicit about your interest in the role.
+
+
+### Final Interviewing
+
+before:
+
+- read your resume and cover letter
+- review the job description
+- study other notes
+- rehearse your el. pitch
+- plan appropriate appearance
+
+interview q:
+
+- related tech qs
+- beh qs
+- sit qs
+- tech prob-solving qs
+
+The STAR method helps you give substantial answers to situational qs:
+
+- expains how you handle specific work challenges in a simple yet powerful way
+- stands for Situation, Task, Action, and Result
+- Situation: the project or challenge you faced
+- Task: your responsibility in the situation
+- Action: the steps or procedure you followed to solve the problem
+- Result: what happened after you acted
+
+**Using the STAR method**
+
+Q: Can you tell us about the most recent project you worked on?
+
+- Situation: I was on a team that was tasked with moving a database to a new server
+- Task: I was in charge of increasing the query speed of the new deployment.
+- Action: I employed a data optimizer, made sure the indexes were improved, and updated the software.
+- Result: This brought a 40% increase in query response time.
+
+Behaviroral qs:
+
+- with these qs, the int. wants to find out how you would respond to certain workplace challenges that may arise.
+- Q: What would you if you were asked to perform a task and weren't sure how to complete it?
+- Q: Tell me about a time when you went above and beyond your expected tasks while working on a project.
+- ask for more information if needed
+
+Questions for the interviewer:
+
+- What's the next step in the interview/hiring process?
+- How long does your recruitment process usually take?
+- What are the primary responsibilities of the position?
+- What would my day-to-day routine look like if I got the job?
+- What can you tell me about the job apart from what was in the description?
+
+Questions to avoid:
+
+- how many holidays do you offer?
+- do you have long working hours?
+
+### After the interview
+
+If you received an offer and the salary or employee benefits do not match what you consider is fair, research the market, bring forth your selling points, and express the valid reasons why you are requesting a higher salary. It is totally acceptable to request a fair compensation package. When you consider whether your compensation is fair, however, make sure to weigh in the value of the employee benefits package. Consider signing bonuses, moving allowances, stock options, and other non-salary compensation that’s offered, as well as less quantitative benefits like a better commute or flexible work times. 
+
+The thought of negotiating a job salary offer may make you uncomfortable, but if the offer is below what you expected after factoring in all of the other considerations, you might want to negotiate a fairer salary. You might respond by phone or in email. Begin your response by expressing your excitement and appreciation for being selected. Include points on how you plan to contribute to achieving the company’s goals. Base your counteroffer on verifiable research or supporting arguments that there is a higher value to what you bring to the table. 
+
+Some legitimate arguments to support a salary negotiation are:
+
+- Commute (доїзд) and relocation (переїзд) expenses (витрати).
+- Having a university degree that may have not been required to apply, but provides an academic preparation that will contribute to exceeding job performance expectations.
+- Possessing a skillset or certifications that required extensive or costly training, especially if they were stated as preferred qualifications in the job listing.
+
+However, the company responds, make sure you express appreciation for their allowing you to approach them with your request. The company may not be able to accommodate your request because of budget or company policies about standard pay scales for certain positions, but it doesn’t hurt to ask.
+
+If you are between interview rounds or awaiting an offer from another company, you must contact them and let them know you wish to withdraw your application for their position. Let them know you appreciate their consideration but have decided to accept another offer. Always ask them to keep your information in case other opportunities arise in the future and treat them professionally and courteously – you never know when you’ll be in the job market again and want to contact them about another position, so maintain a good reputation.
+
+If you must resign from a current job, you should provide your employer a standard two weeks’ notice whenever possible. Again, always behave professionally and maintain your good reputation, in case you need a reference someday or even return for a different job. Try to arrange a start date with your new employer so that you are able to take some time off between jobs. Reporting to your first day at the new job after a few days of rest will help ease your transition and onboarding process, as opposed to jumping right in the day after you left your previous workplace. 
+
+### If you are declined
+
+ Contact your interviewers by phone or email and let them know that you appreciate the notification. After all, many companies nowadays don’t make an effort to contact the job applicants who weren’t selected for an opening. Request feedback! Ask for an honest assessment and keep an open mind, especially if any points in their feedback are unexpected. Maybe the points you overlooked played a big part in not being selected for the position. Also, you may want to ask for advice on what you should work on to improve. Be aware, though, that many companies prohibit their personnel from giving feedback about interviews (often for legal reasons), so you may not be able to get more information.
+
+
+Q: Why might a company ask you to sign a non-disclosure agreement (NDA) before working on a coding challenge? 
+
+A: To keep you from sharing the problems with other applicants and to establish who owns the work you do on the challenge.
+
+> Correct. NDAs keep things clear and legal, protecting the company and the applicant.
 
 
