@@ -124,3 +124,16 @@ The `bad interpreter` message clearly indicates that it's the shebang which is f
 > > This was the issue. There were hidden `^M` characters and the interpreter was reading it as part of the shebang line. I ran it through `dos2unix` and it fixed it right up. Thanks
 >
 > > In my case, line ending was set wrong, to CR-LF for Windows, should be LF for Linux. Can take a while before you find that out.
+
+## Get last argument to the previous command
+
+> [Source](https://unix.stackexchange.com/questions/9123/is-there-a-one-liner-that-allows-me-to-create-a-directory-and-move-into-it-at-th).
+
+The `$_` variable, in bash, is the last argument given to the previous command. In this case, the name of the directory you just created:
+
+```bash
+mkdir longtitleproject && cd $_
+```
+
+Use cd $_ to retrieve the last argument of the previous command instead of cd !$ because cd !$ gives the last argument of previous command in the shell history:
+
