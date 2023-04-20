@@ -19,8 +19,9 @@
 8. [Max Payne](#Max-Payne)
 9. [Super Meat Boy](#Super-Meat-Boy)
 10. [The Talos Principle](#The-Talos-Principle)
-11. [Just in case](#Just-in-case)
-12. [References](#References)
+11. [Half-Life 2 / TF2](#Half-Life-2-/-TF2)
+12. [Just in case](#Just-in-case)
+13. [References](#References)
 
 ## Issues with hardware
 
@@ -779,6 +780,16 @@ Try in steam launch options add this:
 MESA_GL_VERSION_OVERRIDE=4.4 MESA_GLSL_VERSION_OVERRIDE=440 %command%
 ```
 
+## Half-Life 2/ TF2
+
+**Issue**. TF2: Failed to create decoder for MP3 or, to put it simply, half of the sounds don't work.
+
+**Solution**. 
+
+> This is a long standing issue between libMiles and selinux which can be worked around by running `setsebool -P selinuxuser_execheap 1`.
+
+I encountered this issue in Half-Life 2. Although, I couldn't run it, because it required putting "-vulkan" in the command line arguments. Also, I found other tricks to fix that issue of decoding: [here](https://github.com/ValveSoftware/steam-for-linux/issues/43).
+
 ## Just in case
 
 Other problems with enabling a discrete video card: [Elite: Dangerous is using the wrong GPU with Proton](https://www.reddit.com/r/wine_gaming/comments/azyuwz/elite_dangerous_is_using_the_wrong_gpu_with_proton/), [Steam games won't use Dedicated GPU](https://www.reddit.com/r/linux_gaming/comments/iqqqfr/steam_games_wont_use_dedicated_gpu/).
@@ -813,3 +824,4 @@ Info on PPAs for open source video drivers: [ppas-mesa-vulkan-drivers-for-proton
 22. https://wiki.archlinux.org/index.php/CPU_frequency_scaling#cpupower
 23. https://www.reddit.com/r/TheTalosPrinciple/comments/dwgbcd/help_playing_the_game/
 24. https://www.reddit.com/r/linux_gaming/comments/jz1zqe/wolfenstein_the_new_order_doesnt_start_due_to/
+25. https://github.com/ValveSoftware/Source-1-Games/issues/3227

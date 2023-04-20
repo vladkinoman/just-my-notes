@@ -164,10 +164,10 @@ Choose a distribution according to your needs.
 
   Website: [centos.org](https://www.centos.org/).
 
-- [ ] Fedora:
+- [x] Fedora:
   - backed by Red Hat, the Fedora Project is community driven containing **open-source** and **free software**. Red Hat Enterprise Linux branches off Fedora (Fedora is based on Fedora Core, which is based on Red Hat Linux, not RHEL), so think of Fedora as an [upstream](https://www.wikiwand.com/en/Upstream_(software_development)) RHEL operating system. Eventually RHEL will get updates from Fedora after thorough testing and quality assurance. Think of Fedora as an Ubuntu equivalent that uses a Red Hat backend instead of Debian. If you want to use a Red Hat based operating system, this is a **user friendly** version.
   - uses Red Hat package manager.
-  - desktop environment - Gnome Shell.
+  - desktop environment - Gnome Shell (others are used in spins and labs, currently using Fedora Scientific with KDE).
   - Fedora has server edition and some people use it as well. But most sysadmins won’t prefer a server that has to be upgraded and rebooted every nine months.
     Knowing Fedora helps you in using Red Hat Enterprise Linux (RHEL). RHEL is a paid product and you’ll have to purchase a subscription. If you want an operating system for running server that is close to Fedora/Red Hat, I advise using CentOS.
 - sort of a “mix” between a rolling distro and a stable distro.

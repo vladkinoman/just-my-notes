@@ -55,12 +55,6 @@ Other tips: [this](https://unix.stackexchange.com/questions/205565/cant-see-grub
 
 Other tips: [this](https://ask.fedoraproject.org/t/grub-menu-not-showing/14555/5) and [this](https://ask.fedoraproject.org/t/unset-menu-auto-hide-is-how-to-force-grub2-boot-menu-visibility-on-every-boot-for-kernel-parameters/14388).
 
-**Issue 7**. TF2: Failed to create decoder for MP3 or, to put it simply, half of the sounds don't work.
-
-**Solution**. 
-
-> This is a long standing issue between libMiles and selinux which can be worked around by running `setsebool -P selinuxuser_execheap 1`.
-
 ## References
 
 1. [Laggy video playback in Firefox](https://ask.fedoraproject.org/t/fedora-34-laggy-video-playback-in-firefox/13130)
@@ -71,4 +65,3 @@ Other tips: [this](https://ask.fedoraproject.org/t/grub-menu-not-showing/14555/5
 6. https://unix.stackexchange.com/questions/205565/cant-see-grub-menu-on-boot
 7. https://ask.fedoraproject.org/t/unset-menu-auto-hide-is-how-to-force-grub2-boot-menu-visibility-on-every-boot-for-kernel-parameters/14388
 8. https://www.reddit.com/r/Fedora/comments/edq8xu/how_to_change_grub_resolution_f31/
-9. https://github.com/ValveSoftware/Source-1-Games/issues/3227
