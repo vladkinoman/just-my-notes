@@ -68,6 +68,22 @@
 
 <a href="https://www.moddb.com/mods/falloutprojectbrazil" title="View Fallout: New California on Mod DB"><img src="https://button.moddb.com/popularity/medium/mods/15844.png" alt="Fallout: New California"></a>
 
+- [ ] Nevada Skies URWLified
+
+<a href="https://www.moddb.com/mods/nevada-skies-urwl" title="View Nevada Skies URWLified on Mod DB" target="_blank"><img src="https://button.moddb.com/popularity/medium/mods/23225.png" alt="Nevada Skies URWLified" /></a>
+
+- [ ] URWLNV Ultimate Edition v2.1
+
+<a href="https://www.moddb.com/mods/urwlnv-ultimate-edition-v21" title="View URWLNV Ultimate Edition v2.1 on Mod DB"><img src="https://button.moddb.com/popularity/medium/mods/23732.png" alt="URWLNV Ultimate Edition v2.1"></a>
+
+- [ ] Chryslus corvega - Post-Nuclear edition
+
+<a href="https://www.moddb.com/mods/chryslus-corvega-post-nuclear-edition" title="View Chryslus corvega - Post-Nuclear edition on Mod DB"><img src="https://button.moddb.com/popularity/medium/mods/17299.png" alt="Chryslus corvega - Post-Nuclear edition"></a>
+
+- [ ] Autumn Leaves
+
+<a href="https://www.moddb.com/mods/autumn-leaves" title="View Autumn Leaves on Mod DB"><img src="https://button.moddb.com/popularity/medium/mods/28158.png" alt="Autumn Leaves"></a>
+
 ## FEAR
 
 - [ ] F.E.A.R. Resurrection
