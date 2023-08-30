@@ -96,6 +96,12 @@
 
 <a href="https://www.moddb.com/games/wing-commander-saga-the-darkest-dawn" title="View Wing Commander Saga: The Darkest Dawn on Mod DB"><img src="https://button.moddb.com/popularity/medium/games/15848.png" alt="Wing Commander Saga: The Darkest Dawn"></a>
 
+## Ghost Recon (2001)
+
+- [ ] Ghost Recon: Heroes Unleashed
+
+<a href="https://www.moddb.com/mods/heroes-unleashed" title="View Ghost Recon: Heroes Unleashed on Mod DB"><img src="https://button.moddb.com/popularity/medium/mods/12037.png" alt="Ghost Recon: Heroes Unleashed"></a>
+
 ## GTA: Vice City
 
 - [ ] GTA Re: Liberty City Stories PC
