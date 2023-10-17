@@ -19,29 +19,15 @@
 8. [Max Payne](#Max-Payne)
 9. [Super Meat Boy](#Super-Meat-Boy)
 10. [The Talos Principle](#The-Talos-Principle)
-11. [Half-Life 2 / TF2](#Half-Life-2-/-TF2)
+11. [Half-Life 2 and TF2](#Half-Life-2-and-TF2)
 12. [Just in case](#Just-in-case)
 13. [References](#References)
 
 ## Issues with hardware
 
-### Configuring AMD graphics
+**Configuring AMD graphics**
 
-> ToDo: this information may be outdated and false. Reason is that there was an issue with kernel. It recognized my video card as `radeon` when it needs to be `amdgpu`.
-
-I finally figured out how to configure my AMD card (Radeon HD 8750M, Solar System series) on the Linux. The problem is that Ubuntu stopped the support for the AMD Catalyst (fglrx) driver.  There are a few possible ways to solve this problem:
-
-1. Install the drivers from the open-source PPA repository. I chose the open source way because proprietary isn't working anymore (at least for the updated version of operating system). It might be strange, but this didn't work on my laptop (HP ProBook 450 GO).
-
-2. We can tell Steam to use the second video card by launching it with the next command:
-
-   ```bash
-   $ DRI_PRIME=1 steam
-   ```
-
-3. If we use the old system such as Ubuntu 14.04 LTS, we can follow the proprietary way from or the next guide from. Some of the packages don't exist under these links, but they can be found on the Internet which, you know, might be difficult :( Also, we might encounter a few bugs such as this one.
-
-> Also, we can check  if the second video card works by launching the **radeontop** application.
+I finally figured out how to configure my AMD card (Radeon HD 8750M) on the Linux. Check out the troubleshooting-fedora.md file or this [link](https://askubuntu.com/questions/1350416/how-do-i-configure-vulkan-to-use-my-amd-graphics-card-instead-of-intel).
 
 **Is DRI_PRIME=1 still needed to use discrete graphics card?**
 
@@ -49,24 +35,47 @@ If you're on AMD, yes.
 
 **How can I check that my OS recognizes discrete video card?**
 
-Use `xrandr` command in order to get the list of video cards. This what I got (new version):
+`lspci -k | grep "VGA"`:
 
-```bash
-Providers: number : 2
-Provider 0: id: 0x46 cap: 0x9, Source Output, Sink Offload crtcs: 3 outputs: 4 associated providers: 1 name:modesetting
-Provider 1: id: 0xbb cap: 0x4, Source Offload crtcs: 2 outputs: 0 associated providers: 1 name:modesetting
+```
+00:02.0 VGA compatible controller: Intel Corporation 3rd Gen Core processor Graphics Controller (rev 09)
+01:00.0 VGA compatible controller: Advanced Micro Devices, Inc. [AMD/ATI] Mars [Radeon HD 8670A/8670M/8750M / R7 M370]
 ```
 
-> Old version:
+Or `DRI_PRIME=1 glxinfo -B`:
+
+```
+...
+Extended renderer info (GLX_MESA_query_renderer):
+    Vendor: AMD (0x1002)
+    Device: AMD Radeon HD 8600 / 8700M (oland, LLVM 16.0.6, DRM 3.54, 6.5.6-200.fc38.x86_64) (0x6600)
+...
+OpenGL vendor string: AMD
+OpenGL renderer string: AMD Radeon HD 8600 / 8700M (oland, LLVM 16.0.6, DRM 3.54, 6.5.6-200.fc38.x86_64)
+OpenGL core profile version string: 4.6 (Core Profile) Mesa 23.1.8
+...
+```
+
+> Use `xrandr` on X11 command in order to get the list of video cards. This what I got (new version):
+>
+> > 
 >
 > ```bash
-> xrandr --listproviders
 > Providers: number : 2
 > Provider 0: id: 0x46 cap: 0x9, Source Output, Sink Offload crtcs: 3 outputs: 4 associated providers: 1 name:modesetting
-> Provider 1: id: 0xbb cap: 0x6, Sink Output, Source Offload crtcs: 2 outputs: 0 associated providers: 1 name:OLAND @ pci:0000:01:00.0
+> Provider 1: id: 0xbb cap: 0x4, Source Offload crtcs: 2 outputs: 0 associated providers: 1 name:modesetting
 > ```
-
-So, my OS (Linux Mint 20) recognizes all the video cards, which is nice. If you don't get one of the video cards then check [this](https://www.reddit.com/r/linux_gaming/comments/77zmsy/is_dri_prime1_still_needed_to_use_discrete/) discussion.
+>
+> > Old version:
+> >
+> > ```bash
+> > xrandr --listproviders
+> > Providers: number : 2
+> > Provider 0: id: 0x46 cap: 0x9, Source Output, Sink Offload crtcs: 3 outputs: 4 associated providers: 1 name:modesetting
+> > Provider 1: id: 0xbb cap: 0x6, Sink Output, Source Offload crtcs: 2 outputs: 0 associated providers: 1 name:OLAND @ pci:0000:01:00.0
+> > ```
+>
+> So, my OS (Linux Mint 20) recognizes all the video cards, which is nice. If you don't get one of the video cards then check [this](https://www.reddit.com/r/linux_gaming/comments/77zmsy/is_dri_prime1_still_needed_to_use_discrete/) discussion.
 
 **How do you switch between hybrid graphic cards?**
 
@@ -573,19 +582,7 @@ The solution is pretty neat. I found it [here](https://github.com/ValveSoftware/
 
 So, Vulkan requires the `amdgpu` driver, it doesn't detect the graphics adapter when using `radeon`. `amdgpu` has to be enabled explicitly in the kernel commandline.
 
-Open your terminal and run `sudo nano /etc/default/grub`.
-
-If you have a Southern Islands card append to `GRUB_CMDLINE_LINUX_DEFAULT` the following command: `radeon.si_support=0 amdgpu.si_support=1` .
-
-How did I identify series of my video card? Well, I checked [this](https://www.wikiwand.com/en/Radeon_HD_8000_series) wiki page and found out the following information:
-
-> The GCN-based chips for desktop cards were codenamed as **Southern Islands**, while the mobile ones (again, only the GCN-based and not the rebranded ones) were codenamed as Solar System.
-
-So, I used `radeon.si_support=0 amdgpu.si_support=1` in Grub.
-
-My video card on [techpowerup](https://www.techpowerup.com/gpu-specs/radeon-hd-8750m.c1968) shows Sea Islands architecture codename. It isn't Sea Islands. Also, there is a [comparison](https://www.techpowerup.com/178312/amd-sea-islands-and-solar-system-gpu-families-codenames-detailed) of AMD "Sea Islands" and "Solar System" GPU Families Codenames. 
-
-Run `sudo update-grub` and then reboot your system.
+See: [Issues with hardware](#Issues-with-hardware), configuring AMD graphics.
 
 You can check which driver is loaded by running `lspci -k`:
 
@@ -780,7 +777,7 @@ Try in steam launch options add this:
 MESA_GL_VERSION_OVERRIDE=4.4 MESA_GLSL_VERSION_OVERRIDE=440 %command%
 ```
 
-## Half-Life 2/ TF2
+## Half-Life 2 and TF2
 
 **Issue**. TF2: Failed to create decoder for MP3 or, to put it simply, half of the sounds don't work.
 
