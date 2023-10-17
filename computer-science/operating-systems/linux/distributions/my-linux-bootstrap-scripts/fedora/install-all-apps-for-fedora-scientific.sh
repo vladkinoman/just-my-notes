@@ -5,8 +5,9 @@ sudo dnf -y install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-rel
 
 sudo dnf -y update
 
+sudo dnf -y install ffmpeg-libs --allowerasing # in order to remove lib codes ffmpeg has conflicts with
+
 sudo dnf -y install \
-    ffmpeg-libs \
     ranger \
     deluge \
     neofetch \
@@ -21,13 +22,18 @@ sudo dnf -y install \
     minigalaxy \
     wine \
     @xfce-desktop-environment \
-    lm_sensors
+    lm_sensors \
+    gnome-disk-utility # for the automount option
 
 # flatpak & flathub
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 sudo flatpak install -y flathub io.typora.Typora
 sudo flatpak install -y flathub org.onlyoffice.desktopeditors
 sudo flatpak install -y flathub org.telegram.desktop
+sudo flatpak install -y flathub com.ampl.ide
+sudo flatpak install -y flathub com.spotify.Client
+
+# if this fails, then try to download files from the website and launch them w/ flatpak install
 
 # code
 sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
@@ -39,6 +45,4 @@ sudo dnf -y install code
 # collision (no in dnf)
 # commit (no in dnf)
 # gaphor (no in dnf)
-# apostroph (no in DNF)
 # dconf (for Gnome)
-# text editor (for Gnome)
