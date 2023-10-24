@@ -52,6 +52,12 @@ We lost Linux after Windows installation:
 
 > Couldn't fix grub on Fedora after installing Windows:(
 
+## Restore MBR
+
+> Had this problem after Linux installation when I couldn't get GRUB to show up.
+
+testdisk restores MBR easily. Install it on Linux Live USB.
+
 ## Sources
 
 1. https://www.baeldung.com/linux/grub-bootloader-add-new-os
